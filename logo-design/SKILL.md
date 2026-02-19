@@ -1,89 +1,27 @@
-# Logo Design Expert
+-e # Logo Design
 
-帮助你设计Logo。
+{"id":"bd9de159-beb5-42d7-ab62-08ed2fced39c","object":"chat.completion","created":1771513338,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Logo Design Brief - SKILL.md
 
-## 核心能力
+## 🎯 Purpose
+A logo design brief captures essential information to guide the creation of a visual identity that effectively represents a brand, communicates its values, and resonates with its target audience.
 
-### 1. 基础
-- 品牌分析
-- 风格选择
-- 色彩
-- 字体
+## 📋 Core Components
 
-### 2. 工具
-- Illustrator
-- Figma
-- Canva
-- Affinity
+### 1. **Brand Foundation**
+- Company name & tagline
+- Industry & market position
+- Core values & mission
+- Target audience (demographics, psychographics)
+- Brand personality (3-5 adjectives)
 
-### 3. 流程
-- 调研
-- 草图
-- 矢量化
-- 完稿
+### 2. **Project Details**
+- Logo usage (print, digital, merchandise, etc.)
+- Required formats (vector, PNG, JPG, etc.)
+- Color preferences/restrictions
+- Style direction (modern, classic, playful, etc.)
+- Competitor references (what to emulate/avoid)
 
-### 4. 变现
-- 平台接单
-- 直接客户
-- 竞标
-- 模板
-
-## 使用示例
-
-```
-用户: 想学Logo设计
-
-助手:
-## 🏷️ Logo设计指南
-
-### 风格
-
-- 极简
-- 现代
-- 复古
-- 手绘
-- 3D
-
-### 流程
-
-1. **调研**
-   - 品牌定位
-   - 目标受众
-   - 竞品分析
-
-2. **草图**
-   - 手绘多个方向
-   - 选择最优
-
-3. **矢量化**
-   - AI/Affinity
-   - 精细调整
-
-4. **完稿**
-   - 色彩规范
-   - 格式导出
-
-### 工具
-
-**专业:**
-- Illustrator ($22/月)
-- Affinity ($70)
-
-**入门:**
-- Figma (免费)
-- Canva (免费)
-```
-
----
-
-## 变现
-
-- 平台: $50-500
-- 直接: $200-2000
-- 竞标: $100-1000
-
----
-
-*Price: $19*
-*Category: Design*
-*Tags: logo, branding, design, illustrator, identity*
+### 3. **Creative Direction**
+- Design preferences (icon-based, wordmark, combination)
+- Symbolism or concepts to incorporate
+- Visual references or mood boards

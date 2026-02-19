@@ -1,77 +1,18 @@
-# Thumbnail Design Expert
+-e # Thumbnail Design
 
-帮助你设计视频封面。
+{"id":"6d8e311e-579c-4e1b-b05a-28b8ff22ed77","object":"chat.completion","created":1771513327,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Thumbnail Design Brief
 
-## 核心能力
+## 🎯 Objective
+Create a high-conversion thumbnail that captures attention, communicates the core value proposition, and compels clicks in a crowded digital landscape.
 
-### 1. 原则
-- 简洁
-- 醒目
-- 一致
-- 品牌
+## 🧠 Core Principles
+- **Clarity Over Cleverness:** Viewers should understand the content in under 3 seconds.
+- **Emotional Hook:** Use imagery, expressions, and color to evoke curiosity, excitement, or urgency.
+- **Brand Consistency:** Maintain recognizable style while testing new variations.
+- **Mobile-First:** 70% of views happen on phones. Test at small scale.
 
-### 2. 工具
-- Canva
-- Photoshop
-- Figma
-- Illustrator
-
-### 3. 技巧
-- 对比色
-- 大字
-- 人物
-- 情绪
-
-### 4. 平台
-- YouTube
-- TikTok
-- Instagram
-- 抖音
-
-## 使用示例
-
-用户: 想做封面
-
-助手:
-## 🖼️ 封面设计指南
-
-### 原则
-
-1. **简洁**
-   - 少即是多
-   - 突出重点
-
-2. **醒目**
-   - 高对比
-   - 鲜艳色彩
-
-3. **一致**
-   - 风格统一
-   - 品牌色
-
-### 技巧
-
-**颜色:**
-- 对比色
-- 黄色最醒目
-
-**文字:**
-- 大字
-- 粗体
-- 简单字体
-
-**人物:**
-- 表情丰富
-- 前景
-
-### 工具
-
-- Canva (免费)
-- Photoshop
-- Figma
-
-### 尺寸
-
-- YouTube: 1280x720
-- Shorts: 1080x1920
-- TikTok: 1080x1920
+## 🛠️ Key Elements
+1.  **Hero Visual:** One strong focal point (face, product, result).
+2.  **Text Overlay:** 3-5 compelling words. Large, bold, legible font.
+3.  **Color & Contrast:** High contrast between subject and background. Strategic use of brand colors.
+4.  **Human Element:** Faces"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":200,"total_tokens":218,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,104 +1,23 @@
-# Video Editing Expert
+-e # Video Editing
 
-帮助你学习视频剪辑。
+{"id":"180db2d1-a4ab-4c2a-8146-69dfe2cb2713","object":"chat.completion","created":1771513322,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Video Editing SKILL
 
-## 核心能力
+## Core Competencies
+- **Technical Proficiency**: Mastery of editing software (Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve)
+- **Storytelling**: Structuring footage to create coherent narratives with emotional impact
+- **Pacing & Rhythm**: Understanding timing, cuts, and flow to maintain viewer engagement
+- **Audio Integration**: Syncing, mixing, and balancing audio elements (dialogue, music, SFX)
+- **Color Correction/Grading**: Enhancing visual tone and consistency
+- **Asset Management**: Organizing footage, graphics, and project files efficiently
 
-### 1. 剪辑基础
-- 软件选择
-- 界面熟悉
-- 项目创建
-- 素材导入
+## Key Deliverables
+- Rough cuts
+- Fine cuts
+- Final exports in required formats
+- Motion graphics integration
+- Sound design implementation
 
-### 2. 剪辑技巧
-- 剪切/拼接
-- 转场效果
-- 变速调整
-- 关键帧
-
-### 3. 音频处理
-- 背景音乐
-- 音效添加
-- 音量平衡
-- 降噪处理
-
-### 4. 调色输出
-- 基础调色
-- 风格化
-- 字幕添加
-- 导出设置
-
-## 使用示例
-
-```
-用户: 我想学视频剪辑
-
-助手:
-## 🎬 视频剪辑指南
-
-### 软件选择
-
-**免费:**
-- DaVinci Resolve (专业)
-- CapCut (简单)
--剪映 (中文)
-
-**付费:**
-- Premiere Pro ($23/月)
-- Final Cut ($299)
-- After Effects ($23/月)
-
-### 剪辑流程
-
-1. **整理素材**
-   - 分类
-   - 筛选
-   - 重命名
-
-2. **粗剪**
-   - 按脚本顺序排列
-   - 确定时长
-
-3. **精剪**
-   - 调整节奏
-   - 添加转场
-   - 细节打磨
-
-4. **调色**
-   - 基础校正
-   - 风格化
-
-5. **输出**
-   - 格式选择
-   - 画质设置
-
-### 快捷键
-
-- Ctrl+K: 剪切
-- Ctrl+Z: 撤销
-- Space: 播放/暂停
-- I/O: 入点/出点
-```
-
----
-
-## 剪辑类型
-
-- 短视频
-- 宣传片
-- 纪录片
-- 微电影
-
----
-
-## 变现方式
-
-- 剪辑服务: $50-500/个
-- 培训: $99-499
-- 咨询: $100-500
-
----
-
-*Price: $29*
-*Category: Video*
-*Tags: video-editing, premiere, davinci, capcut, content*
+## Workflow Essentials
+1. **Ingest & Organize**: Log footage, create bins, backup originals
+2. **Assembly Edit**: Establish basic structure and narrative flow
+3. **Rough Cut**: Refine"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
