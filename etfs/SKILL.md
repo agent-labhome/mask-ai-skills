@@ -1,26 +1,27 @@
 -e # ETFs
 
-{"id":"228429b7-d3e5-4419-af9b-db21ad66330b","object":"chat.completion","created":1771526960,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# ETFs in SKILL
+{"id":"e66951c0-3132-4942-bee1-41fac05bc2b5","object":"chat.completion","created":1771534153,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: ETFs (Exchange-Traded Funds)
 
-## Core Commands
-- `etf` - List all ETFs
-- `etf <symbol>` - Show ETF details (holdings, expense ratio, etc.)
-- `etf top` - Top ETFs by volume
-- `etf sector <name>` - ETFs by sector
-- `etf flow` - Daily fund flows
+## Core Concept
+ETFs are investment funds that trade on stock exchanges like individual stocks. They hold a basket of assets (stocks, bonds, commodities) and track an index or sector.
 
-## Key Features
-- Real-time ETF data
-- Holdings breakdown
-- Expense ratios & yields
-- Sector/thematic filtering
-- Institutional fund flows
+## Key Characteristics
+- **Traded intraday** like stocks
+- **Diversified** exposure in one trade
+- **Typically passive**, tracking an index
+- **Lower fees** than most mutual funds
+- **Tax-efficient** structure
 
-## Examples
+## Common Types
+- **Index ETFs** (track S&P 500, NASDAQ)
+- **Sector ETFs** (technology, healthcare)
+- **Bond ETFs** (government, corporate bonds)
+- **Commodity ETFs** (gold, oil)
+- **International ETFs** (foreign markets)
+
+## Quick Comparison
 ```
-etf SPY
-etf sector technology
-etf flow
-```
-
-*Note: ETF symbols only (no mutual funds)*"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":138,"total_tokens":153,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+ETFs vs. Mutual Funds:
+• Trade: Real-time vs. End-of-day
+• Minimums: 1 share vs. Often $500+
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

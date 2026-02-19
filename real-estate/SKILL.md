@@ -1,27 +1,27 @@
 -e # Real Estate
 
-{"id":"b0077789-759d-4d3d-85ba-039859ca81e0","object":"chat.completion","created":1771526941,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Real Estate SKILL
+{"id":"982331e2-306e-4fb3-ace9-69c20b356a56","object":"chat.completion","created":1771534136,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Real Estate
 
-## Core Functions
-- **Property Search**: Find listings by location, price, type, and features
-- **Market Analysis**: Provide local market trends, pricing data, and insights
-- **Comparables**: Show recently sold properties similar to a given listing
-- **Mortgage Estimates**: Calculate approximate monthly payments and affordability
-- **Agent Connection**: Help connect with local real estate professionals
+**Core Competencies:**
+- Property valuation and market analysis
+- Transaction coordination (purchase, sale, lease)
+- Client representation and negotiation
+- Contract review and due diligence
+- Local market regulations and zoning
+- Investment property analysis (ROI, cap rates, cash flow)
 
-## Quick Commands
-- \"Find 3-bedroom homes in Austin under $500k\"
-- \"What's the market like in Miami?\"
-- \"Show me comps for 123 Main Street\"
-- \"Calculate mortgage for $350k at 6.5%\"
-- \"Connect me with an agent in Seattle\"
+**Key Activities:**
+- Listing and marketing properties
+- Conducting showings and open houses
+- Networking with clients, agents, and industry professionals
+- Managing closing processes and documentation
+- Staying current on market trends and pricing
 
-## Data Sources
-- Multiple Listing Service (MLS) feeds
-- Public property records
-- Recent sale transactions
-- Local market reports
-- Mortgage rate databases
+**Tools & Knowledge:**
+- MLS databases
+- Comparative Market Analysis (CMA)
+- Financing and mortgage basics
+- Property inspection fundamentals
+- Real estate contracts and law essentials
 
-## Notes
-- All financial calculations are estimates
+**Outcome:** Facilitates the acquisition, sale, or leasing of property while protecting client interests and ensuring legal and financial compliance."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":174,"total_tokens":190,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
