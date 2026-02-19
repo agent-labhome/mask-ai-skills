@@ -1,27 +1,27 @@
 -e # Ethereum
 
-{"id":"1904fe45-068c-48f1-82f6-cb8679097e57","object":"chat.completion","created":1771525937,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ethereum SKILL.md
+{"id":"55dcd11c-9c59-4c0f-bd2a-5722bf7a4477","object":"chat.completion","created":1771530720,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ethereum SKILL.md
 
 ## Core Concepts
-- **Blockchain**: Decentralized ledger technology
-- **Smart Contracts**: Self-executing code on EVM
-- **Ether (ETH)**: Native cryptocurrency
-- **Gas**: Transaction fee unit
-- **EVM**: Ethereum Virtual Machine
+- **Ethereum**: Decentralized blockchain platform for smart contracts and dApps
+- **Smart Contracts**: Self-executing code on the blockchain (Solidity/Vyper)
+- **EVM**: Ethereum Virtual Machine - executes smart contracts
+- **Gas**: Unit measuring computational effort (paid in ETH)
+- **Accounts**: EOAs (user-controlled) and Contract Accounts
 
 ## Key Tools
-- **Wallets**: MetaMask, Ledger
-- **Development**: Hardhat, Foundry, Remix
-- **Languages**: Solidity, Vyper
-- **Testing**: Waffle, Ethers.js
+- **Wallets**: MetaMask, WalletConnect
+- **Development**: Hardhat, Foundry, Truffle
+- **Testing**: Mocha/Chai, Waffle
+- **Libraries**: ethers.js, web3.js, web3.py
 
-## Essential Knowledge
-- Account types (EOA vs Contract)
-- Transaction lifecycle
-- Consensus mechanisms (PoS since Merge)
-- Layer 2 solutions (Rollups, Sidechains)
-- ERC standards (ERC-20, ERC-721)
+## Common Tasks
+- Deploy smart contracts
+- Interact with dApps
+- Send transactions
+- Read blockchain data
+- Handle gas optimization
 
-## Quick Start
-1. Install MetaMask wallet
-2. Get test ETH from faucets
+## Quick Commands
+```bash
+# Compile with Hardhat

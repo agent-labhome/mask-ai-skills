@@ -1,6 +1,6 @@
 -e # Bitcoin
 
-{"id":"e93e2066-ee73-4ecd-bc89-e1dc4216b67c","object":"chat.completion","created":1771525932,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bitcoin SKILL.md
+{"id":"4919a6ff-5f24-47c6-bf9f-74b142a628b9","object":"chat.completion","created":1771530715,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bitcoin SKILL.md
 
 ## Core Concept
 A decentralized digital currency operating on a peer-to-peer network without central authority.
@@ -12,16 +12,15 @@ A decentralized digital currency operating on a peer-to-peer network without cen
 - **Transparent**: All transactions recorded on public blockchain
 - **Pseudonymous**: Addresses not directly tied to identity
 
-## Primary Use Cases
-1. Digital store of value (\"digital gold\")
-2. Peer-to-peer electronic cash
-3. Hedge against inflation
-4. Cross-border payments
+## Common Use Cases
+- Store of value (\"digital gold\")
+- Cross-border payments
+- Hedge against inflation
+- Remittances
+- Micropayments (via Lightning Network)
 
-## Technical Basics
-- **Block time**: ~10 minutes
-- **Block reward**: Halves every 210,000 blocks (~4 years)
-- **Consensus**: Longest chain rule
-- **Wallets**: Software to manage keys and addresses
-
-## Security Model
+## Quick Commands
+- Check price: `bitcoin price`
+- Transaction info: `bitcoin transaction [txid]`
+- Address balance: `bitcoin address [address]`
+- Network stats: `bitcoin stats`
