@@ -1,24 +1,21 @@
 -e # Blockchain
 
-{"id":"42350a14-2d2c-433e-8802-0554ed263592","object":"chat.completion","created":1771527421,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Blockchain
+{"id":"48dafb3f-1708-4ddc-a94d-8324c9e5a999","object":"chat.completion","created":1771537759,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Blockchain
 
 ## Core Concepts
-- **Distributed Ledger Technology (DLT)**
-- **Cryptographic Hashing & Digital Signatures**
-- **Consensus Mechanisms** (PoW, PoS, etc.)
-- **Smart Contracts & Decentralized Applications (dApps)**
-- **Public vs. Private/Permissioned Blockchains**
+- **Distributed Ledger**: Decentralized, immutable record-keeping
+- **Consensus Mechanisms**: Proof of Work (PoW), Proof of Stake (PoS), others
+- **Cryptography**: Hash functions, digital signatures, public/private keys
+- **Smart Contracts**: Self-executing code on blockchain (e.g., Ethereum)
+- **Decentralization**: No central authority, peer-to-peer network
 
-## Key Knowledge Areas
-- **Architecture:** Blocks, chains, nodes, miners/validators
-- **Security:** Immutability, transparency, attack vectors (51%, Sybil)
-- **Use Cases:** Cryptocurrencies, DeFi, NFTs, supply chain, identity
-- **Ecosystem:** Wallets, exchanges, oracles, layer-2 solutions
+## Key Technologies
+- **Blockchain Platforms**: Bitcoin, Ethereum, Hyperledger, Solana
+- **Development**: Solidity (Ethereum), Rust (Solana), Go
+- **Tools**: Web3.js, Ethers.js, Truffle, Hardhat, Metamask
+- **Storage**: IPFS for decentralized file storage
+- **Oracles**: Chainlink for external data integration
 
-## Practical Skills
-- **Analysis:** Evaluate blockchain suitability for a problem
-- **Interaction:** Use wallets, explorers, and basic dApps
-- **Awareness:** Understand regulatory and environmental considerations
-
-## Outcome
-Ability to assess blockchain applications"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Applications
+- **Cryptocurrencies**: Digital assets and payments
+- **DeFi"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
