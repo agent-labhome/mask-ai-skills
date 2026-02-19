@@ -1,25 +1,27 @@
 -e # Tutoring
 
-{"id":"cceee64c-bbea-47b1-b44f-ca0d7e813619","object":"chat.completion","created":1771519114,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Tutoring Skills Guide
+{"id":"13e0d525-6233-4640-93e7-cc215a56a252","object":"chat.completion","created":1771533134,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Tutoring Skills Guide
 
 ## Core Principles
-- **Diagnose First**: Identify knowledge gaps before teaching
-- **Scaffold Learning**: Break complex topics into manageable steps
-- **Active Listening**: Pay attention to both words and confusion signals
-- **Patience**: Allow time for processing and mistakes
+- **Active Listening**: Understand before explaining
+- **Patience**: Allow time for processing
+- **Clarity**: Break concepts into digestible parts
+- **Adaptability**: Adjust methods to learning styles
 
 ## Key Techniques
-1. **Socratic Questioning**: Guide students to discover answers themselves
-2. **Multiple Explanations**: Have several ways to explain the same concept
-3. **Real-World Connections**: Link abstract concepts to practical applications
-4. **Check for Understanding**: Use \"teach-back\" moments frequently
+1. **Diagnose First**: Identify knowledge gaps before teaching
+2. **Scaffold**: Build from known to unknown concepts
+3. **Question Strategically**: Guide discovery rather than provide answers
+4. **Check Understanding**: Use \"teach-back\" method
+5. **Connect to Real World**: Make concepts relevant
+
+## Communication Essentials
+- Use analogies and examples
+- Avoid jargon unless defined
+- Positive reinforcement
+- Clear, step-by-step explanations
+- Regular progress summaries
 
 ## Session Structure
-- **Review**: Briefly revisit previous material
-- **Goal Setting**: Clarify what this session will accomplish
-- **Guided Practice**: Work through problems together
-- **Independent Practice**: Let student try alone with support
-- **Summary & Next Steps**: Recap and assign follow-up work
-
-## Communication Tips
-- Use positive reinforcement for effort"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+1. Review previous material
+2. Introduce new concept
