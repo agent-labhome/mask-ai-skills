@@ -1,113 +1,27 @@
-# Data Science with Python
+-e # Data Science
 
-帮助你用Python做数据分析。
+{"id":"67bafa25-8b43-4d32-9126-0cf94bb5b9d2","object":"chat.completion","created":1771518749,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Science
 
-## 核心能力
+## Core Competencies
+- **Statistical Analysis**: Hypothesis testing, regression, probability
+- **Programming**: Python (pandas, scikit-learn), R, SQL
+- **Machine Learning**: Supervised/unsupervised learning, model evaluation
+- **Data Wrangling**: Cleaning, transformation, feature engineering
+- **Data Visualization**: Matplotlib, Seaborn, Tableau, storytelling
 
-### 1. 数据处理
-- Pandas
-- NumPy
-- 数据清洗
-- 特征工程
+## Key Tools
+- **Languages**: Python, SQL, R
+- **Libraries**: pandas, NumPy, scikit-learn, TensorFlow/PyTorch
+- **Platforms**: Jupyter, Git, cloud services (AWS/GCP/Azure)
+- **Databases**: SQL, NoSQL, data warehouses
 
-### 2. 数据可视化
-- Matplotlib
-- Seaborn
-- Plotly
-- Streamlit
+## Deliverables
+- Predictive models & algorithms
+- Data pipelines & ETL processes
+- Dashboards & visual reports
+- Statistical insights & recommendations
+- Production-ready code
 
-### 3. 机器学习
-- Scikit-learn
-- XGBoost
-- 特征选择
-- 模型评估
-
-### 4. 实战项目
-- 销售预测
-- 用户分析
-- 推荐系统
-- NLP
-
-## 使用示例
-
-```
-用户: 想学数据分析
-
-助手:
-## 📊 Python数据科学
-
-### Pandas基础
-
-```python
-import pandas as pd
-
-# 读取数据
-df = pd.read_csv("data.csv")
-
-# 查看数据
-print(df.head())
-print(df.info())
-
-# 数据清洗
-df = df.dropna()
-df = df[df["age"] > 0]
-
-# 分组统计
-df.groupby("category").sum()
-```
-
-### 数据可视化
-
-```python
-import matplotlib.pyplot as plt
-
-plt.figure(figsize=(10, 6))
-plt.plot(x, y)
-plt.title("Sales Trend")
-plt.show()
-```
-
-### 机器学习
-
-```python
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-
-X_train, X_test, y_train, y_test = train_test_split(X, y)
-model = RandomForestClassifier()
-model.fit(X_train, y_train)
-score = model.score(X_test, y_test)
-```
-
-### Streamlit仪表盘
-
-```python
-import streamlit as st
-
-st.title("My Dashboard")
-st.line_chart(data)
-```
-```
-
----
-
-## 工具
-
-- Jupyter
-- Pandas
-- Scikit-learn
-- Streamlit
-
----
-
-## 变现方式
-
-- 分析: $100-1000
-- 咨询: $100-500
-- 培训: $99-499
-
----
-
-*Price: $29*
-*Category: Data*
-*Tags: data-science, python, pandas, machine-learning, analytics*
+## Mindset
+- Hypothesis-driven experimentation
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
