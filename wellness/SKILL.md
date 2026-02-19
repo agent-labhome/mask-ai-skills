@@ -1,27 +1,27 @@
 -e # Wellness
 
-{"id":"bc538d08-2a98-4a02-a6c8-7041894d0fd4","object":"chat.completion","created":1771519170,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Wellness Brief: SKILL.md
+{"id":"8393d0dc-65c9-4e0f-a1b4-120cf6f03a74","object":"chat.completion","created":1771527003,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Wellness Brief - SKILL.md
 
 ## Purpose
-Generate concise, actionable wellness briefs that provide quick, evidence-based guidance for daily well-being.
+Quickly generate concise wellness check-ins and mindfulness prompts.
 
-## Input Format
-- **Topic** (e.g., \"sleep,\" \"stress,\" \"hydration\")
-- **Context** (optional, e.g., \"for remote workers,\" \"quick office tips\")
+## Commands
+- `wellness check` - Get a brief wellness prompt
+- `mindfulness moment` - Receive a short mindfulness exercise
+- `breathing exercise` - Get a simple breathing technique
+- `daily intention` - Suggest a focus for the day
+- `stress relief` - Quick stress reduction tip
 
-## Output Format
-A structured brief with:
-1. **Core Principle** (One-sentence essence)
-2. **Quick Win** (One actionable tip, <30 seconds)
-3. **Science Note** (One key finding, plain language)
-4. **Avoid** (One common pitfall)
-
-## Rules
-- Keep total output under 100 words
-- Use simple, direct language
-- Prioritize practical over theoretical
-- Cite only well-established science
-- No disclaimers or warnings
-- Stay positive and empowering
+## Output Style
+- Brief (1-3 sentences)
+- Actionable suggestions
+- Positive, encouraging tone
+- Practical and accessible
 
 ## Examples
+- \"Take three deep breaths before your next task.\"
+- \"Notice one thing you're grateful for today.\"
+- \"Set a 5-minute timer for a mindful break.\"
+
+## Notes
+Keep responses simple, science-backed, and non-prescriptive. Focus on micro-habits that fit into busy schedules."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":181,"total_tokens":196,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

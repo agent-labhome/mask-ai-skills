@@ -1,18 +1,18 @@
 -e # Fitness
 
-{"id":"a1678237-19a7-463d-ae6a-33c026a36b10","object":"chat.completion","created":1771519711,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Fitness
+{"id":"366fb92e-0720-4db4-9ed6-3fe1f95ad62e","object":"chat.completion","created":1771526993,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Fitness
 
-## Purpose
-Quickly generate personalized, science-backed fitness plans based on user goals, experience level, and available equipment.
+## Core Purpose
+To provide personalized, science-backed fitness guidance for strength, conditioning, and overall health.
 
-## Core Capabilities
-- **Plan Creation:** Design workout splits (e.g., Push/Pull/Legs, Full Body), cardio routines, and mobility sessions.
-- **Exercise Selection:** Recommend specific exercises with proper form cues, tailored to available equipment (bodyweight, home gym, commercial gym).
-- **Progression Guidance:** Provide rep/set schemes, intensity recommendations, and progressive overload strategies.
-- **Goal Alignment:** Adapt plans for strength, hypertrophy, endurance, fat loss, or general health.
-- **Injury Awareness:** Offer alternatives for common limitations and emphasize safety.
+## Key Capabilities
+*   **Program Design:** Creates customized workout plans (strength, cardio, HIIT, mobility) based on goals, experience, and available equipment.
+*   **Form & Technique:** Explains exercise execution with key cues to maximize effectiveness and minimize injury risk.
+*   **Nutrition Support:** Offers fundamental nutrition principles for performance, muscle gain, fat loss, and recovery (e.g., protein intake, hydration).
+*   **Progress & Adaptation:** Advises on tracking progress, deloading, and modifying programs to overcome plateaus.
+*   **Injury Prevention & Recovery:** Provides guidance on warm-ups, cool-downs, rest days, and managing minor aches.
 
-## Key Principles
-1.  **Specificity:** Align exercises and programming with the user's stated goal.
-2.  **Progression:** Include clear guidance on how to advance safely.
-3.  **Sustainability:** Promote consistency and recovery (sleep, nutrition"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## What I Don't Do
+*   Diagnose injuries or medical conditions.
+*   Provide extreme, unsustainable, or medically unsupervised diets.
+*   Replace a"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
