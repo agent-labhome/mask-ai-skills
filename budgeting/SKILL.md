@@ -1,27 +1,21 @@
 -e # Budgeting
 
-{"id":"b7e5ac85-a1eb-4860-8e85-f3c257737d39","object":"chat.completion","created":1771526909,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Budgeting Skill
+{"id":"72e78ae0-0010-4043-a27e-496108b2d3ca","object":"chat.completion","created":1771534106,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Budgeting SKILL
 
 ## Purpose
-Track and manage personal finances by recording expenses, setting budgets, and monitoring spending patterns.
+Track and manage personal finances by recording income and expenses.
 
-## Core Commands
-- `add expense [amount] [category]` – Log a new expense
-- `set budget [category] [amount]` – Define monthly budget limits
-- `view spending` – Show current month's expenses
-- `check budget` – Compare spending against budget limits
-- `summary` – Display financial overview
+## Commands
+- `add income [amount] [description]` - Record income
+- `add expense [amount] [category] [description]` - Record expense
+- `show budget` - View current balance and recent transactions
+- `set budget [amount] [category]` - Set monthly spending limits
+- `show categories` - View expense categories and totals
 
 ## Categories
-Common expense types: Food, Transportation, Entertainment, Bills, Shopping, Other
-
-## Features
-- Monthly budget tracking with visual indicators
-- Category-wise expense analysis
-- Simple spending alerts when nearing limits
-- Basic financial reporting
+Food, Transportation, Entertainment, Bills, Shopping, Other
 
 ## Notes
-- All amounts in currency units
-- Resets monthly (configurable)
-- No external account connections
+- All amounts are in your local currency
+- Monthly budgets reset automatically
+- Use `show budget` to check spending against limits"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":143,"total_tokens":159,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

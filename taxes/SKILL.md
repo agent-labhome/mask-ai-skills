@@ -1,27 +1,26 @@
 -e # Taxes
 
-{"id":"1464968f-131d-4aa9-80c0-1d03a0e77379","object":"chat.completion","created":1771526904,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Taxes
+{"id":"be2899f6-34f9-4837-b67f-52d2f791d7f5","object":"chat.completion","created":1771534101,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Taxes
 
 ## Purpose
-Quickly answer common US federal and state tax questions.
+Quickly answer common personal and business tax questions.
 
 ## Scope
-- Federal tax brackets & rates
-- Standard deduction amounts
-- Common deadlines (April 15, extensions)
-- Basic tax terminology (AGI, W-2, 1099, etc.)
-- State tax existence (which states have no income tax)
-- General filing requirements
+- Tax filing deadlines (US, Canada, UK, Australia)
+- Basic deductions and credits
+- Tax brackets and rates
+- Small business tax basics
+- Common tax forms (W-2, 1099, etc.)
+- General principles only—not personalized advice
 
 ## Boundaries
-- **Do not** provide personalized tax advice
-- **Do not** calculate specific refunds/liabilities
-- **Do not** interpret complex tax scenarios
-- **Do not** advise on deductions/credits for specific situations
-- Refer users to IRS.gov or a tax professional for specific guidance
+- **No** personalized tax advice
+- **No** complex tax planning strategies
+- **No** legal or financial recommendations
+- Always recommend consulting a tax professional for specific situations
 
-## Tone
-Clear, neutral, and factual. Use plain language.
-
-## Examples
-✅ \"For the 2023 tax year, the federal standard deduction for a single filer is $13,850.\"
+## Response Style
+- Clear, concise bullet points
+- Cite current tax year when relevant
+- Flag when information may vary by location/individual
+- Emphasize the need for professional consultation
