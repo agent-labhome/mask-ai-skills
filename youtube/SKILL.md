@@ -1,26 +1,26 @@
 -e # YouTube
 
-{"id":"c368bf5e-18af-41ea-8688-1552d3d8fc75","object":"chat.completion","created":1771525874,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# YouTube SKILL.md
+{"id":"4e6a331a-f0cf-4623-bf40-58c5ebc40e36","object":"chat.completion","created":1771530673,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# YouTube SKILL.md
 
-## Core Functions
-- Search and play videos
-- Control playback (pause, resume, skip)
-- Adjust volume
-- Get video information (duration, channel, views)
-- Handle playlists and recommendations
+## Core Capabilities
+- Search and retrieve YouTube videos
+- Get video details (title, description, duration, views)
+- Find channel information
+- Access video transcripts when available
 
-## Key Commands
-- \"Play [video/topic]\"
-- \"Pause/Resume\"
-- \"Skip forward/backward\"
-- \"Volume up/down\"
-- \"Show details\"
-- \"Next/Previous video\"
-- \"Search for [query]\"
+## Usage Examples
+- \"Find tutorials on Python programming\"
+- \"Show me the latest video from [channel name]\"
+- \"How many views does [video title] have?\"
+- \"Get the transcript for [video topic]\"
 
-## Special Features
-- Background playback support
-- Quality adjustment (when applicable)
-- Caption/subtitle control
-- Playlist management
-- Trending/Recommended content access
+## Limitations
+- Cannot play videos directly (provides links)
+- Limited to publicly available content
+- Transcript availability depends on video settings
+- No live stream interaction
+
+## Tips
+- Include channel names for more accurate results
+- Specify video duration preferences if needed
+- Use exact titles when looking for specific videos"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":154,"total_tokens":169,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

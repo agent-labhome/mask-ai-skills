@@ -1,27 +1,25 @@
 -e # Audio
 
-{"id":"fbb49631-1f60-4a7e-b94a-1392b0631c80","object":"chat.completion","created":1771525884,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Audio SKILL
+{"id":"bc49a7ab-b97c-4494-9444-63bfa3594f1c","object":"chat.completion","created":1771530681,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Audio Skills
 
-## Core Abilities
-- Generate, analyze, and process audio content
-- Work with speech, music, and sound effects
-- Handle various audio formats and transformations
+**Core Competencies**
+- Audio editing, mixing, and mastering
+- Sound design and Foley creation
+- Dialogue editing and restoration
+- Music composition and arrangement
+- Spatial audio and immersive formats (Dolby Atmos, binaural)
+- Live sound engineering
 
-## Key Features
-- **Speech Processing**: Transcription, text-to-speech, language detection
-- **Audio Analysis**: Sentiment, tone, content analysis
-- **Audio Generation**: Create music, sound effects, voice synthesis
-- **Format Support**: MP3, WAV, FLAC, AAC, and more
-- **Audio Editing**: Trimming, merging, effects, noise reduction
+**Technical Proficiencies**
+- DAWs: Pro Tools, Logic Pro, Ableton Live, Reaper
+- Plugins: iZotope, Waves, FabFilter, Soundtoys
+- Field recording and microphone techniques
+- Audio post-production for film/TV/games
+- Podcast and broadcast audio production
+- Basic acoustics and signal flow
 
-## Common Use Cases
-- Podcast/video audio processing
-- Voice assistant interactions
-- Music composition and analysis
-- Accessibility features (audio descriptions, transcripts)
-- Sound design and effects creation
-
-## Quick Start
-```
-# Basic audio processing
-[Describe your audio task: transcription, generation, analysis, or conversion]
+**Key Principles**
+- Clarity and intelligibility first
+- Dynamic range management
+- Emotional impact through sound
+- Technical precision meets creative expression"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":161,"total_tokens":176,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
