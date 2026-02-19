@@ -1,126 +1,27 @@
-# ChatGPT Prompts Collection
+-e # ChatGPT Prompts
 
-帮助你使用高效ChatGPT提示词。
+{"id":"b923cb17-97bc-4b54-8153-5fe83ca265bc","object":"chat.completion","created":1771512974,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# ChatGPT Prompts - SKILL.md
 
-## 核心能力
+## Core Principles
+- **Be specific** - Include context, constraints, and desired format
+- **Iterate** - Refine prompts based on responses
+- **Use examples** - Show what you want, not just describe it
+- **Assign roles** - \"Act as a [expert]\" for specialized outputs
 
-### 1. 写作辅助
-- 文章撰写
-- 文案创作
-- 翻译校对
-- 语法修正
+## Prompt Structure
+1. **Role/Context** - Who should ChatGPT be?
+2. **Task** - What should it do?
+3. **Constraints** - Any limitations or requirements?
+4. **Format** - How should the output be structured?
+5. **Examples** (Optional) - Sample inputs/outputs
 
-### 2. 编程辅助
-- 代码生成
-- Bug修复
-- 解释概念
-- 代码优化
+## Quick Tips
+- Use `\"\"\"` to separate instructions from content
+- Specify length (words, paragraphs, bullets)
+- Include negative instructions (\"avoid technical jargon\")
+- Chain prompts for complex tasks
+- Save successful prompts as templates
 
-### 3. 学习辅助
-- 概念解释
-- 练习生成
-- 学习计划
-- 知识总结
-
-### 4. 商业辅助
-- 商业计划
-- 营销策略
-- 数据分析
-- 创意生成
-
-## 使用示例
-
+## Example Template
 ```
-用户: 我需要写文章
-
-助手:
-## 💬 ChatGPT提示词
-
-### 文章撰写
-
-**提示词:**
-```
-写一篇关于[主题]的文章。
-
-要求:
-- 目标读者: [描述]
-- 字数: [数字]
-- 风格: [正式/随意]
-- 结构: [引言+正文+结论]
-- 包含: [要点1, 要点2]
-```
-
-### 代码生成
-
-**提示词:**
-```
-用[语言]写一个[功能]的代码。
-
-要求:
-- 输入: [描述]
-- 输出: [描述]
-- 考虑: [边界情况]
-- 最好有注释
-```
-
-### 商业计划
-
-**提示词:**
-```
-帮我写一份[行业]的商业计划书。
-
-包括:
-1. 执行摘要
-2. 问题与解决方案
-3. 市场分析
-4. 商业模式
-5. 营销策略
-6. 财务预测
-7. 团队介绍
-
-目标: [融资/自用]
-```
-
-### 学习辅助
-
-**提示词:**
-```
-用简单的语言解释[概念]。
-
-要求:
-- 类比日常生活
-- 举例说明
-- 列出关键点
-- 最后有测验题
-```
-```
-
----
-
-## 高效提示词技巧
-
-1. **明确角色:**
-   "你是一个资深营销专家..."
-
-2. **具体说明:**
-   "用3个例子说明..."
-
-3. **设定格式:**
-   "用表格呈现..."
-
-4. **迭代优化:**
-   "再详细说明第2点..."
-
----
-
-## 变现方式
-
-- 提示词包: $9-29
-- 教程: $29-99
-- 咨询: $50-200
-
----
-
-*Price: $19*
-*Category: Technology*
-*Tags: chatgpt, prompts, ai, gpt, productivity*
+Act as a [ROLE"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

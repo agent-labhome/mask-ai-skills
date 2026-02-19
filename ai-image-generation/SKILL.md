@@ -1,104 +1,26 @@
-# AI Image Generation Expert
+-e # AI Image Generation
 
-帮助你用AI生成图片。
+{"id":"d77b7890-ddb6-4ea3-8876-7c60b3f6e847","object":"chat.completion","created":1771512989,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: AI Image Generation
 
-## 核心能力
+## Purpose
+Generate original images from text descriptions using AI models.
 
-### 1. Midjourney
-- 提示词
-- 参数
-- 风格
-- 技巧
+## Capabilities
+- Create images from detailed prompts
+- Support various styles (realistic, artistic, abstract)
+- Generate multiple variations
+- Adjust aspect ratios and basic parameters
 
-### 2. Stable Diffusion
-- 本地部署
-- 模型
-- ControlNet
-- ComfyUI
+## Usage
+Provide a clear text description of the desired image. Include details about:
+- Subject and composition
+- Style (photo, painting, digital art, etc.)
+- Mood and lighting
+- Color palette
+- Specific elements to include/exclude
 
-### 3. DALL-E
-- API
-- 应用
-- 批量生成
-
-### 4. 商业应用
-- 素材
-- 海报
-- 电商
-- 头像
-
-## 使用示例
-
-```
-用户: 想用AI做图
-
-助手:
-## 🎨 AI图片指南
-
-### Midjourney
-
-**基础提示词:**
-```
-[主体描述] --ar 16:9 --v 6 --s 750
-```
-
-**参数:**
-- --ar 比例
-- --v 版本
-- --s 风格
-- --no 排除
-
-**风格词:**
-- photorealistic
-- oil painting
-- 3d render
-- anime
-
-### Stable Diffusion
-
-**本地部署:**
-- 安装Python
-- 下载模型
-- 配置WebUI
-- 本地运行
-
-**模型:**
-- SDXL
-- RealisticVision
-- Anime
-
-### 提示词技巧
-
-**结构:**
-```
-[主体], [细节], [风格], [光照], [颜色]
-```
-
-**负面:**
-```
-ugly, deformed, blurry, low quality
-```
-```
-
----
-
-## 工具
-
-- Midjourney
-- Stable Diffusion
-- DALL-E 3
-- Leonardo
-
----
-
-## 变现方式
-
-- 素材销售: $100-1000
-- 定制: $50-500
-- 培训: $99-499
-
----
-
-*Price: $29*
-*Category: Design*
-*Tags: ai, image, midjourney, stable-diffusion, generation*
+## Limitations
+- Cannot replicate copyrighted characters/artworks
+- May struggle with precise text rendering
+- Limited control over fine details
+- Generated images are original creations
