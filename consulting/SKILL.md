@@ -1,27 +1,27 @@
 -e # Consulting
 
-{"id":"9dcf2581-b9a5-4d9a-b4fd-37696fbd9616","object":"chat.completion","created":1771518636,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Consulting Brief
+{"id":"9fee1d83-fe5b-41e5-ad61-28ea21a946be","object":"chat.completion","created":1771526067,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Consulting Briefs
 
-## Purpose
-To rapidly synthesize client needs into a clear, actionable problem statement and scope of work.
+## Core Competency
+Ability to translate complex client needs into clear, actionable consulting briefs that align stakeholders and drive project success.
 
-## Core Principles
-- **Clarity over cleverness**: State the problem simply
-- **Client-centric**: Frame in their language and business context
-- **Action-oriented**: Lead directly to next steps
-- **Scope-conscious**: Define boundaries to prevent creep
+## Key Skills
 
-## Brief Structure (5 Elements)
+### 1. Needs Analysis
+- Rapidly identify core business problems vs. symptoms
+- Distinguish between stated wants and actual needs
+- Map stakeholder priorities and constraints
 
-### 1. Situation
-- Current state (2-3 sentences)
-- Key stakeholders affected
-- Why this matters *now*
+### 2. Scope Definition
+- Define clear project boundaries and deliverables
+- Establish realistic timelines and milestones
+- Identify dependencies and potential roadblocks
 
-### 2. Problem
-- Core challenge (single sentence)
-- Symptoms vs. root cause
-- Impact on business metrics
+### 3. Communication Design
+- Structure information for executive vs. operational audiences
+- Balance detail with clarity
+- Create visual frameworks for complex concepts
 
-### 3. Objective
-- Desired end state
+### 4. Strategic Alignment
+- Connect project objectives to business outcomes
+- Ensure methodology matches problem type
