@@ -1,27 +1,27 @@
 -e # Ads Marketing
 
-{"id":"1739fcb3-c762-4054-b919-f822e611b795","object":"chat.completion","created":1771525813,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Ads Marketing Briefs
+{"id":"31d5cc75-55c9-48aa-a030-4269e3b97c5e","object":"chat.completion","created":1771530622,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ads Marketing Brief - SKILL.md
 
 ## Purpose
-Create clear, actionable briefs that align marketing objectives with execution teams.
+Create clear, concise advertising briefs that align marketing objectives with executional requirements.
 
-## Core Components
-Every brief must include:
+## Core Principles
+- **Clarity Over Creativity** - Briefs must be unambiguous first
+- **Objective-Driven** - Every element ties back to business goals
+- **Actionable** - Teams should know exactly what to do next
+- **Succinct** - One page maximum for most briefs
 
-### 1. Objective
-- Primary goal (awareness, conversions, lead gen, etc.)
-- Measurable KPIs (CTR, CPA, ROAS, etc.)
-- Campaign timeline
+## Brief Structure
 
-### 2. Target Audience
-- Demographics & psychographics
-- Pain points & motivations
-- Platform preferences
+### 1. Business Context (Why)
+- Business objective (increase sales, brand awareness, etc.)
+- Target audience (demographics, psychographics, behaviors)
+- Competitive landscape
+- Key challenges/opportunities
 
-### 3. Messaging
-- Value proposition
-- Key benefits (3 max)
-- Tone of voice
-
-### 4. Creative Requirements
-- Format specs (dimensions, duration)
+### 2. Campaign Requirements (What)
+- Primary message/value proposition
+- Desired action (click, purchase, sign-up, etc.)
+- Key performance indicators (KPIs)
+- Budget constraints
+- Timeline/deadlines

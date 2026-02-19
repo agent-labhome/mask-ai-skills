@@ -1,27 +1,27 @@
 -e # Email Marketing
 
-{"id":"7ed542f8-0381-4f96-86cb-cbe7e209ca90","object":"chat.completion","created":1771525808,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Email Marketing SKILL.md
+{"id":"e2657a06-0267-498d-8eb6-3ddebdcbea59","object":"chat.completion","created":1771530617,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Email Marketing SKILL
 
 ## Core Competencies
-- **Strategy**: List growth, segmentation, campaign planning
-- **Content**: Subject lines, copywriting, CTAs, personalization
-- **Design**: Mobile-responsive templates, branding consistency
-- **Technical**: ESP management, automation workflows, A/B testing
-- **Analytics**: Open rates, CTR, conversions, deliverability
+- **List Management**: Segmentation, hygiene, GDPR/legal compliance
+- **Content Creation**: Subject lines, copywriting, CTAs, mobile optimization
+- **Design**: Responsive templates, accessibility, branding consistency
+- **Automation**: Welcome series, drip campaigns, behavioral triggers
+- **Analytics**: Open/click rates, conversions, A/B testing, ROI tracking
 
 ## Key Tools
-- ESPs (Mailchimp, Klaviyo, HubSpot)
-- List management platforms
-- Analytics & tracking tools
-- Design software (Canva, Figma)
+- ESPs (Mailchimp, HubSpot, Klaviyo)
+- CRM integration
+- Analytics platforms
+- Design tools (Canva, Figma)
 
 ## Success Metrics
-- Deliverability >95%
-- Open rate: 15-25% (industry dependent)
-- Click-through rate: 2-5%
-- Conversion rate against campaign goals
-- List growth rate
-- Unsubscribe rate <0.5%
+- Deliverability (>95%)
+- Open rate (industry benchmark +5%)
+- CTR (>2.5%)
+- Conversion rate
+- Unsubscribe rate (<0.5%)
 
 ## Best Practices
-- Permission-based lists only
+- Clear permission-based opt-ins
+- Mobile-first design

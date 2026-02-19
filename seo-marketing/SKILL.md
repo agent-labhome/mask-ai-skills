@@ -1,27 +1,26 @@
 -e # SEO Marketing
 
-{"id":"bd780be6-151b-487f-9d68-f688f1148346","object":"chat.completion","created":1771525803,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO Marketing SKILL
+{"id":"ccf35f5b-eeeb-4cc9-a5fa-666ce0c41e3f","object":"chat.completion","created":1771530613,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO Marketing SKILL.md
 
 ## Core Competencies
-- Keyword research & strategy development
+- Keyword research & strategy
 - On-page optimization (meta tags, content, structure)
 - Technical SEO (site speed, mobile-friendliness, indexing)
-- Off-page SEO (backlink analysis & acquisition)
+- Off-page SEO (backlink analysis, link building)
 - Local SEO optimization
-- SEO analytics & performance tracking
-- Content optimization for search intent
+- SEO analytics & reporting (Google Analytics, Search Console)
 
 ## Key Tools
-- Google Analytics & Search Console
-- SEMrush / Ahrefs / Moz
+- Google Search Console
+- Google Analytics
+- SEMrush/Ahrefs/Moz
 - Screaming Frog
-- Rank tracking software
+- Yoast/Rank Math (WordPress)
 
 ## Deliverables
-- SEO audits & actionable reports
-- Keyword mapping & content strategies
-- Technical improvement recommendations
+- SEO audits
+- Keyword mapping
+- Content optimization plans
+- Performance reports
+- Technical recommendations
 - Competitor analysis
-- Monthly performance reports with insights
-
-## Mindset
