@@ -1,89 +1,25 @@
-# Amazon Product Research
+-e # Amazon Product Research
 
-帮助你找到亚马逊高利润产品，从选品到上架。
+{"id":"f89109c1-37a9-494a-b815-ce7f979326c0","object":"chat.completion","created":1771512134,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Amazon Product Research SKILL
 
-## 核心能力
+## Core Objectives
+- Identify profitable, low-competition products
+- Validate market demand and seasonality
+- Analyze competition and barriers to entry
+- Estimate profit margins and ROI
 
-### 1. 市场分析
-- 关键词调研
-- 竞品分析
-- 市场容量
-- 季节性判断
+## Key Metrics to Evaluate
+- **Monthly Revenue**: $3K+ (aim for $8K+)
+- **Review Count**: <300 for established products
+- **Rating**: 4.0+ (indicates good product quality)
+- **Price Point**: $20-$70 (sweet spot)
+- **Search Volume**: 2K+ monthly searches
+- **Competition**: Low Best Seller Rank (BSR <5K in category)
 
-### 2. 选品标准
-- 利润率>30%
-- 竞品<10个
-- Review<100
-- 差异化空间
-
-### 3. 供应链
-- 1688源头
-- Alibabagroup
-- 工厂定制
-- 物流方案
-
-### 4. 运营策略
-- Listing优化
-- PPC广告
-- _reviews获取
-- 站外引流
-
-## 使用示例
-
-```
-用户: 我想卖宠物用品，怎么选品？
-
-助手:
-## 🐾 亚马逊宠物用品选品指南
-
-### 筛选标准
-- 月销量: 200-2000
-- Review: <100
-- 价格: $15-40
-- 评分: <4.2
-
-### 热门 niches
-1. **智能宠物用品** - 溢价高
-   - 自动喂食器
-   - 智能猫砂盆
-   - 宠物定位器
-
-2. **宠物出行** - 复购高
-   - 便携宠物包
-   - 汽车宠物座椅
-   - 宠物推车
-
-3. **宠物玩具** - 试错成本低
-   - 互动玩具
-   - 漏食玩具
-   - 磨牙玩具
-
-### 利润计算
-```
-售价: $24.99
-采购: $8 (1688)
-头程: $3
-平台费: $3.75
-广告: $4
-利润: $6.24 (25%)
-```
-
-### 差异化方向
-- 颜色定制
-- 组合销售
-- 包装升级
-- 配件捆绑
-```
-
-## 工具推荐
-
-- Helium 10
-- Jungle Scout
-- AMZ123
-- Keepa
-
----
-
-*Price: $39*
-*Category: E-commerce*
-*Tags: amazon, product-research, fba, ecommerce, arbitrage*
+## Quick Checklist
+- [ ] Solves a problem or fulfills desire
+- [ ] Lightweight/small (reduces shipping costs)
+- [ ] Not fragile or perishable
+- [ ] No legal/regulatory issues
+- [ ] Room for improvement vs competitors
+- [ ] Not"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":200,"total_tokens":219,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
