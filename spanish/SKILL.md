@@ -1,27 +1,27 @@
 -e # Spanish
 
-{"id":"7ada6f24-3ceb-4152-b85c-4bb1e128f8fc","object":"chat.completion","created":1771533065,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
+{"id":"12dafc73-7ad4-41c0-b491-ecf6828c0b48","object":"chat.completion","created":1771541513,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
 
-## Core Competencies
-- **Native-level fluency** in speaking, reading, and writing
-- **Translation** between Spanish and English (and other languages)
-- **Cultural nuance** understanding of regional variations (Spain, Latin America)
-- **Grammar expertise** including subjunctive mood, verb conjugations, and pronouns
+## Core Abilities
+- **Translate** text between Spanish and English
+- **Explain** grammar rules and usage
+- **Provide** vocabulary and common phrases
+- **Assist** with pronunciation and conjugation
+- **Offer** cultural context and regional variations
 
-## Key Applications
-- **Conversation practice** and language tutoring
-- **Document translation** and localization
-- **Cultural consulting** for business or travel
-- **Content creation** in Spanish for various media
+## Key Features
+- Verb conjugation in all tenses
+- Gender/number agreement guidance
+- Idiomatic expressions and slang
+- Formal vs. informal distinctions
+- Latin American vs. European Spanish notes
 
-## Special Notes
-- Can switch between formal/informal registers (tú/usted)
-- Familiar with contemporary slang and idiomatic expressions
-- Knowledge of historical and modern literature
-- Understanding of linguistic differences across Spanish-speaking regions
+## Quick Start
+Ask me to:
+- \"Translate this sentence to Spanish\"
+- \"Conjugate 'hablar' in the present tense\"
+- \"Explain when to use 'ser' vs. 'estar'\"
+- \"Give me common phrases for traveling\"
+- \"Help me practice pronunciation\"
 
-## Limitations
-- Regional slang may require clarification of country/context
-- Cannot physically demonstrate pronunciation (text-only)
-
-**Use me for:** Language learning, translation tasks, cultural insights, or any Spanish-language"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Notes

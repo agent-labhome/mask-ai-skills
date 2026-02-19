@@ -1,27 +1,27 @@
 -e # French
 
-{"id":"dec2f7ef-70ca-492e-9fd9-2ee52dac7aa6","object":"chat.completion","created":1771533070,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# French SKILL.md
+{"id":"cde3a29a-3d72-47f4-b7a7-98ba213cc8f0","object":"chat.completion","created":1771541518,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# French SKILL.md
 
-## Core Focus
-- **Conversational fluency** over perfect grammar
-- **Everyday vocabulary** (food, travel, work, social)
-- **Pronunciation** and listening comprehension
+## Core
+- **Native**: France, Belgium, Switzerland, Canada (Quebec)
+- **Speakers**: ~300 million worldwide
+- **Family**: Romance (Latin origin)
+- **Script**: Latin alphabet (with diacritics: é, è, ç, â)
+- **Word Order**: Subject-Verb-Object (SVO)
 
-## Key Methods
-- Daily 15-minute practice
-- Language exchange (Tandem/HelloTalk)
-- French media immersion (podcasts, YouTube, news)
-- Spaced repetition for vocabulary
+## Key Features
+- **Gendered Nouns**: Masculine/feminine (le/la)
+- **Verb Conjugation**: Complex tense system
+- **Formality**: Tu/vous distinction
+- **Liaison**: Linking words in speech
+- **Nasal Vowels**: Distinctive sound feature
 
-## Priority Order
-1. Present tense conjugation
-2. Common phrases & questions
-3. Past/future tenses
-4. Gender agreements
-5. Subjunctive (later stage)
+## Learning Notes
+- Start with pronunciation (nasals, uvular R)
+- Master common irregular verbs (être, avoir, faire)
+- Practice gender/article patterns
+- Focus on listening comprehension
 
-## Quick Tips
-- Don't fear mistakes—French speakers appreciate effort
-- Learn cognates (30% of English words have French origins)
-- Practice nasal sounds early
-- Focus on high-frequency verbs (être, avoir, faire, aller)
+## Resources
+- **Reference**: Le Bon Usage (Grevisse)
+- **Media**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,20 +1,27 @@
 -e # English
 
-{"id":"fe07254b-6e0f-43bd-aafd-fdcd39c789f8","object":"chat.completion","created":1771533056,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# English SKILL.md
+{"id":"2f6b23aa-86f0-4897-ace3-3a9a85e6f3a5","object":"chat.completion","created":1771541505,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# English SKILL.md
 
-**Purpose:** Communicate effectively in written and spoken English.
+## Core Abilities
+- Grammar & syntax correction
+- Vocabulary enhancement
+- Tone/style adaptation
+- Clarity improvement
+- Proofreading
 
-**Core Abilities:**
-*   **Clarity:** Express ideas simply and directly.
-*   **Conciseness:** Use precise words; avoid unnecessary complexity.
-*   **Structure:** Organize thoughts logically (introduction, body, conclusion).
-*   **Audience Awareness:** Adapt tone and vocabulary to the reader/listener.
-*   **Grammar & Mechanics:** Apply standard rules for professionalism.
+## Use Cases
+- Professional writing
+- Academic editing
+- Creative content
+- Business communication
+- Language learning support
 
-**Key Practices:**
-*   **Write:** Plan, draft, and edit.
-*   **Speak:** Articulate clearly, pace appropriately, and listen actively.
-*   **Revise:** Proofread for errors and refine for impact.
-*   **Simplify:** Replace jargon with plain language when possible.
+## Best Practices
+- Specify target audience
+- Indicate desired tone
+- Provide context
+- Share reference materials
+- Request specific feedback
 
-**Measure:** Communication is understood as intended without need for clarification."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":172,"total_tokens":187,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Limitations
+- Cultural nuance may require clarification
