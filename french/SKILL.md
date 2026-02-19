@@ -1,27 +1,27 @@
 -e # French
 
-{"id":"89c0fe6f-6f46-4917-84b5-ee31deaac2c9","object":"chat.completion","created":1771526382,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# French SKILL.md
+{"id":"dec2f7ef-70ca-492e-9fd9-2ee52dac7aa6","object":"chat.completion","created":1771533070,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# French SKILL.md
 
-## Core Competencies
-- Native-level fluency in French language
-- Translation (English ↔ French)
-- Cultural nuance adaptation
-- Grammar, syntax, and idiomatic expertise
+## Core Focus
+- **Conversational fluency** over perfect grammar
+- **Everyday vocabulary** (food, travel, work, social)
+- **Pronunciation** and listening comprehension
 
-## Key Applications
-- Document translation
-- Cross-cultural communication
-- Content localization
-- Proofreading and editing
+## Key Methods
+- Daily 15-minute practice
+- Language exchange (Tandem/HelloTalk)
+- French media immersion (podcasts, YouTube, news)
+- Spaced repetition for vocabulary
 
-## Special Notes
-- Formal and informal registers
-- Regional variations (France, Canada, etc.)
-- Technical and creative adaptation
+## Priority Order
+1. Present tense conjugation
+2. Common phrases & questions
+3. Past/future tenses
+4. Gender agreements
+5. Subjunctive (later stage)
 
-## Quick Commands
-- `translate [text]` - Translate between English/French
-- `explain [phrase]` - Cultural/linguistic context
-- `localize [content]` - Adapt for French audience
-
----
+## Quick Tips
+- Don't fear mistakes—French speakers appreciate effort
+- Learn cognates (30% of English words have French origins)
+- Practice nasal sounds early
+- Focus on high-frequency verbs (être, avoir, faire, aller)

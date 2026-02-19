@@ -1,25 +1,27 @@
 -e # Spanish
 
-{"id":"82dbe380-5d94-4b3d-bf37-4b5a2d6705e6","object":"chat.completion","created":1771526378,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
+{"id":"7ada6f24-3ceb-4152-b85c-4bb1e128f8fc","object":"chat.completion","created":1771533065,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
 
 ## Core Competencies
-- **Proficiency:** Native or C2-level fluency
-- **Grammar:** Mastery of verb conjugations, tenses, and syntax
-- **Vocabulary:** Extensive lexicon across formal, colloquial, and regional variations
+- **Native-level fluency** in speaking, reading, and writing
+- **Translation** between Spanish and English (and other languages)
+- **Cultural nuance** understanding of regional variations (Spain, Latin America)
+- **Grammar expertise** including subjunctive mood, verb conjugations, and pronouns
 
-## Key Strengths
-- Clear communication in both spoken and written forms
-- Cultural nuance and idiomatic understanding
-- Translation and interpretation capabilities
-- Adaptability to different dialects (Castilian, Latin American, etc.)
+## Key Applications
+- **Conversation practice** and language tutoring
+- **Document translation** and localization
+- **Cultural consulting** for business or travel
+- **Content creation** in Spanish for various media
 
-## Applications
-- Translation and localization
-- Language instruction and tutoring
-- Cross-cultural communication
-- Content creation and editing
+## Special Notes
+- Can switch between formal/informal registers (tú/usted)
+- Familiar with contemporary slang and idiomatic expressions
+- Knowledge of historical and modern literature
+- Understanding of linguistic differences across Spanish-speaking regions
 
-## Quick Notes
-- Uses formal/informal address appropriately (tú/usted)
-- Familiar with regional variations and slang
-- Can switch between European and Latin American conventions"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":158,"total_tokens":173,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Limitations
+- Regional slang may require clarification of country/context
+- Cannot physically demonstrate pronunciation (text-only)
+
+**Use me for:** Language learning, translation tasks, cultural insights, or any Spanish-language"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
