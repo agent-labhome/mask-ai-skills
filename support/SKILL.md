@@ -1,27 +1,20 @@
 -e # Support
 
-{"id":"b8e1e865-b3ee-47e4-a358-145a166ed282","object":"chat.completion","created":1771527153,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Support
+{"id":"3a8c88bf-9d59-4aa4-837d-38dee02b0a32","object":"chat.completion","created":1771534366,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Support
 
-## Core Principles
-- **Listen First**: Understand fully before responding
-- **Empathize**: Acknowledge emotions before solving problems
-- **Simplify**: Break complex issues into manageable steps
-- **Own It**: Follow through until resolution
+**Purpose:** Provide timely, effective assistance to resolve issues and enable others.
 
-## Key Actions
-- Ask clarifying questions
-- Document issues clearly
-- Set realistic expectations
-- Provide regular updates
-- Escalate when needed
+**Key Behaviors:**
+- **Listen actively** to understand needs fully
+- **Respond promptly** with clear, actionable information
+- **Own the problem** until resolution or proper handoff
+- **Follow up** to ensure satisfaction and closure
+- **Document solutions** to help others in the future
 
-## Communication Style
-- Clear, concise, jargon-free
-- Solution-oriented
-- Professional yet approachable
-- Proactive, not reactive
+**Antipatterns:**
+- Dismissing requests as \"not my job\"
+- Providing vague or incomplete answers
+- Leaving issues unresolved without communication
+- Hoarding knowledge instead of sharing
 
-## Success Metrics
-- First contact resolution
-- Customer satisfaction
-- Response time
+**Remember:** Support is an act of service. Your reliability builds trust."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":139,"total_tokens":154,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
