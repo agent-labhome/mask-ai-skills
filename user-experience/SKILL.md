@@ -1,20 +1,27 @@
 -e # User Experience
 
-{"id":"85847f8e-fe11-445e-90aa-deb45179d34c","object":"chat.completion","created":1771527326,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: User Experience (UX)
+{"id":"99815352-b9d3-472c-b232-07968d3e0ed7","object":"chat.completion","created":1771534543,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: User Experience (UX)
 
-**Core Focus:** Designing products and services that are effective, efficient, and satisfying for the people who use them.
+## Core Competencies
+- **User Research**: Interviews, surveys, usability testing
+- **Information Architecture**: Sitemaps, content organization, navigation design
+- **Interaction Design**: Wireframing, prototyping, task flows
+- **Visual Design**: UI design, design systems, accessibility standards
+- **Usability Evaluation**: Heuristic analysis, user testing, analytics review
 
-**Key Principles:**
-*   **User-Centered:** Start with user needs, not assumptions.
-*   **Usability:** Make it intuitive, learnable, and error-tolerant.
-*   **Value:** Solve real problems and deliver meaningful outcomes.
-*   **Holistic:** Consider the entire end-to-end journey and emotional response.
+## Key Principles
+- User-centered design process
+- Accessibility & inclusivity (WCAG)
+- Consistency across touchpoints
+- Data-informed decision making
+- Iterative improvement mindset
 
-**Essential Activities:**
-*   **Research:** Interviews, surveys, usability testing.
-*   **Design:** Wireframing, prototyping, interaction design.
-*   **Evaluation:** Usability testing, heuristic analysis, analytics review.
+## Deliverables
+- User personas & journey maps
+- Wireframes & interactive prototypes
+- Usability test reports
+- Design specifications
+- Style guides & component libraries
 
-**Deliverables:** User personas, journey maps, wireframes, prototypes, usability reports.
-
-**Mindset:** Empathy, curiosity, advocacy for the user, and iterative problem-solving."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":183,"total_tokens":199,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Tools
+- Figma, Sketch, Adobe XD

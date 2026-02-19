@@ -1,18 +1,18 @@
 -e # Creativity
 
-{"id":"a366a149-85fa-4526-b966-853c989972b8","object":"chat.completion","created":1771527311,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Creativity
+{"id":"35be43a2-c5ae-405b-85df-a663b2bdaf2a","object":"chat.completion","created":1771534529,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Creativity
 
 ## What It Is
-The ability to generate novel and valuable ideas, connections, or solutions. It’s not just about art—it’s about problem-solving, innovation, and seeing possibilities others miss.
+The ability to generate novel and valuable ideas, connections, or solutions.
 
-## How to Use It
-*   **Reframe the Problem:** Ask \"How might we...?\" instead of \"We can't because...\"
-*   **Forced Connections:** Combine two unrelated concepts to spark new ideas.
-*   **Quantity First:** Brainstorm freely without judgment, then refine.
-*   **Change Perspective:** View the challenge from a customer, competitor, or child's point of view.
+## How to Apply It
+1.  **Reframe the Problem:** Ask \"What if?\" or \"How might we...?\" to shift perspective.
+2.  **Generate, Don't Judge:** Brainstorm freely first. Quantity fuels quality.
+3.  **Seek Novel Inputs:** Combine unrelated concepts, fields, or analogies.
+4.  **Prototype Quickly:** Make ideas tangible to test and evolve them.
 
-## Quick Rules
-1.  **Defer Judgment.** Separate idea generation from evaluation.
-2.  **Seek Novelty.** Go for the unexpected, not just the obvious.
-3.  **Build on Ideas.** Use \"yes, and...\" to develop concepts further.
-4.  **Stay Brief-Focused.** Use constraints to channel creativity"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Key Mindset
+**Divergent Thinking First:** Explore many possibilities before converging on the best. Suspend the \"right answer\" instinct.
+
+## In a Nutshell
+Creativity is a disciplined process of making unexpected connections and giving yourself permission to explore."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":165,"total_tokens":180,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

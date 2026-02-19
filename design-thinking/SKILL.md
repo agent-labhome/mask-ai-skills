@@ -1,6 +1,6 @@
 -e # Design Thinking
 
-{"id":"cc138226-8c93-4ba4-9624-86e33f66f1fe","object":"chat.completion","created":1771527316,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Design Thinking
+{"id":"b70f4646-4837-45a7-9783-fa8d6b7c55e3","object":"chat.completion","created":1771534533,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Design Thinking
 
 ## What It Is
 A human-centered problem-solving framework that prioritizes empathy, creativity, and iterative prototyping to develop innovative solutions.
@@ -13,11 +13,11 @@ A human-centered problem-solving framework that prioritizes empathy, creativity,
 
 ## Key Principles
 - **Human-Centered:** Start and end with the user.
-- **Collaborative:** Involve cross-disciplinary teams.
-- **Bias Toward Action:** Learn by making and testing.
+- **Collaborative:** Cross-disciplinary teamwork is essential.
+- **Bias Toward Action:** Build to think; learn by making.
 - **Embrace Ambiguity:** Be comfortable with \"not knowing\" early on.
-- **Iterative:** Treat solutions as hypotheses to be refined.
+- **Iterative:** Test, learn, and refine continuously.
 
 ## When to Use It
 - Solving complex, ambiguous problems.
-- Developing new products, services,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Developing new products,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
