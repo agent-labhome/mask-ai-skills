@@ -1,55 +1,23 @@
----
-name: youtube-growth
-description: YouTube增长助手 - 订阅上涨、观看量优化、变现
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $39
-categories:
-  - YouTube
-  - 视频
-  - 增长
-platforms:
-  - YouTube
----
+-e # YouTube Growth
 
-# YouTube Growth
+{"id":"fc82a873-485e-4b2d-9e83-6640df6b3a19","object":"chat.completion","created":1771512939,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# YouTube Growth SKILL.md
 
-## 功能
+## Core Principles
+- **Value First**: Every video must solve a problem, entertain, or educate.
+- **Consistency > Perfection**: Regular uploads build audience trust.
+- **Hook & Hold**: First 15 seconds are critical; retention drives algorithm favor.
 
-YouTube频道增长工具。
+## Key Strategies
+- **SEO Optimization**: Keyword-rich titles, detailed descriptions, strategic tags.
+- **Thumbnail Psychology**: High-contrast, readable text, expressive faces, curiosity gaps.
+- **Community Building**: Reply to comments, use polls, create inside jokes.
 
-## 使用场景
+## Analytics to Watch
+- **Click-Through Rate (CTR)**: Thumbnail/title effectiveness.
+- **Average View Duration**: Content engagement quality.
+- **Audience Retention**: Spot drop-off points to improve pacing.
 
-### 1. 订阅上涨
-
-**输入:** 频道
-
-**输出:**
-- 增长策略
-- 互动方法
-
-### 2. 观看量优化
-
-**输入:** 视频
-
-**输出:**
-- SEO建议
-- 缩略图优化
-
-### 3. 变现
-
-**输入:** 频道情况
-
-**输出:**
-- 变现方式
-- 收入优化
-
-## 价格
-
-- 基础版: $39/月
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
+## Growth Levers
+1. **Playlists**: Increase session watch time.
+2. **End Screens/Cards**: Promote your best content.
+3. **Search & Suggested"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
