@@ -1,26 +1,26 @@
 -e # Machine Learning
 
-{"id":"05a53d96-07fe-4461-9c33-06e09f40de63","object":"chat.completion","created":1771527365,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Machine Learning
+{"id":"7bd4b284-6c6b-45e6-99ed-d516bb53b981","object":"chat.completion","created":1771537715,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Machine Learning
 
 ## Core Competencies
 - **Supervised Learning**: Regression, classification, ensemble methods
 - **Unsupervised Learning**: Clustering, dimensionality reduction
-- **Model Evaluation**: Cross-validation, metrics, hyperparameter tuning
-- **Feature Engineering**: Selection, transformation, creation
+- **Model Evaluation**: Cross-validation, metrics (accuracy, precision, recall, F1, MSE)
+- **Feature Engineering**: Selection, transformation, scaling
 
-## Technical Proficiencies
-- **Frameworks**: Scikit-learn, TensorFlow/PyTorch, XGBoost
-- **Data Manipulation**: Pandas, NumPy
-- **Deployment**: Model serialization, API development, monitoring
+## Technical Stack
+- **Languages**: Python (primary), R
+- **Libraries**: scikit-learn, TensorFlow/PyTorch, XGBoost, pandas, NumPy
+- **Tools**: Jupyter, Git, MLflow, basic cloud platforms (AWS/GCP/Azure)
 
 ## Key Concepts
 - Bias-variance tradeoff
 - Overfitting/underfitting prevention
-- Algorithm selection for problem types
-- Interpretability and explainability
+- Hyperparameter tuning
+- Basic neural network architectures
 
-## Applications
-- Predictive modeling
-- Pattern recognition
-- Anomaly detection
-- Recommendation systems
+## Applied Skills
+- End-to-end ML pipeline development
+- Data preprocessing and cleaning
+- Model deployment fundamentals
+- Interpreting model outputs and limitations

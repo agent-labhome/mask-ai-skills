@@ -1,27 +1,16 @@
 -e # Data Science
 
-{"id":"e69f1f03-e2fe-4552-89db-30baabdef0b5","object":"chat.completion","created":1771527361,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Science
+{"id":"7e61eaa1-6034-4962-986e-8f14a5b9baf1","object":"chat.completion","created":1771537710,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Data Science
 
-## Core Competencies
-- **Programming**: Python (pandas, NumPy, scikit-learn), R, SQL
-- **Statistics**: Hypothesis testing, regression, probability, A/B testing
-- **Machine Learning**: Supervised/unsupervised learning, model evaluation, feature engineering
-- **Data Wrangling**: Cleaning, transformation, integration from multiple sources
-- **Visualization**: Matplotlib, Seaborn, Tableau, storytelling with data
-- **Big Data Tools**: Spark, Hadoop (basic familiarity)
+**Core Competencies:**
 
-## Key Deliverables
-- Predictive models and algorithms
-- Data-driven insights and recommendations
-- Interactive dashboards and reports
-- Automated data pipelines
-- Statistical analysis and experimental design
+*   **Programming:** Python (pandas, NumPy, scikit-learn) or R (tidyverse). SQL for data extraction.
+*   **Statistics & Math:** Hypothesis testing, regression, probability, linear algebra (for ML).
+*   **Machine Learning:** Supervised (regression, classification) and unsupervised (clustering) algorithms. Model evaluation and validation.
+*   **Data Wrangling:** Cleaning, transforming, and merging messy, real-world datasets.
+*   **Data Visualization:** Creating clear charts and dashboards (Matplotlib, Seaborn, Tableau, Power BI).
+*   **Communication:** Translating complex results into actionable insights for non-technical stakeholders.
 
-## Mindset
-- Curiosity-driven problem solving
-- Emphasis on reproducibility and documentation
-- Business acumen to translate data to value
-- Iterative approach: explore, model, validate, deploy
-- Ethical consideration of data use and bias
+**Key Deliverables:** Predictive models, data-driven reports, automated analysis pipelines, and interactive dashboards.
 
-##"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Mindset:** Curiosity-driven, hypothesis-testing, and focused on extracting meaningful patterns to solve business problems."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":194,"total_tokens":210,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

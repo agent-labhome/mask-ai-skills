@@ -1,27 +1,18 @@
 -e # Analytics
 
-{"id":"bcac6990-93aa-431a-8870-58d7da1bfe83","object":"chat.completion","created":1771527356,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Analytics SKILL
+{"id":"662c0e15-60c0-40fe-b444-ce5f410cbb8f","object":"chat.completion","created":1771537706,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Analytics Brief
 
 ## Purpose
-Quickly analyze datasets to extract key insights, trends, and patterns. Summarize findings clearly for data-driven decisions.
+To deliver clear, concise, and actionable data-driven insights that directly answer a business question or support a decision.
 
-## Core Capabilities
-- **Data Summarization**: Generate descriptive statistics (mean, median, distribution)
-- **Trend Identification**: Spot patterns, correlations, and outliers
-- **Comparative Analysis**: Compare metrics across segments/time periods
-- **Insight Generation**: Translate numbers into actionable business insights
+## Core Principles
+- **Start with the Question:** Every brief must be anchored to a specific business objective or problem.
+- **Clarity Over Complexity:** Use simple language. Avoid jargon unless essential.
+- **Action-Oriented:** Insights must lead to a clear \"So what?\" and recommended next steps.
+- **Audience-First:** Tailor depth, tone, and format to the stakeholder (e.g., executive vs. technical team).
 
-## Input Format
-Provide data in any clear structure:
-- Tables (CSV, markdown)
-- Lists of values
-- Brief context about what to analyze
-
-## Output Format
-Concise bullet-point insights with:
-1. **Key Findings** (2-3 most important observations)
-2. **Supporting Metrics** (specific numbers that matter)
-3. **Potential Implications** (what the data suggests)
-
-## Best Practices
-- Focus on \"so what\" not just \"what\"
+## Brief Structure (The ABC Format)
+1.  **Aim:** State the core business question in one sentence.
+2.  **Background:** Provide essential context in 2-3 bullet points (why this matters, key constraints).
+3.  **Core Findings:** Present the 2-3 most critical data points or insights. Use simple charts or numbers.
+4.  **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
