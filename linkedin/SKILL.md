@@ -1,27 +1,27 @@
 -e # LinkedIn
 
-{"id":"c494dfd2-4aac-4399-a130-9c84e925fd0f","object":"chat.completion","created":1771523429,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# LinkedIn SKILL.md
+{"id":"ef8339ca-ef22-413d-9e18-9ff184e096d4","object":"chat.completion","created":1771530570,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# LinkedIn SKILL.md
 
 ## Core Skills
-- **Professional Networking** – Connecting with industry peers, recruiters, and companies
-- **Personal Branding** – Showcasing expertise through profiles, posts, and articles
-- **Job Search & Recruitment** – Finding opportunities and talent through advanced filters
-- **Industry Insights** – Following companies, influencers, and trends for market intelligence
-- **Content Strategy** – Sharing professional updates, thought leadership, and engagement
+- **Professional Networking** – Building and maintaining industry connections
+- **Personal Branding** – Crafting compelling professional profiles and content
+- **Job Search & Recruitment** – Finding opportunities and talent
+- **Industry Insights** – Following trends and thought leadership
+- **Business Development** – Identifying prospects and partnership opportunities
 
-## Key Features
-- Profile optimization (headline, summary, experience)
-- Endorsements & recommendations
-- LinkedIn Learning integration
-- Company pages and employee branding
-- Analytics for posts and profile views
+## Key Actions
+- Connect with professionals and companies
+- Share achievements, articles, and insights
+- Endorse skills and write recommendations
+- Join relevant industry groups
+- Use advanced search filters for targeting
 
 ## Best Practices
-- Keep profile updated and keyword-optimized
-- Engage consistently with relevant content
+- Keep profile complete and updated
+- Engage authentically with your network
+- Use keywords for discoverability
 - Personalize connection requests
-- Use LinkedIn Groups for niche networking
-- Leverage LinkedIn Premium for advanced search and insights
+- Post consistently but meaningfully
 
-## Professional Use Cases
-- Job seeking and career advancement
+## Value Proposition
+Transform professional visibility into opportunities through strategic networking and personal branding."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":171,"total_tokens":186,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

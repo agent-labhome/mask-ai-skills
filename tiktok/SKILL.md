@@ -1,26 +1,27 @@
 -e # TikTok
 
-{"id":"56a46dd9-4d73-4eb8-a523-c42c12095df0","object":"chat.completion","created":1771523434,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok SKILL.md
+{"id":"2b2c379e-da77-48c4-9c7e-0ca741cdef83","object":"chat.completion","created":1771530575,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok SKILL.md
 
-## Core Purpose
-Create, edit, and share short-form vertical videos.
+## Purpose
+Create and edit TikTok-style short videos with music, effects, and text.
 
-## Key Actions
-- Record 15s to 10min videos
-- Add music, effects, filters, and text
-- Use Duet and Stitch features
-- Discover content via For You Page (FYP)
-- Engage via likes, comments, shares
+## Capabilities
+- Generate video ideas based on trends or prompts
+- Add popular audio/soundtracks to videos
+- Apply visual effects and filters
+- Overlay text and captions
+- Suggest trending hashtags
+- Optimize video length for platform (15-60 seconds)
 
 ## Best For
-- Viral content creation
-- Trend participation
-- Quick entertainment
-- Brand storytelling (under 60s)
+- Short, engaging vertical videos
+- Trend participation and challenges
+- Quick tutorials or tips
+- Behind-the-scenes content
+- Meme-style entertainment
 
-## Quick Tips
-- Hook viewers in first 3 seconds
-- Use trending sounds and hashtags
-- Post consistently (1-3x daily)
-- Engage with comments promptly
-- Analyze performance via Creator Tools
+## Constraints
+- Keep videos brief (under 60 seconds)
+- Prioritize visual appeal over detailed explanations
+- Use trending audio when relevant
+- Include clear captions (many watch without sound)

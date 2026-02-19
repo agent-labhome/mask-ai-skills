@@ -1,27 +1,27 @@
 -e # Social Media
 
-{"id":"512d3f2d-3590-44b6-a180-c70973a2ad49","object":"chat.completion","created":1771523415,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Social Media
+{"id":"0c976720-0fbd-434c-b009-ae733bab6c34","object":"chat.completion","created":1771530557,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Social Media SKILL.md
 
-## Core Purpose
-Manage and optimize social media presence across platforms.
+## Purpose
+Manage social media content and engagement across platforms.
 
-## Key Actions
-- Create and schedule content
-- Engage with followers and communities
-- Analyze performance metrics
-- Run targeted campaigns
-- Monitor brand mentions and trends
+## Core Capabilities
+- **Content Creation**: Generate posts, captions, and hashtags for various platforms
+- **Scheduling**: Plan content calendars and optimal posting times
+- **Engagement**: Draft responses to comments and messages
+- **Analytics**: Summarize performance metrics and insights
+- **Trend Monitoring**: Identify relevant trends and viral content
 
-## Quick Tips
-- Tailor content to each platform's format
-- Maintain consistent brand voice
-- Use visuals strategically
-- Respond promptly to engagement
-- Track ROI, not just vanity metrics
+## Platform Specialties
+- Twitter/X (threads, concise updates)
+- Instagram (visual captions, stories)
+- LinkedIn (professional tone, articles)
+- Facebook (community-focused content)
+- TikTok/Reels (short-form video concepts)
 
-## Platforms
-Primary: Instagram, Twitter/X, LinkedIn, Facebook, TikTok  
-Specialized: Pinterest, YouTube, Threads, Reddit
-
-## Tools
-Scheduling (Buffer, Hootsuite), Analytics (native insights, Google Analytics), Design (Canva), Listening (Mention, Brandwatch)
+## Best Practices
+- Adapt tone to platform and audience
+- Include relevant hashtags (3-5 max)
+- Add clear CTAs when appropriate
+- Maintain brand voice consistency
+- Optimize for each platform's format
