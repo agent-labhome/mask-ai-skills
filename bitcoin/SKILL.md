@@ -1,26 +1,27 @@
 -e # Bitcoin
 
-{"id":"4919a6ff-5f24-47c6-bf9f-74b142a628b9","object":"chat.completion","created":1771530715,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bitcoin SKILL.md
+{"id":"c4f8fa3f-eb25-44af-87e8-b6666f23953f","object":"chat.completion","created":1771537973,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bitcoin SKILL.md
 
-## Core Concept
-A decentralized digital currency operating on a peer-to-peer network without central authority.
+## Core Purpose
+Decentralized digital currency enabling peer-to-peer value transfer without intermediaries.
 
-## Key Features
-- **Decentralized**: No central bank or administrator
-- **Limited Supply**: 21 million BTC maximum
-- **Proof-of-Work**: Mining secures the network
-- **Transparent**: All transactions recorded on public blockchain
-- **Pseudonymous**: Addresses not directly tied to identity
+## Key Functions
+- **Store of Value**: Digital gold with limited supply (21 million BTC)
+- **Medium of Exchange**: Borderless transactions with pseudonymity
+- **Unit of Account**: Independent monetary system
 
-## Common Use Cases
-- Store of value (\"digital gold\")
-- Cross-border payments
-- Hedge against inflation
-- Remittances
-- Micropayments (via Lightning Network)
+## Technical Foundation
+- **Blockchain**: Public, immutable ledger
+- **Proof-of-Work**: Mining secures network through computational effort
+- **Decentralization**: No central authority; distributed node network
 
-## Quick Commands
-- Check price: `bitcoin price`
-- Transaction info: `bitcoin transaction [txid]`
-- Address balance: `bitcoin address [address]`
-- Network stats: `bitcoin stats`
+## Essential Concepts
+- Private/Public Keys: Cryptographic ownership control
+- Wallets: Software for managing bitcoin
+- Transactions: Signed transfers recorded on-chain
+- Halving: Supply inflation reduction every 4 years
+
+## Primary Use Cases
+- Value preservation (hedge against inflation)
+- Cross-border remittances
+- Censorship-resistant payments
