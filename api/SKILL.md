@@ -1,27 +1,19 @@
 -e # API
 
-{"id":"8f690ed4-47b7-405d-800b-dd7e5481ba10","object":"chat.completion","created":1771518827,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Briefing
+{"id":"19880d18-feeb-4856-a9db-ac9f28080767","object":"chat.completion","created":1771523328,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Briefing
 
 ## Purpose
-Quickly understand and articulate the core aspects of any API.
+Quickly understand and articulate the core purpose, structure, and key details of an API.
 
-## When to Use
-- Initial project scoping
-- Team onboarding
-- Stakeholder updates
-- Technical documentation
+## Process
+1.  **Identify the Core:**
+    *   **What is it?** Name and type (REST, GraphQL, gRPC, SOAP, etc.).
+    *   **Primary Purpose:** What problem does it solve or what service does it provide?
+    *   **Domain:** e.g., Payment, Mapping, AI, Authentication, Data.
 
-## Structure
-**1. API Identity**
-- Name & Version
-- Type (REST, GraphQL, gRPC, etc.)
-- Owner/Provider
+2.  **Define Key Components:**
+    *   **Main Resource(s):** The central data objects (e.g., `User`, `Order`, `Transaction`).
+    *   **Critical Endpoints:** 2-3 essential URLs/operations (e.g., `POST /auth`, `GET /data`).
+    *   **Key Data Points:** The most important pieces of data sent or received.
 
-**2. Core Purpose**
-- Primary function in 1 sentence
-- Key problem it solves
-
-**3. Technical Snapshot**
-- Authentication method
-- Rate limits
-- Data format (JSON, XML, etc.)
+3.  **Specify Practical Details"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
