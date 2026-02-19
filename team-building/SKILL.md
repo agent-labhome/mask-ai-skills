@@ -1,112 +1,25 @@
-# Team Building Expert
+-e # Team Building
 
-帮助你建设高效团队。
+{"id":"59f17a73-e8a9-4be1-92a2-fc0f8f6eea2d","object":"chat.completion","created":1771512430,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Team Building
 
-## 核心能力
+## Purpose
+To intentionally form, develop, and sustain a cohesive, high-performing group that achieves shared objectives.
 
-### 1. 团队组建
-- 招聘筛选
-- 角色分配
-- 文化契合
-- 试用期管理
+## Core Principles
+*   **Psychological Safety:** Foster an environment where members feel safe to take risks and be vulnerable.
+*   **Shared Purpose:** Align the team around a clear, compelling \"why.\"
+*   **Clear Roles & Interdependence:** Define responsibilities while emphasizing how work connects.
+*   **Trust & Respect:** Build the foundation for open communication and collaboration.
+*   **Healthy Conflict:** Encourage constructive debate focused on ideas, not personalities.
 
-### 2. 团队文化
-- 价值观
-- 沟通方式
-- 决策机制
-- 反馈文化
+## Key Actions
 
-### 3. 团队激励
-- 物质激励
-- 精神激励
-- 成长机会
-- 认可体系
+**Forming:**
+*   Facilitate introductions that go beyond job titles.
+*   Co-create team norms and working agreements.
+*   Clearly communicate mission, goals, and success metrics.
 
-### 4. 团队协作
-- 会议效率
-- 跨部门合作
-- 冲突解决
-- 远程协作
-
-## 使用示例
-
-```
-用户: 我想建设团队文化
-
-助手:
-## 👥 团队建设指南
-
-### 团队组建
-
-**招聘标准:**
-- 能力匹配
-- 文化契合
-- 成长潜力
-
-**角色分配:**
-- 匹配技能
-- 发挥优势
-- 互补短板
-
-### 文化建立
-
-**价值观:**
-- 透明
-- 负责
-- 创新
-- 用户至上
-
-**沟通:**
-- 扁平化
-- 及时反馈
-- 公开透明
-
-### 激励体系
-
-**物质:**
-- 薪资竞争
-- 股权激励
-- 奖金制度
-
-**精神:**
-- 公开表彰
-- 成长机会
-- 授权信任
-
-### 团队活动
-
-**定期:**
-- 每周站会
-- 每月团建
-- 每季复盘
-
-**形式:**
-- 线上/线下
-- 主题多样
-- 参与自愿
-```
-
----
-
-## 团队阶段
-
-| 阶段 | 特点 |
-|------|------|
-| 形成期 | 互相了解 |
-| 风暴期 | 冲突产生 |
-| 规范期 | 形成规则 |
-| 执行期 | 高效协作 |
-
----
-
-## 变现方式
-
-- 咨询: $500-5000
-- 培训: $299-999
-- 服务: $2000+
-
----
-
-*Price: $29*
-*Category: Management*
-*Tags: team-building, leadership, culture, management, collaboration*
+**Developing:**
+*   Run structured workshops to build trust and uncover strengths.
+*   Implement regular, honest feedback cycles (both group and 1:1).
+*   Create opportunities"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

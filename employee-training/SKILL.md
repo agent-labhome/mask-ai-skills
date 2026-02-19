@@ -1,116 +1,27 @@
-# Employee Training Specialist
+-e # Employee Training
 
-帮助你设计和实施员工培训。
+{"id":"92d74e97-5c93-46cb-9d90-a1361c286011","object":"chat.completion","created":1771512440,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Employee Training
 
-## 核心能力
+## Purpose
+Enable employees to acquire knowledge and skills to perform their roles effectively and support organizational growth.
 
-### 1. 培训需求
-- 能力评估
-- 岗位分析
-- 技能差距
-- 目标设定
+## Core Competencies
 
-### 2. 培训设计
-- 课程大纲
-- 教学方法
-- 材料准备
-- 时间规划
+**1. Needs Analysis**
+- Identify skill gaps through observation, feedback, and performance data
+- Align training with business objectives and role requirements
 
-### 3. 培训实施
-- 课堂培训
-- 在职培训
-- 在线学习
-- 导师制度
+**2. Content Development**
+- Design clear, relevant, and engaging learning materials
+- Structure content for different learning styles (visual, auditory, kinesthetic)
 
-### 4. 效果评估
-- 测试评估
-- 行为观察
-- 绩效改进
-- ROI计算
+**3. Delivery & Facilitation**
+- Conduct effective in-person or virtual training sessions
+- Foster an interactive and inclusive learning environment
+- Use appropriate tools (LMS, presentations, hands-on activities)
 
-## 使用示例
+**4. Evaluation & Feedback**
+- Measure training effectiveness (surveys, quizzes, performance metrics)
+- Gather and incorporate participant feedback for continuous improvement
 
-```
-用户: 我想给新员工做培训
-
-助手:
-## 👨‍🏫 员工培训指南
-
-### 培训流程
-
-**1. 需求分析**
-- 岗位要求
-- 现有能力
-- 差距识别
-
-**2. 目标设定**
-- 知识目标
-- 技能目标
-- 态度目标
-
-**3. 内容设计**
-- 课程模块
-- 教学活动
-- 练习材料
-
-**4. 实施执行**
-- 培训形式
-- 时间安排
-- 讲师选择
-
-**5. 效果评估**
-- 测试成绩
-- 行为改变
-- 绩效提升
-
-### 培训类型
-
-**入职培训:**
-- 公司文化
-- 规章制度
-- 基础技能
-- 岗位认知
-
-**技能培训:**
-- 专业技能
-- 软技能
-- 工具使用
-
-**管理培训:**
-- 领导力
-- 团队管理
-- 决策能力
-
-### 在线培训工具
-
-- Teachable
-- Thinkific
-- LearnWorlds
-- 微信培训群
-```
-
----
-
-## 培训方法
-
-| 方法 | 适用 | 效果 |
-|------|------|------|
-| 讲授 | 知识 | 中 |
-| 演示 | 技能 | 高 |
-| 练习 | 技能 | 高 |
-| 讨论 | 态度 | 中 |
-| 案例 | 分析 | 高 |
-
----
-
-## 变现方式
-
-- 咨询: $300-2000
-- 课程: $50-500/人
-- 培训: $1000-10000/次
-
----
-
-*Price: $29*
-*Category: Business*
-*Tags: training, employee, onboarding, learning, development*
+**5. Compliance & Documentation**
