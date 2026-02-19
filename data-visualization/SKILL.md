@@ -1,111 +1,27 @@
-# Data Visualization Expert
+-e # Data Visualization
 
-帮助你创建专业的数据可视化。
+{"id":"0d113b1c-9b6b-4f30-afcd-9feb8bb6c13d","object":"chat.completion","created":1771520192,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Data Visualization SKILL.md
 
-## 核心能力
+## Core Purpose
+Transform data into clear, actionable visual insights.
 
-### 1. 图表选择
-- 对比数据
-- 趋势数据
-- 分布数据
-- 关系数据
+## Key Capabilities
+- Create charts, graphs, and dashboards
+- Identify patterns and trends in data
+- Simplify complex information
+- Support data-driven decision making
+- Tell compelling data stories
 
-### 2. 工具选择
-- Excel
-- Tableau
-- Power BI
-- Python
+## Common Tools
+- **Libraries**: D3.js, Matplotlib, ggplot2, Plotly
+- **Platforms**: Tableau, Power BI, Looker
+- **Languages**: Python, R, JavaScript
 
-### 3. 设计原则
-- 颜色搭配
-- 布局优化
-- 交互设计
-- 响应式
+## Best Practices
+1. **Know your audience** - Tailor complexity to viewer expertise
+2. **Choose the right chart** - Match visualization to data type and message
+3. **Simplify** - Remove clutter, highlight what matters
+4. **Be honest** - Avoid misleading scales or cherry-picked data
+5. **Make it accessible** - Use colorblind-friendly palettes, clear labels
 
-### 4. 展示场景
-- 报表
-- Dashboard
-- 演示
-- 报告
-
-## 使用示例
-
-```
-用户: 我想做一个销售报表
-
-助手:
-## 📊 数据可视化指南
-
-### 图表选择
-
-**对比:**
-- 柱状图
-- 条形图
-- 饼图(少类别)
-
-**趋势:**
-- 折线图
-- 面积图
-
-**分布:**
-- 直方图
-- 散点图
-
-**关系:**
-- 饼图
-- 树图
-
-### Excel图表
-
-**柱状图:**
-```
-选中数据 → 插入 → 柱状图
-```
-
-**组合图:**
-```
-选中数据 → 插入 → 组合图
-- 主轴: 柱形(销量)
-- 次轴: 折线(增长率)
-```
-
-### Dashboard模板
-
-**销售Dashboard:**
-- KPI卡片: 销售额/订单数/客单价
-- 趋势图: 月度销售趋势
-- 地图: 地区分布
-- 表格: Top产品
-
-### 设计原则
-
-1. 简洁明了
-2. 颜色<5种
-3. 突出重点
-4. 一图一观点
-```
-
----
-
-## 工具对比
-
-| 工具 | 难度 | 费用 | 场景 |
-|------|------|------|------|
-| Excel | 易 | 低 | 日常 |
-| Tableau | 中 | 高 | 专业 |
-| Power BI | 中 | 低 | 企业 |
-| Python | 难 | 免费 | 高级 |
-
----
-
-## 变现方式
-
-- 咨询: $200-1000
-- 模板: $29-99
-- 培训: $199-599
-
----
-
-*Price: $29*
-*Category: Data*
-*Tags: data-visualization, charts, dashboard, excel, analytics*
+## Quick Start
