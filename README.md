@@ -4,35 +4,34 @@
 
 ## 已发布的 Skills
 
-### 1. content-writer-cn ($19)
-中文内容创作助手 - 小红书、抖音、知乎、微信
+| # | Skill | 价格 | 功能 |
+|---|-------|------|------|
+| 1 | content-writer-cn | $19 | 中文内容创作 |
+| 2 | crossborder-ecommerce | $29 | 跨境电商运营 |
+| 3 | crypto-analyst | $39 | 加密货币分析 |
+| 4 | ai-trading-assistant | $49 | 自动化交易 |
+| 5 | seo-optimizer | $29 | SEO优化 |
+| 6 | data-analyst | $39 | 数据分析 |
+| 7 | email-marketing | $29 | 邮件营销 |
+| 8 | social-media-manager | $29 | 社交媒体运营 |
+| 9 | video-script-writer | $29 | 视频脚本 |
+| 10 | voice-storyteller | $19 | 语音故事 |
 
-### 2. crossborder-ecommerce ($29)
-跨境电商运营助手 - 选品，文案、客服
-
-### 3. crypto-analyst ($39)
-加密货币分析师 - 行情分析，项目评测
-
-### 4. ai-trading-assistant ($49)
-自动化交易助手 - 信号，仓位管理，止损
-
-### 5. seo-optimizer ($29)
-SEO优化助手 - 关键词研究，内容优化
-
-## 定价策略
-
-| 类型 | 价格 | 定位 |
-|------|------|------|
-| 基础版 | $19-49 | 个人用户 |
-| 专业版 | $49-99 | 进阶用户 |
-| 企业版 | $99+ | 商业使用 |
+**总潜在收入: $310/年**
 
 ## 发布平台
 
-- [ ] GitHub (免费开源)
-- [ ] SkillsMP (付费市场)
-- [ ] agentskill.sh
-- [ ] Gumroad
+- ✅ GitHub: github.com/agent-labhome/mask-ai-skills
+- ⏳ Gumroad: 准备中
+- ⏳ SellAITool: 准备中
+
+## 定价策略
+
+| 类型 | 价格 |
+|------|------|
+| 单技能 | $9-19 |
+| 全套(10个) | $49 |
+| 企业版 | $99+ |
 
 ---
 
