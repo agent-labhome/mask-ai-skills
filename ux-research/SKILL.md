@@ -1,27 +1,27 @@
 -e # UX Research
 
-{"id":"9db446a7-6faf-4cd6-8578-5a0451078c85","object":"chat.completion","created":1771520149,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: UX Research Brief
+{"id":"503d4c2d-6b90-49fc-9b25-81daa96ecb9f","object":"chat.completion","created":1771527321,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# UX Research Brief Template
 
-## Purpose
-A UX Research Brief is a strategic document that defines the scope, objectives, and plan for a user research project. It aligns stakeholders and guides the research team.
+## Project Overview
+**Project Name:** [Project Title]
+**Date:** [Date]
+**Stakeholders:** [Key contacts]
 
-## Core Components
+## Research Goals
+- Primary objective: [What do we need to learn?]
+- Key questions: [List 2-3 specific research questions]
 
-**1. Project & Business Context**
--   Project name, key stakeholders, dates
--   Business goals and problem statement
--   How research supports business/ product decisions
+## Target Users
+- Primary audience: [User segment description]
+- Recruitment criteria: [Key characteristics, behaviors, or demographics]
 
-**2. Research Objectives**
--   3-5 clear, actionable questions the research must answer.
--   *Example: \"Understand how users currently track project expenses and identify pain points in receipt submission.\"*
+## Methodology
+- **Approach:** [e.g., Usability testing, Interviews, Surveys]
+- **Participants:** [Number and type]
+- **Duration:** [Timeline for research activities]
 
-**3. Methodology & Participants**
--   Recommended method (e.g., usability test, interviews, survey).
--   Participant criteria (recruiting screeners) and target number.
+## Deliverables
+- [e.g., Findings report, Video clips, Recommendations]
+- **Deadline:** [Date]
 
-**4. Logistics & Timeline**
--   Key dates (kickoff, recruitment, research, analysis, readout).
--   Tools, location, and any incentives.
-
-**5. Deliverables"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Success Metrics
