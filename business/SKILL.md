@@ -1,27 +1,27 @@
 -e # Business
 
-{"id":"7aef7978-e9f9-4500-9c59-0b1192d2ebc9","object":"chat.completion","created":1771526003,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Briefs
+{"id":"3308515d-7318-4a95-9eaf-1c0778ec5ee5","object":"chat.completion","created":1771530780,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Business Briefs
 
 ## Purpose
-To communicate essential business information clearly, concisely, and effectively to busy stakeholders.
+To distill complex business information into concise, actionable summaries for decision-makers.
 
 ## Core Principles
 
 **Clarity Over Completeness**
-- Lead with the main point (BLUF: Bottom Line Up Front)
+- Lead with the single most important point
 - Use plain language, avoid jargon
-- One idea per sentence/paragraph
+- Answer \"So what?\" immediately
 
-**Conciseness**
-- Maximum 1-2 pages for most briefs
-- Bullet points over paragraphs
-- Eliminate redundant words
+**Structure for Speed**
+- Situation → Problem → Solution → Next Steps
+- One idea per paragraph
+- Bullet points for lists, not paragraphs
 
-**Action-Oriented**
-- State purpose upfront
-- Include clear recommendations
-- Specify decisions needed
+**Audience Awareness**
+- Executive: Focus on impact and decisions
+- Team: Emphasize actions and ownership
+- Client: Highlight value and alignment
 
-## Structure Template
+## Key Components
 
-1. **Header**
+1. **Headline**: One-line summary of the entire brief

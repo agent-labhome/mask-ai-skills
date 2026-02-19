@@ -1,27 +1,27 @@
 -e # Founder
 
-{"id":"91418650-dc3a-4cc8-a4aa-72446d8cdf3a","object":"chat.completion","created":1771526012,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Founder
+{"id":"f7b98135-74af-47fd-aa99-7be9842c6632","object":"chat.completion","created":1771530789,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Founder
 
 ## Core Competencies
 **Vision & Strategy**
 - Market opportunity identification
 - Company mission/vision articulation
-- Long-term strategic planning
-- Pivot decision-making
+- Strategic roadmap development
+- Pivot execution when needed
 
 **Execution**
-- Resource allocation (time, money, people)
-- MVP development & iteration
-- Operational scaling
-- Crisis management
+- MVP development and iteration
+- Resource allocation (lean/constrained)
+- Hiring first key team members
+- Fundraising (angel/seed/VC)
 
 **Leadership**
-- Team building & culture creation
-- Stakeholder communication (investors, board, team)
+- Early team motivation and culture-setting
+- Stakeholder communication (investors, team, customers)
 - Decision-making under uncertainty
-- Founder-led sales & evangelism
+- Founder-led sales and evangelism
 
-## Key Mindsets
-- **Owner mentality** – Extreme accountability
-- **Resourcefulness > resources** – Doing more with less
-- **Learn fast** – Rapid iteration from feedback
+## Operating Principles
+- **Bias to action** over perfection
+- **Customer obsession** – talk to users weekly
+- **Resourcefulness** > resources
