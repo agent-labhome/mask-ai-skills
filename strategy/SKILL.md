@@ -1,23 +1,27 @@
 -e # Strategy
 
-{"id":"8ea2729d-afec-4410-b9f1-6686bcb54756","object":"chat.completion","created":1771527255,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Strategy Brief (SKILL.md)
+{"id":"ab4b7a8d-af31-48d5-9b67-6366f312af74","object":"chat.completion","created":1771534465,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Strategy Brief Development
 
 ## Purpose
-A concise document that defines the strategic approach for an initiative, project, or campaign. It aligns stakeholders on objectives, scope, and direction before detailed planning begins.
+Create concise, actionable strategic briefs that align teams and drive focused execution.
 
-## Core Components
-1. **Objective** – Clear, measurable goal
-2. **Context** – Why this matters now
-3. **Target Audience** – Who we’re addressing
-4. **Key Insights** – Data or observations driving the approach
-5. **Strategic Approach** – High-level path to achieve the objective
-6. **Success Metrics** – How we’ll measure impact
-7. **Constraints & Assumptions** – Known limitations and beliefs
+## Core Principles
+1. **Clarity Over Completeness** - Prioritize clear direction over exhaustive detail
+2. **Action-Oriented** - Every element should drive toward specific outcomes
+3. **Stakeholder-Centric** - Tailor to audience needs and decision contexts
 
-## Key Principles
-- **Concise** – Typically 1–2 pages; avoids exhaustive detail
-- **Aligned** – Ensures shared understanding across teams
-- **Actionable** – Provides enough direction for next-step planning
-- **Evidence-informed** – Grounded in data or research
+## Brief Structure (S.T.R.A.T. Framework)
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**S** - Situation Analysis
+- Current state (3 bullet points max)
+- Key challenge/opportunity (1 sentence)
+
+**T** - Target Outcome
+- Desired end state (specific, measurable)
+- Success metrics (3-5 KPIs max)
+
+**R** - Recommended Approach
+- Core strategy (1 paragraph)
+- Critical assumptions (2-3 key assumptions)
+
+**A** - Action Requirements
