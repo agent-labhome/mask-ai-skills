@@ -1,27 +1,27 @@
 -e # Ads Marketing
 
-{"id":"31d5cc75-55c9-48aa-a030-4269e3b97c5e","object":"chat.completion","created":1771530622,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ads Marketing Brief - SKILL.md
+{"id":"6d95511a-5d4d-4ae6-87eb-eaa871d3c35a","object":"chat.completion","created":1771537883,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Ads Marketing Brief
 
 ## Purpose
-Create clear, concise advertising briefs that align marketing objectives with executional requirements.
+To create clear, actionable briefs for advertising campaigns that align marketing objectives with execution.
 
-## Core Principles
-- **Clarity Over Creativity** - Briefs must be unambiguous first
-- **Objective-Driven** - Every element ties back to business goals
-- **Actionable** - Teams should know exactly what to do next
-- **Succinct** - One page maximum for most briefs
+## Core Components
+1. **Campaign Objective** – Primary goal (awareness, conversions, etc.)
+2. **Target Audience** – Demographics, behaviors, psychographics
+3. **Key Message** – Core value proposition and differentiators
+4. **Platforms & Format** – Channels and ad types (video, display, etc.)
+5. **Budget & Timeline** – Resources and schedule
+6. **Success Metrics** – KPIs and measurement methods
 
-## Brief Structure
+## Best Practices
+- Start with the problem, not the solution
+- Include competitive context
+- Specify brand voice and visual guidelines
+- Define clear CTAs
+- Note any legal/regulatory requirements
 
-### 1. Business Context (Why)
-- Business objective (increase sales, brand awareness, etc.)
-- Target audience (demographics, psychographics, behaviors)
-- Competitive landscape
-- Key challenges/opportunities
-
-### 2. Campaign Requirements (What)
-- Primary message/value proposition
-- Desired action (click, purchase, sign-up, etc.)
-- Key performance indicators (KPIs)
-- Budget constraints
-- Timeline/deadlines
+## Common Pitfalls to Avoid
+- Vague objectives (\"increase brand awareness\")
+- Overly broad target audience
+- Missing measurement plan
+- No differentiation from competitors"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
