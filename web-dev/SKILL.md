@@ -1,21 +1,25 @@
 -e # Web Dev
 
-{"id":"54461a75-d209-408b-b3a4-cc982898e215","object":"chat.completion","created":1771530952,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web Development Brief
+{"id":"21aaa790-bcf2-4192-873d-6193e2cf62da","object":"chat.completion","created":1771540276,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web Development Briefs
 
-## Core Competencies
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), responsive design, accessibility (WCAG)
-- **Frameworks**: React/Vue/Angular (specify which)
-- **Backend**: Node.js/Python/PHP/Java (specify which)
-- **Database**: SQL (PostgreSQL/MySQL) or NoSQL (MongoDB)
-- **Version Control**: Git, GitHub/GitLab workflows
+## Purpose
+A structured brief template to capture essential project requirements, ensuring clarity between stakeholders and developers.
 
-## Technical Requirements
-- [ ] Cross-browser compatibility (Chrome, Firefox, Safari, Edge)
-- [ ] Mobile-first responsive design
-- [ ] Performance optimization (Core Web Vitals)
-- [ ] SEO best practices
-- [ ] Security considerations (HTTPS, input validation, XSS protection)
+## Core Components
 
-## Development Standards
-- **Code Quality**: ESLint/Prettier configuration
-- **Testing**: Unit tests (Jest/Vitest), E"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. Project Overview
+- **Project Name**: [Clear identifier]
+- **Goal**: [Primary objective in 1-2 sentences]
+- **Target Audience**: [Primary users/personas]
+
+### 2. Technical Requirements
+- **Stack Preferences**: [Frontend/Backend frameworks, CMS, etc.]
+- **Must-Have Features**: [Prioritized list]
+- **Integrations**: [APIs, third-party services, databases]
+- **Performance Needs**: [Load times, concurrent users, data volume]
+
+### 3. Design & Content
+- **Reference Sites**: [URLs for inspiration]
+- **Brand Guidelines**: [Colors, fonts, logo usage]
+- **Content Source**: [Who provides text/images/video]
+- **Responsive Requirements**: [Mobile/tablet/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

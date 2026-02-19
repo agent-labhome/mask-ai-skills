@@ -1,27 +1,27 @@
 -e # Development
 
-{"id":"f66f397a-c8a4-4f9d-9619-a445b3465e03","object":"chat.completion","created":1771530947,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Development Briefs
+{"id":"4cf79e6f-7d77-4c9c-b3b6-6a20abe7bba8","object":"chat.completion","created":1771540271,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Development Brief
 
 ## Purpose
-To create clear, actionable development briefs that align stakeholders and enable efficient execution.
+A concise development brief outlines project requirements, scope, and constraints to align stakeholders and guide development.
 
-## Core Principles
+## Core Components
+- **Project Overview**: Clear description of what's being built and why
+- **Objectives**: Specific, measurable goals and success criteria
+- **Scope**: Included features and explicit exclusions
+- **Technical Requirements**: Stack, integrations, performance needs
+- **Timeline**: Key milestones and delivery dates
+- **Constraints**: Budget, resources, and limitations
+- **Success Metrics**: How outcomes will be measured
 
-**Clarity Over Completeness**
-- Start with the essential \"why\" and \"what\"
-- Leave technical \"how\" to the development team
-- Use plain language, avoid jargon
+## Best Practices
+- Keep it brief (1-2 pages maximum)
+- Use clear, unambiguous language
+- Define acceptance criteria
+- Specify decision-makers and stakeholders
+- Include visual references when helpful
+- State assumptions explicitly
 
-**Actionable Scope**
-- Define concrete deliverables, not vague aspirations
-- Include acceptance criteria (what does \"done\" look like?)
-- Specify constraints (timeline, budget, dependencies)
-
-**Collaborative Foundation**
-- Briefs are starting points, not immutable decrees
-- Leave room for technical discovery and iteration
-- Identify key stakeholders and decision-makers
-
-## Essential Components
-
-1. **Objective** - The business/user problem we're solving
+## Common Pitfalls to Avoid
+- Vague requirements without concrete examples
+- Unprioritized feature lists
