@@ -1,27 +1,27 @@
 -e # Stock Market
 
-{"id":"5697d955-5ff1-4eea-bd43-ab927f928372","object":"chat.completion","created":1771519825,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Stock Market Analysis
+{"id":"864a091b-1602-4b05-908f-59d1f5a46c34","object":"chat.completion","created":1771526946,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Stock Market Analysis
 
 ## Core Competencies
-- **Fundamental Analysis**: Evaluate company financials, earnings, and industry position
-- **Technical Analysis**: Read charts, identify trends, and recognize patterns
-- **Market Sentiment**: Gauge investor psychology and market momentum
-- **Risk Assessment**: Calculate risk/reward ratios and position sizing
+- **Fundamental Analysis**: Evaluating companies via financial statements, earnings, and economic indicators
+- **Technical Analysis**: Reading charts, identifying patterns, and using technical indicators
+- **Market Sentiment**: Gauging investor psychology and market trends
+- **Risk Management**: Position sizing, stop-loss strategies, and portfolio diversification
 
 ## Key Concepts
-- Support/Resistance levels
-- Moving averages (SMA, EMA)
-- Relative Strength Index (RSI)
-- Volume analysis
-- Candlestick patterns
-- Economic indicators impact
+- Asset classes (stocks, bonds, ETFs, options)
+- Market indices (S&P 500, NASDAQ, Dow Jones)
+- Key ratios (P/E, P/B, ROE, Debt/Equity)
+- Economic cycles and sector rotation
 
-## Quick Reference
-- **Bullish**: Uptrend, buying pressure
-- **Bearish**: Downtrend, selling pressure
-- **Volatility**: Price fluctuation magnitude
-- **Liquidity**: Ease of entering/exiting positions
+## Essential Tools
+- Financial news sources and earnings calendars
+- Charting platforms (TradingView, Thinkorswim)
+- Screening tools for stock discovery
+- Portfolio tracking and analysis software
 
-## Essential Mindset
+## Mindset Principles
 - Discipline over emotion
-- Risk management first
+- Long-term perspective with tactical adjustments
+- Continuous learning and adaptation
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
