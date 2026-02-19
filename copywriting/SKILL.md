@@ -1,55 +1,27 @@
----
-name: copywriting
-description: 文案撰写助手 - 广告文案、标题、卖点
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $19
-categories:
-  - 营销
-  - 文案
-  - 广告
-platforms:
-  - 通用
----
+-e # Copywriting
 
-# Copywriting
+{"id":"bcecd545-1fd7-49d2-b064-b3bd8ec1aba4","object":"chat.completion","created":1771519022,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Copywriting Brief SKILL
 
-## 功能
+## Purpose
+A structured framework for creating effective copywriting briefs that align creative work with business objectives.
 
-专业广告文案生成。
+## Core Components
 
-## 使用场景
+### 1. Project Basics
+- **Project Name:** Clear identifier
+- **Client/Stakeholder:** Primary contact
+- **Due Date:** Timeline and milestones
 
-### 1. 广告文案
+### 2. Objective & Audience
+- **Primary Goal:** What should the copy achieve? (Awareness, conversion, education, etc.)
+- **Target Audience:** Demographics, psychographics, pain points, desires
+- **Key Message:** Single most important idea to communicate
 
-**输入:** 产品
+### 3. Content Specifications
+- **Format/Channel:** Where will this live? (Website, ad, email, social, etc.)
+- **Tone & Voice:** Brand personality guidelines
+- **Word Count/Length:** Any technical constraints
+- **Call-to-Action:** Desired user action
 
-**输出:**
-- 广告文案
-- 多个版本
-
-### 2. 标题生成
-
-**输入:** 内容
-
-**输出:**
-- 吸睛标题
-- SEO标题
-
-### 3. 卖点提炼
-
-**输入:** 产品
-
-**输出:**
-- 核心卖点
-- 差异化优势
-
-## 价格
-
-- 基础版: $19/月
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
+### 4. Strategic Context
+- **Competitive Landscape"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
