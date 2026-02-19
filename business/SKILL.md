@@ -1,25 +1,27 @@
 -e # Business
 
-{"id":"75a499d6-887d-43ff-97fb-afe4e21b91f8","object":"chat.completion","created":1771519809,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Briefs
+{"id":"7aef7978-e9f9-4500-9c59-0b1192d2ebc9","object":"chat.completion","created":1771526003,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Briefs
 
 ## Purpose
-To create concise, actionable business briefs that align stakeholders, communicate key information, and drive decisions.
+To communicate essential business information clearly, concisely, and effectively to busy stakeholders.
 
 ## Core Principles
-- **Clarity Over Completeness**: Prioritize the most critical information.
-- **Audience-First**: Tailor content to the reader's needs and context.
-- **Action-Oriented**: Every brief should lead to a clear next step.
-- **Succinct**: Typically 1 page or less.
 
-## Standard Structure (The 5 C's)
+**Clarity Over Completeness**
+- Lead with the main point (BLUF: Bottom Line Up Front)
+- Use plain language, avoid jargon
+- One idea per sentence/paragraph
 
-1.  **Context**
-    *   Why this brief? What problem/opportunity does it address?
-    *   Link to strategic goals or previous decisions.
+**Conciseness**
+- Maximum 1-2 pages for most briefs
+- Bullet points over paragraphs
+- Eliminate redundant words
 
-2.  **Core Objective**
-    *   The single, specific goal of this initiative or decision.
-    *   Use: \"To [action] in order to [desired outcome] by [timeframe].\"
+**Action-Oriented**
+- State purpose upfront
+- Include clear recommendations
+- Specify decisions needed
 
-3.  **Critical Information**
-    *   **Key Data"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Structure Template
+
+1. **Header**
