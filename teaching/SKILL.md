@@ -1,27 +1,16 @@
 -e # Teaching
 
-{"id":"8e87685a-a84f-4183-94ac-c90fca8e1781","object":"chat.completion","created":1771533124,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Teaching SKILL.md
+{"id":"19a42cff-8d76-437f-894c-a957d3416a5e","object":"chat.completion","created":1771541541,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Teaching
 
-## Core Principles
-- **Clarity First**: Simplify complex concepts into digestible parts
-- **Active Engagement**: Prioritize participation over passive listening
-- **Iterative Feedback**: Build in regular checkpoints for adjustment
-- **Scaffolded Learning**: Connect new knowledge to existing understanding
+**Core:** The ability to effectively transfer knowledge, skills, and understanding to others.
 
-## Key Techniques
-- **Chunking**: Break information into 7±2 unit segments
-- **Spaced Repetition**: Reinforce concepts at increasing intervals
-- **Metacognition**: Teach students how to monitor their own learning
-- **Differentiation**: Adapt methods for varied learning styles
+**Key Components:**
+*   **Clarity & Structure:** Organizing information logically and explaining complex ideas simply.
+*   **Engagement:** Captivating attention through storytelling, questions, and varied methods.
+*   **Adaptability:** Adjusting style, pace, and content to different learners and feedback.
+*   **Assessment & Feedback:** Gauging understanding and providing constructive guidance for improvement.
+*   **Empathy & Patience:** Creating a supportive environment where learners feel safe to try and fail.
 
-## Quick Wins
-- Start sessions with clear objectives
-- Use \"think-pair-share\" for instant engagement
-- End with concrete takeaways
-- Provide multiple pathways to demonstrate understanding
+**Manifests as:** Lesson planning, public speaking, mentoring, creating tutorials, leading workshops, simplifying concepts, active listening, and motivating others.
 
-## Avoid
-- Information overload in single sessions
-- Assuming one explanation fits all
-- Neglecting to check for understanding
-- Teaching content without context
+**Antonym:** Merely informing without regard for comprehension or engagement."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":168,"total_tokens":183,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

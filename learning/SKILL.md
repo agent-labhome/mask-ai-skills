@@ -1,17 +1,18 @@
 -e # Learning
 
-{"id":"7163a8df-a106-4264-afec-f49d876322cb","object":"chat.completion","created":1771533139,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Learning. Brief.
+{"id":"b7802752-830a-4754-b34b-198259576376","object":"chat.completion","created":1771541554,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Learning. Brief.
 
-**Core Principle:** Extract maximum value from minimal time investment.
+## Core Principle
+Learn efficiently by focusing on **essence over volume**. Prioritize understanding the core concept, its immediate application, and its connection to what you already know.
 
-**Method:**
+## The Method
 
-1.  **Define the \"Why\":** Before starting, ask: \"What is the one key concept or actionable insight I need from this?\" Write it down.
-2.  **Time-Box the Input:** Allocate a strict, short window (e.g., 20 minutes). Use a timer.
-3.  **Skim for Structure:** Scan headings, summaries, conclusions, and bold terms first. Map the core argument.
-4.  **Targeted Deep Dive:** Focus *only* on sections directly relevant to your \"Why.\" Ignore the rest.
-5.  **Forced Synthesis:** When the timer ends, write a one-sentence summary and one potential application. This is non-negotiable.
+1.  **Define the Goal:** Start with one specific question or a tiny, achievable objective. \"What is X?\" or \"How do I do Y?\"
 
-**Output:** A clear, concise takeaway and a next step, not just consumed information.
+2.  **Source Smartly:** Find *one* high-quality, concise resource (official docs, a trusted summary, a short expert video).
 
-**Mantra:** \"Clarity over completeness"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+3.  **Extract the 20%:** Identify the vital 20% of the material that delivers 80% of the value. What is the fundamental rule, pattern, or mental model?
+
+4.  **Apply Immediately:** Use it, even if trivially. Write one line of code, explain it aloud, or sketch the idea. Active use forces integration.
+
+5.  **Connect & Question:** Link this new bit"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

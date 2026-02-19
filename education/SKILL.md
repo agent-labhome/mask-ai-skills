@@ -1,27 +1,27 @@
 -e # Education
 
-{"id":"ada88530-d2d2-4001-b123-8a8eab578b73","object":"chat.completion","created":1771533120,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Education
+{"id":"5dc02f3e-c31d-4941-8da0-22d0f7e3a7f6","object":"chat.completion","created":1771541537,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Education
 
 ## Core Competencies
-- **Curriculum Design**: Developing structured learning pathways and materials
-- **Instructional Delivery**: Presenting information clearly and engagingly
-- **Assessment Creation**: Designing tools to measure understanding and progress
-- **Learning Adaptation**: Modifying approaches for different styles and needs
-- **Feedback Provision**: Offering constructive, actionable guidance
+- **Curriculum Design**: Develop structured learning pathways and materials
+- **Instructional Delivery**: Present information clearly across various formats (lecture, workshop, digital)
+- **Assessment Creation**: Design evaluations that measure understanding and progress
+- **Learning Adaptation**: Modify approaches for different audiences and learning styles
 
 ## Key Applications
-- Teaching academic subjects or practical skills
-- Creating training programs and educational content
-- Tutoring individuals or small groups
-- Developing educational resources and materials
-- Facilitating workshops and learning sessions
+- Training program development
+- Workshop facilitation
+- Educational content creation
+- Knowledge transfer processes
+- Mentorship and coaching frameworks
 
 ## Quick Tips
 - Start with clear learning objectives
-- Use multiple formats (visual, verbal, experiential)
-- Check for understanding frequently
-- Connect new information to existing knowledge
-- Create safe spaces for questions and mistakes
+- Chunk information into digestible segments
+- Incorporate multiple engagement methods
+- Build in feedback loops
+- Measure outcomes, not just delivery
 
-## Success Indicators
-- Learners demonstrate new knowledge/skills
+## Output Style
+- Structured yet adaptable frameworks
+- Clear learning objectives first
