@@ -2,7 +2,7 @@
 
 一次开发，持续收益的AI技能库。
 
-## 已发布的 Skills
+## 已发布的 Skills (12个)
 
 | # | Skill | 价格 | 功能 |
 |---|-------|------|------|
@@ -16,21 +16,29 @@
 | 8 | social-media-manager | $29 | 社交媒体运营 |
 | 9 | video-script-writer | $29 | 视频脚本 |
 | 10 | voice-storyteller | $19 | 语音故事 |
+| 11 | customer-service-ai | $39 | 智能客服 |
+| 12 | business-analyst | $49 | 商业分析 |
 
-**总潜在收入: $310/年**
+**总潜在收入: $398/年**
 
 ## 发布平台
 
 - ✅ GitHub: github.com/agent-labhome/mask-ai-skills
-- ⏳ Gumroad: 准备中
-- ⏳ SellAITool: 准备中
+- ⏳ Gumroad: 等待用户设置
+
+## 变现状态
+
+| 平台 | 状态 | 链接 |
+|------|------|------|
+| GitHub | ✅ 已发布 | github.com/agent-labhome/mask-ai-skills |
+| Gumroad | ⏳ 等待中 | - |
 
 ## 定价策略
 
 | 类型 | 价格 |
 |------|------|
 | 单技能 | $9-19 |
-| 全套(10个) | $49 |
+| 全套(12个) | $49 |
 | 企业版 | $99+ |
 
 ---
