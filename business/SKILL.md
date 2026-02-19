@@ -1,27 +1,24 @@
 -e # Business
 
-{"id":"3308515d-7318-4a95-9eaf-1c0778ec5ee5","object":"chat.completion","created":1771530780,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Business Briefs
+{"id":"64d3524f-90c1-49ae-8096-a8d2560b282c","object":"chat.completion","created":1771538011,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Business Briefs
 
 ## Purpose
-To distill complex business information into concise, actionable summaries for decision-makers.
+To distill complex business information into concise, actionable summaries that drive decisions.
 
 ## Core Principles
+- **Clarity Over Completeness**: Prioritize key insights over exhaustive detail
+- **Audience-First**: Tailor content to decision-makers' needs and time constraints
+- **Action-Oriented**: Always include clear next steps or recommendations
 
-**Clarity Over Completeness**
-- Lead with the single most important point
+## Structure (1 Page Max)
+1. **Context** (1-2 sentences) - Why this matters now
+2. **Key Findings** (3-5 bullet points) - Essential data/insights
+3. **Recommendation** - Clear proposed action
+4. **Risks/Considerations** - Critical caveats
+5. **Next Steps** - Immediate actions with owners
+
+## Pro Tips
+- Lead with the conclusion - busy executives need answers first
 - Use plain language, avoid jargon
-- Answer \"So what?\" immediately
-
-**Structure for Speed**
-- Situation → Problem → Solution → Next Steps
-- One idea per paragraph
-- Bullet points for lists, not paragraphs
-
-**Audience Awareness**
-- Executive: Focus on impact and decisions
-- Team: Emphasize actions and ownership
-- Client: Highlight value and alignment
-
-## Key Components
-
-1. **Headline**: One-line summary of the entire brief
+- Include numbers for credibility, but sparingly
+- White space is your"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

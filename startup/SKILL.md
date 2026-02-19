@@ -1,25 +1,26 @@
 -e # Startup
 
-{"id":"a1d58983-772a-42ba-8dd5-005da6c63323","object":"chat.completion","created":1771530775,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md – Startup Brief
+{"id":"5ab1ffe0-fcb6-45db-aeb1-22b20a6657d4","object":"chat.completion","created":1771538007,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md – Startup Brief
 
 ## Purpose
-A concise, actionable startup brief that aligns the team, clarifies the core idea, and defines early success metrics.
+A concise, actionable document that captures the core of a startup idea in under 5 minutes.
 
-## Structure (Keep it to one page)
+## Structure
 
-**1. Problem**
-- Who experiences this pain point?
-- How acute is it? (Frequency, severity, alternatives)
-- *Example: \"Early-stage founders waste 15+ hours/week manually aggregating investor data from scattered sources.\"*
+### 1. The Problem (1-2 sentences)
+*   What specific pain point exists?
+*   Who feels it most acutely?
+*   Why is the current solution inadequate?
 
-**2. Solution**
-- Core product/service in one sentence.
-- Key differentiator (10x better, faster, cheaper, simpler).
-- *Example: \"A unified platform that auto-aggregates and updates investor profiles, saving 90% of research time.\"*
+### 2. The Solution (1-2 sentences)
+*   What is your product/service?
+*   How does it directly solve the problem?
+*   What is the core value proposition?
 
-**3. Target Customer**
-- Primary early adopter persona (be specific).
-- Where do they congregate online/offline?
-- *Example: \"First-time tech founders in Seed to Series A, active on LinkedIn and specific Slack communities.\"*
+### 3. The Market (1 sentence)
+*   Who is the target customer? (Be specific)
+*   What is the total addressable market (TAM) or relevant benchmark?
 
-**4."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 4. The Secret / Why Now (1 sentence)
+*   What's your unique insight or unfair advantage?
+*   Why will this work *now* (technology, trend, regulation)?
