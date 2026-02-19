@@ -1,27 +1,27 @@
 -e # TikTok
 
-{"id":"2b2c379e-da77-48c4-9c7e-0ca741cdef83","object":"chat.completion","created":1771530575,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok SKILL.md
+{"id":"55632bda-6546-486a-a987-89d9b1d8e30c","object":"chat.completion","created":1771537850,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok SKILL.md
 
 ## Purpose
-Create and edit TikTok-style short videos with music, effects, and text.
+Create and manage TikTok content directly from your workflow.
 
-## Capabilities
-- Generate video ideas based on trends or prompts
-- Add popular audio/soundtracks to videos
-- Apply visual effects and filters
-- Overlay text and captions
-- Suggest trending hashtags
-- Optimize video length for platform (15-60 seconds)
+## Key Commands
+- `post to tiktok` - Upload a video with caption and hashtags
+- `schedule tiktok` - Schedule posts for optimal timing
+- `check analytics` - View video performance metrics
+- `trending sounds` - Discover popular audio clips
+- `draft ideas` - Generate content concepts based on trends
 
-## Best For
-- Short, engaging vertical videos
-- Trend participation and challenges
-- Quick tutorials or tips
-- Behind-the-scenes content
-- Meme-style entertainment
+## File Support
+- Videos: MP4, MOV (9:16 aspect ratio recommended)
+- Captions: Auto-generate or custom text
+- Hashtags: Auto-suggest or manual entry
 
-## Constraints
-- Keep videos brief (under 60 seconds)
-- Prioritize visual appeal over detailed explanations
-- Use trending audio when relevant
-- Include clear captions (many watch without sound)
+## Best Practices
+- Keep videos under 60 seconds
+- Use trending sounds when relevant
+- Post during peak hours (6-10 PM local)
+- Engage with comments promptly
+
+## Notes
+- Requires TikTok Creator Account

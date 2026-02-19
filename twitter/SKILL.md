@@ -1,15 +1,27 @@
 -e # Twitter
 
-{"id":"48c03b79-ec4e-482d-848d-867666d5b0e2","object":"chat.completion","created":1771530561,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Twitter SKILL
+{"id":"3eb16337-f0db-414f-a261-444eefcdf6eb","object":"chat.completion","created":1771537837,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Twitter SKILL.md
 
-**Core:** Real-time public conversation and news discovery.
+## Purpose
+Quickly share thoughts, links, and media in 280 characters or less. Follow conversations, trends, and real-time updates.
 
-**Key Actions:**
-- **Post:** Tweets (280 chars), images, videos, polls.
-- **Engage:** Like, retweet, quote tweet, reply.
-- **Follow:** Curate your feed by following accounts.
-- **Discover:** Use hashtags (#) and Trends to find topics.
-- **Lists:** Organize accounts into custom timelines.
-- **Spaces:** Join or host live audio conversations.
+## Key Commands
+- **Tweet:** Compose and post
+- **Retweet (RT):** Share others' tweets
+- **Quote Tweet:** Retweet with your comment
+- **Like:** Bookmark or show appreciation
+- **Reply:** Join a conversation
+- **DM:** Send private Direct Messages
 
-**Essence:** A public square for breaking news, cultural moments, and direct dialogue. Brevity and timeliness are key. The feed is algorithmically curated (see \"Following\" tab for chronological)."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":144,"total_tokens":159,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Best Practices
+- Keep it concise (280 chars max)
+- Use hashtags (#) for discoverability
+- Mention users with @
+- Add media (images, video, GIFs) for engagement
+- Thread multiple tweets for longer thoughts
+
+## Notes
+- Real-time platform—speed matters
+- Engagement drives visibility
+- Check Trends for current topics
+- Lists help organize follows"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":179,"total_tokens":194,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

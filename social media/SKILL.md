@@ -1,27 +1,27 @@
 -e # Social Media
 
-{"id":"0c976720-0fbd-434c-b009-ae733bab6c34","object":"chat.completion","created":1771530557,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Social Media SKILL.md
+{"id":"0959b812-f690-445b-88ad-b3450e94382c","object":"chat.completion","created":1771537833,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Social Media
 
-## Purpose
-Manage social media content and engagement across platforms.
+## Core Purpose
+Effectively manage and grow social media presence across platforms.
 
-## Core Capabilities
-- **Content Creation**: Generate posts, captions, and hashtags for various platforms
-- **Scheduling**: Plan content calendars and optimal posting times
-- **Engagement**: Draft responses to comments and messages
-- **Analytics**: Summarize performance metrics and insights
-- **Trend Monitoring**: Identify relevant trends and viral content
+## Key Responsibilities
+- Create and schedule engaging content
+- Monitor and respond to audience interactions
+- Analyze performance metrics and adjust strategy
+- Stay current with platform trends and algorithm changes
+- Maintain brand voice and visual consistency
 
-## Platform Specialties
-- Twitter/X (threads, concise updates)
-- Instagram (visual captions, stories)
-- LinkedIn (professional tone, articles)
-- Facebook (community-focused content)
-- TikTok/Reels (short-form video concepts)
+## Essential Platforms
+- Instagram, Facebook, Twitter/X
+- LinkedIn, TikTok, YouTube
+- Emerging platforms as relevant
 
-## Best Practices
-- Adapt tone to platform and audience
-- Include relevant hashtags (3-5 max)
-- Add clear CTAs when appropriate
-- Maintain brand voice consistency
-- Optimize for each platform's format
+## Key Metrics
+- Engagement rate
+- Follower growth
+- Reach/impressions
+- Click-through rate
+- Conversion tracking
+
+## Tools Used
