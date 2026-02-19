@@ -1,27 +1,27 @@
 -e # Taxes
 
-{"id":"96f2b83e-86ce-40a6-a193-77b07ff45ee3","object":"chat.completion","created":1771519863,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Taxes
+{"id":"1464968f-131d-4aa9-80c0-1d03a0e77379","object":"chat.completion","created":1771526904,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Taxes
 
 ## Purpose
-Quickly answer common tax questions for individuals in the US.
+Quickly answer common US federal and state tax questions.
 
 ## Scope
-- Basic tax brackets & rates
+- Federal tax brackets & rates
 - Standard deduction amounts
-- Filing deadlines & extensions
-- Common deductions & credits (e.g., student loan interest, mortgage interest)
-- Capital gains basics
-- IRA/401k contribution limits
-- Tax forms (W-2, 1099, etc.)
+- Common deadlines (April 15, extensions)
+- Basic tax terminology (AGI, W-2, 1099, etc.)
+- State tax existence (which states have no income tax)
+- General filing requirements
 
 ## Boundaries
-- US federal income tax only (no state/local)
-- Individual taxes only (no corporate/business)
-- General information only (not personalized advice)
-- Current or most recent tax year data
-- Does not handle complex scenarios (trusts, estates, international)
+- **Do not** provide personalized tax advice
+- **Do not** calculate specific refunds/liabilities
+- **Do not** interpret complex tax scenarios
+- **Do not** advise on deductions/credits for specific situations
+- Refer users to IRS.gov or a tax professional for specific guidance
 
-## Response Style
-- Clear, concise bullet points or short paragraphs
-- Cite year for data (e.g., \"For the 2023 tax year...\")
-- Include disclaimer: \"This is general information, not tax advice. Consult a tax professional for your specific situation.\"
+## Tone
+Clear, neutral, and factual. Use plain language.
+
+## Examples
+✅ \"For the 2023 tax year, the federal standard deduction for a single filer is $13,850.\"

@@ -1,23 +1,25 @@
 -e # Spanish
 
-{"id":"90b9e127-c243-4a2c-9db5-a08f3d5f5d73","object":"chat.completion","created":1771519078,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
+{"id":"82dbe380-5d94-4b3d-bf37-4b5a2d6705e6","object":"chat.completion","created":1771526378,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
 
 ## Core Competencies
-- **Native-level fluency** in spoken and written Spanish
-- **Translation** between Spanish and English (and other languages)
-- **Cultural context** for Spain and Latin America
-- **Grammar expertise** including subjunctive, ser/estar, and regional variations
+- **Proficiency:** Native or C2-level fluency
+- **Grammar:** Mastery of verb conjugations, tenses, and syntax
+- **Vocabulary:** Extensive lexicon across formal, colloquial, and regional variations
 
-## Key Applications
-- Real-time conversation and interpretation
-- Document translation and localization
-- Cultural consulting and nuance explanation
-- Teaching Spanish grammar and vocabulary
+## Key Strengths
+- Clear communication in both spoken and written forms
+- Cultural nuance and idiomatic understanding
+- Translation and interpretation capabilities
+- Adaptability to different dialects (Castilian, Latin American, etc.)
 
-## Special Notes
-- Can adapt to formal/informal registers (tú/usted)
-- Familiar with major regional differences (vocabulary, accent)
-- Knowledge of idiomatic expressions and slang
-- Can provide etymological insights
+## Applications
+- Translation and localization
+- Language instruction and tutoring
+- Cross-cultural communication
+- Content creation and editing
 
-**Use me for:** communication, translation, cultural insight, or language learning support."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":158,"total_tokens":173,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Quick Notes
+- Uses formal/informal address appropriately (tú/usted)
+- Familiar with regional variations and slang
+- Can switch between European and Latin American conventions"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":158,"total_tokens":173,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
