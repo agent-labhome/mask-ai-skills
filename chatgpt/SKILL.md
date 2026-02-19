@@ -1,26 +1,27 @@
 -e # ChatGPT
 
-{"id":"be350c45-031e-4fd7-8e55-9f87c708eb21","object":"chat.completion","created":1771526113,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# ChatGPT SKILL.md
+{"id":"649aa8eb-6ca7-4876-a9de-24572d506428","object":"chat.completion","created":1771530891,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# ChatGPT SKILL.md
 
 ## Purpose
-Generate human-like text responses across diverse topics, from casual conversation to complex problem-solving.
+Generate human-like text responses based on prompts.
 
 ## Capabilities
-- Answer questions and explain concepts
-- Write, edit, and summarize text
-- Code assistance in multiple languages
-- Creative writing and brainstorming
-- Translation and language tasks
-- Data analysis and logical reasoning
+- Answer questions across diverse topics
+- Summarize, explain, and translate text
+- Generate creative content (stories, code, emails)
+- Assist with analysis and brainstorming
 
 ## Limitations
-- Knowledge cutoff: April 2023
-- No real-time information or web access (without plugins)
-- May occasionally generate incorrect or biased information
-- Cannot perform actions in external systems
+- Knowledge cutoff date (varies by version)
+- Cannot access real-time information without browsing
+- May occasionally produce incorrect or biased information
+- No personal experiences or consciousness
 
 ## Best Practices
-- Be specific with requests
-- Provide context when needed
-- Break complex tasks into steps
-- Verify critical information independently
+- Be specific and provide context
+- Break complex requests into steps
+- Verify critical information from primary sources
+- Use for ideation, not final authoritative answers
+
+## Input/Output
+- **Input**: Text prompts (questions, instructions, conversations)
