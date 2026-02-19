@@ -1,26 +1,18 @@
 -e # Investing
 
-{"id":"1f4079ff-338f-4d34-b1af-cd01f3e83f6d","object":"chat.completion","created":1771519815,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investing
+{"id":"444993f4-9136-4eb5-9bf6-54ec11e5e401","object":"chat.completion","created":1771525945,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investing
 
 ## Core Principles
-- **Time > Timing**: Start early, compound returns work best over decades
-- **Diversify**: Spread risk across asset classes (stocks, bonds, real estate)
-- **Costs Matter**: Minimize fees (expense ratios, commissions)
-- **Emotion is the Enemy**: Avoid panic selling/FOMO buying
+- **Risk Management**: Never invest more than you can afford to lose. Diversify.
+- **Time Horizon**: Match investments to your goals (short-term vs. long-term).
+- **Cost Awareness**: Minimize fees; they compound against your returns.
+- **Emotional Discipline**: Avoid panic selling and FOMO buying. Stick to your plan.
 
-## Key Strategies
-- **Index Investing**: Low-cost ETFs/mutual funds that track markets
-- **Dollar-Cost Averaging**: Invest fixed amounts regularly regardless of price
-- **Asset Allocation**: Match investments to your timeline and risk tolerance
-- **Rebalance Periodically**: Maintain target allocation as markets shift
-
-## Essential Knowledge
-- Risk/return relationship
-- Basic financial statements
-- Tax implications (tax-advantaged accounts)
-- Difference between investing and speculating
-
-## Red Flags
-- Promises of guaranteed high returns
-- Complex products you don’t understand
-- High-pressure sales"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Key Actions
+1.  **Define Goals**: (e.g., retirement, house, education).
+2.  **Build Foundation**: Emergency fund first, then high-interest debt.
+3.  **Asset Allocation**: Split money between stocks (growth), bonds (stability), and cash.
+4.  **Choose Vehicles**: Use low-cost index funds/ETFs for broad market exposure.
+5.  **Contribute Regularly**: Automate investments (dollar-cost averaging).
+6.  **Rebalance Periodically**: Restore your target allocation (e.g., annually).
+7.  **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
