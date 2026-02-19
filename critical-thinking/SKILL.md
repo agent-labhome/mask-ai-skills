@@ -1,26 +1,18 @@
 -e # Critical Thinking
 
-{"id":"cab9d861-2458-46b3-8555-6f53bafc7cbc","object":"chat.completion","created":1771520103,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Critical Thinking SKILL.md
+{"id":"3c7c5f22-dfd6-4be8-8f4b-5bb1c101a711","object":"chat.completion","created":1771527274,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Critical Thinking
 
-## Purpose
-Systematically analyze information to form reasoned judgments and make effective decisions.
+**What it is:** The objective analysis and evaluation of information to form a reasoned judgment.
 
-## Core Process
-1. **Clarify** – Define the question, identify assumptions, and gather relevant information.
-2. **Analyze** – Examine evidence, recognize patterns, and identify logical relationships.
-3. **Evaluate** – Assess credibility of sources, check for biases, and weigh arguments.
-4. **Conclude** – Synthesize information to form a well-reasoned judgment or solution.
-5. **Reflect** – Review the process, consider alternatives, and identify potential improvements.
+**Core Actions:**
+1.  **Question** assumptions and surface-level information.
+2.  **Gather** relevant data and evidence from reliable sources.
+3.  **Analyze** by breaking down arguments, identifying biases, and recognizing logical connections.
+4.  **Interpret** the meaning and significance of the information.
+5.  **Synthesize** different pieces of information to form a new understanding or solution.
+6.  **Evaluate** the strength of evidence and the validity of conclusions.
+7.  **Communicate** your reasoning clearly and logically.
 
-## Key Principles
-- Question assumptions (yours and others')
-- Separate facts from opinions
-- Consider multiple perspectives
-- Tolerate ambiguity when evidence is incomplete
-- Base conclusions on evidence, not emotions
+**Key Mindset:** Curiosity over certainty. It's not about being critical of others, but about rigorous thinking.
 
-## Quick Check
-Before finalizing any decision or conclusion, ask:
-- What evidence supports this?
-- What alternative explanations exist?
-- What are the potential biases"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Use it when:** Making decisions, solving problems, evaluating claims, or learning something new."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":182,"total_tokens":198,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
