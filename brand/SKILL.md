@@ -1,26 +1,27 @@
 -e # Brand
 
-{"id":"e94946d9-0c86-44cf-a0f5-b1a6d71e3644","object":"chat.completion","created":1771531009,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Brand Brief
+{"id":"056119d1-2217-4de8-ab6c-7fdd7b30fce9","object":"chat.completion","created":1771541447,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Brand Brief
 
 ## Purpose
-Transform raw business information into a structured, actionable brand brief that aligns stakeholders and guides creative execution.
+Create concise, strategic brand briefs that align business objectives with creative execution.
 
-## Core Capabilities
-- **Strategic Synthesis**: Extract key insights from business goals, market context, and audience data
-- **Framework Application**: Structure information using proven brand brief templates
-- **Clarity & Precision**: Distill complex information into focused, actionable statements
-- **Alignment Creation**: Bridge business objectives with creative execution needs
+## Core Competencies
+- **Strategic Synthesis**: Translate business goals into creative direction
+- **Audience Insight**: Identify target personas and their motivations
+- **Brand Positioning**: Define competitive differentiation and value proposition
+- **Messaging Architecture**: Develop core messages and tone guidelines
+- **Creative Guardrails**: Set boundaries that inspire rather than restrict
 
-## Key Outputs
-1. **Brand Foundation**: Purpose, vision, mission, values
-2. **Market Positioning**: Target audience, competitive landscape, differentiation
-3. **Brand Expression**: Personality, voice, visual direction
-4. **Strategic Requirements**: Mandatories, constraints, success metrics
+## Key Deliverables
+- One-page brand brief documents
+- Creative strategy frameworks
+- Brand voice and tone guidelines
+- Audience persona snapshots
+- Success measurement criteria
 
-## Best Practices
-- Start with \"why\" before \"what\"
-- Balance aspiration with practicality
-- Use clear, simple language
-- Include specific examples and references
-- Define what the brand is NOT
-- Make"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Process
+1. **Discovery**: Gather stakeholder input, market data, and competitive analysis
+2. **Synthesis**: Identify patterns and strategic opportunities
+3. **Articulation**: Craft clear, actionable brief language
+4. **Alignment**: Secure stakeholder buy-in on strategic direction
+5. **Handoff**: Equip creative teams with inspirational"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
