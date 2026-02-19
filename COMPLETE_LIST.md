@@ -1,4 +1,4 @@
-# Mask AI Skills - 25 Skills Complete!
+# Mask AI Skills - 71 Skills Complete!
 
 ## Complete List
 
@@ -28,16 +28,64 @@
 | 22 | homework-helper | 教育 | $29 |
 | 23 | pet-care | 宠物 | $19 |
 | 24 | stock-analyst | 股票 | $49 |
+| 25 | seo-audit | SEO | $29 |
+| 26 | twitter-manager | Twitter | $29 |
+| 27 | twitter-growth | Twitter增长 | $39 |
+| 28 | linkedin-manager | LinkedIn | $29 |
+| 29 | linkedin-outreach | LinkedIn开发 | $39 |
+| 30 | instagram-manager | Instagram | $29 |
+| 31 | instagram-growth | Instagram增长 | $39 |
+| 32 | youtube-manager | YouTube | $39 |
+| 33 | youtube-growth | YouTube增长 | $49 |
+| 34 | podcast-host | 播客 | $29 |
+| 35 | podcast-producer | 播客制作 | $39 |
+| 36 | cold-email | 冷邮件 | $29 |
+| 37 | affiliate-marketer | 联盟营销 | $39 |
+| 38 | amazon-seller | 亚马逊 | $49 |
+| 39 | etsy-shop | Etsy | $39 |
+| 40 | kindle-publishing | Kindle出版 | $39 |
+| 41 | sales-closer | 销售成交 | $49 |
+| 42 | startup-advisor | 创业顾问 | $59 |
+| 43 | pitch-deck | 商业计划书 | $49 |
+| 44 | saas-founder | SaaS创始人 | $59 |
+| 45 | brand-identity | 品牌设计 | $39 |
+| 46 | idea-generator | 创意生成 | $29 |
+| 47 | summarizer | 摘要助手 | $19 |
+| 48 | translator | 翻译 | $19 |
+| 49 | code-debugger | 代码调试 | $39 |
+| 50 | calendar | 日历 | $19 |
+| 51 | notepad | 笔记 | $19 |
+| 52 | password-manager | 密码管理 | $19 |
+| 53 | weather | 天气 | $19 |
+| 54 | tmux | 终端 | $19 |
+| 55 | tavily-search | 搜索 | $19 |
+| 56 | mental-health | 心理健康 | $29 |
+| 57 | interview-prep | 面试准备 | $29 |
+| 58 | event-planner | 活动策划 | $29 |
+| 59 | competitor-analysis | 竞品分析 | $39 |
+| 60 | content-strategy | 内容策略 | $39 |
+| 61 | copywriting | 文案撰写 | $29 |
+| 62 | copywriter | 专业文案 | $39 |
+| 63 | newsletter-writer | Newsletter | $29 |
+| 64 | ai-agent-developer | Agent开发 | $49 |
+| 65 | ai-automation | 自动化 | $39 |
+| 66 | automation-consultant | 咨询 | $39 |
+| 67 | shopify-seller | Shopify | $39 |
+| 68 | tiktok-manager | TikTok | $39 |
+| 69 | discord-manager | Discord | $39 |
+| 70 | gumroad-seller | Gumroad | $29 |
+| 71 | notion-template | Notion | $29 |
 
-**Total Potential Revenue: $623/year**
+**Total Skills: 71**
+**Total Potential Revenue: $1,420/year**
 
 ---
 
 ## Product Info
 
-- **Product Name**: Mask AI Skills Bundle
+- **Product Name**: Mask AI Skills Bundle (71 Skills)
 - **Price**: $49 (one-time)
-- **Original Value**: $623/year
+- **Original Value**: $1,420/year
 - **Gumroad**: https://xalliance.gumroad.com/l/mcybyu
 - **GitHub**: https://github.com/agent-labhome/mask-ai-skills
 
