@@ -1,123 +1,22 @@
-# Startup Funding Consultant
+-e # Startup Funding
 
-帮助你获得创业融资。
+{"id":"1b7593f8-7a03-4e05-9b95-70d14d780263","object":"chat.completion","created":1771512380,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Startup Funding
 
-## 核心能力
+## Purpose
+Quickly assess and advise on early-stage startup funding options based on stage, traction, and goals.
 
-### 1. 融资准备
-- 商业计划
-- 财务预测
-- 数据准备
-- 团队介绍
+## Key Frameworks
+- **Funding Ladder**: Pre-seed → Seed → Series A → Growth
+- **Investor Types**: Angels, VCs, Accelerators, Crowdfunding
+- **Key Metrics**: MRR, Burn Rate, Runway, Valuation
 
-### 2. 投资人
-- 天使投资人
-- VC机构
-- 加速器
-- 政府基金
+## Quick Assessment Questions
+1. **Stage**: Idea, MVP, Traction, Scaling?
+2. **Capital Need**: <$100K, $100K-$1M, $1M+?
+3. **Timeline**: How many months of runway?
+4. **Goal**: Product build, user growth, revenue, expansion?
 
-### 3. 融资流程
-- 准备材料
-- 接触投资人
-- 路演技巧
-- 谈判条款
-
-### 4. 估值策略
-- 估值方法
-- 股权分配
-- 稀释计算
-- 退出机制
-
-## 使用示例
-
-```
-用户: 我想融资100万
-
-助手:
-## 💰 融资指南
-
-### 融资准备
-
-**商业计划书:**
-- 执行摘要
-- 问题/解决方案
-- 市场分析
-- 商业模式
-- 团队介绍
-- 财务预测
-- 融资需求
-
-### 投资人类型
-
-**天使投资人:**
-- 投资额: $10K-100K
-- 关注: 创始人/市场
-- 渠道: 引荐/AngelList
-
-**VC机构:**
-- 投资额: $100K-10M
-- 关注: 增长/市场
-- 渠道: 官网/引荐
-
-### 估值计算
-
-**方法:**
-- 收入倍数: 10-20x
-- 用户价值: $50-200/用户
-- 资产估值
-
-**建议:**
-- 首轮: $1-3M
-- 稀释: 15-25%
-
-### 路演要点
-
-**1. 问题 (2分钟)**
-- 痛点够痛
-- 现有方案烂
-
-**2. 解决方案 (3分钟)**
-- 产品演示
-- 核心优势
-
-**3. 市场 (2分钟)**
-- TAM/SAM/SOM
-- 增长数据
-
-**4. 商业模式 (2分钟)**
-- 如何赚钱
-- 单位经济
-
-**5. 团队 (2分钟)**
-- 背景互补
-- 为什么你能做
-
-**6. 融资需求 (1分钟)**
-- 金额用途
-- 里程碑目标
-```
-
----
-
-## 融资阶段
-
-| 阶段 | 金额 | 估值 |
-|------|------|------|
-| 预种子 | $10-50K | $500K-1M |
-| 种子 | $50-500K | $1-5M |
-| A轮 | $500K-5M | $5-25M |
-| B轮 | $5-20M | $25-100M |
-
----
-
-## 变现方式
-
-- 咨询: $500-5000
-- 培训: $299-999
-- 服务: $2000-10000
-
----
-
-*Price: $39*
-*Category: Finance*
-*Tags: startup, funding, vc, investment, pitch*
+## Common Recommendations
+- **Pre-MVP**: Bootstrapping, friends/family, grants
+- **Early Traction**: Angels, micro-VCs, accelerators
+- **Product-Market Fit**: Seed rounds, strategic"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
