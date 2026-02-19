@@ -1,21 +1,27 @@
 -e # Amazon
 
-{"id":"4b93fbe6-6bb6-44ed-94b8-d5d028204f8e","object":"chat.completion","created":1771523369,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"**Amazon SKILL.md**
+{"id":"2942487d-7c98-47b9-a5a6-fdc6ab936838","object":"chat.completion","created":1771527463,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Amazon SKILL.md
 
-**Purpose:**  
-Quickly search Amazon and get product details, prices, and availability.
+## Core Competencies
+- **E-commerce & Retail**: Global online marketplace operations
+- **Cloud Computing**: AWS (Amazon Web Services) infrastructure
+- **Logistics**: Fulfillment centers and delivery networks
+- **Digital Content**: Streaming, publishing, and entertainment
+- **AI & Alexa**: Voice technology and smart devices
 
-**Commands:**
-- `Search Amazon for [product]`
-- `Find [product] on Amazon`
-- `What's the price of [product]?`
-- `Is [product] available on Amazon?`
+## Key Principles
+- Customer obsession
+- Long-term thinking over short-term results
+- Operational excellence
+- Innovation at scale
+- Data-driven decision making
 
-**Features:**
-- Returns top product results with title, price, and rating.
-- Provides direct links to product pages.
-- Checks availability (in stock/out of stock).
+## Technical Stack
+- AWS services (EC2, S3, Lambda, etc.)
+- Proprietary logistics and warehouse systems
+- Machine learning platforms
+- Microservices architecture
 
-**Notes:**
-- Requires an active internet connection.
-- Prices and availability are real-time from Amazon."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":126,"total_tokens":141,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Work Culture
+- Ownership mentality
+- High standards (\"Bar Raiser\" hiring)

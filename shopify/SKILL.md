@@ -1,27 +1,23 @@
 -e # Shopify
 
-{"id":"e476de68-6681-4192-9004-e218a80ab087","object":"chat.completion","created":1771523363,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Shopify SKILL.md
+{"id":"ca9a5b4b-5689-4e40-86fc-c7920a7b008a","object":"chat.completion","created":1771527459,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Shopify SKILL.md
 
 ## Core Competencies
-- **Store Setup & Configuration**: Theme selection, product catalog, payment gateways, shipping settings
-- **Liquid Templating**: Customizing themes, creating sections, modifying layouts
-- **App Integration**: Installing/configuring apps from Shopify App Store
-- **Checkout Customization**: Using checkout.liquid, customizing order processing
-- **Store Management**: Inventory, orders, customers, analytics
+- **Store Setup & Configuration** – Theme selection, product imports, payment/shipping setup
+- **Liquid Templating** – Customizing themes, creating sections, modifying layouts
+- **App Integration** – Installing/configuring apps from Shopify App Store
+- **Custom Development** – Building custom apps, modifying checkout (Checkout Extensibility)
+- **Store Management** – Inventory, orders, customers, analytics
 
 ## Key Tools
-- **Shopify Admin**: Primary management interface
-- **Theme Editor**: Visual theme customization
-- **Shopify CLI**: Local development workflow
-- **GraphQL Admin API**: Advanced data operations
-- **Metafields**: Custom data storage
-
-## Development Notes
-- Always use Shopify CDN for assets
-- Follow responsive design principles
-- Test across devices before deployment
-- Use Shopify's built-in SEO features
-- Implement proper analytics tracking
+- **Shopify CLI** – Local development workflow
+- **Theme Kit** – Theme development and deployment
+- **GraphQL Admin API** – For custom app development
+- **Shopify Polaris** – Design system for admin apps
+- **Online Store 2.0** – JSON templates, app blocks, metafields
 
 ## Common Tasks
-- Theme customization and deployment
+- Migrating stores to Shopify
+- Building custom storefronts with Hydrogen/Remix
+- Implementing headless commerce solutions
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
