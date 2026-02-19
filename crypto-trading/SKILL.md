@@ -1,56 +1,26 @@
-# Crypto Trading Expert
+-e # Crypto Trading
 
-帮助你了解加密货币交易。
+{"id":"13352ac8-1c23-4241-9189-b5eabdaa0954","object":"chat.completion","created":1771516431,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Crypto Trading
 
-## 核心能力
+## Core Competencies
+- **Technical Analysis**: Chart reading, indicators (RSMA, Bollinger Bands, volume)
+- **Risk Management**: Position sizing, stop-loss placement, portfolio allocation
+- **Market Fundamentals**: Understanding tokenomics, news impact, macroeconomic factors
+- **Exchange Proficiency**: Order types (limit, market, OCO), wallet management
 
-### 1. 基础
-- 交易所
-- 钱包
-- 私钥
+## Key Tools
+- Trading platforms (Binance, Coinbase Pro, etc.)
+- Charting software (TradingView)
+- Portfolio trackers
+- News aggregators & on-chain analytics
 
-### 2. 技术分析
-- K线
-- 均线
-- 支撑阻力
+## Mindset
+- Emotional discipline (FOMO/Greed control)
+- Adaptability to 24/7 market volatility
+- Continuous learning (DeFi, new protocols)
+- Security-first approach (self-custody, 2FA)
 
-### 3. 策略
-- 现货
-- 合约
-- 套利
-
-### 4. 风险管理
-- 仓位
-- 止损
-- 心态
-
-## 使用示例
-
-用户: 想学炒币
-
-助手:
-## 💹 加密货币指南
-
-### 交易所
-
-**CEX:**
-- Binance
-- Coinbase
-- OKX
-
-**DEX:**
-- Uniswap
-- Raydium
-
-### 基础指标
-
-- MA (均线)
-- RSI (相对强弱)
-- MACD
-- Bollinger Bands
-
-### 风险管理
-
-- 止损: -10%
-- 止盈: +20%
-- 仓位: <10%
+## Quick Principles
+1. Never invest more than you can lose
+2. Plan every trade (entry/exit/targets)
+3. Keep records"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
