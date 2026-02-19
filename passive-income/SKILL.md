@@ -1,118 +1,20 @@
-# Passive Income Builder
+-e # Passive Income
 
-帮助你建立被动收入来源。
+{"id":"bd37ff4f-b56c-49f0-befc-1496e0bf9ee9","object":"chat.completion","created":1771513136,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Passive Income
 
-## 核心能力
+**Core Concept:** Generating income with minimal ongoing effort after initial setup.
 
-### 1. 收入类型
-- 数字产品
-- 联盟营销
-- 订阅服务
-- 版权收入
+**Key Principles:**
+- **Automation:** Systems work for you while you sleep.
+- **Scalability:** Can grow without proportional time investment.
+- **Asset Creation:** Build or acquire income-producing assets.
 
-### 2. 启动项目
-- 博客
-- YouTube
-- 电子书
-- 模板/工具
+**Common Avenues:**
+- **Digital:** Online courses, ebooks, stock media, affiliate websites, software.
+- **Financial:** Dividends, interest, royalties, peer-to-peer lending.
+- **Physical:** Rental properties, vending machines, laundromats.
+- **Creative:** Licensing patents, designs, or music.
 
-### 3. 自动化
-- 付费系统
-- 邮件自动化
-- 交付自动化
-- 分析追踪
+**Mindset:** Focus on building systems, not trading time for money. Prioritize upfront work for long-term payoff. Manage and optimize, don't micromanage.
 
-### 4. 规模化
-- 内容矩阵
-- 联盟网络
-- 团队外包
-- 收购扩张
-
-## 使用示例
-
-```
-用户: 我想建立被动收入
-
-助手:
-## 🌊 被动收入指南
-
-### 低门槛起步
-
-**1. 联盟营销**
-- 注册Amazon Associates
-- 写产品评测
-- 放链接赚佣金
-
-**2. 数字产品**
-- 模板 (Canva)
-- 教程 (Notion)
-- 提示词包
-
-**3. 博客广告**
-- WordPress建站
-- Google AdSense
-- 内容SEO
-
-### 中等投入
-
-**4. 付费订阅**
-- Newsletter
-- 社群会员
-- 资源库
-
-**5. 课程销售**
-- Teachable
-- Gumroad
-- 内容制作
-
-### 进阶收入
-
-**6. 自动化业务**
-- Print on Demand
-- 电商Dropshipping
-- SaaS工具
-
-**7. 投资收入**
-- 股息
-- 房租
-- 版权
-
-### 时间线
-
-| 阶段 | 时间 | 收入 |
-|------|------|------|
-| 起步 | 0-6月 | $0-100 |
-| 成长 | 6-18月 | $100-1000 |
-| 稳定 | 18-36月 | $1000-5000 |
-| 规模化 | 36月+ | $5000+ |
-
-### 关键原则
-1. 选一个渠道专注
-2. 持续产出内容
-3. 自动化交付
-4. 复利思维
-```
-
----
-
-## 平台推荐
-
-- Gumroad (数字产品)
-- Substack (Newsletter)
-- Teachable (课程)
-- Amazon (联盟)
-
----
-
-## 变现数据
-
-- 兼职: $100-1000/月
-- 全职: $3000-10000/月
-- 事业: $50000+/月
-
----
-
-*Price: $29*
-*Category: Finance*
-*Keywords: passive-income, side-hustle, online-business, money, wealth*
-*Tags: passive-income, side-hustle, online-business, money, wealth*
+**Rule of Thumb:** If it requires your constant active involvement, it's not passive. It's a business."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":188,"total_tokens":204,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
