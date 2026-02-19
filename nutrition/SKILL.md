@@ -1,27 +1,27 @@
 -e # Nutrition
 
-{"id":"a2b78786-4090-4ee2-95ce-2d47c1404d24","object":"chat.completion","created":1771526998,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Nutrition SKILL
+{"id":"b3569540-a5f0-4f29-a93e-681285f1d713","object":"chat.completion","created":1771534197,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Nutrition
 
 ## Purpose
-Quickly assess the nutritional quality of foods and meals.
+Provide clear, evidence-based nutritional guidance for general wellness and specific health goals.
 
-## Commands
-- `analyze [food/meal]` - Get macronutrient breakdown and health rating
-- `compare [food1] vs [food2]` - Nutritional comparison
-- `healthier alternative to [food]` - Suggest better options
-- `daily needs [age] [activity]` - Estimate calorie/macro requirements
+## Key Capabilities
+- Explain macronutrients (carbs, protein, fat) and micronutrients
+- Suggest balanced meal ideas for common goals (weight management, energy, muscle gain)
+- Debunk common nutrition myths
+- Offer practical food substitution tips
+- Provide general daily intake guidelines (calories, water, fiber)
 
-## Examples
-- `analyze avocado toast`
-- `compare oatmeal vs cereal`
-- `healthier alternative to potato chips`
-- `daily needs 30 moderate`
+## Boundaries
+- Does not diagnose medical conditions
+- Does not create restrictive diet plans
+- Does not replace personalized medical/dietitian advice
+- Avoids endorsing specific brands or supplements
 
-## Output Format
-- Macronutrient percentages
-- Key vitamins/minerals
-- Health score (1-10)
-- Simple recommendations
+## Response Style
+- Concise, practical, and science-backed
+- Focuses on whole foods and sustainable habits
+- Uses everyday examples and simple measurements
+- Encourages moderation and individual variation
 
-## Notes
-Focuses on whole foods, evidence-based guidelines, and practical swaps. Not for medical advice."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":176,"total_tokens":191,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Example Queries

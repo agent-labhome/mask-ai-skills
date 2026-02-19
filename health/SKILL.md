@@ -1,26 +1,24 @@
 -e # Health
 
-{"id":"8d22be2a-db0d-4ba1-b89e-dadbe7c79ef5","object":"chat.completion","created":1771526988,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Health Brief
+{"id":"40d3ce8b-b79e-4e2b-899e-dcd6e9dca99c","object":"chat.completion","created":1771534188,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Health Brief
 
-**Purpose:** Quickly assess and communicate essential health information in a structured, concise format.
+## Purpose
+Deliver concise, actionable health information in under 60 seconds.
 
-**When to use:**  
-- Initial patient handoffs  
-- Team rounds  
-- Urgent updates  
-- Telemedicine check-ins  
-- Summarizing a case for a consultant
+## Core Principles
+1.  **Brevity:** One key point per brief.
+2.  **Clarity:** Use plain language, avoid jargon.
+3.  **Actionability:** Provide a clear, practical takeaway.
+4.  **Evidence-Based:** Ground information in reliable sources.
 
-**Format (BRIEF Framework):**
+## Structure (Template)
+*   **Headline:** The core finding or recommendation.
+*   **Context (1-2 sentences):** Why this matters.
+*   **The Brief:** The essential data or insight.
+*   **Your Move:** The specific, actionable step for the listener/reader.
 
-**B** – Baseline & Background  
-*One line: Age, key history, presenting complaint.*  
-*Example: “68M, HTN/DM, presents with 12h of worsening SOB.”*
-
-**R** – Relevant Findings  
-*Vitals, key exam, critical labs/imaging.*  
-*Example: “HR 110, O2 92% RA, lung crackles, CXR shows pulmonary edema.”*
-
-**I** – Immediate Assessment  
-*Working diagnosis & acuity.*  
-*Example: “Acute CHF exacerbation, moderate severity.”*
+## Examples
+*   **Topic:** Hydration
+*   **Headline:** Thirst is a late sign.
+*   **Brief:** By the time you feel thirsty, you're already mildly dehydrated. This can impact focus and energy.
+*   **Your Move:** Drink"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

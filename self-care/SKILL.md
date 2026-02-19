@@ -1,16 +1,26 @@
 -e # Self Care
 
-{"id":"c0797a25-0fae-472e-8abc-8b395c1ad223","object":"chat.completion","created":1771527007,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Self-Care SKILL
+{"id":"0e26a740-5cc8-4671-a8c5-6b4a060eb3b6","object":"chat.completion","created":1771534207,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Self-Care SKILL.md
 
-**What it is:** The intentional practice of maintaining your physical, mental, and emotional well-being.
+## Core Principle
+Self-care is the intentional practice of maintaining your physical, mental, and emotional well-being. It is not selfish; it is essential for sustainable performance and resilience.
 
-**Why it matters:** It's not selfish; it's essential. You cannot pour from an empty cup. Consistent self-care builds resilience, prevents burnout, and enables you to show up fully in all areas of life.
+## Key Practices
 
-**Core Practices:**
+**Physical**
+- Prioritize sleep (7-9 hours)
+- Move your body daily
+- Eat to nourish, not just to fill
+- Hydrate consistently
 
-*   **Physical:** Prioritize sleep, move your body, nourish yourself with good food.
-*   **Mental:** Set boundaries, take breaks, engage in hobbies, learn to say no.
-*   **Emotional:** Name your feelings, practice self-compassion, connect with supportive people.
-*   **Practical:** Manage your time, declutter your space, handle necessary tasks to reduce background stress.
+**Mental**
+- Set and protect boundaries (work/life, digital)
+- Schedule regular breaks
+- Practice saying \"no\" without guilt
+- Engage in activities that bring joy
 
-**Quick Start:** Schedule a non-negotiable 15-minute block today for one thing that recharges you. Protect it like an important meeting."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":188,"total_tokens":204,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Emotional**
+- Check in with yourself daily
+- Allow yourself to feel without judgment
+- Seek connection or solitude as needed
+- Acknowledge small wins
