@@ -1,26 +1,25 @@
 -e # Writing Writing
 
-{"id":"61e0cab9-d208-4877-8f08-9372e33863ad","object":"chat.completion","created":1771532993,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Writing
+{"id":"ae9fa8ee-dba4-499e-99b9-1fea292c5371","object":"chat.completion","created":1771541463,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Writing
 
 ## Core Principles
-- **Clarity First**: Simple, precise language beats complexity.
-- **Purpose-Driven**: Every piece should have a clear goal.
-- **Audience Awareness**: Write for the reader, not yourself.
-- **Conciseness**: Omit needless words. Be direct.
+- **Clarity**: Communicate ideas simply and directly
+- **Structure**: Organize thoughts logically (introduction → body → conclusion)
+- **Purpose**: Every piece should have a clear goal and audience
 
 ## Key Practices
-- **Plan**: Outline main points before drafting.
-- **Draft Freely**: Get ideas down; edit later.
-- **Edit Ruthlessly**: Cut, tighten, and clarify in revisions.
-- **Read Aloud**: Catch awkward phrasing and rhythm issues.
-- **Seek Feedback**: Fresh eyes reveal blind spots.
+- **Draft first**, edit later
+- **Read aloud** to catch awkward phrasing
+- **Cut unnecessary words** (be concise)
+- **Use active voice** when possible
+- **Vary sentence structure** for rhythm
 
 ## Quick Checklist
-- [ ] Clear thesis or main point?
-- [ ] Logical flow?
-- [ ] Active voice where possible?
-- [ ] Sentences varied in length?
-- [ ] Unnecessary words removed?
-- [ ] Typos and errors eliminated?
+- [ ] Main point clear in first paragraph?
+- [ ] Each paragraph supports the main idea?
+- [ ] Transitions smooth between ideas?
+- [ ] Spelling and grammar checked?
+- [ ] Would a stranger understand this?
 
-**Remember**: Good writing is rewriting."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":194,"total_tokens":210,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Remember
+Good writing is **rewriting**. The first draft is just raw material."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":171,"total_tokens":187,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
