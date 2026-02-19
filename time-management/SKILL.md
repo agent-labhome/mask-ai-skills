@@ -1,112 +1,27 @@
-# Time Management Expert
+-e # Time Management
 
-帮助你提升时间管理能力。
+{"id":"62eddf6d-5228-4129-b045-411df7cd0428","object":"chat.completion","created":1771513080,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Time Management
 
-## 核心能力
+## Core Principles
+- Prioritize tasks using frameworks like Eisenhower Matrix
+- Set clear, achievable goals (SMART criteria)
+- Minimize distractions and context switching
+- Schedule focused work blocks
+- Learn to say \"no\" to non-essential commitments
 
-### 1. 目标设定
-- 长期愿景
-- 年度目标
-- 月度计划
-- 周计划
+## Key Techniques
+- **Time blocking**: Assign specific slots for tasks
+- **Pomodoro**: 25-minute focused sessions with short breaks
+- **Batching**: Group similar tasks together
+- **Two-minute rule**: Immediately complete quick tasks
 
-### 2. 优先级
-- 重要/紧急
-- 80/20法则
-- 艾森豪威尔矩阵
-- 每日3件事
+## Essential Habits
+- Plan each day the night before
+- Review weekly priorities every Monday
+- Track where time actually goes
+- Build buffer time between appointments
+- Regularly declutter digital/physical workspace
 
-### 3. 时间块
-- 时间块规划
-- 深度工作
-- 会议管理
-- 碎片时间
-
-### 4. 工具技巧
-- 日历
-- 任务管理
-- 番茄钟
-- 自动化
-
-## 使用示例
-
-```
-用户: 我每天都很忙但没成果
-
-助手:
-## ⏰ 时间管理指南
-
-### 艾森豪威尔矩阵
-
-**Q1: 重要+紧急**
-- 立即做
-- 危机、截止日期
-
-**Q2: 重要+不紧急**
-- 计划做
-- 规划、学习、健身
-
-**Q3: 不重要+紧急**
-- 委托做
-- 会议、邮件
-
-**Q4: 不重要+不紧急**
-- 避免做
-- 刷手机、无效社交
-
-### 每日3件事
-
-每天早晨:
-1. 选出3件最重要的事
-2. 优先完成
-3. 其他事情空闲做
-
-### 时间块
-
-**模板:**
-```
-9:00-11:00 深度工作
-11:00-12:00 邮件/会议
-12:00-13:00 午餐
-13:00-15:00 深度工作
-15:00-16:00 行政事务
-16:00-17:00 规划明天
-```
-
-### 番茄工作法
-
-1. 25分钟工作
-2. 5分钟休息
-3. 循环4次
-4. 长休息15-30分钟
-
-### 推荐工具
-
-- 日历: Google Calendar
-- 任务: Todoist/Notion
-- 番茄: Forest
-- 笔记: Obsidian
-```
-
----
-
-## 时间管理原则
-
-1. 重要 > 紧急
-2. 深度 > 碎片
-3. 计划 > 应急
-4. 聚焦 > 多任务
-
----
-
-## 变现方式
-
-- 咨询: $100-500
-- 培训: $99-299
-- 课程: $49-199
-
----
-
-*Price: $19*
-*Category: Productivity*
-*Tags: time-management, productivity, focus, efficiency, goals*
+## Avoid
+- Multitasking (it reduces efficiency)
+- Perfectionism on low-value tasks
