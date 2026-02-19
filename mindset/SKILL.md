@@ -1,16 +1,17 @@
 -e # Mindset
 
-{"id":"673e076b-0785-4906-89d8-79a74d743509","object":"chat.completion","created":1771527037,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mindset. Brief.
+{"id":"e1994302-3321-4ead-b76b-efe8ec8044ca","object":"chat.completion","created":1771534237,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mindset. Brief.
 
-A concise, high-impact mindset is the ability to quickly frame a situation, focus on what matters, and direct energy toward effective action.
+A concise, structured approach to framing any situation or problem before taking action.
 
-### Core Principles
-*   **Clarity Over Complexity:** Distill the core objective. What is the single most important thing?
-*   **Action Over Perfection:** Prioritize momentum and learning. A good plan executed now beats a perfect plan later.
-*   **Ownership Over Blame:** Focus on what you can control and influence, not on external factors.
-*   **Progress Over Performance:** Frame challenges as opportunities to learn and improve, not just to prove yourself.
+**Core Principle:** Clarity before action. A well-defined mindset is the foundation for effective execution.
 
-### How to Apply It
-1.  **Start with the \"Why\":** Before diving in, ask: \"What is the ultimate goal?\"
-2.  **Define the \"Done\":** What does a successful outcome look like? Be specific.
-3.  **Identify the First Step:** What is the very next, smallest action"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**The Brief Format (The 3 Ws):**
+
+1.  **WHY:** The core purpose. What is the ultimate goal? Why does this matter? (e.g., \"To resolve the client's billing confusion and rebuild trust,\" not just \"answer the email.\")
+
+2.  **WHAT:** The desired outcome. What does success look like? Be specific about the end state. (e.g., \"A clear, apologetic explanation sent, with a corrected invoice attached, and a follow-up call scheduled.\")
+
+3.  **HOW:** The guiding principle or constraint. What is the key attitude, filter, or limitation? (e.g., \"Empathetic and solution-oriented,\" \"Under 10 minutes,\" \"Aligns with brand voice.\")
+
+**How"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
