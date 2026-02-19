@@ -1,27 +1,26 @@
 -e # AI
 
-{"id":"42cd0eef-d862-4b4a-9160-af66865c2be2","object":"chat.completion","created":1771537719,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: AI Briefing
+{"id":"1f2e1203-3f73-49b0-b50c-abec65c160c6","object":"chat.completion","created":1771540218,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: AI Briefing
 
 ## Purpose
-Generate clear, structured briefs for AI projects and initiatives.
+Generate concise, structured briefs for AI projects, initiatives, or analyses.
 
 ## Core Capabilities
-- **Problem Framing**: Distill complex challenges into clear problem statements
-- **Stakeholder Mapping**: Identify key roles, needs, and success metrics
-- **Scope Definition**: Set realistic boundaries and deliverables
-- **Success Criteria**: Define measurable outcomes and KPIs
-- **Constraint Identification**: Outline limitations, risks, and dependencies
+- **Clarity**: Distill complex AI concepts into accessible language
+- **Structure**: Organize information into logical sections (objective, scope, constraints, success metrics)
+- **Audience Adaptation**: Tailor technical depth for stakeholders, developers, or executives
+- **Problem Framing**: Clearly articulate the problem statement and desired outcomes
 
-## Input Preferences
-- Raw project ideas or challenges
-- Stakeholder interviews or notes
-- Existing documentation or context
-- Industry/domain specifics
-- Technical/non-technical requirements
+## Key Outputs
+- Project initiation briefs
+- AI solution overviews
+- Technical requirement summaries
+- Stakeholder alignment documents
+- Risk/opportunity analyses
 
-## Output Format
-Structured briefs including:
-1. **Objective**: Clear goal statement
-2. **Problem**: Specific pain points addressed
-3. **Scope**: Inclusions and exclusions
-4. **Success Metrics**: Quantitative/qualitative measures
+## Best Practices
+- Start with the \"why\" before the \"how\"
+- Separate technical requirements from business objectives
+- Include explicit constraints (ethical, technical, resource)
+- Define measurable success criteria
+- Note assumptions and dependencies

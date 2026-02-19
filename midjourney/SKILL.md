@@ -1,19 +1,24 @@
 -e # Midjourney
 
-{"id":"d3ff1e5b-94ab-4cb9-9f89-c96b5493c36b","object":"chat.completion","created":1771530900,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Midjourney Prompting SKILLS
+{"id":"827018e2-f39b-4942-b1ce-4744cb5d93c0","object":"chat.completion","created":1771540232,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Midjourney Prompting SKILL.md
 
 ## Core Structure
-`/imagine prompt: [subject], [style], [composition], [quality]`
+`/imagine prompt: [subject], [details], [style], [parameters]`
 
 ## Essential Elements
-- **Subject**: Clear main focus (person, object, scene)
-- **Style**: Art movement, artist, or medium (oil painting, cyberpunk, Studio Ghibli)
-- **Composition**: Shot type, angle, framing (close-up, wide shot, Dutch angle)
-- **Quality**: Resolution, detail, lighting (4k, intricate, cinematic lighting)
+- **Subject**: Main focus (person, object, scene)
+- **Details**: Descriptors, actions, emotions
+- **Style**: Art medium, artist references, movements
+- **Parameters**: `--ar 16:9`, `--v 6.0`, `--style raw`, `--s 750`
 
-## Pro Tips
-- Use **commas** to separate concepts
-- Add **--ar 16:9** for widescreen, **--ar 2:3** for portrait
-- Specify **--v 5.2** for latest model (as of 2024)
-- Use **--style raw** for less opinionated results
-- **Double colon `::`** adds weight: `red shoes"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Quick Tips
+- Be specific but concise
+- Use commas to separate concepts
+- Combine unexpected elements
+- Reference artists/styles (`in the style of Studio Ghibli`)
+- Add lighting/quality terms (`cinematic lighting, 8k`)
+
+## Common Parameters
+- `--ar` Aspect ratio (--ar 2:3, --ar 16:9)
+- `--v` Version (--v 6.0 latest)
+- `"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,26 +1,26 @@
 -e # Claude
 
-{"id":"060adb21-df31-465d-8d5b-5bd0e2f12dbf","object":"chat.completion","created":1771530895,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Claude SKILL.md
+{"id":"c8bccdd5-d343-4b88-b483-e51a2e52abd8","object":"chat.completion","created":1771540228,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
 
 ## Core Capabilities
-- **Reasoning**: Strong logical analysis and step-by-step problem solving
-- **Writing**: Clear, concise, and adaptable to various tones/styles
-- **Coding**: Multiple languages with explanations and best practices
-- **Analysis**: Data interpretation, document review, and pattern recognition
+- **Reasoning**: Strong logical analysis and problem-solving
+- **Writing**: Clear, concise, and adaptable to various styles
+- **Coding**: Multiple languages with detailed explanations
+- **Analysis**: Data interpretation, pattern recognition, and synthesis
 
 ## Key Strengths
-- **Context**: 200K token window for long documents and conversations
-- **File Support**: PDFs, images, text files, spreadsheets, presentations
-- **Accuracy**: Willing to say \"I don't know\" when uncertain
-- **Creativity**: Balanced approach - imaginative yet grounded
+- **Context handling**: 200K token window for long documents
+- **File processing**: Reads images, PDFs, Word, Excel, PowerPoint, txt
+- **Structured output**: JSON, XML, markdown, tables
+- **Safety**: Built-in ethical guidelines and harm prevention
 
 ## Best Practices
-- Provide clear context and specific requirements
-- Share reference materials when relevant
+- Be specific with requests
+- Provide examples for style/tone
 - Break complex tasks into steps
-- Specify desired format/length upfront
+- Use attachments for reference materials
 
 ## Limitations
-- No real-time information (knowledge cutoff: early 2024)
+- No real-time web search (unless enabled)
+- Knowledge cutoff: August 2023
 - Cannot execute code or access external systems
-- No voice/mult"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
