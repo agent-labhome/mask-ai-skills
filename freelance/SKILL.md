@@ -1,27 +1,21 @@
 -e # Freelance
 
-{"id":"3317a808-7bfd-4ca7-b664-94ddc872c2e5","object":"chat.completion","created":1771526062,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Freelance Briefs
+{"id":"562308a8-4941-4abe-abe9-96969deadaef","object":"chat.completion","created":1771530828,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Freelance Briefs
 
-## Core Principles
-- **Clarity over cleverness** - Be specific, not poetic
-- **Actionable over abstract** - Every sentence should guide execution
-- **Complete but concise** - Include essentials, exclude fluff
+## 🎯 Core Competencies
+- **Requirement distillation** – Extract key needs from ambiguous client requests
+- **Scope definition** – Transform vague ideas into actionable project parameters
+- **Stakeholder alignment** – Bridge communication between technical and non-technical parties
+- **Constraint identification** – Surface budget, timeline, and resource limitations early
 
-## Essential Sections (in order)
+## 📋 Brief Analysis Framework
+1. **Deconstruct** – Break down client statements into discrete requirements
+2. **Prioritize** – Identify must-haves vs. nice-to-haves
+3. **Clarify** – Ask targeted questions to fill information gaps
+4. **Validate** – Confirm understanding with client before proceeding
 
-### 1. Project Overview
-```
-• What: [Clear, one-sentence description]
-• Why: [Business/user problem being solved]
-• Success: [How we'll know it worked]
-```
-
-### 2. Deliverables
-```
-• Tangible outputs (files, pages, features)
-• Format specifications
-• Quantity/scope boundaries
-```
-
-### 3. Requirements
-```
+## 🔍 Critical Questions to Ask
+- What problem are we actually solving?
+- Who is the end user/audience?
+- What does success look like? (Specific metrics if possible)
+- What are the absolute constraints? (Dead"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,27 +1,24 @@
 -e # Service
 
-{"id":"e37e443a-dfd5-4a4f-8745-c4a769e089ed","object":"chat.completion","created":1771526077,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Service Brief
+{"id":"e1aa0deb-79c6-440c-8790-b95585a9ef6d","object":"chat.completion","created":1771530841,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Service Briefing
 
 ## Purpose
-To create clear, concise service briefs that align stakeholders and define project scope.
+Quickly create clear, concise service briefs that align teams and set expectations.
 
-## Core Principles
-- **Clarity**: Simple, unambiguous language
-- **Conciseness**: One page maximum
-- **Alignment**: Single source of truth for all parties
-- **Actionability**: Clear next steps and ownership
+## Core Capabilities
+- **Structured Briefs**: Generate service descriptions with consistent sections
+- **Clarity Focus**: Emphasize objectives, scope, and success metrics
+- **Stakeholder Alignment**: Include roles, responsibilities, and communication plans
+- **Action-Oriented**: Provide concrete next steps and deliverables
 
-## Essential Components
-1. **Objective** - What success looks like (1-2 sentences)
-2. **Scope** - What's included and explicitly excluded
-3. **Stakeholders** - Who's involved and their roles
-4. **Deliverables** - Tangible outputs with deadlines
-5. **Success Metrics** - How we'll measure results
-6. **Constraints** - Budget, timeline, dependencies
-7. **Next Steps** - Immediate actions with owners
+## Key Sections (Template)
+1. **Service Overview** - What this service provides
+2. **Objectives & Goals** - Measurable outcomes
+3. **Scope & Boundaries** - What's in/out of scope
+4. **Success Metrics** - How we measure effectiveness
+5. **Roles & Responsibilities** - Who does what
+6. **Timeline & Milestones** - Key dates and phases
+7. **Communication Plan** - How we stay aligned
+8. **Next Steps** - Immediate actions
 
-## Pro Tips
-- Start with the problem statement
-- Use bullet points, not paragraphs
-- Include visual timeline when helpful
-- Review"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
