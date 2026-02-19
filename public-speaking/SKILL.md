@@ -1,114 +1,25 @@
-# Public Speaking Coach
+-e # Public Speaking
 
-帮助你提升公众演讲能力。
+{"id":"2de4ac01-2f83-421c-a174-7ebf4aa8383b","object":"chat.completion","created":1771513274,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Public Speaking
 
-## 核心能力
+**Core Competency:** Confidently and effectively delivering information, ideas, or arguments to an audience.
 
-### 1. 内容准备
-- 主题选择
-- 结构设计
-- 故事构建
-- 视觉辅助
+## Key Principles
 
-### 2. 演讲技巧
-- 开场hook
-- 节奏控制
-- 肢体语言
-- 眼神交流
+*   **Clarity:** Structure your message with a clear beginning, middle, and end.
+*   **Connection:** Engage the audience through eye contact, storytelling, and relevance.
+*   **Confidence:** Project your voice, manage nerves, and own the space.
 
-### 3. 克服紧张
-- 准备充分
-- 呼吸技巧
-- 正念练习
-- 积极心态
+## Quick Framework
 
-### 4. 现场表现
-- 即兴应变
-- Q&A处理
-- 结束有力
-- 复盘改进
+1.  **Prepare:** Know your material and audience deeply.
+2.  **Open Strong:** Hook attention immediately with a question, story, or bold statement.
+3.  **Structure Simply:** Use a logical flow (e.g., Problem > Solution > Benefit).
+4.  **Engage:** Use pauses, vocal variety, and purposeful movement.
+5.  **Close Memorably:** End with a clear call-to-action or powerful summary.
 
-## 使用示例
+## Avoid
 
-```
-用户: 我演讲会很紧张
-
-助手:
-## 🎤 演讲指南
-
-### 开场hook
-
-**问题开场:**
-"你有没有想过..."
-
-**数据开场:"
-"90%的人不知道..."
-
-**故事开场:**
-"3年前，我..."
-
-**震撼开场:**
-"这是我见过最..."
-
-### 演讲结构
-
-**PREP:**
-- Point: 观点
-- Reason: 理由
-- Example: 例子
-- Point: 总结
-
-**故事结构:**
-- 背景
-- 冲突
-- 高潮
-- 结局
-
-### 克服紧张
-
-**准备:**
-- 练习20遍以上
-- 熟悉内容
-- 准备应急预案
-
-**现场:**
-- 深呼吸3次
-- 看熟悉的面孔
-- 放慢语速
-
-**心态:**
-- 接受紧张
-- 专注于内容
-- 享受分享
-
-### 肢体语言
-
-- 站姿: 稳
-- 手势: 自然
-- 眼神: 扫视
-- 表情: 真诚
-```
-
----
-
-## 演讲类型
-
-- 商业演示
-- 婚礼致辞
-- 教学培训
-- TED演讲
-- 会议发言
-
----
-
-## 变现方式
-
-- 咨询: $200-1000
-- 培训: $500-5000
-- 课程: $99-499
-
----
-
-*Price: $29*
-*Category: Soft Skills*
-*Tags: public-speaking, presentation, communication, confidence, coaching*
+*   Reading slides verbatim.
+*   Apologizing unnecessarily.
+*   Filler"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
