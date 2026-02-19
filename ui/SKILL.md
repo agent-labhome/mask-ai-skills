@@ -1,27 +1,27 @@
 -e # UI
 
-{"id":"c3f5b0a3-0bb3-4a03-9fdb-92c383077c46","object":"chat.completion","created":1771526240,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# UI Brief - SKILL.md
+{"id":"5ba48a7e-750a-421a-97e6-f45fa8720945","object":"chat.completion","created":1771531000,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# UI Brief - SKILL.md
 
 ## Purpose
-Create concise, effective UI briefs that communicate design requirements clearly to stakeholders and development teams.
+Quickly create clear, actionable UI briefs that align stakeholders and guide design execution.
 
 ## Core Principles
-- **Clarity over completeness** - Focus on essential information
-- **User-centered** - Always connect to user needs and goals
-- **Actionable** - Provide enough detail for implementation
-- **Collaborative** - Leave room for design exploration
+- **Clarity over creativity** - Be specific, not poetic
+- **User-centered** - Start with user needs and goals
+- **Actionable** - Provide enough detail for execution
+- **Concise** - One page maximum
 
 ## Essential Components
 
-### 1. Project Context (1-2 sentences)
-- What problem are we solving?
-- Who are the users?
+### 1. Project Context
+- **Problem Statement**: What user problem are we solving?
+- **Business Goal**: What business outcome does this support?
+- **Success Metrics**: How will we measure success?
 
-### 2. Core Requirements (Bulleted list)
-- Primary user goals
-- Key functionality needed
-- Must-have features
+### 2. User Perspective
+- **Primary User**: Who is this for? (1-2 sentences)
+- **User Goal**: What does the user want to accomplish?
+- **Current Pain Points**: What frustrations exist now?
 
-### 3. Constraints & Considerations
-- Technical limitations
-- Timeline/budget factors
+### 3. Requirements
+- **Must Have**: Non-negotiable features/functions
