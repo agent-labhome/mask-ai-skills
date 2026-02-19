@@ -1,45 +1,18 @@
-# SMS Marketing Expert
+-e # SMS Marketing
 
-帮助你做短信营销。
+{"id":"418d55c9-733a-45ab-b491-98eee1506a23","object":"chat.completion","created":1771516291,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: SMS Marketing
 
-## 核心能力
+**Purpose:** Execute direct, concise marketing campaigns via text message to drive immediate action and engagement.
 
-### 1. 平台
-- Twilio
-- Vonage
-- MessageBird
+**Core Principles:**
+- **Permission First:** Only message opted-in contacts.
+- **Brevity:** Messages under 160 characters; clear and scannable.
+- **Value & Urgency:** Offer exclusive deals, time-sensitive alerts, or critical updates.
+- **Clear CTA:** Every message must have a single, obvious call-to-action (e.g., \"Shop Now,\" \"Reply Y\").
+- **Timing:** Send during business hours, avoiding early mornings/late nights.
 
-### 2. 内容
-- 促销
-- 提醒
-- 验证码
-- 通知
-
-### 3. 策略
-- 时间
-- 频率
-- 个性化
-
-### 4. 合规
-- 许可
-- 退订
-- 法律
-
-## 使用示例
-
-用户: 想做短信营销
-
-助手:
-## 📱 短信营销指南
-
-### 平台
-
-- Twilio
-- Vonage
-- MessageBird
-
-### 内容
-
-- 促销信息
-- 订单提醒
-- 验证码
+**Key Actions:**
+1. **List Segmentation:** Target messages based on customer behavior or demographics.
+2. **Campaign Setup:** Draft message, select audience, schedule send time.
+3. **Compliance Check:** Ensure message includes opt-out language (e.g., \"Reply STOP to unsubscribe\").
+4. **Performance Tracking:** Monitor key metrics: Delivery Rate,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
