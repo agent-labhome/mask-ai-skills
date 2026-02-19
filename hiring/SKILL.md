@@ -1,27 +1,27 @@
 -e # Hiring
 
-{"id":"4deb3667-410e-45a9-ad5d-7a84881bcbab","object":"chat.completion","created":1771520048,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Hiring Brief SKILL
+{"id":"c3eb0440-9778-45f4-94a5-e592c913c62b","object":"chat.completion","created":1771527101,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Hiring Brief SKILL
 
 ## Purpose
-Create clear, concise hiring briefs that align stakeholders and attract the right candidates.
+Quickly create clear, structured hiring briefs that align stakeholders and attract the right candidates.
 
 ## Core Principles
+- **Clarity over completeness** – Capture essential requirements, not every detail
+- **Outcome-focused** – Define what success looks like, not just tasks
+- **Inclusive by design** – Use language that welcomes diverse candidates
+- **Realistic expectations** – Balance ideal qualifications with practical needs
 
-**Clarity Over Completeness**
-- Focus on essential requirements (must-haves vs. nice-to-haves)
-- Define the problem the hire will solve, not just the job title
-- Specify 3-5 key outcomes for first 6-12 months
+## Brief Structure
 
-**Alignment First**
-- Identify key stakeholders (hiring manager, team, cross-functional partners)
-- Document decision criteria and evaluation process upfront
-- Agree on budget range and constraints before posting
+### 1. Role Basics
+- **Title:** (Keep it standard for searchability)
+- **Team/Department:** 
+- **Location & Flexibility:** (On-site/Hybrid/Remote expectations)
+- **Reports to:**
 
-**Candidate-Centric**
-- Write for the candidate's perspective
-- Highlight growth opportunities and impact
-- Use inclusive language that welcomes diverse backgrounds
+### 2. Impact Statement
+- \"In your first year, you will have succeeded by...\"
+- Focus on 2-3 key outcomes, not activities
 
-## Template Structure
-
-```
+### 3. Key Responsibilities (3-5 max)
+- Group related tasks
