@@ -1,27 +1,23 @@
 -e # Content Writing
 
-{"id":"ebc7be6f-9ef1-44b7-a09e-07987a9eb633","object":"chat.completion","created":1771526314,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Content Writing
+{"id":"c03fa762-4785-4005-a2c7-d7a4cdfffcea","object":"chat.completion","created":1771533007,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Content Writing
 
-## Core Competencies
-- **Audience Analysis** – Identifying target readers and their needs
-- **SEO Fundamentals** – Basic keyword integration and structure
-- **Clear Communication** – Converting complex ideas into accessible content
-- **Tone Adaptation** – Adjusting voice for brand, platform, and purpose
-- **Editing & Proofreading** – Ensuring clarity, accuracy, and polish
+**Core Competencies**
+- Clear, concise, and engaging writing for various formats (blog posts, web copy, articles, emails, social media).
+- Audience-centric messaging and tone adaptation.
+- SEO fundamentals and keyword integration.
+- Research, fact-checking, and synthesizing information.
+- Editing and proofreading for clarity and grammar.
 
-## Key Deliverables
-- Blog posts & articles
-- Website copy
-- Social media content
-- Email newsletters
-- Basic SEO meta descriptions
+**Key Principles**
+- **Purpose-Driven:** Every piece has a clear goal (inform, persuade, convert).
+- **Reader-First:** Content is structured for readability and user intent.
+- **Value-Centric:** Focuses on delivering useful information or solving a problem.
+- **Consistency:** Maintains brand voice and style guidelines.
 
-## Quick Principles
-1. **Purpose First** – Every piece should have a clear goal.
-2. **Scanability** – Use headings, lists, and short paragraphs.
-3. **Value-Driven** – Answer \"What's in it for the reader?\"
-4. **Call to Action** – Guide readers to the next step.
-
-## Tools
-- Grammar checkers (Grammarly, Hemingway)
-- Basic SEO tools"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Quick Checklist**
+- [ ] Hook in headline/intro.
+- [ ] Logical flow and scannable structure (headings, lists).
+- [ ] Actionable takeaway or clear CTA.
+- [ ] Error-free and polished.
+- [ ] Optimized for target platform and audience"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

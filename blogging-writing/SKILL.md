@@ -1,6 +1,6 @@
 -e # Blogging Writing
 
-{"id":"10e77729-a014-4107-8249-32d75612f448","object":"chat.completion","created":1771526303,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Blogging Writing
+{"id":"7f7e9475-da83-4944-87f5-b33bb6731ecf","object":"chat.completion","created":1771532997,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Blogging Writing
 
 ## Core Principles
 - **Clarity over cleverness** – Write for the reader, not for yourself.
@@ -9,15 +9,13 @@
 - **Strong opening** – Hook the reader in the first sentence.
 - **Actionable conclusion** – End with a clear takeaway or next step.
 
-## Quick Checklist
-- [ ] Compelling headline (specific, benefit-driven)
-- [ ] Engaging introduction (hook + promise)
-- [ ] Logical flow with subheadings
-- [ ] One main idea per paragraph
-- [ ] Supporting evidence/examples
-- [ ] Clear calls-to-action
-- [ ] Proofread for clarity and typos
+## Quick Process
+1.  **Identify** a specific reader and their single burning question.
+2.  **Outline** the key points before writing a single sentence.
+3.  **Draft** quickly without self-editing.
+4.  **Edit** ruthlessly for clarity, conciseness, and flow.
+5.  **Optimize** with one clear keyword, a meta description, and a compelling title.
 
-## Pro Tips
-- Write like you speak – conversational tone builds connection.
-- Use the \"inverted pyramid\": most"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Avoid
+- Jargon without explanation.
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
