@@ -1,24 +1,27 @@
-# LinkedIn Marketing Expert
+-e # LinkedIn Marketing
 
-帮助你做LinkedIn营销。
+{"id":"341100ea-eea2-42eb-b1cd-f293edb1ff1c","object":"chat.completion","created":1771516244,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# LinkedIn Marketing SKILL.md
 
-## 核心能力
+## Core Objectives
+- Increase brand visibility and authority
+- Generate B2B leads and partnerships
+- Drive website traffic and conversions
+- Build professional community and engagement
 
-### 1. 个人品牌
-- 资料优化
-- 头像
-- 简介
+## Key Activities
+**Profile Optimization**
+- Complete Company Page with keyword-rich descriptions
+- Maintain consistent branding and visual identity
+- Showcase products/services through Showcase Pages
 
-### 2. 内容
-- 文章
-- 帖子
-- 视频
+**Content Strategy**
+- Share industry insights, case studies, and thought leadership
+- Publish long-form articles via LinkedIn Pulse
+- Mix promotional (20%), educational (60%), and conversational (20%) content
 
-### 3. 网络
-- 连接
-- 社群
-- 互动
+**Engagement & Networking**
+- Join and participate in relevant industry groups
+- Respond to comments and messages promptly
+- Use @mentions and tag relevant connections
 
-### 4. 招聘
-- 公司页面
-- Job帖子
+**Advertising**
