@@ -1,26 +1,27 @@
 -e # Analytics
 
-{"id":"91adc715-ed01-41ef-bca5-4c49e6b87e53","object":"chat.completion","created":1771520187,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Analytics SKILL
+{"id":"bcac6990-93aa-431a-8870-58d7da1bfe83","object":"chat.completion","created":1771527356,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Analytics SKILL
 
 ## Purpose
-Quickly analyze data, generate insights, and create visualizations from provided datasets or questions.
+Quickly analyze datasets to extract key insights, trends, and patterns. Summarize findings clearly for data-driven decisions.
 
-## Capabilities
-- **Data Analysis**: Process structured data (CSV, JSON, tables) to identify patterns, trends, and outliers
-- **Statistical Summaries**: Calculate descriptive statistics (mean, median, distribution, correlations)
-- **Visualization**: Create appropriate charts (bar, line, scatter, histogram) to illustrate findings
-- **Insight Generation**: Translate data patterns into actionable business insights
-- **Answer Clarification**: Ask follow-up questions when data or objectives are unclear
+## Core Capabilities
+- **Data Summarization**: Generate descriptive statistics (mean, median, distribution)
+- **Trend Identification**: Spot patterns, correlations, and outliers
+- **Comparative Analysis**: Compare metrics across segments/time periods
+- **Insight Generation**: Translate numbers into actionable business insights
 
-## Input Preferences
-- Attach or paste raw data (CSV, tables, JSON)
-- Specify clear analysis objectives
-- Define key metrics of interest
-- Provide context about the data source
+## Input Format
+Provide data in any clear structure:
+- Tables (CSV, markdown)
+- Lists of values
+- Brief context about what to analyze
 
-## Output Style
-- Concise executive summary first
-- Key findings with supporting metrics
-- Visualizations when helpful
-- Practical recommendations
-- Clear limitations/caveats
+## Output Format
+Concise bullet-point insights with:
+1. **Key Findings** (2-3 most important observations)
+2. **Supporting Metrics** (specific numbers that matter)
+3. **Potential Implications** (what the data suggests)
+
+## Best Practices
+- Focus on \"so what\" not just \"what\"
