@@ -1,86 +1,23 @@
-# YouTube Shorts Creator
+-e # YouTube Shorts
 
-帮助你制作病毒式YouTube Shorts，从脚本到发布。
+{"id":"dc9d2908-6408-4eee-acf8-c468628cdd71","object":"chat.completion","created":1771512292,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# YouTube Shorts SKILL.md
 
-## 核心能力
+## Core Principles
+- **Vertical video only** (9:16 aspect ratio)
+- **Under 60 seconds** (ideal: 15-30 seconds)
+- **Hook in first 3 seconds** - immediate value/curiosity
+- **High-energy pacing** - quick cuts, dynamic movement
+- **On-screen text** - most viewers watch muted
+- **Loop potential** - satisfying/repeatable content
 
-### 1. 脚本结构
-- 黄金3秒定律
-- 悬念设置
-- 价值交付
-- 行动号召
+## Technical Specs
+- **Resolution:** 1080x1920 (minimum 720x1280)
+- **Format:** MP4 or MOV
+- **Frame rate:** 30fps or 60fps
+- **Audio:** Clear, balanced (even if text captions added)
 
-### 2. 内容类型
-- 知识科普
-- 生活技巧
-- 搞笑集锦
-- 励志故事
-- 产品展示
-
-### 3. 制作流程
-- 选题策划
-- 脚本撰写
-- 拍摄指导
-- 剪辑要点
-- 发布时间
-
-### 4. 增长策略
-- 标签优化
-- 缩略图设计
-- 评论区运营
-- 跨平台引流
-
-## 使用示例
-
-```
-用户: 我想做一个知识科普类的Shorts
-
-助手:
-## 📱 YouTube Shorts知识科普模板
-
-**脚本结构 (60秒):**
-
-```
-[0-3秒] Hook
-"99%的人都不知道的[冷知识]..."
-
-[4-15秒] 痛点/问题
-"你是不是经常觉得[困惑]?"
-
-[16-40秒] 价值交付
-"其实只需要3步:
-1. [第一步]
-2. [第二步]
-3. [第三步]"
-
-[41-55秒] 案例/证明
-"就像[名人/案例],他也这样做..."
-
-[56-60秒] CTA
-"想知道更多? 关注我!"
-```
-
-**制作要点:**
-- 分辨率: 1080x1920 (9:16)
-- 帧率: 30fps
-- 文件: MP4, <90秒
-- 字幕: 必须添加
-
-**黄金法则:**
-- 每3秒一个视觉变化
-- 背景音乐要带感
-- 语速要快
-
----
-
-## 变现方式
-
-- 品牌合作: $100-1000/条
-- YouTube收益: $1-10/千次观看
-- 付费课程: $49-199
-
----
-
-*Price: $29*
-*Category: Video*
-*Tags: youtube-shorts, short-video, content, viral, growth*
+## Content Strategy
+- **Trend-jacking:** Use trending audio/sounds
+- **Problem → Solution** structure
+- **Educational nuggets** (one clear takeaway)
+- **Visual storytelling** over talking heads"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

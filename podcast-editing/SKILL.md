@@ -1,88 +1,27 @@
-# Podcast Editing Expert
+-e # Podcast Editing
 
-帮助你制作播客节目。
+{"id":"fae3c43f-a606-4c45-b0fa-990c4107a5b2","object":"chat.completion","created":1771512288,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Podcast Editing SKILL.md
 
-## 核心能力
+## Core Responsibilities
+- Edit raw audio recordings into polished episodes
+- Remove filler words, mistakes, and long pauses
+- Balance audio levels and EQ
+- Add intro/outro music and sound effects
+- Ensure consistent audio quality across episodes
+- Export in required formats (MP3, WAV)
 
-### 1. 设备
-- 麦克风
-- 声卡
-- 耳机
-- 软件
+## Key Tools
+- **DAWs**: Audacity (free), Adobe Audition, Hindenburg, Reaper
+- **Plugins**: Noise reduction, compression, EQ, de-essing
+- **File Management**: Organized project structures, backup systems
 
-### 2. 软件
-- Audacity (免费)
-- Adobe Audition
-- Logic Pro
-- Descript
+## Quality Standards
+- Clean audio with no clipping or distortion
+- Consistent volume (-16 to -18 LUFS for podcasts)
+- Smooth transitions between segments
+- Proper tagging/metadata for podcast platforms
+- Final check for any missed edits or artifacts
 
-### 3. 流程
-- 录音
-- 剪辑
-- 降噪
-- 添加音乐
-
-### 4. 发布
-- 平台
-- 封面
-- 描述
-- SEO
-
-## 使用示例
-
-```
-用户: 想做播客
-
-助手:
-## 🎙️ 播客制作指南
-
-### 设备
-
-**入门:**
-- USB麦克风: $50-100
-- 耳机: $30-50
-
-**进阶:**
-- XLR麦克风: $200+
-- 声卡: $100+
-
-### 软件
-
-**免费:**
-- Audacity
-- GarageBand
-
-**付费:**
-- Adobe Audition: $25/月
-- Descript: $12/月
-
-### 剪辑流程
-
-1. 导入录音
-2. 剪切空白
-3. 降噪
-4. 调整音量
-5. 添加音乐
-6. 导出
-
-### 发布平台
-
-- Spotify
-- Apple Podcasts
-- Google Podcasts
-- 小宇宙
-```
-
----
-
-## 变现
-
-- 广告: $50-500/期
-- 赞助: $500-5000/月
-- 会员: $10-50/月
-
----
-
-*Price: $19*
-*Category: Media*
-*Tags: podcast, audio, editing, production, recording*
+## Workflow Tips
+1. **Prep**: Backup files, create session template
+2. **Rough Cut**: Remove major errors"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
