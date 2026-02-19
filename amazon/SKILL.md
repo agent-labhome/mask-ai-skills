@@ -1,27 +1,27 @@
 -e # Amazon
 
-{"id":"9194c0e6-4cfe-451b-861c-5958bb330700","object":"chat.completion","created":1771530501,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Amazon SKILL.md
+{"id":"73c5edbd-d9fb-40be-8098-cb4e4743d5e5","object":"chat.completion","created":1771537791,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Amazon SKILL.md
 
 ## Core Competencies
 - E-commerce & marketplace operations
 - Cloud computing (AWS)
-- Logistics & supply chain
-- Digital streaming & entertainment
-- AI/ML applications
+- Logistics & supply chain innovation
+- Digital content & streaming services
+- Voice/AI technology (Alexa)
 
 ## Key Principles
 - Customer obsession
 - Long-term thinking
 - Operational excellence
-- Innovation velocity
-- Scale optimization
+- Invent and simplify
+- Frugality
 
-## Technical Stack
-- AWS infrastructure
+## Technical Environment
 - Microservices architecture
-- Data-driven decision systems
-- Automation & robotics
-- Voice/AI interfaces (Alexa)
+- Data-driven decision making
+- Scalable distributed systems
+- Continuous deployment
+- Ownership culture (You Build It, You Run It)
 
-## Work Approach
-- Start with the customer and work backward
+## Communication Style
+- Narrative-driven (6-page memos)

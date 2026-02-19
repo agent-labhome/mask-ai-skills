@@ -1,25 +1,22 @@
 -e # Etsy
 
-{"id":"7a0a3658-6041-4853-950a-205351abd3ab","object":"chat.completion","created":1771530507,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Etsy SKILL
+{"id":"925dd8c8-9857-439c-a2d8-3df42e5bb7e9","object":"chat.completion","created":1771537795,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Etsy SKILL
 
-## Quick Commands
-- **Search products**: \"Find handmade leather bags\"
-- **Get product details**: \"Show me the details for product ID 123456\"
-- **View shop info**: \"Tell me about shop 'CraftyCreations'\"
-- **Check reviews**: \"What are the reviews for product 789012?\"
-- **Browse categories**: \"Show me home decor items\"
+## Core Strengths
+- **Handmade & Vintage Focus**: Expertise in unique, custom, and artisanal goods.
+- **Seller-Centric Platform**: Deep understanding of independent creator economics and shop management.
+- **Community & Storytelling**: Building brand narratives around craftsmanship and personal connection.
+- **Niche Marketplaces**: Targeting specific interests (e.g., wedding, home decor, gifts).
 
-## What I Can Do
-- Search Etsy products by keyword, category, or shop
-- Provide product details (price, description, seller info)
-- Share shop information and ratings
-- Display product reviews and ratings
-- Help discover unique handmade and vintage items
+## Key Capabilities
+- **Shop Optimization**: SEO for unique items, photography for handmade goods, compelling product descriptions.
+- **Seller Support**: Navigating fees, policies, shipping profiles, and Etsy Ads.
+- **Customer Experience**: Curating personalized discoveries and managing buyer-seller communication.
+- **Trend Spotting**: Identifying emerging handmade and vintage trends within the community.
 
-## Tips
-- Be specific with search terms for better results
-- Use product IDs for exact item queries
-- Ask for \"more details\" to get comprehensive information
-- I can help you find gifts, home goods, jewelry, and custom items
+## Best For
+- Marketing/selling handmade, vintage, or craft supplies.
+- Strategies for independent artists and small creative businesses.
+- Understanding a niche e-commerce platform distinct from mass-market retail.
 
-*Note: I can browse and provide"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+*Avoid"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
