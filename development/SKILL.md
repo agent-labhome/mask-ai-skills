@@ -1,27 +1,27 @@
 -e # Development
 
-{"id":"7a266f52-baac-4bb1-87f9-8dce634e82b2","object":"chat.completion","created":1771526177,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Development Briefs
+{"id":"f66f397a-c8a4-4f9d-9619-a445b3465e03","object":"chat.completion","created":1771530947,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Development Briefs
 
 ## Purpose
-A development brief is a concise document that translates business requirements into actionable technical specifications for developers.
+To create clear, actionable development briefs that align stakeholders and enable efficient execution.
 
-## Core Components
+## Core Principles
 
-### 1. **Problem Statement**
-- What problem are we solving?
-- Who is affected by this problem?
-- Why does this problem need solving now?
+**Clarity Over Completeness**
+- Start with the essential \"why\" and \"what\"
+- Leave technical \"how\" to the development team
+- Use plain language, avoid jargon
 
-### 2. **Success Criteria**
-- **Functional:** What should the feature do?
-- **Non-functional:** Performance, security, scalability requirements
-- **Business metrics:** How will we measure success?
+**Actionable Scope**
+- Define concrete deliverables, not vague aspirations
+- Include acceptance criteria (what does \"done\" look like?)
+- Specify constraints (timeline, budget, dependencies)
 
-### 3. **Technical Scope**
-- **In scope:** Specific features, endpoints, components
-- **Out of scope:** Related but excluded items
-- **Dependencies:** External systems, APIs, teams
+**Collaborative Foundation**
+- Briefs are starting points, not immutable decrees
+- Leave room for technical discovery and iteration
+- Identify key stakeholders and decision-makers
 
-### 4. **User Stories/Requirements**
-- Format: \"As a [user], I want [action] so that [benefit]\"
-- Include acceptance criteria for each
+## Essential Components
+
+1. **Objective** - The business/user problem we're solving

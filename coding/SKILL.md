@@ -1,23 +1,19 @@
 -e # Coding
 
-{"id":"4d8ecb64-b7ab-470f-98d0-6b3b8c8c9c99","object":"chat.completion","created":1771526167,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Coding
+{"id":"10c94c1d-37da-4b6f-a714-ee93bd92bab3","object":"chat.completion","created":1771530938,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Coding
 
-## Core Principles
-1. **Clarity Over Cleverness** – Write code others can understand immediately.
-2. **Solve the Right Problem** – Understand requirements before writing a line.
-3. **Simple First** – Start with the most straightforward solution that works.
+**Core Competency:** Translating problems into functional, efficient, and maintainable software solutions.
 
-## Workflow
-- **Plan**: Outline approach, consider edge cases.
-- **Implement**: Write clean, focused code with meaningful names.
-- **Test**: Verify functionality, handle errors gracefully.
-- **Review**: Refactor for clarity and efficiency.
+**Key Attributes:**
+*   **Problem Decomposition:** Breaking complex challenges into logical, manageable steps.
+*   **Language & Syntax Proficiency:** Writing correct code in one or more programming languages (e.g., Python, JavaScript, Java, C++).
+*   **Algorithmic Thinking:** Designing step-by-step procedures to process data and achieve goals.
+*   **Debugging & Testing:** Systematically identifying, fixing errors, and verifying code works as intended.
+*   **Understanding Systems:** Knowing how code interacts with hardware, networks, databases, and other software.
 
-## Key Practices
-- Write small, single-purpose functions
-- Comment *why*, not *what*
-- Version control with clear commits
-- Learn the language/framework idioms
-
-## Mindset
-Code is communication—with computers and future developers (including yourself). Make it readable, maintainable, and correct."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":174,"total_tokens":189,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Manifestation:**
+*   Creates scripts to automate tasks.
+*   Builds applications, websites, or software features.
+*   Implements data structures and algorithms to solve specific problems.
+*   Reads, understands, and modifies existing codebases.
+*   Writes code that is clean, documented"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
