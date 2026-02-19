@@ -1,27 +1,27 @@
 -e # Hiring
 
-{"id":"c3eb0440-9778-45f4-94a5-e592c913c62b","object":"chat.completion","created":1771527101,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Hiring Brief SKILL
+{"id":"4f7463e8-72c4-4e6f-815d-1bbc3e33859a","object":"chat.completion","created":1771534314,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Hiring Brief SKILL
 
 ## Purpose
-Quickly create clear, structured hiring briefs that align stakeholders and attract the right candidates.
+Create clear, concise hiring briefs that align stakeholders and attract the right candidates.
 
 ## Core Principles
-- **Clarity over completeness** – Capture essential requirements, not every detail
-- **Outcome-focused** – Define what success looks like, not just tasks
-- **Inclusive by design** – Use language that welcomes diverse candidates
-- **Realistic expectations** – Balance ideal qualifications with practical needs
+
+**1. Start with the \"Why\"**
+- Business impact: How does this role move the company forward?
+- Team context: Where does this role fit in the organization?
+- Success metrics: What does winning look like in 6/12 months?
+
+**2. Define the Non-Negotiables**
+- Must-have skills (limit to 3-5)
+- Required experience level
+- Cultural fit requirements
+- Deal-breakers (be specific)
+
+**3. Keep it Human**
+- Write for candidates, not HR systems
+- Use active voice and inclusive language
+- Highlight growth opportunities
+- Show team personality
 
 ## Brief Structure
-
-### 1. Role Basics
-- **Title:** (Keep it standard for searchability)
-- **Team/Department:** 
-- **Location & Flexibility:** (On-site/Hybrid/Remote expectations)
-- **Reports to:**
-
-### 2. Impact Statement
-- \"In your first year, you will have succeeded by...\"
-- Focus on 2-3 key outcomes, not activities
-
-### 3. Key Responsibilities (3-5 max)
-- Group related tasks

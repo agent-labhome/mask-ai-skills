@@ -1,23 +1,27 @@
 -e # Management
 
-{"id":"4cf7e0a8-85b7-4566-9e32-f5861d364a5c","object":"chat.completion","created":1771527091,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Management: SKILL.md
+{"id":"91fe4d72-2303-4959-8732-c94ebe523803","object":"chat.completion","created":1771534304,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Management Briefs
 
-## Core Principles
-- **Clarity First**: Define clear objectives, expectations, and success metrics
-- **Delegate Effectively**: Match tasks to strengths, provide autonomy with support
-- **Communicate Constantly**: Regular check-ins, transparent updates, active listening
-- **Develop People**: Mentor, provide growth opportunities, give constructive feedback
-- **Remove Obstacles**: Clear roadblocks, provide resources, protect team focus
+## Purpose
+Deliver concise, actionable management summaries that enable rapid, informed decision-making.
 
-## Key Practices
-- **1:1 Meetings**: Weekly, employee-led agenda, growth-focused
-- **Team Meetings**: Purpose-driven, collaborative, action-oriented
-- **Feedback**: Timely, specific, balanced (positive/constructive)
-- **Decision Making**: Data-informed, inclusive when possible, decisive when needed
-- **Conflict Resolution**: Address early, focus on interests not positions, seek win-win
+## Key Principles
 
-## Success Metrics
-- Team engagement & retention
-- Goal achievement & delivery quality
-- Individual growth & promotion readiness
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Clarity Over Completeness**
+- Lead with the single most important conclusion
+- Use plain language, avoid jargon
+- Structure: Situation → Analysis → Recommendation
+
+**Brevity as Discipline**
+- One page maximum for written briefs
+- 5 minutes maximum for verbal briefs
+- Include only decision-critical information
+- Append supporting data, don't embed it
+
+**Action Orientation**
+- Every brief must end with clear options
+- Specify recommended action and rationale
+- Define decision deadline and stakeholders
+- Outline next steps and owners
+
+## Format Template

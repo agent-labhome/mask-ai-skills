@@ -1,25 +1,18 @@
 -e # Leadership
 
-{"id":"d28de9b0-2acb-4b83-900f-e787049e455e","object":"chat.completion","created":1771527086,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Leadership SKILL.md
+{"id":"1fef2768-f55f-4485-b09b-e4abacaacd9d","object":"chat.completion","created":1771534300,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership
 
-## Core Principles
-- **Lead by Example** – Demonstrate the behaviors and standards you expect from others.
-- **Communicate Clearly** – Articulate vision, expectations, and feedback with precision and empathy.
-- **Empower Others** – Delegate authority, trust your team, and create space for growth.
-- **Decisive & Accountable** – Make informed decisions promptly and take responsibility for outcomes.
-- **Adapt & Listen** – Stay open to feedback, pivot when needed, and value diverse perspectives.
+## Core Definition
+The ability to guide, inspire, and influence others toward a common goal or vision.
 
-## Key Actions
-- Set and align on clear goals.
-- Provide regular, constructive feedback.
-- Recognize and develop talent.
-- Resolve conflicts fairly and swiftly.
-- Foster psychological safety and inclusion.
+## Key Behaviors
+*   **Sets Direction:** Clearly defines goals, purpose, and strategy.
+*   **Inspires Action:** Motivates others through vision, communication, and example.
+*   **Empowers Others:** Delegates authority, provides resources, and fosters autonomy.
+*   **Builds Trust:** Acts with integrity, demonstrates competence, and shows care for team members.
+*   **Makes Decisions:** Assesses situations, weighs options, and commits to a course of action.
+*   **Develops People:** Coaches, mentors, and provides feedback to grow team capabilities.
 
-## Quick Checks
-- Are you enabling or blocking your team?
-- Is your direction understood?
-- Are you listening more than speaking?
-- Does your team feel supported to take risks?
-
-**Leadership is not a title—it’s action, influence,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## In Practice
+*   **Brief:** A leader provides clear context (\"Here's why this matters\"), specific direction (\"Here's what we need to achieve\"), and defines success (\"Here's what good looks like\").
+*   **Effective:** Focuses on outcomes,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
