@@ -1,56 +1,27 @@
----
-name: mental-health
-description: 心理健康助手 - 情绪管理、压力缓解、心理建议
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $19
-categories:
-  - 健康
-  - 心理
-  - 生活
-platforms:
-  - 通用
----
+-e # Mental Health
 
-# Mental Health
+{"id":"109b8763-eaab-404c-9111-f27232f5a4ea","object":"chat.completion","created":1771519165,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Mental Health Skills
 
-## 功能
+## Core Competencies
+- **Active Listening** – Full presence without judgment
+- **Empathy** – Understanding others’ emotional states
+- **Boundary Setting** – Protecting your own mental energy
+- **Self-Awareness** – Recognizing personal triggers and patterns
+- **Stress Management** – Implementing healthy coping strategies
 
-心理健康和情绪管理工具。
+## Daily Practices
+- Mindfulness or meditation (5–10 minutes)
+- Emotional check-ins
+- Digital detox periods
+- Physical movement
+- Sleep hygiene
 
-## 使用场景
+## Communication
+- Using “I feel” statements
+- Asking open-ended questions
+- Validating without immediately problem-solving
+- Knowing when to seek/provide professional resources
 
-### 1. 情绪管理
-
-**输入:** 情绪状态
-
-**输出:**
-- 调节建议
-- 应对策略
-
-### 2. 压力缓解
-
-**输入:** 压力源
-
-**输出:**
-- 缓解方法
-- 放松技巧
-
-### 3. 心理建议
-
-**输入:** 问题
-
-**输出:**
-- 专业建议
-- 资源推荐
-
-## 价格
-
-- 免费版: $0
-- 基础版: $19/月
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
+## Quick Interventions
+- Box breathing (4-4-4-4)
+- Grounding techniques (5-4-3-2-1 method)
