@@ -1,23 +1,21 @@
 -e # Communication
 
-{"id":"8ee2b37d-6340-4a60-829c-f2ac97919933","object":"chat.completion","created":1771527211,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Communication
+{"id":"41faa156-f34e-4fba-b9d4-dae46748dcf6","object":"chat.completion","created":1771534423,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Communication (Brief)
 
-## Core Principle
-**Clear, concise, and context-aware exchange of information.**
+**Core Principle:** Convey information clearly, concisely, and with purpose, respecting the recipient's time and attention.
 
 ## Key Behaviors
-*   **Listen Actively:** Focus fully, ask clarifying questions, and confirm understanding.
-*   **Speak/Write Concisely:** Deliver the core message without unnecessary detail. Get to the point.
-*   **Adapt to Audience:** Tailor language, tone, and medium (email, call, meeting) to the listener.
-*   **State Intent & Next Steps:** Make the purpose of the communication and required actions explicit.
-*   **Confirm Alignment:** End interactions with a clear summary or agreed-upon next steps.
 
-## Anti-Patterns
-*   Information dumps without structure.
-*   Assuming instead of confirming.
-*   Using the wrong channel for the message (e.g., complex debate over text).
-*   Leaving purpose or expected action ambiguous.
+*   **Get to the Point:** Lead with your main message or request.
+*   **Know Your Audience:** Tailor language, detail, and tone to the listener.
+*   **Structure for Clarity:** Use a logical flow (e.g., BLUF: Bottom Line Up Front).
+*   **Be Succinct:** Eliminate filler words, redundancy, and unnecessary detail.
+*   **Prepare & Practice:** Clarify your goal and key points before speaking or writing.
 
 ## Quick Checklist
-- [ ] Is my **purpose** clear?
-- [ ]"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+*   ✅ Is my core message in the first 1-2 sentences?
+*   ✅ Have I removed jargon or explained it?
+*   ✅ Is every sentence necessary?
+*   ✅ Is the requested action or next step clear?
+*   ✅ Is the format (email, message, talk) the"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

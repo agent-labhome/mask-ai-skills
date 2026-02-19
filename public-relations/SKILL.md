@@ -1,24 +1,18 @@
 -e # Public Relations
 
-{"id":"f35c787e-d03a-48ed-a887-07cbe3396981","object":"chat.completion","created":1771527206,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Public Relations
+{"id":"0aa2568c-eec7-4efc-822e-281ad186ea60","object":"chat.completion","created":1771534418,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Public Relations (PR)
 
 ## Core Competencies
-- **Media Relations:** Pitch stories, manage press inquiries, build journalist relationships.
-- **Crisis Communications:** Develop response plans, craft holding statements, protect reputation.
-- **Content Creation:** Write press releases, speeches, fact sheets, and social media copy.
-- **Strategic Messaging:** Develop key messages and narratives aligned with organizational goals.
-- **Stakeholder Engagement:** Identify and communicate with key audiences (media, community, investors).
-- **Reputation Management:** Monitor public perception and proactively shape narrative.
+- **Media Relations:** Building and maintaining relationships with journalists, bloggers, and influencers. Pitching stories, managing inquiries, and securing coverage.
+- **Strategic Communication:** Developing key messages, talking points, and narratives that align with organizational goals and protect reputation.
+- **Crisis Management:** Anticipating, preparing for, and responding to negative situations to mitigate damage to reputation.
+- **Content Creation:** Writing press releases, statements, op-eds, speeches, and social media content.
+- **Stakeholder Engagement:** Identifying and communicating with key audiences (e.g., customers, employees, investors, community).
+- **Event Management:** Planning and executing press conferences, media briefings, and promotional events.
+- **Reputation Monitoring:** Tracking media coverage, social sentiment, and public perception.
 
 ## Key Deliverables
 - Press releases & media advisories
-- Media lists & pitching
+- Media lists & pitch emails
 - Crisis communication plans
-- Key message documents
-- Media training & briefing materials
-- Coverage reports & analysis
-
-## Quick Brief Checklist
-- [ ] Objective: What is the desired outcome?
-- [ ] Audience: Who are we trying to reach/influence?
-- [ ] Key Message: What is the single most important thing to"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Key message"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

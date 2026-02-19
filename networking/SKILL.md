@@ -1,20 +1,16 @@
 -e # Networking
 
-{"id":"678b0cad-0bed-421d-8c85-9779efedf432","object":"chat.completion","created":1771527201,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Networking
+{"id":"d4826c9b-958e-4c35-b103-b94793b2bec8","object":"chat.completion","created":1771534413,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Networking
 
-**Core Competency:** Building and maintaining professional relationships to exchange information, advice, and support.
+**Purpose:** Building and maintaining professional relationships to exchange information, advice, and support.
 
-**Key Behaviors:**
-*   Proactively initiating and sustaining connections.
-*   Offering value and assistance to others without immediate expectation of return.
-*   Actively listening and showing genuine interest.
-*   Following up and maintaining contact over time.
-*   Comfortably introducing oneself and articulating one's work or interests.
+**Core Actions:**
+*   **Connect:** Proactively introduce yourself and find common ground.
+*   **Listen:** Focus on understanding others' goals and challenges.
+*   **Give:** Offer help, insights, or introductions without immediate expectation of return.
+*   **Follow Up:** Maintain connections with a brief message or shared resource.
+*   **Nurture:** Sustain relationships over time, not just when you need something.
 
-**Antipatterns:**
-*   Treating interactions as purely transactional.
-*   Only reaching out when you need something.
-*   Failing to listen or engage with the other person's interests.
-*   Letting connections go cold after the first meeting.
+**Key Mindset:** It's about cultivating a garden, not hunting. Value comes from mutual, long-term benefit.
 
-**Essence:** Networking is about cultivating a garden of relationships, not hunting for transactions. It's a long-term practice of mutual support."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":170,"total_tokens":185,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Quick Tip:** Your network is not your contact list; it's the people who know and are willing to help you."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":158,"total_tokens":173,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

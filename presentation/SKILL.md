@@ -1,27 +1,25 @@
 -e # Presentation
 
-{"id":"f8400108-53c6-4d7d-99c4-7bee297be760","object":"chat.completion","created":1771527216,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Presentation Briefing
+{"id":"6b1c7688-2f3f-474f-9c1a-7d2c5fb2a7b7","object":"chat.completion","created":1771534427,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Presentation Briefing
 
 ## Purpose
-Quickly create clear, structured briefs for presentations that align stakeholders and guide effective content development.
+Create clear, concise briefs that set presenters up for success by defining objectives, audience, and key messages.
 
-## Core Principles
-- **Audience-first**: Start with who's listening and what they need
-- **Clarity over cleverness**: Simple, direct communication wins
-- **Purpose-driven**: Every element serves the presentation's goal
-- **Action-oriented**: Focus on what should happen after the presentation
+## Key Components
+- **Objective**: The single most important thing the presentation should achieve
+- **Audience**: Who they are, what they care about, their current knowledge level
+- **Core Message**: The one idea you want the audience to remember
+- **Tone & Style**: Formal/casual, inspirational/data-driven, visual/text-heavy
+- **Constraints**: Time limit, venue, technical requirements, brand guidelines
 
-## Brief Structure (5 Essential Elements)
+## Best Practices
+- Start with \"After this presentation, the audience will...\"
+- Keep to one page maximum
+- Include specific success metrics when possible
+- Align with broader organizational goals
+- Specify what NOT to cover (scope boundaries)
 
-1. **Objective**
-   - Primary goal (inform, persuade, decide, inspire)
-   - Desired outcome/action from audience
-   - Success metrics
-
-2. **Audience**
-   - Key stakeholders & decision-makers
-   - Their knowledge level & biases
-   - What they care about most
-   - Potential objections/questions
-
-3. **Core Message**
+## Common Pitfalls to Avoid
+- Vague objectives (\"inform them about X\")
+- Assuming audience knowledge level
+- Too many key messages (stick"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
