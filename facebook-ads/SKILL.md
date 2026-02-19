@@ -1,100 +1,27 @@
-# Facebook Ads Manager
+-e # Facebook Ads
 
-帮助你投放Facebook/Instagram广告。
+{"id":"749579f1-1a52-47ab-ab0d-69d5c28f172c","object":"chat.completion","created":1771516383,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Facebook Ads SKILL.md
 
-## 核心能力
+## Core Competencies
+- Campaign strategy & objective selection
+- Audience targeting (custom, lookalike, interest-based)
+- Ad creative development (static, video, carousel)
+- A/B testing & optimization
+- Budget management & bidding strategies
+- Performance tracking & analytics
 
-### 1. 账户设置
-- BM创建
-- 像素安装
-- 目录设置
-- 权限管理
+## Key Platforms
+- Meta Ads Manager
+- Facebook Business Suite
+- Pixel implementation & events
+- Conversion API setup
 
-### 2. 广告系列
-- 目标选择
-- 受众定位
-- 预算设置
-- 排期优化
+## Measurement Focus
+- ROAS (Return on Ad Spend)
+- CPA (Cost Per Acquisition)
+- CTR (Click-Through Rate)
+- Conversion tracking
+- Attribution modeling
 
-### 3. 广告创意
-- 图片优化
-- 视频广告
-- 轮播广告
-- 动态创意
-
-### 4. 优化策略
-- A/B测试
-- 转化优化
-- 再营销
-- 预算调整
-
-## 使用示例
-
-```
-用户: 我想投放电商广告，怎么开始？
-
-助手:
-## 📢 Facebook广告投放指南
-
-### 广告目标选择
-| 目标 | 适用场景 |
-|------|----------|
-| 转化 | 卖产品 |
-| 流量 | 引流到网站 |
-| 互动 | 涨粉/活动 |
-| 视频 | 品牌曝光 |
-| 线索 | 收集潜在客户 |
-
-### 受众定位
-
-**种子受众:**
-- 兴趣: 类似Page
-- 相似: 购买客户
-- 自定义: 网站访客/用户列表
-
-**冷受众:**
-- 核心兴趣
-- 排除已购买
-
-### 广告结构
-```
-广告系列 (Campaign)
-  ↓
-广告组 (Ad Set) - 受众+预算+排期
-  ↓
-广告 (Ad) - 创意+文案
-```
-
-### 预算建议
-- 测试期: $20-50/天
-- 优化期: $50-200/天
-- 规模化: $200+/天
-
-### 优化指标
-- CPC < $1
-- CTR > 2%
-- ROAS > 3
-```
-
----
-
-## 工具推荐
-
-- Facebook Business Manager
-- Canva (创意)
-- Google Analytics
-- 像素追踪
-
----
-
-## 变现方式
-
-- 代投放: $500-5000/月
-- 培训: $199-999
-- 顾问: $100-500/小时
-
----
-
-*Price: $39*
-*Category: Marketing*
-*Tags: facebook-ads, advertising, marketing, targeting, conversion*
+## Best Practices
+- Clear campaign naming conventions
