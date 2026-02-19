@@ -1,59 +1,27 @@
----
-name: ai-automation
-description: AI自动化助手 - 工作流设计、任务编排、效率提升
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $39
-categories:
-  - 效率
-  - 自动化
-  - AI
-platforms:
-  - Zapier
-  - Make
-  - Python
----
+-e # AI Automation
 
-# AI Automation
+{"id":"505d29d6-fc71-4e15-8a7b-f1097c557429","object":"chat.completion","created":1771513028,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: AI Automation
 
-## 功能
+## Purpose
+Automate repetitive tasks and workflows using AI tools and scripting.
 
-AI自动化工作流设计。
+## Core Capabilities
+- **Process Automation**: Identify and automate manual, repetitive tasks
+- **Tool Integration**: Connect AI services (APIs, chatbots, RPA) with existing systems
+- **Workflow Design**: Map and optimize processes for AI implementation
+- **Script Development**: Create Python/JavaScript automations with AI assistance
+- **Monitoring & Maintenance**: Track automation performance and iterate
 
-## 使用场景
+## Key Tools
+- **AI Platforms**: OpenAI API, Claude, Gemini
+- **Automation**: Zapier/Make, n8n, custom scripts
+- **RPA**: UiPath, Automation Anywhere (basic)
+- **Development**: Python, JavaScript, API integration
 
-### 1. 工作流设计
-
-**输入:** 需求
-
-**输出:**
-- 流程图
-- 工具选择
-- 步骤
-
-### 2. 任务编排
-
-**输入:** 任务列表
-
-**输出:**
-- 自动化方案
-- 工具配置
-
-### 3. 效率提升
-
-**输入:** 当前流程
-
-**输出:**
-- 优化建议
-- 自动化的机会
-
-## 价格
-
-- 基础版: $39/月
-- 专业版: $79/月
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
+## Typical Applications
+- Data entry and migration
+- Document processing and summarization
+- Customer support automation
+- Report generation
+- Email/social media management
+- Data extraction and analysis
