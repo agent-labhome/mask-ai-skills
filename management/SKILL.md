@@ -1,21 +1,17 @@
 -e # Management
 
-{"id":"d14ae6e6-cf16-416a-bdc9-2491415b58b5","object":"chat.completion","created":1771587652,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Management Brief
+{"id":"27e1c4d6-85a0-482b-9ee7-8044473beac9","object":"chat.completion","created":1771595424,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Management Briefing
 
 ## Purpose
-To deliver concise, structured, and actionable summaries of complex management information, enabling leaders to make informed decisions quickly.
+A management brief is a concise, structured communication tool designed to inform decision-makers about critical information, enabling rapid understanding and action. It distills complex situations into essential elements for executives and senior leaders who need to make informed decisions with limited time.
 
 ## Core Principles
 
-### 1. **Audience-Centric**
-- **Identify Stakeholder:** Tailor content to the specific leader's priorities (CEO vs. Department Head).
-- **Executive Mindset:** Focus on strategic implications, risks, and opportunities, not operational minutiae.
-- **Time Respect:** Deliver maximum insight in minimum time.
+*   **Clarity Over Completeness:** Prioritize the most critical information. Omit unnecessary detail that does not directly support the decision or understanding required.
+*   **Audience-Centric:** Tailor content, tone, and depth to the specific knowledge level and needs of the leadership audience.
+*   **Action-Oriented:** Every brief should drive toward a clear purpose: a decision, an approval, awareness of a risk, or alignment on next steps.
+*   **Structured for Speed:** Use consistent formatting (like BLUF) and clear headings so key information can be found in seconds.
 
-### 2. **Clarity & Conciseness**
-- **Bottom-Line Up Front (BLUF):** State the core recommendation or key takeaway first.
-- **Eliminate Jargon:** Use plain language. Explain necessary technical terms.
-- **One Page Rule:** Strive to keep the brief to a single page or a 5-minute read.
+## Standard Structure (BLUF Format)
 
-### 3. **Action-Oriented**
-- **Drive Decisions:** Every brief should lead to a clear ask: a"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**1. BLUF (Bottom Line"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
