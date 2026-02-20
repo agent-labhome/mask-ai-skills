@@ -1,27 +1,24 @@
 -e # Video
 
-{"id":"845d42df-0aea-4ed6-8ce7-80908a4c2a8e","object":"chat.completion","created":1771578014,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Video Brief
+{"id":"99abe06d-d7f2-404a-ac04-189ab1154b8a","object":"chat.completion","created":1771585420,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Video Brief SKILL
 
-## Purpose
-Transform vague video ideas into structured, actionable briefs that align creative vision with production requirements.
+## Overview
+The Video Brief skill helps users create structured, professional video briefs for various purposes including marketing, tutorials, presentations, and social media content. It guides users through essential elements needed for effective video production planning.
 
 ## Core Capabilities
 
-### 1. **Brief Structuring**
-- Organizes video concepts into standard brief formats
-- Identifies missing components and prompts for clarification
-- Creates production-ready templates for different video types (explainer, testimonial, tutorial, etc.)
+### 1. **Brief Generation**
+- Creates comprehensive video briefs based on user requirements
+- Adapts to different video types (marketing, tutorial, social media, corporate, etc.)
+- Includes all essential sections: objectives, target audience, key messages, etc.
 
-### 2. **Audience Analysis**
-- Helps define target audience demographics and psychographics
-- Suggests appropriate tone, style, and messaging for specific audiences
-- Identifies potential audience pain points and how the video addresses them
+### 2. **Template Selection**
+- Offers multiple brief templates:
+  - **Standard Brief**: Comprehensive for professional productions
+  - **Quick Brief**: Simplified for faster projects
+  - **Social Media Brief**: Optimized for platform-specific content
+  - **Tutorial/How-to Brief**: Structured for educational content
 
-### 3. **Objective Definition**
-- Clarifies primary and secondary goals (awareness, conversion, education, etc.)
-- Helps establish measurable KPIs and success metrics
-- Aligns video purpose with broader marketing/business objectives
-
-### 4. **Creative Development**
-- Expands on core ideas with creative suggestions
-- Recommends visual"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Section Customization**
+- **Project Overview**: Title, description, purpose
+- **Objectives & Goals"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

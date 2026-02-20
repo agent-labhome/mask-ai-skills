@@ -1,27 +1,26 @@
 -e # Podcast
 
-{"id":"d5c587bf-2a43-4bce-b7d0-7e2c28dbfc61","object":"chat.completion","created":1771577571,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Podcast Brief Generator
+{"id":"6bcd473e-a0b2-4ad5-a36b-cf2fb16ca0a3","object":"chat.completion","created":1771585431,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Podcast Brief Generator
 
 ## Purpose
-Generate structured, actionable briefs for podcast episodes based on a topic, guest, or concept.
+Generate structured, actionable podcast briefs based on simple inputs from creators.
 
-## Core Capabilities
-- Transform vague podcast ideas into structured episode briefs
-- Create guest-specific briefs with tailored questions
-- Generate production-ready outlines with timing, segments, and talking points
-- Adapt to different podcast formats (interview, solo, panel, narrative)
-- Include promotional and technical specifications
-
-## Input Requirements
-**Minimum Viable Input:**
-- Topic or guest name
-- Podcast format preference (if any)
-
-**Optimal Input:**
-- Topic/guest + format + target audience + episode goals + any special requirements
+## Input Format
+Users provide:
+- Topic/theme
+- Target audience
+- Desired episode length
+- Any special requirements or goals
 
 ## Output Structure
-A comprehensive brief containing:
+Generate a comprehensive podcast brief with:
 
-1. **Episode Metadata**
-   - Working title (3 options)
+### 1. Episode Overview
+- Working title (3 options)
+- Core premise (1-2 sentences)
+- Key takeaway for listeners
+
+### 2. Audience Profile
+- Primary listener persona
+- Listener's pain points/desires
+- Where they'll listen (context)

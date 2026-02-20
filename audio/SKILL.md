@@ -1,27 +1,21 @@
 -e # Audio
 
-{"id":"380f4dc2-c19f-45a3-af8f-8cc84260ce3d","object":"chat.completion","created":1771578020,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Audio Brief
+{"id":"e94ecc95-426f-4ebf-875b-c6e68096a3f9","object":"chat.completion","created":1771585425,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Audio Brief: SKILL.md
 
-## Purpose
-Create clear, concise audio production briefs that align creative vision with technical execution.
+## Core Competencies
 
-## Core Principles
+### Technical Audio Production
+- **Recording & Capture**: Field recording, studio recording, microphone techniques, signal flow
+- **Editing & Restoration**: Noise reduction, cleanup, spectral editing, dialogue editing
+- **Mixing & Mastering**: Balance, EQ, compression, spatial processing, loudness standards
+- **Sound Design**: Foley, SFX creation, synthesis, processing chains
+- **Music Production**: Composition, arrangement, MIDI programming, virtual instruments
 
-### 1. **Strategic Clarity**
-- Start with the \"why\" before the \"what\"
-- Define primary objective (brand awareness, conversion, emotional connection)
-- Specify target audience with psychographic details
-- Identify key message hierarchy
+### Audio Technology
+- **DAWs**: Pro Tools, Logic Pro, Ableton Live, Reaper, Cubase
+- **Plugins & Processors**: EQ, compression, reverb, delay, modulation, restoration tools
+- **Formats & Codecs**: WAV, MP3, AAC, FLAC, Dolby formats, streaming codecs
+- **Delivery Standards**: Broadcast specs, streaming requirements, platform-specific guidelines
 
-### 2. **Creative Direction**
-- Establish tone (urgent, warm, playful, authoritative)
-- Reference existing audio assets or competitors
-- Define vocal style (age, gender, energy level, accent)
-- Specify music genre or mood requirements
-- Include sonic branding elements if applicable
-
-### 3. **Technical Specifications**
-- Duration (exact or range)
-- File format requirements
-- Delivery specifications
-- Technical constraints (broadcast standards, platform limitations)
+### Specialized Applications
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
