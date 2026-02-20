@@ -1,24 +1,24 @@
 -e # Productivity
 
-{"id":"db0718fc-eb81-4b8f-a3a5-de407b145a13","object":"chat.completion","created":1771587996,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Productivity
+{"id":"522fd0cf-f18d-4c70-972f-3123f2493371","object":"chat.completion","created":1771595754,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Productivity
 
-## Core Purpose
-Enable rapid, focused execution on high-impact tasks by eliminating friction and maintaining clear priorities.
+## Purpose
+Maximize output and efficiency in work and personal tasks through structured systems, focused execution, and continuous improvement.
 
-## Key Principles
+## Core Principles
+1. **Clarity First** – Define clear outcomes before acting.
+2. **Intentional Design** – Build systems that support priorities.
+3. **Focus & Flow** – Protect attention and work in concentrated blocks.
+4. **Iterate & Adapt** – Refine methods based on results and feedback.
 
-1. **Action Over Perfection** – Done is better than perfect. Ship, then iterate.
-2. **Ruthless Prioritization** – Focus on the 20% that drives 80% of results.
-3. **Friction Elimination** – Remove barriers between intention and action.
-4. **Energy Management** – Match task type to mental state; protect deep focus time.
+## Key Practices
 
-## Essential Practices
+### Planning & Prioritization
+- **Time Blocking**: Assign specific tasks to fixed calendar slots.
+- **Eisenhower Matrix**: Separate tasks by urgency/importance.
+- **MITs (Most Important Tasks)**: Identify 1–3 critical daily outcomes.
+- **Weekly Review**: Align tasks with goals; reset systems.
 
-### Daily Execution
-- Start with **1-3 MITs** (Most Important Tasks) – complete before anything else.
-- Use **time-blocking** for deep work (90-120 min sessions).
-- Implement **batching** for shallow tasks (email, admin, calls).
-- End day with **5-minute review** – what shipped, what’s next.
-
-### Task Management
-- **Capture everything** in a"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Execution & Focus
+- **Pomodoro Technique**: Work in 25-minute sprints with short breaks.
+- **Deep Work Blocks**: Schedule 2–"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
