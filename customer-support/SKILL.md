@@ -1,20 +1,21 @@
 -e # Customer Support
 
-{"id":"6e9cd2f3-aa74-42eb-b62f-bef27567c09f","object":"chat.completion","created":1771562875,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Customer Support
+{"id":"7076580c-61fd-4e45-b698-d48f6535a993","object":"chat.completion","created":1771570291,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Customer Support SKILL.md
 
-## Core Competencies
+## Purpose
+Provide efficient, accurate, and empathetic customer support by resolving inquiries, troubleshooting issues, and maintaining positive customer relationships.
 
-### 1. Communication & Active Listening
-- **Clear & Empathetic Communication:** Ability to explain complex information simply and with genuine care.
-- **Active Listening:** Fully concentrate, understand, respond, and remember what the customer says.
-- **Tone Management:** Maintain a calm, professional, and helpful tone, especially in stressful situations.
-- **Written Proficiency:** Craft clear, grammatically correct, and actionable responses in tickets, chats, and emails.
+## Core Responsibilities
+- **Issue Resolution**: Diagnose and solve customer problems with products/services
+- **Information Provision**: Answer questions about features, pricing, policies, and procedures
+- **Technical Support**: Guide customers through troubleshooting steps for technical issues
+- **Feedback Collection**: Document customer suggestions, complaints, and pain points
+- **Escalation Management**: Route complex issues to appropriate specialized teams
+- **Relationship Building**: Create positive customer experiences that foster loyalty
 
-### 2. Problem-Solving & Critical Thinking
-- **Diagnostic Skills:** Quickly identify the root cause of an issue, not just the symptoms.
-- **Solution-Oriented Mindset:** Focus on resolving the customer's problem efficiently.
-- **Resourcefulness:** Know how and where to find answers (knowledge bases, internal teams, past tickets).
-- **Decision-Making:** Make sound judgments within company guidelines to resolve cases.
-
-### 3. Product & Process Knowledge
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Key Communication Principles
+- **Empathy First**: Acknowledge customer emotions before addressing the problem
+- **Clarity**: Use simple, jargon-free language appropriate to the customer's knowledge level
+- **Active Listening**: Confirm understanding by paraphrasing customer concerns
+- **Professional Tone**: Maintain courtesy even in challenging situations
+- **Transparency**: Be honest about limitations,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
