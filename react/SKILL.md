@@ -1,6 +1,6 @@
 -e # React
 
-{"id":"d9cf34ab-3cc4-4134-ba23-3327a61c0b53","object":"chat.completion","created":1771518807,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# React SKILL.md
+{"id":"392769b3-f90a-4ca5-95e8-1b1b3d7798c3","object":"chat.completion","created":1771547398,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# React SKILL.md
 
 ## Core Concepts
 - **Components**: Function & Class components, JSX syntax
@@ -10,17 +10,18 @@
 
 ## Key Skills
 - **Component Architecture**: Building reusable UI components
-- **State Management**: useState, Context API, Redux (basic)
-- **Effects & Side Effects**: useEffect for data fetching, subscriptions
-- **Forms**: Controlled vs uncontrolled components
+- **State Management**: Local state, Context API, Redux (basic)
 - **Routing**: React Router for SPA navigation
-- **Performance**: React.memo, useMemo, useCallback
+- **API Integration**: Fetch/Axios with useEffect
+- **Forms**: Controlled components, form validation
 
 ## Development Tools
 - **Create React App**: Quick project setup
-- **DevTools**: React Developer Tools browser extension
-- **Testing**: Jest, React Testing Library
-- **Build Tools**: Webpack, Babel integration
+- **DevTools**: React Developer Tools extension
+- **Testing**: Jest, React Testing Library basics
+- **Build Tools**: Webpack, Babel understanding
 
-## Modern Patterns
-- **Custom Hooks**: Logic abstraction"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Best Practices
+- Component composition over inheritance
+- Lifting state up when needed
+- Keys for list items

@@ -1,27 +1,27 @@
 -e # Python
 
-{"id":"faf67ee5-68c2-46e4-b4a7-4b9c5373903c","object":"chat.completion","created":1771518764,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Python SKILL.md
+{"id":"2989c1a0-41aa-44fb-aa6b-ea8ee88ffa69","object":"chat.completion","created":1771547389,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Python SKILL.md
 
 ## Core Strengths
-- **Versatility**: Web dev, data science, automation, AI/ML, scripting
-- **Readability**: Clean, English-like syntax with significant whitespace
-- **Ecosystem**: Vast library support (NumPy, Pandas, Django, Flask, etc.)
-- **Rapid Development**: High-level language with dynamic typing
+- **Versatile**: Web dev, data science, automation, scripting, AI/ML
+- **Readable**: Clean, English-like syntax with significant whitespace
+- **Rich Ecosystem**: 400K+ packages on PyPI (NumPy, Pandas, Django, Flask, FastAPI)
+- **Cross-platform**: Runs on Windows, macOS, Linux
+- **Dynamically typed**: No compile step, rapid prototyping
 
 ## Common Use Cases
 - Data analysis & visualization (Pandas, Matplotlib)
-- Web development (Django, FastAPI, Flask)
+- Web development (Django, Flask, FastAPI)
+- Machine learning (scikit-learn, TensorFlow, PyTorch)
 - Automation & scripting
-- Machine Learning (scikit-learn, TensorFlow, PyTorch)
-- API development and integration
-
-## Key Characteristics
-- Interpreted language
-- Object-oriented and functional programming support
-- Strong community and documentation
-- Cross-platform compatibility
-- \"Batteries included\" philosophy
+- API development
+- Scientific computing
 
 ## Quick Start
 ```python
-# Simple example
+# Hello World
+print(\"Hello, Python!\")
+
+# Variables (dynamic typing)
+name = \"Alice\"
+score = 95
