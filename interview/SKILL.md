@@ -1,27 +1,27 @@
 -e # Interview
 
-{"id":"ee62665d-c200-4831-abe0-db46ff45ed0a","object":"chat.completion","created":1771574413,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Interview Brief
+{"id":"c8986779-eba4-434e-8d81-f9d34584a2c9","object":"chat.completion","created":1771581307,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Interview Briefs
 
-## Core Competency: Structured Interviewing
+## Core Competencies
 
-### Purpose
-This skill enables the creation of clear, actionable interview briefs that align stakeholders, define evaluation criteria, and ensure consistent candidate assessment.
+### 1. Information Synthesis & Analysis
+- **Rapid comprehension** of complex interview requirements
+- **Pattern recognition** across multiple stakeholder inputs
+- **Gap identification** between stated needs and unspoken requirements
+- **Priority distillation** from conflicting or ambiguous information
 
-### Key Capabilities
+### 2. Stakeholder Communication
+- **Active listening** with high retention of verbal details
+- **Clarification questioning** that reveals underlying needs
+- **Professional rapport building** in high-pressure contexts
+- **Expectation management** through transparent communication
 
-**1. Brief Structuring**
-- Formats interview briefs with essential components: role context, success metrics, evaluation criteria, and logistics
-- Creates structured templates adaptable to different roles and seniority levels
-- Organizes information for quick reference during interviews
+### 3. Research & Preparation
+- **Company/industry analysis** with speed and precision
+- **Candidate profile matching** against multidimensional criteria
+- **Interview structure design** tailored to specific objectives
+- **Bias identification** in existing processes
 
-**2. Success Criteria Definition**
-- Translates job requirements into measurable interview evaluation criteria
-- Distinguishes between \"must-have\" and \"nice-to-have\" qualifications
-- Aligns technical skills with behavioral competencies
-
-**3. Stakeholder Alignment**
-- Captures input from hiring managers, team members, and HR partners
-- Documents decision-making authority and interview panel roles
-- Clarifies post-interview processes and timelines
-
-### Input Requirements
+### 4. Strategic Thinking
+- **Interview objective alignment** with business goals
+- **Process optimization** for efficiency and effectiveness
