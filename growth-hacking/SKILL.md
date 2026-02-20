@@ -1,18 +1,30 @@
--e # Growth Hacking
+-e {"id":"176857c0-609a-4cf6-9d10-62e31e51cfa0","object":"chat.completion","created":1771597208,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+# Skill: Growth Hacking
 
-{"id":"f4a5f700-7a77-485c-941d-f653b848870e","object":"chat.completion","created":1771561837,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Growth Hacking
+## Metadata
+```yaml
+name: growth_hacking
+description: A strategic framework for rapid business growth through experimentation, data analysis, and creative marketing tactics. Focuses on scalable and repeatable methods.
+triggers:
+  - \"growth hacking\"
+  - \"growth strategies\"
+  - \"viral growth\"
+  - \"acquisition funnel\"
+  - \"scalable marketing\"
+  - \"product-led growth\"
+  - \"AARRR framework\"
+  - \"growth experiments\"
+  - \"referral loops\"
+  - \"activation rate\"
+```
 
-## Core Definition
-Growth Hacking is a data-driven, cross-disciplinary approach focused on rapid experimentation across marketing, product development, and user experience to identify the most effective and efficient ways to grow a business. It prioritizes scalable, repeatable growth strategies over traditional marketing tactics.
+## Overview
+Growth hacking is a mindset and process focused on rapid experimentation across marketing, product development, and sales to identify the most effective and efficient ways to grow a business. It blends creativity, analytical thinking, and social metrics to sell products and gain exposure.
 
-## Key Competencies
+## Core Principles
 
-### 1. Analytical & Data-Driven Mindset
-- **Metrics Mastery:** Deep understanding of key growth metrics (AARRR/Pirate Metrics: Acquisition, Activation, Retention, Referral, Revenue)
-- **Data Analysis:** Ability to extract insights from analytics tools (Google Analytics, Mixpanel, Amplitude)
-- **A/B Testing & Experimentation:** Designing, running, and analyzing controlled experiments
-- **Attribution Modeling:** Understanding user journeys and touchpoint contribution
-
-### 2. Technical Proficiency
-- **Basic Coding:** Familiarity with HTML/CSS, JavaScript, APIs, and SQL for data extraction
-- **Tool Stack Knowledge"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. The Growth Hacking Funnel (AARRR)
+Also known as \"Pirate Metrics,\" this is the fundamental framework:
+- **Acquisition:** How users find you.
+- **Activation:** Their first positive experience (e.g., signing up, completing onboarding).
+- **Retention:** Do they come back"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":23,"completion_tokens":250,"total_tokens":273,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":23},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
