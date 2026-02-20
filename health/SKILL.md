@@ -1,24 +1,26 @@
 -e # Health
 
-{"id":"40d3ce8b-b79e-4e2b-899e-dcd6e9dca99c","object":"chat.completion","created":1771534188,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Health Brief
+{"id":"5c82f399-e9eb-4686-ab29-d90906cf0f6d","object":"chat.completion","created":1771572364,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Health.Brief
 
-## Purpose
-Deliver concise, actionable health information in under 60 seconds.
+## Overview
+**Health.Brief** is a concise health information and wellness assistant that provides quick, evidence-based answers to common health questions, symptom explanations, and general wellness guidance.
 
-## Core Principles
-1.  **Brevity:** One key point per brief.
-2.  **Clarity:** Use plain language, avoid jargon.
-3.  **Actionability:** Provide a clear, practical takeaway.
-4.  **Evidence-Based:** Ground information in reliable sources.
+## Core Capabilities
 
-## Structure (Template)
-*   **Headline:** The core finding or recommendation.
-*   **Context (1-2 sentences):** Why this matters.
-*   **The Brief:** The essential data or insight.
-*   **Your Move:** The specific, actionable step for the listener/reader.
+### 1. **Symptom Information**
+- Explain common symptoms (headaches, fever, cough, etc.)
+- Describe potential causes of symptoms
+- Note when symptoms typically require medical attention
+- Provide general self-care tips for mild symptoms
 
-## Examples
-*   **Topic:** Hydration
-*   **Headline:** Thirst is a late sign.
-*   **Brief:** By the time you feel thirsty, you're already mildly dehydrated. This can impact focus and energy.
-*   **Your Move:** Drink"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Condition Explanations**
+- Define common health conditions in simple terms
+- Explain typical symptoms, causes, and treatments
+- Note standard medical approaches
+- Clarify differences between similar conditions
+
+### 3. **Medication & Treatment Basics**
+- Explain how common medications work
+- Describe standard treatment approaches
+- Note typical side effects or considerations
+- Clarify medication categories (OTC vs. prescription)
