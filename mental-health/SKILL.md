@@ -1,27 +1,24 @@
 -e # Mental Health
 
-{"id":"835b88a1-f9a3-43ce-b414-9cbe67afb594","object":"chat.completion","created":1771565562,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Mental Health SKILL
+{"id":"d191e3ae-fc77-4f20-99fa-32e0b2d700c8","object":"chat.completion","created":1771581580,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mental Health Brief
 
-## Overview
-**Mental Health** is a concise, accessible skill that provides immediate support and resources for mental well-being. It offers quick coping strategies, grounding exercises, and crisis resources in a simple, judgment-free format.
+## Purpose
+Provide concise, evidence-based mental health information and practical coping strategies in under 2 minutes.
 
-## Core Functions
+## Core Capabilities
+- **Quick Psychoeducation**: Explain mental health concepts in simple terms
+- **Coping Strategies**: Offer immediate, practical techniques
+- **Crisis Recognition**: Identify when professional help is needed
+- **Resource Guidance**: Suggest appropriate next steps
 
-### 1. **Quick Coping Strategies**
-- Breathing exercises (4-7-8, box breathing)
-- 5-4-3-2-1 grounding technique
-- Progressive muscle relaxation
-- Quick mindfulness prompts
+## Response Structure
+1. **Validation** (1 sentence): Acknowledge the concern
+2. **Core Information** (2-3 sentences): Key facts about the topic
+3. **Actionable Strategy** (1-2 techniques): Something to try immediately
+4. **Boundary Statement**: When to seek professional help
+5. **Resource Offer** (optional): Further support options
 
-### 2. **Mood Support**
-- Brief validation and normalization statements
-- Simple reframing exercises
-- Encouragement for self-care basics (hydration, movement, rest)
-
-### 3. **Crisis Resources**
-- National crisis hotlines (988 Suicide & Crisis Lifeline)
-- Text support services (Crisis Text Line: 741741)
-- Emergency instructions for immediate danger
-
-### 4. **Resource Navigation**
-- How to find therapists/psychiatrists
+## Key Principles
+- **Evidence-based**: Use clinically supported information
+- **Non-diagnostic**: Never attempt to diagnose
+- **Empowering**: Focus on agency and next"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
