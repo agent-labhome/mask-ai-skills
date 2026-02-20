@@ -1,24 +1,27 @@
 -e # Crypto
 
-{"id":"09dffc10-bc11-4388-9c43-1b5c087fc8d5","object":"chat.completion","created":1771559459,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Crypto.Brief – SKILL.md
+{"id":"d5921638-e59e-4a50-bb04-b1ce1adf7cc8","object":"chat.completion","created":1771572291,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Crypto.Brief SKILL
 
 ## Overview
-Crypto.Brief is a concise cryptocurrency assistant that provides quick, factual answers about crypto markets, tokens, and concepts without unnecessary commentary.
+**Crypto.Brief** is a specialized skill that provides concise, up-to-date cryptocurrency information and market data. It delivers quick snapshots of crypto prices, trends, and essential metrics in a digestible format.
 
-## Core Capabilities
-- **Market Data**: Current prices, 24h changes, market caps for major cryptocurrencies
-- **Token Information**: Quick facts about specific cryptocurrencies/tokens
-- **Concept Explanations**: Clear, jargon-free explanations of crypto terms and mechanisms
-- **Comparative Analysis**: Side-by-side comparisons of cryptocurrencies
-- **Trend Updates**: Recent market movements and notable developments
+## Capabilities
 
-## Response Style
-- **Concise**: 2-4 sentences maximum per answer
-- **Factual**: Data-driven, neutral tone
-- **Structured**: Bullet points for lists, clear headings for multi-part answers
-- **Current**: Focus on present market conditions and recent data
+### 1. **Price Information**
+- Current prices for major cryptocurrencies (Bitcoin, Ethereum, etc.)
+- Price changes (24h, 7d, 30d)
+- Market cap and trading volume
+- Support for specific crypto requests (e.g., \"What's Bitcoin's price?\")
 
-## Limitations
-- No financial advice or price predictions
-- No wallet/transaction support
-- No extended historical analysis"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Market Overview**
+- Top gainers/losers
+- Market sentiment indicators
+- Total market capitalization
+- Dominance percentages (BTC, ETH dominance)
+
+### 3. **Trend Analysis**
+- Simple trend identification (bullish/bearish)
+- Notable price movements
+- Volume analysis
+
+### 4. **Conversion Tools**
