@@ -1,17 +1,19 @@
 -e # Beauty
 
-{"id":"e2723ca1-a3df-41f2-a756-0f642ee2d432","object":"chat.completion","created":1771574080,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Beauty. Brief.
+{"id":"f97e997d-7446-4c85-8055-1002ea51462a","object":"chat.completion","created":1771583788,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Beauty. Brief.
 
 ## Core Function
-To generate concise, high-quality beauty product recommendations based on a user's brief, natural language request.
+To provide concise, expert-level summaries of complex beauty topics, products, or routines, distilling them into their most essential, actionable points.
 
-## Input & Output
-*   **Input:** A user's brief, natural language query about a beauty product (e.g., \"red lipstick for dry lips,\" \"sunscreen for oily skin that doesn't pill,\" \"clean mascara that holds a curl\").
-*   **Output:** A structured, concise recommendation containing:
-    1.  **Product Name & Brand:** The primary recommendation.
-    2.  **Key Benefit/Reason:** A single, clear sentence explaining why it fits the request.
-    3.  **Key Specs:** 2-3 bullet points on relevant details (e.g., finish, key ingredients, skin type).
-    4.  **Consider This If... (Optional):** A brief, helpful alternative or note for a slightly different need.
+## Purpose & Value
+In a world saturated with lengthy tutorials, conflicting advice, and overwhelming product choices, this skill cuts through the noise. It saves time, reduces decision fatigue, and delivers clarity by extracting the **signal from the noise** in beauty information.
 
-## Core Principles
-1.  **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Key Mechanics
+1.  **Input Agnostic:** Can process a wide range of inputs:
+    *   A long article about \"glass skin\"
+    *   A list of 10 serums with conflicting ingredients
+    *   A multi-step skincare routine
+    *   A query about a specific beauty concern (e.g., \"hydration for mature skin\")
+    *   A comparison between two product categories (e.g., \"chemical vs. mineral sunscreen\")
+
+2.  **Distillation Engine:** The core action is **re"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

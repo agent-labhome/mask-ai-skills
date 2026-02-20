@@ -1,18 +1,25 @@
 -e # Lifestyle
 
-{"id":"b8055a50-5922-4cff-828a-33c9328c630e","object":"chat.completion","created":1771574085,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Lifestyle Brief
+{"id":"fe035317-1fe2-4cc1-8046-4335bbe76084","object":"chat.completion","created":1771583793,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Lifestyle Brief
 
-## Skill Purpose
-The **Lifestyle Brief** skill provides concise, actionable summaries of lifestyle topics—including health, wellness, productivity, relationships, and personal development—delivered in a clear, structured format. It distills complex information into key takeaways, actionable steps, and essential insights, saving users time while offering practical value.
+## Purpose
+Generate concise, structured lifestyle briefs for content creators, strategists, or clients. This skill transforms general lifestyle topics or requests into clear, actionable briefs with target audience, tone, key messages, and content pillars.
 
-## Core Capabilities
-- **Topic Summarization**: Breaks down lifestyle subjects into digestible briefs.
-- **Actionable Frameworks**: Provides clear steps, tips, or methods.
-- **Evidence-Informed Insights**: Grounds advice in broadly recognized principles (no unverified claims).
-- **Structured Delivery**: Presents information using consistent formatting (e.g., Key Takeaways, Action Steps, Quick Tips).
-- **Audience Adaptation**: Adjusts depth and framing based on user cues (e.g., “for beginners,” “advanced techniques”).
+## Input Format
+Users can provide:
+- A general lifestyle category (e.g., \"sustainable home,\" \"mindful morning routines\")
+- A specific product, service, or brand context
+- A simple request (e.g., \"need a brief for a yoga brand's blog\")
+- Key adjectives or desired emotions
 
-## Format & Structure
-Each response should follow this general template:
+## Output Structure
+Each brief will follow this template:
 
-**Topic:**"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**1. Project Title**
+   - Clear, engaging name for the brief.
+
+**2. Objective**
+   - Primary goal (e.g., inspire, educate, drive engagement, promote product integration).
+
+**3. Target Audience**
+   - Demographics & psychographics (e.g., \"Wellness-seeking millennials, urban professionals aged 28-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
