@@ -1,27 +1,23 @@
 -e # NLP
 
-{"id":"134db66c-2220-4385-b0a6-6e9ea0160c2b","object":"chat.completion","created":1771585230,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Natural Language Processing (NLP)
+{"id":"1cdd8257-0600-45db-b0c0-ed3c65a41097","object":"chat.completion","created":1771591023,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# NLP (Natural Language Processing) - Brief Overview
 
-## Core Competencies
+## What is NLP?
+Natural Language Processing (NLP) is a subfield of artificial intelligence and linguistics focused on enabling computers to understand, interpret, and generate human language. It bridges the gap between human communication and computer understanding.
 
-### 1. **Text Processing & Preprocessing**
-- Tokenization (word, subword, sentence)
-- Stop word removal & text normalization
-- Stemming & lemmatization
-- Part-of-Speech (POS) tagging
-- Named Entity Recognition (NER)
+## Core Components
 
-### 2. **Language Modeling**
-- Statistical language models (n-grams)
-- Neural language models (RNNs, Transformers)
-- Pre-trained models (BERT, GPT, T5, etc.)
-- Fine-tuning & transfer learning
+### 1. **Text Processing**
+- Tokenization (splitting text into words/sentences)
+- Stemming & Lemmatization (reducing words to root forms)
+- Part-of-Speech Tagging (identifying nouns, verbs, etc.)
+- Named Entity Recognition (identifying people, places, organizations)
 
-### 3. **Text Representation**
-- Bag-of-Words & TF-IDF
-- Word embeddings (Word2Vec, GloVe, FastText)
-- Contextual embeddings (ELMo, BERT embeddings)
-- Document embeddings
+### 2. **Key Techniques**
+- **Rule-based systems**: Early NLP using grammatical rules
+- **Statistical NLP**: Using probability and machine learning
+- **Deep Learning**: Neural networks (RNNs, Transformers, BERT, GPT)
 
-### 4. **Core NLP Tasks**
-- **Classification**: Sentiment analysis, topic labeling, intent detection
+### 3. **Common Tasks**
+- **Classification**: Sentiment analysis, spam detection
+- **Generation**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

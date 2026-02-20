@@ -1,19 +1,24 @@
 -e # Deep Learning
 
-{"id":"3f70a8d6-d434-4586-8be9-a0d52ca26e53","object":"chat.completion","created":1771585224,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Deep Learning
+{"id":"a9b2bc1d-1f7d-4825-b213-4896dab4964e","object":"chat.completion","created":1771591018,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Deep Learning
 
 ## Core Competencies
 
 ### Foundational Knowledge
 - **Neural Network Fundamentals**: Understanding of neurons, layers, activation functions, forward/backward propagation
 - **Architecture Types**: MLPs, CNNs, RNNs/LSTMs/GRUs, Transformers, Autoencoders, GANs
-- **Mathematical Foundations**: Linear algebra, calculus (gradients, chain rule), probability, optimization
+- **Mathematical Foundations**: Linear algebra, calculus, probability, optimization algorithms (SGD, Adam)
 
 ### Technical Implementation
-- **Frameworks**: TensorFlow/Keras, PyTorch, JAX (proficient in at least one)
+- **Frameworks**: TensorFlow/Keras, PyTorch, JAX
 - **Model Development**: Architecture design, hyperparameter tuning, regularization techniques
-- **Training Pipeline**: Data preprocessing, batch processing, loss function selection, optimizer configuration
-- **Evaluation**: Metrics selection (accuracy, precision, recall, F1, AUC-ROC), validation strategies, cross-validation
+- **Training Pipeline**: Data preprocessing, augmentation, batching, distributed training
 
-### Specialized Areas
-- **Computer Vision**: Image classification, object detection, segmentation, image"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Specialized Applications
+- **Computer Vision**: Object detection, segmentation, image generation
+- **Natural Language Processing**: Language models, text classification, sequence generation
+- **Generative AI**: Diffusion models, GANs, multimodal systems
+
+## Proficiency Levels
+
+###"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
