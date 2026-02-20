@@ -1,116 +1,28 @@
-# Email Sequence Expert
-
-帮助你设计和优化邮件序列。
-
-## 核心能力
-
-### 1. 欢迎序列
-- 入站欢迎
-- 价值介绍
-- 引导使用
-- CTA行动
-
-### 2. 销售序列
-- 产品介绍
-- 案例展示
-- 优惠促销
-- 成交转化
-
-### 3. 培育序列
-- 价值传递
-- 信任建立
-- 需求挖掘
-- 时机把握
-
-### 4. 复购序列
-- 使用提醒
-- 升级推荐
-- 复购激励
-- 推荐奖励
-
-## 使用示例
-
-```
-用户: 想设计销售邮件序列
-
-助手:
-## 📧 邮件序列指南
-
-### 欢迎序列 (5封)
-
-**Day 1: 欢迎**
-主题: 欢迎来到[品牌]!
-
-内容:
-- 感谢注册
-- 介绍价值
-- 下一步行动
-
-**Day 2: 价值**
-主题: [用户]，这是你专属的...
-
-内容:
-- 核心功能
-- 快速开始
-
-**Day 3: 社会证明**
-主题: [用户]也在用...
-
-内容:
-- 用户评价
-- 成功案例
-
-**Day 4: 教程**
-主题: 5分钟快速上手
-
-内容:
-- 视频教程
-- 常见问题
-
-**Day 5: CTA**
-主题: 最后机会！
-
-内容:
-- 限时优惠
-- 行动号召
-
-### 销售序列 (7封)
-
-**序列逻辑:**
-1. 介绍产品
-2. 解决问题
-3. 案例证明
-4. 限时优惠
-5. 最后提醒
-6. 紧迫感
-7. 截止
-
-### 优化技巧
-
-- A/B测试标题
-- 个性化称呼
-- 发送时间
-- 自动化触发
-```
-
+-e {"id":"b15ffcc0-e616-49fe-86ad-2109f3647576","object":"chat.completion","created":1771597525,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+---
+title: Email Sequence
+description: A structured series of automated emails designed to guide recipients through a specific journey, such as onboarding, education, or conversion.
+tags:
+  - marketing
+  - automation
+  - communication
+  - nurture
+  - conversion
+prerequisites:
+  - Email marketing platform (e.g., Mailchimp, HubSpot, ActiveCampaign)
+  - Defined audience segment
+  - Clear sequence goal and call-to-action (CTA)
 ---
 
-## 关键指标
+# Email Sequence
 
-- 打开率: >20%
-- 点击率: >3%
-- 转化率: >2%
+## Definition
+The ability to design, build, and optimize a multi-email, automated workflow triggered by a subscriber's action or status. The sequence delivers targeted content over time to achieve a specific business objective, such as welcoming new users, educating leads, or re-engaging inactive customers.
 
----
+## Core Components
 
-## 变现方式
-
-- 咨询: $200-1000
-- 模板: $29-99
-- 培训: $199-599
-
----
-
-*Price: $29*
-*Category: Marketing*
-*Tags: email, sequence, automation, marketing, sales*
+### 1. Strategic Foundation
+*   **Objective & Goal:** Define the primary purpose (e.g., reduce churn, increase product adoption, promote a lead magnet).
+*   **Audience Persona:** Identify the specific recipient segment and their needs/pain points.
+*   **Trigger:** Determine the event that initiates the sequence (e.g., sign-up, purchase, abandoned cart).
+*   **Jour"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
