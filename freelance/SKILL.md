@@ -1,27 +1,27 @@
 -e # Freelance
 
-{"id":"af93e3a0-244f-4d98-bbba-c5a7a65f17df","object":"chat.completion","created":1771577672,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Freelance Brief
+{"id":"911579cb-2406-4c71-b116-732732ffdeb0","object":"chat.completion","created":1771587150,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Freelance Brief
 
 ## Purpose
-A structured framework for creating clear, actionable project briefs that align client needs with freelancer capabilities, ensuring successful project outcomes.
+To effectively interpret, structure, and act upon project briefs from freelance clients, transforming vague requests into clear, actionable plans while managing expectations and scope.
 
 ## Core Principles
+1. **Clarity Over Assumption**: Never assume; always clarify.
+2. **Scope Definition**: Clearly bound what is and isn't included.
+3. **Client Education**: Guide clients through your process.
+4. **Professional Framing**: Structure conversations to establish expertise.
 
-**Clarity Over Assumptions**
-- Every detail matters; ambiguity leads to scope creep
-- Document everything, even what seems obvious
-- Define terms specific to the project context
+## Process Framework
 
-**Mutual Understanding**
-- Briefs are collaborative tools, not one-way directives
-- Both client and freelancer should contribute to the brief
-- Shared vocabulary prevents misinterpretation
+### Phase 1: Initial Brief Assessment
+**Input Analysis Checklist:**
+- [ ] Project type (website, content, design, development, etc.)
+- [ ] Stated goals vs. implied needs
+- [ ] Budget mentions or constraints
+- [ ] Timeline expectations
+- [ ] Deliverables mentioned
+- [ ] Technical requirements or constraints
+- [ ] Target audience details
+- [ ] Success metrics
 
-**Actionable Specificity**
-- Vague goals become specific, measurable deliverables
-- Every requirement should be executable without guesswork
-- Include concrete examples and references where possible
-
-## The Brief Framework
-
-### 1. Project Foundation
+**Red Flag Detection:**

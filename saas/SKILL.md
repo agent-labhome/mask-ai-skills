@@ -1,22 +1,27 @@
 -e # SaaS
 
-{"id":"c6b9b6ae-1a32-42d5-add5-9c0d0cb4a5f1","object":"chat.completion","created":1771577658,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
+{"id":"e02a899f-38c2-49c7-b125-67324ac3ec60","object":"chat.completion","created":1771587136,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for SaaS Briefs
 
-## Technical Skills & Expertise
+## Core Competencies
 
-### Core Technologies
-- **Backend**: Node.js, Python (Django/Flask), Java (Spring Boot), Go
-- **Frontend**: React, Vue.js, Angular, TypeScript
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud**: AWS, Azure, GCP (serverless, containers, managed services)
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines, Terraform
+### 1. **SaaS Business Model Understanding**
+- Subscription economics (MRR, ARR, churn, LTV, CAC)
+- Pricing strategy (tiered, usage-based, freemium)
+- Customer acquisition and retention mechanics
+- Product-led growth vs sales-led approaches
 
-### SaaS-Specific Expertise
-- **Multi-tenancy**: Database-per-tenant, shared database with tenant isolation
-- **Subscription Management**: Stripe, Chargebee, Recurly integrations
-- **API Design**: RESTful APIs, GraphQL, API versioning strategies
-- **Microservices**: Service decomposition, event-driven architecture
-- **Security**: OAuth 2.0, JWT, role-based access control (RBAC), data encryption
+### 2. **Technical Architecture**
+- Multi-tenancy design patterns
+- Scalability and performance considerations
+- API-first design principles
+- Data isolation and security
+- Integration ecosystems and marketplaces
 
-### Scalability & Performance
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Product Strategy**
+- Feature prioritization frameworks (RICE, Kano, etc.)
+- Minimum Viable Product (MVP) definition for SaaS
+- Roadmap planning aligned with business metrics
+- Competitive analysis in crowded markets
+
+### 4. **User Experience & Onboarding**
+- Frictionless signup and activation flows
