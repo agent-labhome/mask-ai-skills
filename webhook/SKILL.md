@@ -1,26 +1,27 @@
 -e # Webhook
 
-{"id":"e9dd48c4-564e-41b7-b393-696c9ea4e5ff","object":"chat.completion","created":1771555739,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Webhook SKILL
+{"id":"b5198efe-852f-40b0-9125-cfad556feba2","object":"chat.completion","created":1771585013,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Webhook
 
 ## Purpose
-Handle incoming webhook requests and process payload data.
+Handle incoming HTTP webhook events from external services.
 
-## Core Commands
-- `webhook receive` - Process incoming webhook data
-- `webhook list` - Show recent webhook events
-- `webhook test` - Send test webhook payload
+## Core Capabilities
+- **Receive & Validate**: Accept POST requests with JSON payloads
+- **Security**: Verify signatures/headers (when configured)
+- **Process**: Parse payload and trigger appropriate workflows
+- **Respond**: Return appropriate HTTP status codes (200, 400, etc.)
 
-## Key Features
-- Parse JSON/XML payloads
-- Validate signatures
-- Route to appropriate handlers
-- Log incoming requests
-- Retry failed deliveries
+## Configuration
+```yaml
+webhook:
+  endpoint: /webhook/{service}
+  methods: [POST]
+  security:
+    - signature_verification
+    - ip_whitelist
+  timeout: 30s
+```
 
-## Usage Examples
-```bash
-# Process incoming webhook
-webhook receive --source=stripe --event=payment.succeeded
-
-# View recent webhooks
-webhook list --last=10
+## Common Use Cases
+- Payment gateway notifications (Stripe, PayPal)
+- CI/CD pipeline events (GitHub, GitLab)

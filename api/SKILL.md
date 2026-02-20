@@ -1,27 +1,27 @@
 -e # API
 
-{"id":"2432af91-9de1-40c8-83f5-e999ee67ffb9","object":"chat.completion","created":1771564994,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Brief Creation
+{"id":"a016118e-16ea-496c-9021-a040ddc4c2e9","object":"chat.completion","created":1771585008,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Briefing
 
 ## Purpose
-Transform vague API needs into structured, actionable briefs for developers.
+Create clear, concise API specifications that serve as the single source of truth for API development, documentation, and client integration.
 
-## Core Capabilities
+## Core Principles
 
-### 1. **Requirement Extraction**
-- Identify missing information through targeted questioning
-- Distinguish between functional requirements and implementation details
-- Recognize common API patterns and anti-patterns
+### 1. **Clarity Over Completeness**
+- Start with the essential endpoints and expand iteratively
+- Use plain language before technical specifications
+- Focus on the \"why\" before the \"how\"
 
-### 2. **Brief Structuring**
-- Organize requirements into logical sections:
-  - Overview & Business Context
-  - Authentication & Security
-  - Endpoints & Methods
-  - Request/Response Formats
-  - Error Handling
-  - Rate Limiting & Quotas
-  - Versioning Strategy
-  - Documentation Requirements
+### 2. **Consumer-First Design**
+- Design from the API consumer's perspective
+- Include realistic use cases and examples
+- Anticipate common integration patterns
 
-### 3. **Technical Clarification**
-- Suggest appropriate HTTP methods for operations
+### 3. **Consistency Across Layers**
+- Maintain consistent patterns across endpoints
+- Use standardized response formats
+- Apply uniform error handling
+
+## Structure Template
+
+### **API Overview**

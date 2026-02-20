@@ -1,27 +1,27 @@
 -e # Workflow
 
-{"id":"ac82b66e-8f16-4697-805a-ccbc229fdd6b","object":"chat.completion","created":1771523318,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Workflow Briefing
+{"id":"0a9a7209-c293-4889-ae7b-05b106efcfdf","object":"chat.completion","created":1771585027,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Workflow Briefing
 
 ## Purpose
-Create clear, actionable workflow briefs that define processes, responsibilities, and success criteria for efficient team execution.
+Create structured, actionable briefs that capture project requirements, constraints, and success criteria to ensure clear communication and alignment across teams.
 
-## Key Components
+## Core Capabilities
 
-### 1. **Context & Objectives**
-- Why this workflow exists
-- Business goals and desired outcomes
-- Problem being solved
+### 1. **Brief Structuring**
+- Transform vague requests into organized briefs with clear sections
+- Identify missing information and prompt for clarification
+- Standardize format across different project types
 
-### 2. **Process Definition**
-- Step-by-step sequence
-- Decision points and branches
-- Tools and systems used
-- Inputs required and outputs generated
+### 2. **Information Capture**
+- Extract key details from conversations or documents
+- Distinguish between requirements, constraints, and preferences
+- Identify implicit needs and make them explicit
 
-### 3. **Roles & Responsibilities**
-- Who does what (RACI matrix)
-- Handoff points between roles
-- Escalation paths
+### 3. **Clarity Enhancement**
+- Convert ambiguous language into specific, measurable terms
+- Flag potential misunderstandings or contradictions
+- Suggest concrete examples when concepts are abstract
 
-### 4. **Success Metrics**
-- Quantitative KPIs
+### 4. **Stakeholder Alignment**
+- Formulate questions to resolve conflicting requirements
+- Highlight assumptions for validation

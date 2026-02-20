@@ -1,21 +1,26 @@
 -e # Automation
 
-{"id":"e98267bd-cfbc-4225-9622-a586b03bba4e","object":"chat.completion","created":1771577810,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Automation
+{"id":"e722f889-4b0c-41ac-989b-1ba503e1319e","object":"chat.completion","created":1771585022,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Automation
 
 ## Core Competencies
 
-### **Process Automation**
-- **Scripting & Workflow Automation**: Python, Bash, PowerShell, AutoHotkey
-- **RPA Tools**: UiPath, Automation Anywhere, Blue Prism (conceptual understanding)
-- **Task Scheduling & Orchestration**: Cron, Windows Task Scheduler, Airflow, Prefect
-- **API Integration & Web Automation**: Requests, Selenium, Playwright, BeautifulSoup
+### 1. **Scripting & Programming**
+- **Languages:** Python (primary), Bash/Shell, PowerShell, JavaScript/Node.js
+- **Frameworks:** Selenium, Puppeteer, Playwright, Beautiful Soup, Scrapy
+- **Key Skills:**
+  - Writing clean, maintainable automation scripts
+  - API integration and automation
+  - Web scraping and data extraction
+  - Task scheduling and orchestration
 
-### **Infrastructure & DevOps Automation**
-- **Configuration Management**: Ansible, Puppet, Chef, SaltStack
-- **Infrastructure as Code**: Terraform, CloudFormation, Pulumi
-- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, CircleCI
-- **Container Orchestration**: Docker, Kubernetes, Docker Compose
+### 2. **Workflow Automation**
+- **Platforms:** Zapier, Make (Integromat), n8n, Microsoft Power Automate
+- **Skills:**
+  - Connecting disparate systems and applications
+  - Designing efficient workflow logic
+  - Error handling and notification systems
+  - Conditional logic and data transformation
 
-### **Data & System Automation**
-- **ETL/ELT Processes**: Custom Python scripts, Apache Airflow, dbt
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **DevOps & Infrastructure Automation**
+- **Tools:** Ansible, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
