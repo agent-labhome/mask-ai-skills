@@ -1,24 +1,19 @@
 -e # Dropshipping
 
-{"id":"d7a902f1-5bb0-40c4-95f8-c3b89cf8a90e","object":"chat.completion","created":1771537799,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Dropshipping
+{"id":"2a0122a3-47b1-46bd-a6b1-042c09539de7","object":"chat.completion","created":1771566878,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Dropshipping
 
 ## Core Concept
-Sell products without holding inventory. You handle marketing and sales; suppliers ship directly to customers.
+Dropshipping is a retail fulfillment method where a store doesn't keep the products it sells in stock. Instead, when a store sells a product, it purchases the item from a third party (usually a wholesaler or manufacturer) and has it shipped directly to the customer. The seller never handles the product directly.
 
-## Key Responsibilities
-- **Product Research**: Identify trending, profitable items with reliable suppliers
-- **Supplier Vetting**: Verify AliExpress, Oberlo, or wholesale suppliers
-- **Store Setup**: Create optimized Shopify/WooCommerce stores
-- **Marketing**: Run Facebook/Google/TikTok ads, organic social media
-- **Customer Service**: Manage inquiries, returns, and issue resolution
-- **Order Fulfillment**: Forward customer orders to suppliers
+## Key Components
 
-## Essential Platforms
-- **Store**: Shopify, WooCommerce, BigCommerce
-- **Suppliers**: AliExpress, Spocket, SaleHoo
-- **Marketing**: Facebook Ads, Google Ads, Instagram, TikTok
-- **Automation**: Oberlo, Dropified, AutoDS
+### 1. **Business Model Fundamentals**
+- **No Inventory Investment**: Capital isn't tied up in stock
+- **Supplier Relationships**: Partner with reliable suppliers/manufacturers
+- **Margin-Based Pricing**: Markup applied to supplier prices
+- **Order Fulfillment Automation**: Systems to forward orders to suppliers
 
-## Critical Metrics
-- Profit Margin (aim for 25%+)
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":200,"total_tokens":218,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Essential Platforms & Tools**
+- **E-commerce Platforms**: Shopify, WooCommerce, BigCommerce
+- **Supplier Marketplaces**: AliExpress, Oberlo, Spocket, SaleHoo
+- **Automation Tools**: Order routing, inventory"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

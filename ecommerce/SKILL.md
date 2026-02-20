@@ -1,23 +1,26 @@
 -e # Ecommerce
 
-{"id":"b7442fcf-36b8-456c-b32e-9a00cd62665f","object":"chat.completion","created":1771537782,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ecommerce Project: SKILL.md
+{"id":"b2c0bf95-0e2e-4103-ac56-cbc9f8d4c026","object":"chat.completion","created":1771566868,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ecommerce SKILL
 
-## Core Competencies
-- **Frontend**: React/Next.js, TypeScript, Tailwind CSS, Responsive Design
-- **Backend**: Node.js, REST APIs, Authentication (JWT/OAuth)
-- **Database**: PostgreSQL/MySQL, ORM (Prisma/Sequelize)
-- **Ecommerce Features**: Product catalog, shopping cart, checkout, payment integration (Stripe/PayPal), order management
-- **DevOps**: Docker, CI/CD, cloud deployment (AWS/Vercel)
+## Overview
+The Ecommerce SKILL enables AI assistants to understand, analyze, and discuss ecommerce concepts, strategies, and operations. This skill provides foundational knowledge about online retail business models, platforms, marketing strategies, and customer experience optimization.
 
-## Key Responsibilities
-- Develop full-stack ecommerce solutions
-- Implement secure payment processing
-- Optimize for performance and SEO
-- Ensure mobile-responsive design
-- Integrate third-party services (shipping, analytics)
+## Core Capabilities
 
-## Tools & Technologies
-- **Version Control**: Git, GitHub/GitLab
-- **Testing**: Jest, React Testing Library
-- **Monitoring**: Analytics, error tracking
-- **CMS**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. **Ecommerce Fundamentals**
+- Understanding different ecommerce models (B2C, B2B, C2C, D2C)
+- Knowledge of major ecommerce platforms (Shopify, WooCommerce, Magento, BigCommerce)
+- Basic understanding of ecommerce operations and logistics
+- Familiarity with payment gateways and security considerations
+
+### 2. **Product Strategy & Management**
+- Product listing optimization techniques
+- Inventory management principles
+- Pricing strategies and competitive analysis
+- Product categorization and taxonomy
+
+### 3. **Customer Experience & Conversion**
+- Website UX/UI best practices for ecommerce
+- Shopping cart optimization
+- Checkout process streamlining
+- Customer"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

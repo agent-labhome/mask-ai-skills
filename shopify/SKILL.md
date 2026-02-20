@@ -1,22 +1,22 @@
 -e # Shopify
 
-{"id":"80ac7b35-45e0-459a-8e91-12980356c051","object":"chat.completion","created":1771537786,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Shopify SKILL.md
+{"id":"ce3f329d-8d10-4dd0-9095-f5bafdd64037","object":"chat.completion","created":1771566888,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Shopify
 
 ## Core Competencies
-- **Store Setup & Configuration**: Theme selection, product catalog, payment gateways, shipping settings
-- **Liquid Templating**: Customizing themes, building sections, creating reusable snippets
-- **App Integration**: Installing/configuring apps from Shopify App Store
-- **Checkout Customization**: Using checkout.liquid, script editor, custom attributes
-- **Performance Optimization**: Image optimization, theme code efficiency, app management
 
-## Key Tools
-- **Shopify CLI**: Local development, theme commands, app creation
-- **Theme Kit**: Legacy theme development tool
-- **GraphQL Admin API**: Product/customer management, custom data operations
-- **REST Admin API**: Traditional Shopify API endpoints
-- **Metafields**: Custom data storage for products, collections, customers
+### Platform Architecture & Development
+- **Liquid Templating**: Mastery of Shopify's templating language for theme development
+- **Shopify CLI**: Local development, theme management, and app development workflows
+- **Storefront API & GraphQL**: Headless commerce implementations and custom storefronts
+- **Custom App Development**: Public/private apps using Node.js, Ruby, or PHP
+- **Theme App Extensions**: App blocks and app embeds for theme integration
 
-## Development Notes
-- Always use `theme-check` for Liquid code validation
-- Implement section schema for merchant customization
-- Follow Shopify's CSS naming conventions"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Store Setup & Configuration
+- **Product & Inventory Management**: Variants, collections, inventory tracking
+- **Checkout Customization**: Checkout.liquid, checkout extensions, post-purchase pages
+- **Payment & Shipping**: Gateway configuration, custom shipping rules, tax settings
+- **Multi-Currency & Localization**: International selling, currency formatting
+- **POS Integration**: Retail store synchronization
+
+### Performance & Optimization
+- **Theme Performance"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
