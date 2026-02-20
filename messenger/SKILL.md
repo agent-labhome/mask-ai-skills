@@ -1,27 +1,27 @@
 -e # Messenger
 
-{"id":"0d95326f-9c23-46da-ae5a-23ca86a274c1","object":"chat.completion","created":1771578115,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Messenger - SKILL.md
+{"id":"e55544ac-4a23-48df-8297-4a4531dbe09a","object":"chat.completion","created":1771587194,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Messenger - SKILL Documentation
 
-## Core Functionality
-Send and receive messages between users in real-time.
+## Overview
+Messenger is a communication skill that enables users to send and receive messages through various messaging platforms. It provides a unified interface for managing conversations across different services.
 
-## Key Features
-- **Direct Messaging**: One-on-one private conversations
-- **Group Chats**: Multi-user conversations with shared messaging
-- **Real-time Updates**: Instant message delivery and read receipts
-- **Media Support**: Send images, files, and other attachments
-- **Message History**: Access to past conversations
+## Core Capabilities
 
-## User Flow
-1. User selects a contact or group
-2. Types message in chat input field
-3. Sends message (Enter key or send button)
-4. Message appears in conversation thread
-5. Recipient receives notification and can reply
+### 1. Message Sending
+- Send text messages to individuals or groups
+- Support for attachments (images, documents, audio, video)
+- Scheduled message delivery
+- Message templates and quick replies
 
-## Technical Requirements
-- Real-time WebSocket/SSE connection for live updates
-- Message persistence in database
-- Push notifications for new messages
-- File upload/storage for attachments
-- User presence/typing indicators
+### 2. Message Receiving & Management
+- Real-time message reception
+- Conversation threading
+- Message history and search
+- Read receipts and delivery status
+- Message archiving and deletion
+
+### 3. Contact Management
+- Contact list synchronization
+- Contact grouping and tagging
+- Contact information enrichment
+- Block/Unblock functionality

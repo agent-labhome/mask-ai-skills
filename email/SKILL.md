@@ -1,27 +1,27 @@
 -e # Email
 
-{"id":"f9c9fc5f-a1fb-4076-8d81-345955b53463","object":"chat.completion","created":1771578110,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Email Skill
+{"id":"3e9ec20b-78bd-43ec-8ff4-700060d478c0","object":"chat.completion","created":1771587189,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Email Brief
 
-## Overview
-The Email skill enables users to manage their email communications through natural language commands. Users can read, compose, search, and organize emails without navigating complex email interfaces.
+## Purpose
+Transform verbose email threads into concise, actionable summaries that capture key decisions, action items, and context.
 
-## Core Capabilities
+## Core Principles
+- **Essentialism**: Extract only what matters—decisions, actions, deadlines, owners
+- **Clarity**: Use plain language, avoid jargon and email fluff
+- **Action-orientation**: Structure around what needs to happen next
+- **Context preservation**: Maintain important background without reproducing entire thread
 
-### 1. **Email Reading & Summarization**
-- Read latest/unread emails
-- Summarize email content
-- Identify important emails (starred, flagged, from important contacts)
-- Read emails from specific senders or with specific subjects
+## Input Analysis
+**Identify in source emails:**
+- Key decisions made
+- Action items (with owners and deadlines)
+- Open questions requiring response
+- Important context or constraints
+- Changes from previous positions
+- Attachments or references to review
 
-### 2. **Email Composition**
-- Compose new emails with recipients, subject, and body
-- Reply to existing emails
-- Forward emails with additional context
-- Draft emails for later editing
+## Output Structure
 
-### 3. **Email Management**
-- Search emails by keyword, sender, date, or subject
-- Organize emails into folders/labels
-- Mark emails as read/unread
-- Delete or archive emails
-- Flag/star important emails
+### Standard Brief Format:
+```
+SUBJECT: [Original subject or clarified version]

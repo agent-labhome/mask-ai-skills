@@ -1,27 +1,26 @@
 -e # SMS
 
-{"id":"bc4d3114-f7c3-4c3c-b960-b1c5ee2dded1","object":"chat.completion","created":1771578120,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: SMS Brief
+{"id":"851eba08-689a-4983-bc25-ea68db58282e","object":"chat.completion","created":1771587199,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: SMS Brief
 
 ## Overview
-SMS Brief is a concise, structured communication format designed for delivering essential information quickly via text message. This skill enables professionals to communicate key points efficiently while maintaining clarity and professionalism in SMS/chat contexts.
+The SMS Brief skill enables users to send concise, structured text messages to recipients. This skill is designed for quick, efficient communication where the user needs to send a short message with clear intent.
 
-## Core Principles
+## Core Capabilities
+- **Message Composition**: Create short, clear text messages (SMS)
+- **Recipient Targeting**: Send to single or multiple recipients
+- **Message Structuring**: Format messages with clear purpose and content
+- **Brief Communication**: Optimize for concise, actionable messaging
 
-### 1. **Conciseness**
-- Maximum 160 characters per message
-- Use abbreviations where appropriate (but avoid ambiguity)
-- Eliminate filler words and pleasantries
-- Prioritize essential information only
+## Usage Examples
+```
+\"Send an SMS to John: Meeting moved to 3 PM\"
+\"Text Sarah: Running 15 minutes late\"
+\"Message the team: Project deadline extended to Friday\"
+\"SMS brief to client: Proposal approved, will send details tomorrow\"
+```
 
-### 2. **Structure**
-```
-[Context/Subject]: [Key Information]
-[Action Required/Next Steps]
-[Deadline if applicable]
-```
-Example:
-```
-Project Alpha: Final review complete. Client approved with minor edits.
-Please update slides 5-7.
-Submit by EOD Friday.
-```
+## Message Structure
+A typical SMS brief includes:
+1. **Recipient**: Who should receive the message
+2. **Core Message**: The essential information
+3. **Action/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

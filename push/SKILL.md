@@ -1,27 +1,23 @@
 -e # Push
 
-{"id":"1cb98a09-3bbe-4698-a1a1-5d27c8dd0ea2","object":"chat.completion","created":1771578125,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Push. Brief.
+{"id":"b14ed126-12c8-4aa8-ba27-0eecb90898c4","object":"chat.completion","created":1771587204,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Push. Brief.
 
-## What It Is
-A communication discipline that forces clarity by compressing information into the smallest possible form while retaining essential meaning.
+## Core Definition
+**Push. Brief.** is the skill of delivering critical information in a concise, actionable format under time pressure, prioritizing clarity and decision-making over completeness.
 
-## Why It Matters
-- **Efficiency:** Saves time for everyone
-- **Clarity:** Forces distillation of what truly matters
-- **Respect:** Values others' time and attention
-- **Impact:** Makes messages more memorable and actionable
-- **Professionalism:** Demonstrates disciplined thinking
+## Key Components
 
-## Core Principles
+### 1. **Structural Discipline**
+- **BLUF First** (Bottom Line Up Front): Lead with the conclusion or required action
+- **3-Bullet Maximum**: Force-rank information to top three points
+- **Time-Boxed Delivery**: Typically 30-90 seconds verbal, 3-5 sentences written
 
-### 1. **Essentialism First**
-- Identify the single most important point
-- Remove all non-essential information
-- If it doesn't change the decision or action, cut it
+### 2. **Content Prioritization**
+- **Action Required**: What needs to happen now
+- **Critical Context**: Only information necessary for the decision
+- **Implication**: Why this matters right now
 
-### 2. **Structure with Purpose**
-- Lead with the conclusion (BLUF: Bottom Line Up Front)
-- Follow with only necessary context
-- End with clear action items or next steps
-
-### 3. **Ruthless Editing**
+### 3. **Tone & Delivery**
+- **Unemotional Clarity**: Fact-focused, neutral tone
+- **Confident Concision**: Eliminate hedging language
+- **Pause Points**: Intentional"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
