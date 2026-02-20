@@ -1,27 +1,20 @@
 -e # Real Estate
 
-{"id":"982331e2-306e-4fb3-ace9-69c20b356a56","object":"chat.completion","created":1771534136,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Real Estate
+{"id":"b23974fe-88d2-4a97-a06b-264c9b4da54c","object":"chat.completion","created":1771583880,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Real Estate Brief
 
-**Core Competencies:**
-- Property valuation and market analysis
-- Transaction coordination (purchase, sale, lease)
-- Client representation and negotiation
-- Contract review and due diligence
-- Local market regulations and zoning
-- Investment property analysis (ROI, cap rates, cash flow)
+## Core Competencies
 
-**Key Activities:**
-- Listing and marketing properties
-- Conducting showings and open houses
-- Networking with clients, agents, and industry professionals
-- Managing closing processes and documentation
-- Staying current on market trends and pricing
+### Market Analysis & Research
+- **Local Market Intelligence**: Deep understanding of specific geographic markets, including neighborhood trends, school districts, and development patterns
+- **Comparative Market Analysis (CMA)**: Ability to analyze comparable properties to determine accurate pricing and valuation
+- **Demographic Analysis**: Knowledge of buyer/seller demographics and migration patterns
+- **Economic Indicators**: Understanding interest rates, employment data, and economic factors affecting real estate
 
-**Tools & Knowledge:**
-- MLS databases
-- Comparative Market Analysis (CMA)
-- Financing and mortgage basics
-- Property inspection fundamentals
-- Real estate contracts and law essentials
+### Property Evaluation
+- **Property Assessment**: Ability to evaluate property condition, potential, and value
+- **Zoning & Land Use**: Knowledge of local zoning laws, restrictions, and development potential
+- **Investment Analysis**: Skills in calculating ROI, cap rates, and investment potential for various property types
 
-**Outcome:** Facilitates the acquisition, sale, or leasing of property while protecting client interests and ensuring legal and financial compliance."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":174,"total_tokens":190,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Transaction Management
+- **Contract Expertise**: Thorough understanding of purchase agreements, disclosures, and legal documents
+- **Negotiation Skills**: Ability to negotiate terms, price, and conditions favorable to"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

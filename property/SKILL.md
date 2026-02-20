@@ -1,27 +1,15 @@
 -e # Property
 
-{"id":"fd73688e-e33a-42d0-a51f-523511acfcb6","object":"chat.completion","created":1771565639,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Property Brief
+{"id":"1971bf40-8a6a-4c0b-99ab-6b9dc8d4b021","object":"chat.completion","created":1771583885,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Property
 
-## Purpose
-Create clear, concise property briefs that accurately capture property details, requirements, and context for real estate professionals.
+## Core Competency
+**Defining and managing the essential attributes of an object, entity, or system.**
 
-## Core Principles
-1. **Accuracy First** - Verify all details before inclusion
-2. **Clarity Over Completeness** - Prioritize essential information
-3. **Professional Tone** - Maintain formal yet approachable language
-4. **Action-Oriented** - Focus on next steps and requirements
+This skill involves identifying, articulating, and maintaining the fundamental characteristics that define something's nature, behavior, and value. It's about moving from a vague concept to a concrete, actionable definition.
 
-## Structure Template
+## Key Actions & Behaviors
 
-### 1. PROPERTY IDENTIFICATION
-- Address (full or approximate location)
-- Property type (residential/commercial/land)
-- Key identifiers (lot number, unit number, etc.)
-
-### 2. ESSENTIAL DETAILS
-- Size (sq ft/hectares/rooms)
-- Condition (new/renovated/needs work)
-- Key features (3-5 most important)
-
-### 3. REQUIREMENTS & PARAMETERS
-- Price range/expectations
+*   **Identification & Articulation:** Pinpointing the core, non-negotiable attributes of a subject. Asking: \"What are its defining features? What must it have or be?\"
+*   **Clarity & Specificity:** Describing properties in clear, unambiguous terms. Avoiding vagueness in favor of measurable or observable criteria.
+*   **Constraint Setting:** Establishing the boundaries, rules, or limitations that govern the property (e.g., data type, range, format, dependencies).
+*   **Validation & Integrity:** Ensuring that any instance or manifestation of the subject adheres to its defined properties. Checking for consistency"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

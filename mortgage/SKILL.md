@@ -1,27 +1,27 @@
 -e # Mortgage
 
-{"id":"bae1f4f7-381c-438e-aaa0-2a4d16581781","object":"chat.completion","created":1771574319,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mortgage
+{"id":"da08af9f-08e6-40f1-84e6-bda4dc6421f8","object":"chat.completion","created":1771583894,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mortgage
 
 ## Overview
-The **Mortgage** skill enables users to calculate mortgage payments, compare loan options, and understand key mortgage-related metrics. It provides quick, accurate calculations for monthly payments, total interest, amortization schedules, and affordability estimates.
+The Mortgage skill provides users with essential information and calculations related to mortgage loans, including monthly payment estimates, amortization schedules, and key mortgage concepts.
 
 ## Core Capabilities
 
-### 1. **Payment Calculation**
-- Calculate monthly mortgage payments based on:
-  - Loan amount
-  - Interest rate (fixed or variable)
-  - Loan term (years)
-  - Down payment percentage/amount
-- Support for different payment frequencies (monthly, bi-weekly, accelerated)
-- Include property taxes, insurance (PMI), and HOA fees in calculations
+### 1. **Mortgage Calculations**
+- **Monthly Payment Calculation**: Calculate estimated monthly mortgage payments based on:
+  - Loan amount (principal)
+  - Interest rate (annual percentage rate)
+  - Loan term (in years)
+  - Optional: Property taxes, homeowners insurance, PMI
 
-### 2. **Affordability Assessment**
-- Determine maximum home price based on:
-  - User's income
-  - Debt-to-income ratio
-  - Available down payment
-  - Current interest rates
-- Account for closing costs and other fees
+- **Amortization Schedule**: Generate a basic amortization schedule showing:
+  - Monthly payment breakdown (principal vs. interest)
+  - Remaining balance over time
+  - Total interest paid over loan term
 
-### 3. **Comparison Tools**
+### 2. **Mortgage Concepts & Education**
+- **Terminology**: Explain common mortgage terms:
+  - Principal, interest, APR
+  - Fixed-rate vs. adjustable-rate mortgages
+  - PMI (Private Mortgage Insurance)
+  - Escrow, points"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
