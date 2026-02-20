@@ -1,17 +1,16 @@
 -e # Product
 
-{"id":"532b1584-6d88-43c7-8624-ec59ae92c32d","object":"chat.completion","created":1771579971,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Brief
+{"id":"6a40680b-f829-4535-93e9-d3761abe8387","object":"chat.completion","created":1771587413,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Product Brief
 
 ## Overview
-A **Product Brief** is a strategic document that defines the purpose, scope, and key requirements for a new product or a significant feature. It serves as the foundational blueprint, aligning stakeholders and guiding the product development team from concept to launch.
+A Product Brief is a concise document that defines the core elements of a product or feature before development begins. It aligns stakeholders, clarifies objectives, and serves as a north star for the project team. This skill involves synthesizing strategy, user needs, and business goals into a clear, actionable plan.
 
-## Core Purpose
-To translate a business opportunity or user problem into a clear, actionable plan that:
-*   **Aligns Stakeholders:** Ensures everyone (executives, product, design, engineering, marketing) shares the same vision and goals.
-*   **Defines the \"What\" and \"Why\":** Clearly articulates the problem, the target user, the proposed solution, and the desired business outcomes.
-*   **Scopes the Initiative:** Sets boundaries for what is in and out of scope for the initial launch (MVP).
-*   **Guides Decision-Making:** Provides a north star for prioritizing features and making trade-offs during development.
+## Core Components of a Strong Product Brief
 
-## Key Components of a Strong Product Brief
+### 1. **Problem & Opportunity**
+*   **User Problem:** Clearly articulate the pain point or unmet need from the user's perspective. Use data or anecdotes to illustrate.
+*   **Business Opportunity:** Explain why solving this problem matters to the business (e.g., increase retention, enter a new market, reduce costs).
+*   **Market Context:** Briefly note competitive landscape or market trends that make this timely.
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Goals & Success Metrics**
+*   **Primary Objective:** The single, overarching goal of this initiative (e.g., \"Reduce time to complete checkout by 30%\""},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

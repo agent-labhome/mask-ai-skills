@@ -1,23 +1,27 @@
 -e # Roadmap
 
-{"id":"f085fc03-7af5-4faf-8b37-d29811cf84d1","object":"chat.completion","created":1771579981,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
+{"id":"844b4acd-b85d-42a5-be2b-5d4cd0a65781","object":"chat.completion","created":1771587423,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Roadmap Brief Creator
 
-## Core Competencies
+## Purpose
+Transforms high-level project ideas into structured, actionable roadmap briefs with clear phases, deliverables, and success metrics.
 
-### Technical Skills
-- **Roadmap Architecture**: Designing multi-level strategic, tactical, and operational roadmaps
-- **Stakeholder Analysis**: Identifying and prioritizing stakeholder needs and expectations
-- **Goal Decomposition**: Breaking down high-level objectives into actionable initiatives
-- **Dependency Mapping**: Visualizing and managing interconnections between initiatives
-- **Capacity Planning**: Aligning initiatives with available resources and constraints
-- **Progress Tracking**: Establishing measurable KPIs and success metrics
-- **Risk Assessment**: Identifying potential roadblocks and mitigation strategies
+## Input Format
+Users provide:
+- Project name/title
+- Core objective or problem statement
+- Key stakeholders
+- Any known constraints (timeline, budget, technical)
+- Desired outcomes
 
-### Strategic Thinking
-- **Vision Translation**: Converting abstract vision into concrete, phased execution plans
-- **Priority Frameworks**: Applying methodologies (RICE, MoSCoW, Value vs Effort)
-- **Horizon Planning**: Balancing short-term wins with long-term strategic investments
-- **Scenario Planning**: Developing contingency plans for different market conditions
-- **Competitive Analysis**: Incorporating market intelligence into roadmap decisions
+## Output Structure
+1. **Executive Summary**
+   - Problem statement
+   - Proposed solution overview
+   - Expected impact
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+2. **Strategic Objectives**
+   - Primary goal
+   - 3-5 measurable outcomes
+   - Alignment with broader goals
+
+3. **Phased Roadmap** (3-4 phases)
