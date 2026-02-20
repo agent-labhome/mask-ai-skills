@@ -1,57 +1,21 @@
----
-name: content-strategy
-description: 内容策略助手 - 内容规划、频道定位、增长黑客
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $29
-categories:
-  - 内容
-  - 营销
-  - 策略
-platforms:
-  - YouTube
-  - 博客
-  - 社交媒体
----
+-e # Content Strategy
 
-# Content Strategy
+{"id":"9955764f-c8eb-4744-85d0-e42aa35fc9a7","object":"chat.completion","created":1771566619,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Content Strategy Brief
 
-## 功能
+## Purpose
+This document defines the skill of creating effective content strategy briefs—structured documents that align content initiatives with business goals, audience needs, and measurable outcomes.
 
-内容策略和增长工具。
+## Core Competencies
 
-## 使用场景
+### 1. Strategic Foundation
+- **Business & Goal Alignment**: Translate business objectives into content-specific KPIs
+- **Audience Intelligence**: Define target personas, pain points, and content consumption patterns
+- **Competitive Analysis**: Map competitive content landscape and identify whitespace opportunities
+- **Channel Strategy**: Select appropriate platforms based on audience behavior and content format
 
-### 1. 内容规划
-
-**输入:** 目标
-
-**输出:**
-- 内容日历
-- 主题列表
-
-### 2. 频道定位
-
-**输入:** 领域
-
-**输出:**
-- 定位建议
-- 差异化
-
-### 3. 增长黑客
-
-**输入:** 平台
-
-**输出:**
-- 增长策略
-- 病毒传播
-
-## 价格
-
-- 基础版: $29/月
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
+### 2. Brief Structuring
+- **Executive Summary**: Clear overview of strategy, scope, and expected impact
+- **Content Pillars**: 3-5 thematic areas that support business objectives
+- **Messaging Hierarchy**: Primary, secondary, and tertiary messaging frameworks
+- **Tone & Voice Guidelines**: Brand-aligned communication style
+- **Content Types & Formats**: Appropriate mix ("},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
