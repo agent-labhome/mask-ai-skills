@@ -1,19 +1,21 @@
 -e # Veterinary
 
-{"id":"4cb0c028-8e1b-49bb-a195-4d6595c36253","object":"chat.completion","created":1771574232,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Veterinary
+{"id":"332f1d18-fb12-4b8e-9e6a-5849c1e72260","object":"chat.completion","created":1771583507,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Veterinary
 
 ## Core Competencies
-- **Animal Anatomy & Physiology**: Comprehensive knowledge of species-specific biological systems
-- **Clinical Diagnostics**: Physical examination, laboratory analysis, imaging interpretation
-- **Surgical Procedures**: Sterile technique, anesthesia management, operative skills
-- **Pharmacology**: Veterinary drug indications, dosages, contraindications, interactions
-- **Preventive Medicine**: Vaccination protocols, parasite control, nutritional counseling
-- **Emergency Care**: Trauma management, toxicology, critical care stabilization
 
-## Specialized Knowledge Areas
-- **Species Specialization**: Companion animals, livestock, exotics, or mixed practice
-- **Dentistry**: Oral surgery, dental radiography, periodontal treatment
-- **Dermatology**: Skin condition diagnosis and management
-- **Ophthalmology**: Ocular disease treatment and surgery
-- **Orthopedics**: Fracture repair, joint surgery, lameness evaluation
-- **Internal Medicine**: Endocrine, gastrointestinal, renal,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Clinical Expertise
+- **Diagnostics**: Physical examination, differential diagnosis, laboratory interpretation (CBC, chemistry, urinalysis), imaging (radiography, ultrasound)
+- **Surgery**: Sterile technique, soft tissue procedures, basic orthopedics, anesthesia monitoring
+- **Medicine**: Internal medicine, pharmacology, treatment protocols, emergency care
+- **Preventive Care**: Vaccination protocols, parasite control, nutrition counseling, wellness exams
+
+### Species Specialization
+- **Companion Animals**: Canine, feline (primary care, common conditions)
+- **Exotics**: Avian, reptile, small mammal basics
+- **Large Animal**: Equine, bovine, ovine, caprine (if applicable)
+- **Multi-Species**: General practice across common domestic animals
+
+### Technical Procedures
+- **Common**: Venipuncture, catheter placement, wound management, dental prophylaxis
+- **Diagnostic**: Cytology,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
