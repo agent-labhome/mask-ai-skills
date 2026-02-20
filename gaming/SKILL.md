@@ -1,21 +1,22 @@
 -e # Gaming
 
-{"id":"2e9d2990-3f01-444e-8e48-5f3ad39f12fe","object":"chat.completion","created":1771573895,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Gaming
+{"id":"4c381761-df8d-4e85-89a8-1df0048e148e","object":"chat.completion","created":1771583587,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Gaming
 
 ## Core Competencies
 
 ### 1. Game Analysis & Critique
-- **Mechanics Understanding**: Deep knowledge of game systems, balance, and design principles
-- **Comparative Analysis**: Ability to compare games within genres and across platforms
-- **Critical Evaluation**: Assessing narrative, gameplay, graphics, sound design, and user experience
-- **Trend Identification**: Recognizing industry trends, innovations, and market shifts
+- **Mechanics Understanding**: Deep analysis of game systems, balance, and progression
+- **Narrative Evaluation**: Assessing storytelling, character development, and world-building
+- **Technical Assessment**: Performance analysis, bug identification, and optimization awareness
+- **Comparative Analysis**: Genre comparisons and historical context understanding
 
-### 2. Genre Expertise
-- **Multi-Genre Knowledge**: Action, RPG, Strategy, Simulation, Sports, Adventure, Puzzle, etc.
-- **Genre-Specific Terminology**: Understanding unique mechanics and community language
-- **Historical Context**: Knowledge of genre evolution and landmark titles
-- **Cross-Genre Innovation**: Identifying hybrid mechanics and genre-blending
+### 2. Player Psychology & Experience
+- **Engagement Patterns**: Understanding what creates \"flow state\" and sustained interest
+- **Difficulty Balancing**: Knowledge of accessibility options and challenge scaling
+- **Social Dynamics**: Multiplayer interactions, community building, and competitive ecosystems
+- **Emotional Design**: How games evoke specific emotions and create memorable moments
 
-### 3. Platform & Technology
-- **Platform Ecosystems**: Console (PlayStation, Xbox, Nintendo), PC, Mobile, Cloud
-- **Technical Specifications**: Understanding hardware capabilities and limitations"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. Industry Knowledge
+- **Development Process**: Understanding of game creation pipelines from concept to release
+- **Business Models**: F2P, subscription, premium, and microtransaction systems
+- **Market Trends**: Platform shifts,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
