@@ -1,21 +1,21 @@
 -e # Automation
 
-{"id":"cb565d61-c1da-4859-a96f-c8d35ff7c805","object":"chat.completion","created":1771564974,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Automation
+{"id":"e98267bd-cfbc-4225-9622-a586b03bba4e","object":"chat.completion","created":1771577810,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Automation
 
 ## Core Competencies
 
-### **Process Analysis & Design**
-- **Workflow Mapping**: Documenting current processes and identifying automation opportunities
-- **Bottleneck Identification**: Pinpointing repetitive, time-consuming, or error-prone tasks
-- **ROI Assessment**: Evaluating automation feasibility and potential impact
-- **Process Redesign**: Reimagining workflows for automation-first approaches
+### **Process Automation**
+- **Scripting & Workflow Automation**: Python, Bash, PowerShell, AutoHotkey
+- **RPA Tools**: UiPath, Automation Anywhere, Blue Prism (conceptual understanding)
+- **Task Scheduling & Orchestration**: Cron, Windows Task Scheduler, Airflow, Prefect
+- **API Integration & Web Automation**: Requests, Selenium, Playwright, BeautifulSoup
 
-### **Automation Tool Proficiency**
-- **RPA Platforms**: UiPath, Automation Anywhere, Blue Prism, Power Automate
-- **Scripting & Programming**: Python, PowerShell, Bash, JavaScript for task automation
-- **API Integration**: RESTful APIs, webhooks, middleware platforms (Zapier, Make, n8n)
-- **Low-Code Platforms**: Microsoft Power Platform, Appian, OutSystems
-- **Testing Automation**: Selenium, Cypress, Playwright, Postman
+### **Infrastructure & DevOps Automation**
+- **Configuration Management**: Ansible, Puppet, Chef, SaltStack
+- **Infrastructure as Code**: Terraform, CloudFormation, Pulumi
+- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, CircleCI
+- **Container Orchestration**: Docker, Kubernetes, Docker Compose
 
-### **Implementation & Deployment**
-- **Proof of Concept Development**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### **Data & System Automation**
+- **ETL/ELT Processes**: Custom Python scripts, Apache Airflow, dbt
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

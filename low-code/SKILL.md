@@ -1,27 +1,26 @@
 -e # Low-Code
 
-{"id":"9055fd54-1f5a-4542-95d6-de41fa474fa2","object":"chat.completion","created":1771564983,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Low-Code Development
+{"id":"f0123d7e-c56d-4dff-b77a-08f253b69c17","object":"chat.completion","created":1771577819,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Low-Code Development
 
-## Core Competencies
+## What It Is
+Low-code is a visual development approach that enables rapid application delivery with minimal hand-coding. It uses drag-and-drop interfaces, pre-built templates, and configuration tools to build applications faster than traditional coding.
 
-### Platform Proficiency
-- **Visual Development Tools**: Drag-and-drop interface builders, form designers, workflow editors
-- **Component Libraries**: Pre-built UI elements, business logic modules, data connectors
-- **Integration Capabilities**: API connectors, database integrations, third-party service connections
+## Core Capabilities
 
-### Key Skills
-1. **Process Automation**
-   - Workflow design and optimization
-   - Business rule configuration
-   - Approval process setup
-   - Task automation
+### Visual Development
+- Drag-and-drop UI builders
+- Visual workflow designers
+- Form builders with pre-built components
+- Template-based application scaffolding
 
-2. **Data Management**
-   - Visual database modeling
-   - CRUD operation configuration
-   - Data validation and transformation
-   - Report and dashboard creation
+### Integration & Connectivity
+- API connectors and integrations
+- Database visual mapping
+- Third-party service connectors
+- Data transformation tools
 
-3. **UI/UX Configuration**
-   - Responsive form design
-   - User permission management
+### Business Logic
+- Visual business rule engines
+- Workflow automation designers
+- Decision table editors
+- Process modeling tools
