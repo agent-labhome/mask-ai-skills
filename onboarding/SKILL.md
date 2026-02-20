@@ -1,27 +1,20 @@
 -e # Onboarding
 
-{"id":"8fe954fb-56b9-4b83-a4b4-a853d2a102a5","object":"chat.completion","created":1771574418,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Onboarding Brief
+{"id":"4452ea72-ab48-4a51-ab2f-de9aa9614ef4","object":"chat.completion","created":1771579925,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Onboarding Brief
 
 ## Purpose
-A concise, structured document that provides essential information to successfully onboard a new team member, client, or partner. It serves as a quick-start guide to accelerate integration and set clear expectations.
+To create clear, structured, and effective onboarding briefs that accelerate new hire integration, align expectations, and set the foundation for long-term success.
 
-## Core Components
+## Core Principles
 
-### 1. **Header Information**
-- **Title**: Clear indication this is an onboarding brief
-- **Recipient**: Name/role of person being onboarded
-- **Date**: Effective date of the brief
-- **Onboarding Period**: Duration (e.g., \"First 30 Days\")
+1.  **Clarity Over Completeness:** Prioritize essential, actionable information. Avoid overwhelming with minutiae.
+2.  **Human-Centric:** Address the person, not just the role. Welcome them as an individual.
+3.  **Future-Back:** Frame information around their success in the role and contribution to team/company goals.
+4.  **Ownership & Warmth:** The brief should come from their manager/team, not just HR. It should feel personal and welcoming.
 
-### 2. **Welcome & Introduction**
-- Warm welcome message
-- Brief team/organization introduction
-- Key contact person(s) with roles
+## Structure of an Effective Onboarding Brief
 
-### 3. **Objectives & Success Metrics**
-- Clear goals for the onboarding period
-- Key performance indicators (if applicable)
-- Expected outcomes by milestone dates
+A great brief is a curated package, not a single document. Structure it in three parts:
 
-### 4. **Essential Information**
-- **Access & Tools**: Systems, software, accounts needed
+### Part 1: The Welcome & The Why (Sent before Day 1)
+*   **Personal Welcome Note:** A short,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

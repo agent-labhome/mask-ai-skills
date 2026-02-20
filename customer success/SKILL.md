@@ -1,19 +1,20 @@
 -e # Customer Success
 
-{"id":"47c0ecab-f697-4c67-b668-64584d1473be","object":"chat.completion","created":1771534362,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Customer Success SKILL.md
+{"id":"8989a80d-f64e-46ab-8cc9-dd53f71ddd2a","object":"chat.completion","created":1771579910,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Customer Success
 
 ## Core Competencies
-- **Relationship Management:** Build trust, understand client goals, and act as a strategic advisor.
-- **Proactive Engagement:** Identify risks, drive adoption, and ensure clients achieve value from the product/service.
-- **Data-Driven Insights:** Use metrics (NPS, CSAT, health scores, usage data) to guide decisions and demonstrate ROI.
-- **Problem Solving:** Navigate challenges, coordinate internal resources, and advocate for the customer.
-- **Renewal & Expansion:** Manage contract cycles, identify growth opportunities, and secure long-term partnerships.
 
-## Key Actions
-- **Onboarding:** Guide successful implementation and initial value realization.
-- **Quarterly Business Reviews (QBRs):** Align on goals, review outcomes, and plan ahead.
-- **Advocacy:** Channel customer feedback to Product, Marketing, and Sales teams.
-- **Churn Mitigation:** Develop retention strategies and execute save plays.
+### 1. Relationship Management
+- **Empathy & Active Listening**: Understand customer emotions, needs, and unspoken concerns
+- **Trust Building**: Establish credibility through consistency, transparency, and follow-through
+- **Stakeholder Mapping**: Identify key decision-makers, influencers, and users within accounts
+- **Communication**: Clear, concise, and timely across multiple channels (email, video, phone, in-person)
 
-## Mindset
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Product & Industry Expertise
+- **Deep Product Knowledge**: Understand features, use cases, limitations, and roadmap
+- **Industry Context**: Know customer's business, competitive landscape, and regulatory environment
+- **Technical Proficiency**: Ability to troubleshoot, explain technical concepts simply, and bridge product-customer gaps
+- **Best Practices**: Guide customers toward optimal usage patterns and configurations
+
+### 3. Strategic Advisory
+- **Business Value Translation**: Connect product usage to measurable business outcomes (ROI, efficiency"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
