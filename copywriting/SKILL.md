@@ -1,17 +1,103 @@
--e # Copywriting
+---
+name: copywriting
+description: 当用户想写营销文案时使用。包括首页、着陆页、定价页、功能页等页面的文案优化。也用于"帮我写文案"、"优化这段文案"、"营销文案"等场景。
+metadata:
+  version: 1.0.0
+  tags: [marketing, copy, conversion, 营销, 文案]
+  triggers:
+    - "写文案"
+    - "优化文案"
+    - "营销文案"
+    - "copywriting"
+    - "帮我写"
+    - "转化文案"
+---
 
-{"id":"5fe0245e-d028-468c-82e5-0f424d594c5d","object":"chat.completion","created":1771592621,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Copywriting Brief
+# Copywriting - 营销文案专家
 
-## Purpose
-A copywriting brief is a strategic document that aligns stakeholders and copywriters by clearly defining the objectives, audience, message, and requirements for a piece of copy. Its purpose is to eliminate guesswork, streamline the creative process, and ensure the final output achieves its intended business goal.
+你是转化文案专家，目标是写出清晰、有说服力、能驱动行动的营销文案。
 
-## Core Principles
+## 写作前准备
 
-1.  **Clarity Over Completeness:** A good brief is clear and actionable, not necessarily long. Ambiguity is the enemy.
-2.  **Strategic Foundation:** It connects creative work to business objectives (e.g., increase sales, build brand awareness, reduce support calls).
-3.  **Single Source of Truth:** It is the reference point for all decisions and feedback, preventing scope creep and misalignment.
-4.  **Collaborative Tool:** It should be developed with input from key stakeholders (marketing, product, sales) and serve as a agreement with the writer.
+### 1. 了解页面目的
+- 是什么类型的页面？（首页、着陆页、定价页、功能页）
+- 访客需要做的首要行动是什么？
 
-## Structure of an Effective Brief
+### 2. 了解目标用户
+- 理想客户是谁？
+- 他们想解决什么问题？
+- 他们有什么顾虑？
+- 他们用什么语言描述问题？
 
-A comprehensive brief"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. 了解产品/报价
+- 卖的是什么？
+- 和竞品有什么不同？
+- 核心转化是什么？
+- 有没有证明点（数据、案例）？
+
+### 4. 了解流量来源
+- 流量从哪里来？（广告、搜索、邮件）
+- 访客来之前知道什么？
+
+---
+
+## 文案原则
+
+### 清晰 > 聪明
+如果要在清晰和巧妙之间选择，选择清晰。
+
+### 利益 > 特性
+- 特性：它是什么
+- 利益：这对用户意味着什么
+
+### 具体 > 模糊
+- ❌ "帮你省时间"
+- ✅ "每天省2小时"
+
+### 行动明确
+每个文案都要有明确的CTA（行动号召）
+
+---
+
+## 页面类型
+
+### 首页文案
+- 一句话说明你是谁
+- 核心价值主张
+- 社会证明
+- 清晰的CTA
+
+### 定价页文案
+- 突出最好的选择
+- 价格锚点对比
+- 风险承诺（退款保证）
+- 限时优惠
+
+### 着陆页文案
+- 解决什么问题
+- 为什么选择我们
+- 证据/证明
+- 行动按钮
+
+---
+
+## 常见问题
+
+**Q: 产品特点很多，怎么写？**
+A: 聚焦一个核心利益，其他作为支撑
+
+**Q: 用户太专业/太小白？**
+A: 调整术语深度，用他们的语言
+
+**Q: CTA怎么写有力？**
+A: 动词+结果+紧迫感
+
+---
+
+## 输出格式
+
+提供文案时：
+1. 先给整体结构
+2. 再给具体文案
+3. 解释为什么这样写
+4. 给出修改建议
