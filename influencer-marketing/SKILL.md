@@ -1,17 +1,18 @@
 -e # Influencer Marketing
 
-{"id":"a44cea16-d9fe-44e4-8038-e35a793c8624","object":"chat.completion","created":1771563081,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Influencer Marketing Brief
+{"id":"6fccee33-fe7f-42fd-9137-284321540d96","object":"chat.completion","created":1771566944,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Influencer Marketing Brief
 
 ## Core Purpose
-To create a clear, strategic, and actionable brief that aligns brand objectives with an influencer's creative execution, ensuring a successful and measurable campaign.
+To create a clear, structured, and actionable brief that aligns brand objectives with an influencer's creative execution, ensuring a successful and measurable campaign.
 
 ## Key Components of an Effective Brief
 
 ### 1. Campaign Overview & Objectives
-- **Brand & Product:** Clear introduction to the brand, its values, and the specific product/service being promoted.
-- **Campaign Goal:** Primary objective (e.g., brand awareness, product launch, sales/conversions, lead generation, community growth).
-- **Key Performance Indicators (KPIs):** Specific, measurable metrics (e.g., reach, engagement rate, clicks, conversions, UGC volume, hashtag use).
+- **Brand & Product:** Clear introduction to the brand, product, or service being promoted.
+- **Campaign Goal:** Primary objective (e.g., brand awareness, product launch, sales/conversions, community growth, event promotion).
+- **Key Message:** The single most important takeaway for the audience.
+- **Desired Action:** What the audience should do after seeing the content (e.g., use a code, visit a link, tag a friend).
 
-### 2. Influencer Profile & Audience
-- **Desired Creator Profile:** Channel (Instagram, TikTok, YouTube, etc.), niche, content style, audience demographics, and brand alignment values.
-- **Target Audience:** Detailed description of the end-consumer the campaign aims"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Influencer & Audience Alignment
+- **Target Audience:** Detailed persona (demographics, interests, pain points, platforms they use).
+- **Influencer Fit:** Why this specific influencer/creator is a good match ("},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
