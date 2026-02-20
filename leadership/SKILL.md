@@ -1,27 +1,23 @@
 -e # Leadership
 
-{"id":"d3521f2a-9cfb-4581-ac03-1f4065a4ce37","object":"chat.completion","created":1771581355,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership Briefing
+{"id":"734b26a5-04a1-49fc-9cf0-5563a3b228a4","object":"chat.completion","created":1771587647,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership
 
-## What This Is
-A concise, structured method for delivering critical information to teams and stakeholders in high-stakes situations. It transforms complex scenarios into actionable clarity.
+## Core Definition
+Leadership is the ability to guide, inspire, and influence individuals or groups toward achieving a common goal. It is not about authority or title, but about creating a vision, building trust, and enabling others to contribute their best work.
 
-## Core Principles
+## Key Behaviors & Actions
 
-**1. Situation First**
-- Start with the current reality
-- State facts, not assumptions
-- Establish shared context immediately
+**1. Vision & Direction**
+*   Articulates a clear, compelling purpose and end-state.
+*   Translates high-level goals into actionable steps for the team.
+*   Makes decisions aligned with the mission, even with incomplete data.
 
-**2. Mission Clarity**
-- Define the single objective
-- Use \"so that\" to connect purpose to outcome
-- Keep it memorable and repeatable
+**2. Empowerment & Development**
+*   Delegates meaningful tasks and provides autonomy with clear boundaries.
+*   Identifies and nurtures the strengths of team members.
+*   Creates opportunities for growth and provides constructive feedback.
 
-**3. Intent Over Instruction**
-- Share your strategic thinking (\"Here's why we're doing this...\")
-- Explain the desired end state
-- Empower decentralized decision-making
-
-**4. Structure Follows Function**
-- Organize information by what people need to act
-- Use the simplest possible framework
+**3. Communication & Influence**
+*   Listens actively and seeks to understand diverse perspectives.
+*   Communicates with clarity, transparency, and appropriate frequency.
+*   Persuades and aligns others through logic, empathy, and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
