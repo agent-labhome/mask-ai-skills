@@ -1,19 +1,26 @@
 -e # Web
 
-{"id":"fa8a750b-c70c-41e8-a754-8ca7497e31ae","object":"chat.completion","created":1771578070,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web Briefing
+{"id":"9bf6396a-c620-45e2-a859-b58670702239","object":"chat.completion","created":1771585182,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web Brief
 
 ## Core Competency
-**Web Briefing** is the ability to quickly synthesize and communicate essential information about a website or web application, including its purpose, structure, key features, and technical considerations, in a clear and concise format.
+**Web Brief Interpretation & Execution** – The ability to translate concise web project briefs into actionable development plans, identifying implicit requirements, potential challenges, and optimal technical approaches.
 
-## Skill Components
+## Key Capabilities
 
-### 1. **Information Synthesis**
-- **Purpose & Goals:** Identify the primary objective of the website (e.g., e-commerce, informational, SaaS platform, portfolio).
-- **Target Audience:** Define the intended users (demographics, needs, behaviors).
-- **Core Functionality:** List the essential features and user flows.
-- **Content Strategy:** Outline the type and structure of content (text, media, interactive elements).
-- **Success Metrics:** Determine how success will be measured (conversions, engagement, traffic).
+### 1. **Brief Analysis & Deconstruction**
+- Parse concise project descriptions to extract core objectives
+- Identify implied requirements not explicitly stated
+- Distinguish between \"must-have\" and \"nice-to-have\" features
+- Recognize technical constraints from business requirements
 
-### 2. **Technical & Structural Analysis**
-- **Site Architecture:** Map out main pages and navigation hierarchy.
-- **Key Technologies:** Identify relevant frameworks, CMS, APIs"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Technical Translation**
+- Convert business goals into technical specifications
+- Map brief requirements to appropriate technologies and frameworks
+- Identify architectural patterns suited to brief constraints
+- Determine optimal stack based on project scale and requirements
+
+### 3. **Scope Definition & Clarification**
+- Formulate precise questions to fill information gaps
+- Define project boundaries and exclusions
+- Estimate complexity levels from brief descriptions
+- Identify potential scope creep areas
