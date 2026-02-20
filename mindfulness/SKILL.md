@@ -1,22 +1,25 @@
 -e # Mindfulness
 
-{"id":"778c31dc-fb1c-40e8-851a-e58c02fe5261","object":"chat.completion","created":1771581594,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mindfulness
+{"id":"51a80373-3cf0-4e03-b5a4-775efc1214fe","object":"chat.completion","created":1771588076,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mindfulness
 
-## Purpose
-A brief, accessible mindfulness practice to center attention and reduce stress.
+## What It Is
+A mental practice of focusing awareness on the present moment, observing thoughts and sensations without judgment.
 
-## Core Practice (60 seconds)
-1. **Pause** – Stop current activity.
-2. **Posture** – Sit or stand comfortably, feet grounded.
-3. **Breath** – Notice 3 natural breaths without changing them.
-4. **Body Scan** – Feel one point of contact (e.g., feet on floor, hands resting).
-5. **Return** – Gently resume your activity.
+## Core Components
+1. **Focused Attention** - Anchoring awareness (breath, body, sounds)
+2. **Non-Judgmental Observation** - Noticing without labeling as good/bad
+3. **Present-Moment Awareness** - Engaging fully with the \"now\"
 
-## When to Use
-- Before starting a task
-- During transitions
-- When feeling overwhelmed
-- As a regular daily reset
+## Quick Practices
+- **One-Minute Breath**: Follow three full breath cycles
+- **Sensory Check-in**: Notice 5 things you can see, 4 you can feel, 3 you can hear, 2 you can smell, 1 you can taste
+- **Daily Activity Anchor**: Bring full attention to one routine task (drinking coffee, washing hands)
+
+## Common Applications
+- Stress reduction
+- Emotional regulation
+- Focus improvement
+- Response vs. reaction gap
 
 ## Key Principle
-Mindfulness is noticing the present moment without judgment. Even 60 seconds can create space between stimulus and response."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":14,"completion_tokens":159,"total_tokens":173,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+Mindfulness isn't about emptying the"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

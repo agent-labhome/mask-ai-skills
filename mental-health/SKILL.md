@@ -1,24 +1,27 @@
 -e # Mental Health
 
-{"id":"d191e3ae-fc77-4f20-99fa-32e0b2d700c8","object":"chat.completion","created":1771581580,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mental Health Brief
+{"id":"5b79ff29-e27e-4e5c-9b11-02171216f396","object":"chat.completion","created":1771588061,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Mental Health Skills
 
-## Purpose
-Provide concise, evidence-based mental health information and practical coping strategies in under 2 minutes.
+## Core Competencies
 
-## Core Capabilities
-- **Quick Psychoeducation**: Explain mental health concepts in simple terms
-- **Coping Strategies**: Offer immediate, practical techniques
-- **Crisis Recognition**: Identify when professional help is needed
-- **Resource Guidance**: Suggest appropriate next steps
+### Self-Awareness
+- **Emotional Literacy**: Identifying and naming emotions accurately
+- **Thought Monitoring**: Recognizing cognitive patterns and automatic thoughts
+- **Body Awareness**: Noticing physical manifestations of stress/emotions
+- **Trigger Identification**: Understanding personal stress/anxiety triggers
 
-## Response Structure
-1. **Validation** (1 sentence): Acknowledge the concern
-2. **Core Information** (2-3 sentences): Key facts about the topic
-3. **Actionable Strategy** (1-2 techniques): Something to try immediately
-4. **Boundary Statement**: When to seek professional help
-5. **Resource Offer** (optional): Further support options
+### Self-Regulation
+- **Emotional Regulation**: Managing intense emotions without suppression
+- **Impulse Control**: Pausing before reacting
+- **Stress Management**: Implementing healthy coping strategies
+- **Mindfulness**: Present-moment awareness without judgment
 
-## Key Principles
-- **Evidence-based**: Use clinically supported information
-- **Non-diagnostic**: Never attempt to diagnose
-- **Empowering**: Focus on agency and next"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Communication Skills
+- **Assertiveness**: Expressing needs and boundaries respectfully
+- **Active Listening**: Fully concentrating, understanding, and responding
+- **Vulnerability**: Sharing appropriately about emotional experiences
+- **Boundary Setting**: Clearly defining and maintaining personal limits
+
+### Coping Strategies
+- **Grounding Techniques**: 5-4-3-2-1 method, deep breathing
+- **Cognitive"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
