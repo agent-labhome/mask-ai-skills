@@ -1,27 +1,26 @@
 -e # Esports
 
-{"id":"24c6a8ad-a497-4138-a07d-4183613df000","object":"chat.completion","created":1771583593,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Esports Brief
+{"id":"85ff30a5-9cbc-4a10-95e0-c70a2d978be7","object":"chat.completion","created":1771588744,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Esports Brief
 
-## Overview
-**Esports** is a comprehensive skill that provides real-time information, statistics, and insights about competitive gaming tournaments, teams, players, and matches across multiple titles and regions.
+## Skill Overview
+**Esports Brief** is a specialized skill that provides concise, structured overviews of competitive gaming topics, teams, players, tournaments, and industry developments. It delivers focused, relevant information in a clear briefing format tailored to esports enthusiasts, analysts, and newcomers.
 
-## Capabilities
+## Core Capabilities
 
-### Core Functions
-1. **Live Match Information**
-   - Current scores and match status
-   - Team compositions and player rosters
-   - Tournament stage and bracket progress
-   - Match schedules and countdowns
+### 1. **Tournament & Event Briefs**
+- Upcoming/ongoing tournament schedules and formats
+- Past tournament results and highlights
+- Event locations, dates, and participating teams
+- Prize pool information and distribution
 
-2. **Tournament Coverage**
-   - Major ongoing tournaments (Worlds, The International, Majors, etc.)
-   - Upcoming tournament schedules
-   - Tournament brackets and standings
-   - Prize pool information
+### 2. **Team & Organization Profiles**
+- Team rosters and player compositions
+- Recent performance and rankings
+- Organization history and achievements
+- Coaching staff and management structure
 
-3. **Team & Player Statistics**
-   - Team rankings and performance history
-   - Player stats (K/D/A, win rates, hero/champion pools)
-   - Recent match results
-   - Roster changes and transfers
+### 3. **Player Profiles & Statistics**
+- Player backgrounds and career trajectories
+- Performance metrics and statistics
+- Signature heroes/characters and playstyles
+- Recent form and notable achievements

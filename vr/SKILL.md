@@ -1,27 +1,25 @@
 -e # VR
 
-{"id":"b4976c4c-dbe9-4bff-ab4e-51ed169ecc26","object":"chat.completion","created":1771583602,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: VR Brief Development
+{"id":"9da3a69e-694a-49dd-b852-4bc898ece4ed","object":"chat.completion","created":1771588755,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: VR Brief Development
 
-## Purpose
-Transform abstract VR concepts into structured, actionable development briefs that align creative vision with technical feasibility.
+## Overview
+The VR Brief Development skill enables users to create comprehensive, actionable briefs for virtual reality projects. This skill transforms initial VR concepts into structured documents that align stakeholder expectations, define technical requirements, and establish clear project parameters.
 
 ## Core Capabilities
 
-### 1. **Concept Analysis & Structuring**
-- Deconstruct abstract VR ideas into core components
-- Identify implicit requirements and constraints
-- Map user journeys and experience flows
-- Define spatial relationships and interaction paradigms
+### 1. **Brief Structuring**
+- Automatically organizes VR briefs into logical sections
+- Creates templates for different VR project types (training, entertainment, architectural visualization, etc.)
+- Ensures all critical components are addressed systematically
 
-### 2. **Technical Specification Translation**
-- Convert creative requirements into technical parameters:
-  - Performance targets (FPS, latency, resolution)
-  - Hardware requirements (PCVR, Standalone, Mobile)
-  - Interaction systems (hand tracking, controllers, haptics)
-  - Audio specifications (spatial audio, ambisonics)
-  - Asset pipelines (polycount, texture budgets, LODs)
+### 2. **Stakeholder Alignment**
+- Identifies and documents key stakeholders
+- Clarifies project objectives and success metrics
+- Aligns business goals with technical feasibility
 
-### 3. **Experience Design Documentation**
-- Create structured briefs including:
-  - **Project Overview**: Vision statement, target audience, success metrics
-  - **Experience Flow**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Technical Specification**
+- Defines hardware requirements (HMDs, controllers, tracking systems)
+- Specifies software platforms (Unity, Unreal Engine, WebXR)
+- Outlines performance targets (frame rates, resolution, latency)
+
+### 4. **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
