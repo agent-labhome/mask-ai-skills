@@ -1,22 +1,21 @@
 -e # Ethereum
 
-{"id":"3684acd0-d53a-4542-b0ec-61c76e82a4c9","object":"chat.completion","created":1771577766,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Ethereum
+{"id":"a16a3b85-3fe3-4274-b778-31e7160e0f55","object":"chat.completion","created":1771587379,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ethereum SKILL.md
 
 ## Core Competencies
 
-### Foundational
-- **Ethereum Virtual Machine (EVM)** - Architecture, bytecode, gas mechanics
-- **Smart Contracts** - Development, deployment, testing, security
-- **Solidity** - Syntax, patterns, best practices, latest features
-- **Web3.js / Ethers.js** - Library proficiency for dApp interaction
-- **Decentralized Applications (dApps)** - Full-stack development
+### Technical
+- **Smart Contracts**: Solidity development, testing (Hardhat, Foundry), deployment
+- **EVM**: Understanding of Ethereum Virtual Machine architecture and opcodes
+- **Layer 2**: Experience with rollups (Optimism, Arbitrum, zkSync), sidechains
+- **Web3 Stack**: ethers.js/web3.js, IPFS, The Graph, ENS
+- **Standards**: ERC-20, ERC-721, ERC-1155, EIPs
 
 ### Development
-- **Development Environments** - Hardhat, Foundry, Truffle, Remix
-- **Testing Frameworks** - Unit/integration testing, forking mainnet
-- **Deployment & Tooling** - Deployment scripts, verification, monitoring
-- **Token Standards** - ERC-20, ERC-721, ERC-1155, EIPs
-- **Oracles** - Chainlink integration, custom oracle design
+- **Languages**: Solidity, Vyper, JavaScript/TypeScript
+- **Frameworks**: Hardhat, Foundry, Truffle, Brownie
+- **Testing**: Unit/integration testing, security analysis tools
+- **DevOps**: CI/CD for smart contracts, monitoring, alerting
 
-### Advanced
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Security
+- **Auditing**: Smart contract security best practices, common"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

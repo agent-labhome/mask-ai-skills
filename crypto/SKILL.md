@@ -1,27 +1,26 @@
 -e # Crypto
 
-{"id":"ed2d360e-989e-491b-86e0-944f2c361d72","object":"chat.completion","created":1771585281,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Crypto.Brief - SKILL Documentation
+{"id":"658fc060-0ace-4bcc-9454-a608afae14b7","object":"chat.completion","created":1771587368,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Crypto.Brief
 
 ## Overview
-Crypto.Brief is a SKILL that provides concise, real-time cryptocurrency market information. It delivers quick snapshots of crypto prices, market trends, and essential metrics in a brief, digestible format.
+**Crypto.Brief** is a specialized skill that provides concise, high-level summaries of cryptocurrency projects, tokens, and market trends. It distills complex crypto information into easily digestible briefs suitable for quick decision-making and general awareness.
 
 ## Core Capabilities
 
-### 1. **Cryptocurrency Price Checks**
-- Get current prices for any cryptocurrency
-- Support for major coins (BTC, ETH, etc.) and altcoins
-- Real-time price updates with 24-hour change percentages
+### 1. **Project Summaries**
+- Provide 3-5 sentence overviews of any cryptocurrency project
+- Highlight: purpose, key features, token utility, and notable aspects
+- Include market position and recent developments when relevant
 
-### 2. **Market Overview**
-- Top gainers/losers in the last 24 hours
-- Market capitalization trends
-- Trading volume analysis
-- Fear & Greed Index status
+### 2. **Token Analysis**
+- Current price and market data (when available)
+- Tokenomics overview (supply, distribution, utility)
+- Recent price movements and volume trends
 
-### 3. **Portfolio Tracking** (Basic)
-- Quick portfolio value checks
-- Individual asset performance
-- Simple profit/loss calculations
+### 3. **Market Context**
+- Brief explanations of market trends affecting specific assets
+- Regulatory or ecosystem developments impacting projects
+- Competitive positioning within the sector
 
-### 4. **Market Alerts**
-- Price threshold notifications
+### 4. **Educational Explanations**
+- Simplify complex crypto concepts into accessible explanations"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

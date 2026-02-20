@@ -1,27 +1,25 @@
 -e # Bitcoin
 
-{"id":"4e00a299-d580-4ca7-9b4b-dd14a7faa085","object":"chat.completion","created":1771577761,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bitcoin
+{"id":"fd896b1e-18e0-4e63-9746-f9a62099c3c6","object":"chat.completion","created":1771587374,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Bitcoin
 
 ## Overview
-Bitcoin is a decentralized digital currency that operates without a central authority or intermediaries. It was introduced in 2008 by an anonymous entity known as Satoshi Nakamoto and launched in January 2009.
+Bitcoin is a decentralized digital currency and payment system that operates without a central authority. It enables peer-to-peer transactions through a public ledger called the blockchain.
 
-## Core Concepts
-- **Blockchain**: Public, distributed ledger recording all transactions
-- **Decentralization**: No central controlling entity; maintained by a peer-to-peer network
-- **Proof-of-Work**: Consensus mechanism requiring computational work to validate transactions
-- **Limited Supply**: Capped at 21 million coins, creating scarcity
-- **Pseudonymity**: Transactions are public but identities are encrypted
+## Key Concepts
+- **Blockchain**: Distributed public ledger recording all transactions
+- **Decentralization**: No central bank or administrator
+- **Proof-of-Work**: Consensus mechanism using computational power
+- **Cryptography**: Secures transactions and controls new unit creation
+- **Limited Supply**: Capped at 21 million coins
 
-## Key Features
-- Permissionless access and use
-- Borderless transactions
-- Censorship resistance
-- Transparency of all transactions
-- Immutable transaction history
+## Core Functions
+1. **Peer-to-Peer Transactions**: Direct transfers between users
+2. **Store of Value**: Digital asset with scarcity properties
+3. **Payment System**: Borderless transaction network
+4. **Smart Contracts**: Basic programmable transaction conditions
 
-## Primary Use Cases
-- Digital store of value (\"digital gold\")
-- Peer-to-peer electronic cash system
-- Hedge against inflation
-- Settlement layer for financial transactions
-- Base layer"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Technical Specifications
+- **Symbol**: BTC
+- **Block Time**: ~10 minutes
+- **Block Reward**: Halves approximately every 4 years
+- **Consensus**: Proof-of"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
