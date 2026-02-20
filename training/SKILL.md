@@ -1,26 +1,23 @@
 -e # Training
 
-{"id":"a545d8c9-a15c-4f68-bfc2-db8ba09477e2","object":"chat.completion","created":1771572451,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Training Brief Development
+{"id":"8e3e7235-b657-4271-81a1-f88fa37cdcf7","object":"chat.completion","created":1771574423,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Training Brief Development
 
 ## Core Competency
-Creating effective training briefs that align learning objectives with business goals, audience needs, and measurable outcomes.
+**Training Brief Development** - The ability to create clear, structured, and actionable training briefs that effectively communicate learning objectives, methodologies, and requirements to stakeholders and training teams.
 
-## Skill Components
+## Skill Description
+Training Brief Development involves synthesizing training needs into comprehensive documents that serve as blueprints for training initiatives. This skill bridges the gap between organizational goals and practical training execution by providing clear direction on objectives, content, scope, delivery methods, and evaluation criteria.
 
-### 1. **Needs Analysis**
-- Identify performance gaps and training requirements
-- Analyze target audience (roles, experience levels, learning preferences)
-- Assess business context and constraints (timeline, budget, resources)
-- Determine knowledge vs. skill development priorities
+## Proficiency Levels
 
-### 2. **Objective Formulation**
-- Write SMART learning objectives (Specific, Measurable, Achievable, Relevant, Time-bound)
-- Distinguish between knowledge, skill, and attitude objectives
-- Align objectives with business outcomes and KPIs
-- Create hierarchical objectives (terminal vs. enabling objectives)
+### 🟢 Foundational
+- Understands basic training brief components and templates
+- Can document straightforward training requirements with guidance
+- Follows established organizational templates and formats
+- Identifies basic training objectives and target audience
+- Lists required resources and basic timelines
 
-### 3. **Content Structuring**
-- Organize content logically (simple to complex, known to unknown)
-- Determine optimal delivery methods (instructor-led, e-learning, blended)
-- Sequence learning activities for maximum engagement
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 🔵 Intermediate
+- Structures comprehensive briefs independently for standard training needs
+- Aligns training objectives with business goals and performance gaps
+- Selects appropriate delivery methods based on audience and content"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

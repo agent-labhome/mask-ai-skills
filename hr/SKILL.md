@@ -1,27 +1,20 @@
 -e # HR
 
-{"id":"7829cb46-7384-442c-9930-6a13fb49e018","object":"chat.completion","created":1771561921,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: HR Brief
+{"id":"3c3064fe-3edc-4ed0-8278-6469d2270480","object":"chat.completion","created":1771574402,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: HR Brief
 
-## Purpose
-To efficiently synthesize and communicate the key points of HR-related documents, policies, or situations in a clear, structured, and actionable format for managers and decision-makers.
+## Skill Overview
+**HR Brief** is a specialized skill designed to generate structured, professional human resources documents and communications. It transforms basic input into polished HR materials with appropriate tone, legal considerations, and organizational clarity.
 
-## Core Function
-Transforms complex HR information (e.g., policy updates, employee relations cases, compliance changes, project summaries) into a concise, scannable brief that highlights:
-*   **The Core Issue/Update**
-*   **Key Details & Context**
-*   **Action Required/Implications**
-*   **Next Steps/Deadlines**
+## Core Capabilities
 
-## Input
-*   Long HR policy documents
-*   Meeting notes or summaries from HR discussions
-*   Employee relations case details
-*   Compliance or legal updates
-*   Project plans or initiative outlines
-*   Survey or feedback data summaries
+### 1. **Document Generation**
+- **Employment Contracts**: Creates comprehensive employment agreements with standard clauses (confidentiality, IP, termination).
+- **Offer Letters**: Generates formal job offers with compensation details, start dates, and conditions.
+- **Company Policies**: Drafts HR policies (remote work, code of conduct, leave policies).
+- **Performance Reviews**: Structures performance evaluation forms and feedback templates.
+- **Onboarding Checklists**: Creates step-by-step onboarding plans for new hires.
 
-## Output Structure (The \"HR Brief\" Format)
-A consistent template is applied to ensure clarity and usability:
-
-**1. TO:** [Primary Audience/Recipient]
-**2"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Communication Drafting**
+- **Internal Announcements**: Organizational changes, policy updates, promotions.
+- **Employee Communications**: Welcome emails, milestone acknowledgments, departure notices.
+- **Meeting Agendas**: For HR"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
