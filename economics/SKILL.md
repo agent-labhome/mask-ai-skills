@@ -1,21 +1,22 @@
 -e # Economics
 
-{"id":"63998a08-9fd2-4add-a564-00755318334f","object":"chat.completion","created":1771583695,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Economics
+{"id":"64ac8d41-1208-41a4-917f-affe74b36853","object":"chat.completion","created":1771588882,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Economics
 
 ## Core Competencies
 
-### 1. Foundational Economic Principles
-- **Microeconomics**: Supply & demand, market structures (perfect competition, monopoly, oligopoly), elasticity, consumer/producer theory, market failures
-- **Macroeconomics**: GDP, inflation, unemployment, fiscal/monetary policy, economic growth, business cycles
-- **Behavioral Economics**: Bounded rationality, heuristics, biases, prospect theory, nudge theory
+### 1. **Economic Theory & Analysis**
+- **Microeconomics**: Supply/demand, market structures, elasticity, consumer/producer theory
+- **Macroeconomics**: GDP, inflation, unemployment, fiscal/monetary policy, economic growth
+- **Behavioral Economics**: Decision-making biases, prospect theory, nudge theory
+- **Game Theory**: Nash equilibrium, prisoner's dilemma, strategic interactions
 
-### 2. Analytical & Quantitative Methods
-- **Economic Modeling**: Building and interpreting theoretical models
-- **Statistical Analysis**: Regression analysis, hypothesis testing, econometrics
-- **Data Interpretation**: Translating economic data into meaningful insights
-- **Cost-Benefit Analysis**: Evaluating trade-offs and opportunity costs
+### 2. **Quantitative & Analytical Methods**
+- **Statistical Analysis**: Regression, hypothesis testing, econometrics
+- **Data Interpretation**: Economic indicators, trends, forecasting
+- **Modeling**: Economic models, simulations, cost-benefit analysis
+- **Research Design**: Experimental and quasi-experimental methods
 
-### 3. Policy & Institutional Understanding
-- **Policy Analysis**: Evaluating economic impacts of government policies
-- **Institutional Economics**: Understanding how institutions shape economic outcomes
-- **International Economics**: Trade theory,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Policy & Institutional Knowledge**
+- **Public Policy**: Tax policy, welfare economics, regulatory frameworks
+- **International Economics**: Trade theory, exchange rates, globalization
+- **Financial Systems**: Banking"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
