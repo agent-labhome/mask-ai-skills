@@ -1,24 +1,19 @@
 -e # Etsy
 
-{"id":"dfb8c70f-7555-4d7f-82bc-3bf58359dc6b","object":"chat.completion","created":1771577629,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Etsy Seller SKILL.md
+{"id":"08cd38bd-f569-4020-9146-0d57224c6e02","object":"chat.completion","created":1771587105,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Etsy
+
+## Overview
+Etsy is a global online marketplace focused on handmade, vintage, and unique factory-manufactured items. It connects creative entrepreneurs (sellers) with buyers seeking special, often personalized goods outside of mass-produced retail.
 
 ## Core Competencies
 
-### Product Development & Curation
-- **Niche Identification**: Researching trending and evergreen markets
-- **Handmade Creation**: Crafting original items with consistent quality
-- **Supply Sourcing**: Ethical material procurement for handmade goods
-- **Product Photography**: Creating clean, well-lit images with lifestyle context
-- **Vintage Curation**: Authenticating and selecting quality vintage items
+**1. Marketplace Dynamics**
+*   Understanding the platform's fee structure (listing, transaction, payment processing, offsite ads).
+*   Navigating the balance between handmade, vintage, and craft supply categories.
+*   Recognizing Etsy's core value proposition: uniqueness, story, and personal connection.
 
-### Shop Management
-- **SEO Optimization**: Strategic keyword implementation in titles, tags, and descriptions
-- **Listing Creation**: Compelling product narratives with clear policies
-- **Inventory Management**: Tracking supplies and finished goods
-- **Pricing Strategy**: Calculating costs + labor + Etsy fees + profit margin
-- **Shop Branding**: Cohesive aesthetic across banner, logo, and listings
-
-### Customer Experience
-- **Prompt Communication**: 24-hour response time standard
-- **Custom Order Management**: Clear process for personalization requests
-- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**2. Seller Success**
+*   **Shop Setup & SEO:** Keyword optimization in titles, tags, and descriptions. High-quality, styled photography.
+*   **Pricing Strategy:** Factoring in materials, labor, Etsy fees, and shipping to ensure profitability.
+*   **Customer Service:** Managing orders, timelines, and personalized communication. Handling reviews and disputes.
+*   **Marketing:** Utilizing Etsy Ads"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
