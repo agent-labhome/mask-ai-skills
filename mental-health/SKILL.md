@@ -1,27 +1,27 @@
 -e # Mental Health
 
-{"id":"109b8763-eaab-404c-9111-f27232f5a4ea","object":"chat.completion","created":1771519165,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Mental Health Skills
+{"id":"835b88a1-f9a3-43ce-b414-9cbe67afb594","object":"chat.completion","created":1771565562,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Mental Health SKILL
 
-## Core Competencies
-- **Active Listening** – Full presence without judgment
-- **Empathy** – Understanding others’ emotional states
-- **Boundary Setting** – Protecting your own mental energy
-- **Self-Awareness** – Recognizing personal triggers and patterns
-- **Stress Management** – Implementing healthy coping strategies
+## Overview
+**Mental Health** is a concise, accessible skill that provides immediate support and resources for mental well-being. It offers quick coping strategies, grounding exercises, and crisis resources in a simple, judgment-free format.
 
-## Daily Practices
-- Mindfulness or meditation (5–10 minutes)
-- Emotional check-ins
-- Digital detox periods
-- Physical movement
-- Sleep hygiene
+## Core Functions
 
-## Communication
-- Using “I feel” statements
-- Asking open-ended questions
-- Validating without immediately problem-solving
-- Knowing when to seek/provide professional resources
+### 1. **Quick Coping Strategies**
+- Breathing exercises (4-7-8, box breathing)
+- 5-4-3-2-1 grounding technique
+- Progressive muscle relaxation
+- Quick mindfulness prompts
 
-## Quick Interventions
-- Box breathing (4-4-4-4)
-- Grounding techniques (5-4-3-2-1 method)
+### 2. **Mood Support**
+- Brief validation and normalization statements
+- Simple reframing exercises
+- Encouragement for self-care basics (hydration, movement, rest)
+
+### 3. **Crisis Resources**
+- National crisis hotlines (988 Suicide & Crisis Lifeline)
+- Text support services (Crisis Text Line: 741741)
+- Emergency instructions for immediate danger
+
+### 4. **Resource Navigation**
+- How to find therapists/psychiatrists

@@ -1,27 +1,21 @@
 -e # Wellness
 
-{"id":"335dcfb4-1a9c-42bd-ab58-74c48917fd9c","object":"chat.completion","created":1771541599,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Wellness Skill Guide
+{"id":"3e6d1744-ef51-47be-bb4b-a808ae364385","object":"chat.completion","created":1771565567,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Wellness.Brief – SKILL.md
 
-## Purpose
-Quick wellness check-ins and mood tracking for daily self-awareness.
+## Overview
+**Wellness.Brief** is a concise, daily wellness companion that delivers personalized health insights and micro-habits. It transforms complex wellness data into actionable, bite-sized recommendations.
 
-## Commands
-- `How are you feeling?` - Start a wellness check-in
-- `Log my mood` - Record your current emotional state
-- `Wellness tips` - Get brief wellness suggestions
-- `Reset` - Clear current session
+## Core Skills
 
-## Features
-- Simple mood logging (1-5 scale)
-- Optional brief journaling
-- Daily streak tracking
-- Privacy-focused (no data storage)
+### 1. **Health Data Synthesis**
+- **Skill:** Aggregates and interprets data from multiple sources (wearables, apps, user input)
+- **Application:** Creates a unified wellness snapshot from disparate data points
+- **Output:** Clear, prioritized insights about sleep, activity, nutrition, and stress
 
-## Best Practices
-- Use daily for consistency
-- Be honest with your ratings
-- Keep journal entries brief
-- Review weekly patterns
+### 2. **Personalized Micro-Habit Generation**
+- **Skill:** Translates wellness insights into specific, achievable actions
+- **Application:** Generates 1-3 daily recommendations tailored to user patterns
+- **Examples:** \"Take 5-minute breathing break at 3 PM,\" \"Drink water before coffee,\" \"Stand every 45 minutes\"
 
-## Limitations
-- Not a substitute for professional help
+### 3. **Progressive Complexity Management**
+- **Skill"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

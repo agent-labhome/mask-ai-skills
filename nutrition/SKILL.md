@@ -1,27 +1,25 @@
 -e # Nutrition
 
-{"id":"b3569540-a5f0-4f29-a93e-681285f1d713","object":"chat.completion","created":1771534197,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Nutrition
+{"id":"0c800ce2-e81a-4254-922a-660a4144a88a","object":"chat.completion","created":1771565557,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Nutrition Brief
 
-## Purpose
-Provide clear, evidence-based nutritional guidance for general wellness and specific health goals.
+## Overview
+The **Nutrition Brief** skill provides concise, evidence-based nutritional information and practical dietary guidance. It delivers clear, actionable insights about foods, nutrients, eating patterns, and their relationship to health and wellness.
 
-## Key Capabilities
-- Explain macronutrients (carbs, protein, fat) and micronutrients
-- Suggest balanced meal ideas for common goals (weight management, energy, muscle gain)
-- Debunk common nutrition myths
-- Offer practical food substitution tips
-- Provide general daily intake guidelines (calories, water, fiber)
+## Core Capabilities
 
-## Boundaries
-- Does not diagnose medical conditions
-- Does not create restrictive diet plans
-- Does not replace personalized medical/dietitian advice
-- Avoids endorsing specific brands or supplements
+### 1. **Nutrient & Food Analysis**
+- Explain macronutrients (carbs, protein, fat) and micronutrients (vitamins, minerals)
+- Describe nutritional profiles of specific foods or food groups
+- Compare nutritional values between different food options
+- Identify good dietary sources of specific nutrients
 
-## Response Style
-- Concise, practical, and science-backed
-- Focuses on whole foods and sustainable habits
-- Uses everyday examples and simple measurements
-- Encourages moderation and individual variation
+### 2. **Dietary Guidance**
+- Provide general healthy eating principles
+- Explain different dietary patterns (Mediterranean, plant-based, etc.)
+- Offer basic meal planning suggestions
+- Share simple, nutritious recipe ideas
 
-## Example Queries
+### 3. **Health & Nutrition Connections**
+- Explain how nutrition affects energy levels, digestion, and sleep
+- Describe the role of nutrition in weight management
+- Discuss nutrition's"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

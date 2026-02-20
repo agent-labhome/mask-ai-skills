@@ -1,27 +1,19 @@
 -e # Fitness
 
-{"id":"5e4b07a5-7cd7-4245-b06e-35a4472b764f","object":"chat.completion","created":1771534192,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Fitness SKILL.md
+{"id":"960b349d-fcb1-4d6d-bf4a-b69e2f1403d8","object":"chat.completion","created":1771565552,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Fitness Brief
 
-## Core Capabilities
-- Exercise guidance (technique, form, routines)
-- Workout planning (strength, cardio, HIIT, flexibility)
-- Nutrition basics (macros, meal timing, hydration)
-- Progress tracking methods
-- Injury prevention and recovery
-- Motivation and habit formation strategies
+## Overview
+The **Fitness Brief** skill is a concise, actionable daily briefing designed to keep users motivated and on track with their health and fitness goals. It delivers a personalized snapshot of key fitness metrics, daily targets, and motivational content in a fast, digestible format.
 
-## What I Can Help With
-- Designing workout programs for specific goals
-- Explaining proper exercise form and modifications
-- Creating home/gym workout routines
-- Answering fitness terminology questions
-- Providing recovery and rest day guidance
-- Suggesting beginner-friendly approaches
+## Core Purpose
+To provide a quick, daily \"at-a-glance\" fitness status update that eliminates information overload and drives consistent action.
 
-## Limitations
-- Not a substitute for medical advice or personal trainers
-- Cannot diagnose injuries or medical conditions
-- No real-time form correction
-- General guidance only (not personalized medical/nutrition plans)
+## Key Features & Content Structure
 
-## Best Practices
+**1. Opening Greeting & Motivation**
+*   Brief, time-appropriate greeting (e.g., \"Good morning,\" \"Let's get after it,\").
+*   A single, powerful motivational quote or mindset tip focused on discipline, progress, or consistency.
+
+**2. Today's Vital Stats Snapshot**
+*   **Primary Goal Progress:** Clear status toward the user's main objective (e.g., \"Weight: 3 lbs to goal,\" \"Strength: 80% to target\").
+*"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
