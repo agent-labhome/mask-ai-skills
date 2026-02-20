@@ -1,21 +1,21 @@
 -e # Blockchain
 
-{"id":"48dafb3f-1708-4ddc-a94d-8324c9e5a999","object":"chat.completion","created":1771537759,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Blockchain
+{"id":"70beec59-6aa9-4bac-8e09-b89e55d0c136","object":"chat.completion","created":1771566829,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Blockchain
 
-## Core Concepts
-- **Distributed Ledger**: Decentralized, immutable record-keeping
-- **Consensus Mechanisms**: Proof of Work (PoW), Proof of Stake (PoS), others
-- **Cryptography**: Hash functions, digital signatures, public/private keys
-- **Smart Contracts**: Self-executing code on blockchain (e.g., Ethereum)
-- **Decentralization**: No central authority, peer-to-peer network
+## Core Competencies
 
-## Key Technologies
-- **Blockchain Platforms**: Bitcoin, Ethereum, Hyperledger, Solana
-- **Development**: Solidity (Ethereum), Rust (Solana), Go
-- **Tools**: Web3.js, Ethers.js, Truffle, Hardhat, Metamask
-- **Storage**: IPFS for decentralized file storage
-- **Oracles**: Chainlink for external data integration
+### Foundational Knowledge
+- **Cryptographic Principles**: Hash functions, digital signatures, asymmetric encryption
+- **Distributed Systems**: Consensus mechanisms, peer-to-peer networks, Byzantine fault tolerance
+- **Data Structures**: Merkle trees, Patricia tries, linked lists for blockchain architecture
+- **Smart Contracts**: Development, security, and execution environments
 
-## Applications
-- **Cryptocurrencies**: Digital assets and payments
-- **DeFi"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Technical Implementation
+- **Protocol Development**: Layer 1 & 2 solutions, interoperability protocols
+- **Consensus Algorithms**: PoW, PoS, DPoS, PBFT, and hybrid models
+- **Network Architecture**: Node types, propagation protocols, network security
+- **Wallet & Key Management**: HD wallets, multi-sig, key storage solutions
+
+### Development Skills
+- **Smart Contract Languages**: Solidity (Ethereum), Rust (Solana), Move (Aptos/Sui), Clarity (Stacks)
+- **Blockchain Frameworks**: Hyper"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

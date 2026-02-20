@@ -1,27 +1,21 @@
 -e # DevOps
 
-{"id":"5e2164df-73cc-4394-973b-03779d89b73e","object":"chat.completion","created":1771537746,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# DevOps SKILL.md
+{"id":"7229be3f-5623-4c11-9edb-a4f93f464231","object":"chat.completion","created":1771566814,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: DevOps
 
-## Core Competencies
-- **Infrastructure as Code** (Terraform, CloudFormation)
-- **CI/CD Pipelines** (Jenkins, GitLab CI, GitHub Actions)
-- **Containerization** (Docker, Kubernetes)
-- **Cloud Platforms** (AWS, Azure, GCP)
-- **Configuration Management** (Ansible, Chef, Puppet)
-- **Monitoring & Observability** (Prometheus, Grafana, ELK)
-- **Scripting** (Bash, Python, PowerShell)
-- **Version Control** (Git workflows)
+## Core Philosophy
+DevOps bridges development and operations through **culture, automation, measurement, and sharing** to enable rapid, reliable software delivery.
 
-## Key Principles
-- Automate everything possible
-- Infrastructure as reproducible code
-- Continuous feedback loops
-- Collaboration between Dev and Ops
-- Security integrated throughout (DevSecOps)
-- Measure everything (metrics, logs, traces)
+---
 
-## Mindset
-- Systems thinking
-- Blameless culture
-- Iterative improvement
-- Ownership of production
+## 1. CORE COMPETENCIES
+
+### Culture & Process
+- **Collaboration & Communication**: Breaking down silos between dev, ops, and security.
+- **Agile & Lean Principles**: Iterative development, value stream optimization, waste reduction.
+- **CI/CD Mindset**: Automating build, test, deployment; treating infrastructure as code.
+- **Site Reliability Engineering (SRE)**: Balancing reliability, velocity, and cost via SLIs/SLOs/error budgets.
+- **Incident Management**: Blameless postmortems, on-call rotations, alerting best practices.
+- **Security Integration (DevSecOps)**: Shift-left security, vulnerability scanning, secrets management.
+
+### Systems & Administration
+- **Linux/Unix Systems**: Command line, shell scripting,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
