@@ -1,27 +1,26 @@
 -e # Investment
 
-{"id":"7d41c5b0-81f9-4a8c-bd58-d003db7d6671","object":"chat.completion","created":1771587487,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investment Brief Analysis
+{"id":"50be20f6-f31c-4ca0-a5b2-e8175173e6ac","object":"chat.completion","created":1771589181,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investment Brief Creation
 
 ## Purpose
-This skill enables the AI to analyze investment briefs by extracting key information, identifying critical factors, and providing structured analysis to support investment decision-making.
+Create clear, concise investment briefs that synthesize complex financial information into actionable decision-making documents for stakeholders.
 
-## Core Capabilities
+## Core Components
 
-### 1. **Brief Deconstruction**
-- Extract and categorize: Investment thesis, market opportunity, competitive landscape, financial projections, team background, use of funds, risk factors
-- Identify stated vs. implicit objectives
-- Map timeline and milestones
-- Flag missing or incomplete information
+### 1. Executive Summary (1-2 paragraphs)
+- Investment thesis in one sentence
+- Key metrics (size, IRR, hold period)
+- Strategic rationale
+- Risk-adjusted return profile
 
-### 2. **Opportunity Assessment**
-- Market sizing and growth potential analysis
-- Problem-solution fit evaluation
-- Competitive advantage assessment
-- Scalability and defensibility analysis
-- Product-market fit indicators
+### 2. Investment Thesis
+- **Opportunity**: Market gap, inefficiency, or catalyst
+- **Value Creation**: How returns will be generated
+- **Competitive Advantage**: Why this opportunity is unique
+- **Alignment**: How this fits portfolio strategy
 
-### 3. **Financial Analysis**
-- Revenue model evaluation
-- Unit economics assessment
-- Burn rate and runway analysis
-- Financial projection plausibility
+### 3. Financial Highlights
+- **Deal Structure**: Equity/debt split, pricing, terms
+- **Projected Returns**: IRR, MOIC, cash yield
+- **Key Assumptions**: Growth rates, margins, exit multiple
+- **Capital Stack**: Sources & uses of funds

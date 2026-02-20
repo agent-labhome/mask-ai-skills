@@ -1,26 +1,22 @@
 -e # Housing
 
-{"id":"bd9187fa-cfad-42ef-ac2f-1fef1ceca481","object":"chat.completion","created":1771583890,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Housing Brief Analysis
+{"id":"b9c586d2-21be-45fe-a91d-7f24282f7173","object":"chat.completion","created":1771589171,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Housing Brief - SKILL Documentation
 
 ## Overview
-This skill enables the analysis and processing of housing-related briefs, requirements, and specifications. It helps structure housing project requirements, identify key components, and organize information for planning and decision-making.
+The **Housing Brief** skill enables users to generate comprehensive housing development briefs for specific locations. This tool synthesizes urban planning requirements, development parameters, and contextual analysis to create structured development frameworks.
 
 ## Core Capabilities
 
-### 1. **Requirement Extraction**
-- Identify and categorize housing requirements from briefs
-- Distinguish between mandatory and optional specifications
-- Extract quantitative data (square footage, room counts, budget constraints)
-- Recognize qualitative requirements (design style, materials, sustainability goals)
+### 1. **Location Analysis**
+- **Geographic Context**: Analyzes site location, accessibility, and surrounding infrastructure
+- **Demographic Profile**: Assesses local population characteristics and housing needs
+- **Market Context**: Evaluates local housing market conditions and demand drivers
 
-### 2. **Stakeholder Analysis**
-- Identify different stakeholder groups mentioned in briefs
-- Map requirements to specific stakeholder needs
-- Recognize potential conflicts between stakeholder requirements
-- Prioritize requirements based on stakeholder importance
+### 2. **Development Parameters**
+- **Land Use**: Defines permitted uses, density allowances, and zoning requirements
+- **Scale & Massing**: Establishes building heights, setbacks, and floor area ratios
+- **Unit Mix**: Recommends appropriate unit types, sizes, and tenure splits
 
-### 3. **Space Programming**
-- Parse room-by-room requirements
-- Calculate total area requirements
-- Identify adjacencies and spatial relationships
-- Recognize circulation and service space needs
+### 3. **Design Guidelines**
+- **Architectural Character**: Provides guidance on materials, scale, and contextual fit
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
