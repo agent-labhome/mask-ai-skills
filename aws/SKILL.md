@@ -1,27 +1,27 @@
 -e # AWS
 
-{"id":"35648995-8446-4b0f-8651-d0a545f35d50","object":"chat.completion","created":1771547744,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AWS SKILL.md
+{"id":"22f61cab-986d-456d-ac96-874a39a8fb4e","object":"chat.completion","created":1771559282,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AWS SKILL.md
 
 ## Core Competencies
-- **Compute:** EC2, Lambda, ECS/EKS, Fargate
+- **Compute:** EC2, Lambda, ECS, Fargate
 - **Storage:** S3, EBS, EFS, Glacier
-- **Databases:** RDS, DynamoDB, Redshift, Aurora
+- **Databases:** RDS, DynamoDB, Redshift
 - **Networking:** VPC, Route 53, CloudFront, API Gateway
-- **Security:** IAM, KMS, Security Hub, WAF
-- **Management:** CloudWatch, CloudFormation, Systems Manager
+- **Security:** IAM, KMS, Secrets Manager, WAF
+- **Management:** CloudWatch, CloudFormation, AWS CLI, Cost Explorer
 
 ## Key Practices
 - Infrastructure as Code (CloudFormation/Terraform)
-- Well-Architected Framework principles
+- High availability & fault tolerance design
 - Cost optimization & tagging strategies
-- Multi-account organization structure
-- Serverless architecture patterns
-- Disaster recovery planning
+- Security-first architecture (least privilege)
+- Serverless & containerization patterns
 
-## Common Tools
-- AWS CLI, SDKs, Console
-- AWS SAM for serverless apps
-- AWS Copilot for containers
-- Cost Explorer & Budgets
+## Common Certifications
+- Solutions Architect Associate/Professional
+- Developer Associate
+- SysOps Administrator
+- Security Specialty
 
-## Certification Path
+## Quick Reference
+- `aws-cli` for terminal operations

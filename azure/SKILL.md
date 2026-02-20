@@ -1,27 +1,27 @@
 -e # Azure
 
-{"id":"45ce3512-57ae-4af0-a413-2def25c6e96e","object":"chat.completion","created":1771547754,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Azure SKILL.md
+{"id":"cf37e3d8-dbca-4b57-8856-fedbd07db8c1","object":"chat.completion","created":1771559292,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Azure SKILL.md
 
-## Core Concepts
-- **Compute**: VMs, App Services, Functions, Containers (AKS)
-- **Storage**: Blob, Disk, File, Queue, Table
-- **Networking**: VNet, Load Balancer, VPN Gateway, DNS
-- **Identity**: Azure AD, RBAC, Managed Identities
+## Core Competencies
+- **Infrastructure**: IaaS, VM provisioning, VNet, NSG, Load Balancers
+- **Platform Services**: App Services, Functions, Container Instances, AKS
+- **Data & AI**: Blob Storage, SQL Database, Cosmos DB, Cognitive Services
+- **Identity & Security**: Azure AD, RBAC, Key Vault, Managed Identities
+- **DevOps**: Azure DevOps, ARM/Bicep, CI/CD pipelines
 
-## Key Services
-- **Infrastructure**: ARM templates, Azure CLI, PowerShell
-- **Databases**: SQL Database, Cosmos DB, MySQL/PostgreSQL
-- **Security**: Key Vault, Security Center, Sentinel
-- **Monitoring**: Monitor, Application Insights, Log Analytics
+## Key Tools
+- Azure Portal & CLI
+- PowerShell for Azure
+- ARM Templates & Bicep
+- Azure Monitor & Application Insights
 
-## Essential Commands
-```bash
-az login
-az group create --name <name> --location <region>
-az deployment group create --template-file template.json
-```
+## Common Patterns
+- Hybrid cloud configurations
+- Microservices on AKS/App Services
+- Serverless architectures with Functions
+- Infrastructure-as-Code deployments
 
-## Quick Tips
-- Use Resource Groups for organization
-- Enable Cost Management early
-- Implement tagging strategy
+## Quick Notes
+- Prefer Managed Identities over connection strings
+- Use Resource Groups for logical grouping
+- Implement tagging for cost management
