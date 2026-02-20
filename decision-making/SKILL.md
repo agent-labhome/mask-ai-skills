@@ -1,16 +1,21 @@
 -e # Decision Making
 
-{"id":"eeaceb47-17cd-4398-8e83-fb5356f9b925","object":"chat.completion","created":1771581446,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Decision Making
+{"id":"14f456c5-dbaf-43ec-a1ff-ae7b4d02c865","object":"chat.completion","created":1771587936,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Decision Making
 
-## Overview
-Decision Making is the cognitive process of selecting a course of action from multiple alternatives to achieve a desired outcome. It involves gathering information, evaluating options, and committing to a choice, often under conditions of uncertainty, time pressure, or conflicting priorities.
+## Purpose
+To systematically evaluate options and select the most effective course of action in alignment with organizational goals, available resources, and potential risks.
 
-## Core Components
+## Core Principles
 
-1.  **Problem Definition & Framing:** Clearly identifying the decision to be made, its scope, constraints, and desired objectives.
-2.  **Information Gathering:** Researching, collecting relevant data, and seeking diverse perspectives to inform the choice.
-3.  **Option Generation:** Brainstorming and identifying a range of possible alternatives or solutions.
-4.  **Evaluation & Analysis:** Weighing the pros and cons of each option against criteria such as feasibility, impact, risk, resources, and alignment with goals.
-5.  **Selection:** Choosing the most suitable alternative based on the evaluation.
-6.  **Implementation & Action:** Executing the decision and allocating necessary resources.
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+1.  **Goal-Oriented:** Every decision must advance specific, defined objectives.
+2.  **Evidence-Based:** Rely on data, facts, and logical analysis over intuition or assumption.
+3.  **Proactive & Timely:** Balance thoroughness with the need for action, avoiding \"analysis paralysis.\"
+4.  **Owned & Accountable:** The decision-maker takes responsibility for the outcome and the process.
+
+## The DECIDE Framework
+
+A structured, six-step process for effective decision-making.
+
+### 1. **D**efine the Decision
+*   **Clarify the Problem/Opportunity:** What exactly needs to be decided? Write it down.
+*   **Identify the Goal:** What is the desired outcome? Make it SMART (Specific, Measurable,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

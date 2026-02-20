@@ -1,26 +1,26 @@
 -e # Problem Solving
 
-{"id":"c28dda52-8a30-4404-bfbc-df925fc22227","object":"chat.completion","created":1771581441,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Problem Solving
+{"id":"ecfb8557-86e7-4319-b9d9-8750b9291425","object":"chat.completion","created":1771587931,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Problem Solving
 
 ## Core Definition
-**Problem Solving** is the systematic process of identifying, analyzing, and resolving challenges or obstacles to achieve desired outcomes. It involves moving from an undesirable current state to a desired future state through logical reasoning, creativity, and structured approaches.
+**Problem Solving** is the systematic process of identifying, analyzing, and resolving challenges or obstacles to achieve desired outcomes. It involves moving from an undesired current state to a desired future state through logical reasoning, creativity, and structured methodologies.
 
 ## Key Components
 
 ### 1. **Problem Identification & Definition**
-- Recognizing that a problem exists
+- Recognizing discrepancies between current and desired states
 - Distinguishing symptoms from root causes
-- Clearly articulating the problem statement
-- Determining scope, constraints, and success criteria
+- Framing problems clearly and specifically
+- Establishing success criteria and constraints
 
 ### 2. **Analysis & Root Cause Investigation**
 - Gathering relevant data and information
-- Breaking complex problems into manageable parts
-- Using analytical tools (5 Whys, fishbone diagrams, SWOT)
-- Identifying patterns, relationships, and underlying causes
+- Breaking complex problems into manageable components
+- Using analytical tools (5 Whys, Fishbone diagrams, Pareto analysis)
+- Identifying patterns, relationships, and dependencies
 
 ### 3. **Solution Generation**
-- Brainstorming multiple potential solutions
-- Encouraging divergent and creative thinking
-- Considering both conventional and innovative approaches
-- Leveraging analogies from other domains
+- Brainstorming multiple approaches without premature judgment
+- Applying creative thinking techniques
+- Drawing analogies from similar problems
+- Considering both conventional and innovative solutions
