@@ -1,25 +1,31 @@
--e # Investor Pitch
+-e {"id":"205c3211-b026-4714-adfb-4f0be0fd09c5","object":"chat.completion","created":1771598208,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+---
+title: Investor Pitch
+category: Business Development
+subcategory: Fundraising
+tags: [pitch-deck, fundraising, venture-capital, storytelling, metrics]
+prerequisites: [Business Model, Financial Projections, Market Analysis]
+target_audience: [Founders, Startup Teams, Entrepreneurs]
+difficulty: Intermediate
+estimated_time: 4-6 weeks (including iterations)
+last_updated: 2023-10-15
+author: Startup Toolkit
+version: 2.1
+---
 
-{"id":"ae08315c-106e-46d5-b7c2-a299a20a1f1a","object":"chat.completion","created":1771512390,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investor Pitch Brief
+# Skill: Investor Pitch
 
-## Purpose
-Quickly distill complex business ideas into a concise, compelling pitch that captures investor attention in 3-5 minutes.
+## Overview
+The ability to craft and deliver a compelling narrative that persuades investors to fund your venture. This skill combines storytelling, financial acumen, and strategic positioning into a concise, impactful presentation.
 
-## Core Principles
-- **Clarity Over Completeness**: Focus on the essential story, not every detail
-- **Problem-First**: Start with the pain point, then present your solution
-- **Numbers That Matter**: Use only the most impactful metrics
-- **Show, Don't Just Tell**: Use simple analogies and concrete examples
+## Why This Skill Matters
+- **Capital Access**: Most startups require external funding to scale
+- **Validation**: A successful pitch validates your business model and team
+- **Partnership**: Investors bring more than money—they provide networks and expertise
+- **Clarity**: The process forces critical thinking about your business fundamentals
 
-## Essential Structure (3-5 Minutes)
+## Core Components
 
-### 1. Hook (30 seconds)
-- Start with a surprising statistic, relatable scenario, or bold vision statement
-- \"Did you know that [problem] costs businesses $X billion annually?\"
-
-### 2. Problem (60 seconds)
-- Who experiences this pain? How often? At what cost?
-- Make it specific and quantifiable
-- \"Every day, [target customer] struggles with [specific pain point]\"
-
-###"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. Narrative Architecture
+- **Problem Statement**: Clearly articulate the pain point (make it visceral)
+- **Solution**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
