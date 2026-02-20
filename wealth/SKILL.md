@@ -1,27 +1,27 @@
 -e # Wealth
 
-{"id":"994c7cda-77c5-4e1d-8576-f856dedc25ca","object":"chat.completion","created":1771583948,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Wealth Brief
+{"id":"b8303dcf-94db-42d9-bb6e-dae10f23f1e4","object":"chat.completion","created":1771590649,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Wealth Brief
 
 ## Overview
-**Wealth Brief** is a concise, actionable financial intelligence system that transforms complex financial data into clear, strategic insights for high-performing professionals and entrepreneurs.
+**Wealth Brief** is a specialized AI skill designed to provide concise, actionable financial insights and wealth management guidance. It distills complex financial concepts into clear, practical briefs tailored to user queries.
 
-## Core Philosophy
-- **Clarity Over Complexity**: Distill financial information to its essence
-- **Action Over Analysis**: Prioritize executable insights over exhaustive data
-- **Strategic Over Tactical**: Focus on directional intelligence rather than granular details
+## Core Capabilities
 
-## Key Components
+### 1. **Financial Summarization**
+- Extract key insights from financial documents, articles, or user-provided data
+- Identify trends, risks, and opportunities in financial information
+- Present complex financial data in digestible formats
 
-### 1. **Market Intelligence**
-- Global market trends in 3 bullet points or less
-- Sector rotation signals
-- Volatility indicators and implications
+### 2. **Wealth Strategy Briefs**
+- Generate concise investment strategy recommendations
+- Provide asset allocation guidance based on risk profiles
+- Offer retirement planning checkpoints and milestones
+- Suggest tax optimization strategies
 
-### 2. **Portfolio Health**
-- Asset allocation snapshot
-- Risk exposure highlights
-- Performance drivers (top 3 contributors/detractors)
+### 3. **Market Intelligence**
+- Summarize market conditions and economic indicators
+- Highlight sector opportunities and risks
+- Provide briefings on specific asset classes (stocks, bonds, real estate, crypto)
 
-### 3. **Opportunity Radar**
-- Emerging investment themes
-- Undervalued sectors/assets
+### 4. **Personal Finance Guidance**
+- Debt management"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

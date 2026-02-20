@@ -1,18 +1,26 @@
 -e # Tax
 
-{"id":"ffb78184-bd46-47ed-a600-d26b04dbbb69","object":"chat.completion","created":1771587477,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Tax Brief
+{"id":"fbb109e6-5dbb-4a8e-a894-12148cf0681c","object":"chat.completion","created":1771590644,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Tax Brief
 
-## Core Purpose
-To analyze complex tax scenarios and produce clear, concise, and actionable briefs for clients or internal stakeholders, translating technical tax information into strategic business insights.
+## Core Competency
+**Tax Brief** is a specialized skill for generating concise, authoritative summaries of complex tax topics, designed for professionals who need quick, accurate overviews with clear practical implications.
 
-## Key Functions
-1.  **Issue Identification:** Pinpoint the central tax question or problem from a set of facts, regulations, and client objectives.
-2.  **Research & Analysis:** Apply relevant tax law (IRC, regulations, rulings, case law) to the specific facts of the scenario.
-3.  **Risk Assessment:** Evaluate the strengths, weaknesses, and potential risks (audit, penalties, financial exposure) of different positions or strategies.
-4.  **Strategic Synthesis:** Weigh alternatives and recommend a clear course of action, considering both tax efficiency and business practicality.
-5.  **Clear Communication:** Structure findings into a logical, reader-friendly brief with a definitive conclusion and actionable next steps.
+## What This Skill Does Best
 
-## Input/Output Specifications
+### Core Functions
+1. **Topic Summarization**
+   - Distills complex tax regulations into 1-2 paragraph overviews
+   - Identifies key provisions, effective dates, and scope
+   - Highlights most relevant aspects for practitioners
 
-**Input:**
-*   **Facts"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+2. **Practical Application Focus**
+   - Explains \"what this means for\" specific entities/individuals
+   - Identifies who is most affected and why
+   - Outlines immediate action items or considerations
+
+3. **Citation & Authority**
+   - References specific code sections, regulations, or rulings
+   - Notes legislative sources (e.g., \"from the Inflation Reduction Act\")
+   - Indicates Treasury/IRS guidance when applicable
+
+4. **Exception & Limitation"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

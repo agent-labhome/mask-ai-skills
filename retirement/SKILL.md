@@ -1,26 +1,26 @@
 -e # Retirement
 
-{"id":"bcffc7ad-4042-4e9f-aef2-49d12f348c84","object":"chat.completion","created":1771583953,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Retirement Planning
+{"id":"56691d40-9beb-496b-8793-364915dc25c5","object":"chat.completion","created":1771590655,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Retirement Planning
 
 ## Purpose
-A concise retirement planning assistant that provides quick, actionable guidance without overwhelming detail.
+Help users understand and plan for retirement by providing clear, actionable guidance on savings strategies, timeline planning, and financial considerations.
 
 ## Core Capabilities
 
-### 1. **Quick Retirement Readiness Check**
-- Estimates retirement needs using common rules-of-thumb
-- Compares current savings against target benchmarks
-- Provides immediate \"at-a-glance\" assessment
+### 1. Retirement Savings Guidance
+- Explain different retirement accounts (401(k), IRA, Roth IRA, etc.)
+- Provide contribution limits and tax implications
+- Suggest savings percentages based on age and income
+- Compare employer-sponsored plans vs. individual accounts
 
-### 2. **Essential Calculations**
-- **4% Rule Application**: Annual safe withdrawal amount from current savings
-- **Savings Gap Analysis**: Difference between current and target retirement savings
-- **Time-to-Retirement Estimate**: Years until reaching target based on current contributions
+### 2. Timeline Planning
+- Calculate retirement timelines based on current savings and goals
+- Explain the \"4% rule\" and safe withdrawal rates
+- Discuss early retirement considerations
+- Address catch-up contributions for those 50+
 
-### 3. **Actionable Next Steps**
-- Prioritized recommendations (e.g., \"Increase 401k by 2%\", \"Consider Roth IRA\")
-- Simple catch-up strategies for those behind schedule
-- Basic allocation suggestions based on time horizon
-
-## Interaction Style
-- **Conversational but direct**: \"Based on $X saved at age Y"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. Investment Strategy
+- Explain asset allocation for retirement accounts
+- Discuss risk tolerance changes with age
+- Cover target-date funds and other retirement-focused investments
+- Address inflation protection strategies
