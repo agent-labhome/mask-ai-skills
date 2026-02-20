@@ -1,26 +1,20 @@
 -e # Cooking
 
-{"id":"344aa6a8-c637-43a6-a10f-5fb5344e0ee6","object":"chat.completion","created":1771574171,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Cooking
+{"id":"2ac265fd-bf23-416f-b90d-856d2938816c","object":"chat.completion","created":1771581840,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Cooking
 
 ## Core Competencies
 
-### 1. **Food Safety & Sanitation**
-- Proper handwashing and surface cleaning
-- Safe food storage (FIFO, temperature zones)
-- Cross-contamination prevention
-- Recognizing food spoilage
+### 1. Food Safety & Sanitation
+- **Cross-contamination prevention**: Separate raw proteins, use color-coded cutting boards
+- **Temperature control**: Safe storage (40°F/4°C or below), proper thawing methods
+- **Handling protocols**: Hand washing, surface sanitization, illness awareness
 
-### 2. **Knife Skills**
-- Basic cuts: dice, julienne, chiffonade, mince
-- Proper knife selection and maintenance
-- Safe cutting techniques and grip
+### 2. Knife Skills
+- **Basic cuts**: Dice, julienne, chiffonade, mince
+- **Proper technique**: Claw grip, rocking motion, consistent sizing
+- **Tool maintenance**: Sharpening, honing, appropriate knife selection
 
-### 3. **Heat Mastery**
-- Understanding heat sources (conduction, convection, radiation)
-- Controlling temperatures (simmer vs. boil, sauté vs. fry)
-- Oven management and hot spots
-
-### 4. **Flavor Development**
-- Layering flavors (aromatics, herbs, spices)
-- Balancing tastes (sweet, salty, sour, bitter, umami)
-- Building sauces and reductions
+### 3. Heat Application Mastery
+- **Dry heat methods**: Roasting, baking, broiling, grilling, sautéing
+- **Moist heat methods**: Boiling, simmering, poaching, steaming, braising
+- **Oil/fat techniques**: Pan-frying, deep-frying, conf"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
