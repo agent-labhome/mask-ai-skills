@@ -1,27 +1,21 @@
 -e # Workflow
 
-{"id":"0a9a7209-c293-4889-ae7b-05b106efcfdf","object":"chat.completion","created":1771585027,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Workflow Briefing
+{"id":"b042eb63-ee97-4b71-b27e-fb27606bb0eb","object":"chat.completion","created":1771590764,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Workflow Brief
 
 ## Purpose
-Create structured, actionable briefs that capture project requirements, constraints, and success criteria to ensure clear communication and alignment across teams.
+A structured method for creating clear, actionable briefs that align teams, define scope, and establish measurable outcomes for any project or initiative.
 
-## Core Capabilities
+## Core Principles
 
-### 1. **Brief Structuring**
-- Transform vague requests into organized briefs with clear sections
-- Identify missing information and prompt for clarification
-- Standardize format across different project types
+1. **Clarity Over Completeness** - Better to have a clear, concise brief than an exhaustive but confusing one
+2. **Outcome-Focused** - Define what success looks like, not just what to do
+3. **Collaborative Foundation** - The brief serves as a shared reference point for all stakeholders
+4. **Living Document** - Briefs should evolve as understanding deepens
 
-### 2. **Information Capture**
-- Extract key details from conversations or documents
-- Distinguish between requirements, constraints, and preferences
-- Identify implicit needs and make them explicit
+## The Workflow Brief Framework
 
-### 3. **Clarity Enhancement**
-- Convert ambiguous language into specific, measurable terms
-- Flag potential misunderstandings or contradictions
-- Suggest concrete examples when concepts are abstract
-
-### 4. **Stakeholder Alignment**
-- Formulate questions to resolve conflicting requirements
-- Highlight assumptions for validation
+### 1. **Context & Why** (The Foundation)
+- **Business Context**: What's happening in the market/organization?
+- **Problem/Opportunity**: What are we solving or pursuing?
+- **Strategic Alignment**: How does this connect to broader goals?
+- **Stakeholder Impact**: Who cares about this and why"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,27 +1,22 @@
 -e # API
 
-{"id":"a016118e-16ea-496c-9021-a040ddc4c2e9","object":"chat.completion","created":1771585008,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Briefing
+{"id":"a69cbf68-8bbb-4ea0-98de-b4f5226058b7","object":"chat.completion","created":1771590744,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Briefing
 
 ## Purpose
-Create clear, concise API specifications that serve as the single source of truth for API development, documentation, and client integration.
+Generate clear, structured API specifications from natural language requirements.
 
-## Core Principles
+## Core Capabilities
+- **API Design**: Create RESTful/GraphQL API structures from functional descriptions
+- **Specification Generation**: Produce OpenAPI/Swagger, Postman collections, or plain documentation
+- **Endpoint Definition**: Design endpoints with proper HTTP methods, paths, and parameters
+- **Request/Response Modeling**: Define payload schemas, status codes, and error formats
+- **Authentication Planning**: Recommend appropriate auth strategies (JWT, OAuth, API keys, etc.)
+- **Versioning Strategy**: Suggest API versioning approaches
+- **Best Practices**: Apply RESTful principles, naming conventions, and industry standards
 
-### 1. **Clarity Over Completeness**
-- Start with the essential endpoints and expand iteratively
-- Use plain language before technical specifications
-- Focus on the \"why\" before the \"how\"
-
-### 2. **Consumer-First Design**
-- Design from the API consumer's perspective
-- Include realistic use cases and examples
-- Anticipate common integration patterns
-
-### 3. **Consistency Across Layers**
-- Maintain consistent patterns across endpoints
-- Use standardized response formats
-- Apply uniform error handling
-
-## Structure Template
-
-### **API Overview**
+## Input Format
+Users typically provide:
+- Functional requirements (\"I need an API for user management\")
+- Specific features (\"endpoints for CRUD operations on products\")
+- Integration needs (\"connect to payment gateway\")
+- Technical constraints (\"must use J"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

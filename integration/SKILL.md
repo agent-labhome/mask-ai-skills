@@ -1,25 +1,21 @@
 -e # Integration
 
-{"id":"33d5d3c2-40a0-4234-b7fd-c142d298fb3b","object":"chat.completion","created":1771585018,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Integration Brief
+{"id":"7ba1a4df-62f5-483e-92d6-29ea1f33e51b","object":"chat.completion","created":1771590754,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Integration Brief
 
 ## Purpose
-A concise, structured document that captures essential information about an integration project to align stakeholders, define scope, and establish clear requirements.
+A concise, structured document that captures the essential elements of an integration project to align stakeholders, define scope, and establish clear requirements before development begins.
 
 ## Core Components
 
-### 1. Project Context
-- **Business Need**: Why this integration is necessary
-- **Current State**: Existing systems/processes being connected
-- **Future State**: Desired outcome after integration
-- **Success Metrics**: How success will be measured
+### 1. Project Context & Objectives
+- **Business Problem/Need**: Clear statement of what business challenge the integration solves
+- **Goals & Success Metrics**: Specific, measurable outcomes (e.g., \"Reduce manual data entry by 80%\")
+- **Stakeholders**: Key decision-makers, users, and technical contacts from all involved systems
 
 ### 2. Integration Scope
-- **Systems Involved**: Source and target systems with versions
-- **Data Elements**: Specific fields, objects, or entities to integrate
-- **Process Flows**: How data moves between systems
-- **Boundaries**: What's in scope and what's explicitly out of scope
+- **Systems Involved**: Source and destination systems with versions/APIs
+- **Data Flow Direction**: Unidirectional (A→B) or bidirectional (A↔B)
+- **In-Scope Items**: Specific data objects, fields, and operations to be integrated
+- **Out-of-Scope Items**: Explicitly excluded elements to prevent scope creep
 
-### 3. Technical Requirements
-- **Integration Pattern**: Real-time sync, batch processing, event-driven, etc.
-- **Data Format**: JSON, XML, CSV, proprietary formats
-- **Protocols**: REST"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
