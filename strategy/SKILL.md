@@ -1,27 +1,27 @@
 -e # Strategy
 
-{"id":"ab4b7a8d-af31-48d5-9b67-6366f312af74","object":"chat.completion","created":1771534465,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Strategy Brief Development
+{"id":"b9eaf131-12b3-4a45-af47-a62abd4fe52b","object":"chat.completion","created":1771579975,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Strategy Brief Development
 
 ## Purpose
-Create concise, actionable strategic briefs that align teams and drive focused execution.
+Develop concise, actionable strategic briefs that align teams, clarify objectives, and drive focused execution.
 
 ## Core Principles
-1. **Clarity Over Completeness** - Prioritize clear direction over exhaustive detail
-2. **Action-Oriented** - Every element should drive toward specific outcomes
-3. **Stakeholder-Centric** - Tailor to audience needs and decision contexts
 
-## Brief Structure (S.T.R.A.T. Framework)
+### 1. **Strategic Clarity Over Volume**
+- Distill complexity into essential elements
+- Every sentence must serve a strategic purpose
+- Eliminate jargon in favor of plain, powerful language
 
-**S** - Situation Analysis
-- Current state (3 bullet points max)
-- Key challenge/opportunity (1 sentence)
+### 2. **Audience-Centric Design**
+- Tailor depth and format to decision-makers' needs
+- Anticipate stakeholder questions
+- Balance strategic vision with operational reality
 
-**T** - Target Outcome
-- Desired end state (specific, measurable)
-- Success metrics (3-5 KPIs max)
+### 3. **Action Orientation**
+- Every objective must have clear success measures
+- Connect strategy to specific initiatives
+- Define decision rights and escalation paths
 
-**R** - Recommended Approach
-- Core strategy (1 paragraph)
-- Critical assumptions (2-3 key assumptions)
+## Framework Components
 
-**A** - Action Requirements
+### **1. Strategic Context (The Why)**

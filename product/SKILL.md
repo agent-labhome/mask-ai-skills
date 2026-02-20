@@ -1,18 +1,17 @@
 -e # Product
 
-{"id":"9f25e9f1-be42-4e05-a14e-201324dff60a","object":"chat.completion","created":1771541443,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Product Brief
+{"id":"532b1584-6d88-43c7-8624-ec59ae92c32d","object":"chat.completion","created":1771579971,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Brief
 
-## Purpose
-A product brief is a concise document that clearly defines a new product or feature before development begins. It aligns stakeholders, guides the team, and serves as the foundation for detailed requirements.
+## Overview
+A **Product Brief** is a strategic document that defines the purpose, scope, and key requirements for a new product or a significant feature. It serves as the foundational blueprint, aligning stakeholders and guiding the product development team from concept to launch.
 
-## Core Components
-A strong product brief should answer:
+## Core Purpose
+To translate a business opportunity or user problem into a clear, actionable plan that:
+*   **Aligns Stakeholders:** Ensures everyone (executives, product, design, engineering, marketing) shares the same vision and goals.
+*   **Defines the \"What\" and \"Why\":** Clearly articulates the problem, the target user, the proposed solution, and the desired business outcomes.
+*   **Scopes the Initiative:** Sets boundaries for what is in and out of scope for the initial launch (MVP).
+*   **Guides Decision-Making:** Provides a north star for prioritizing features and making trade-offs during development.
 
-1.  **Problem & Opportunity:** What user pain point or business opportunity does this address? Why now?
-2.  **Goal & Success:** What is the primary objective? How will we measure success (KPIs)?
-3.  **Target User:** Who is this for? (Persona, user segment, or job-to-be-done)
-4.  **Core Solution:** What is the proposed solution, described simply? What are the key features/scope?
-5.  **Why & Why Not:** Why is this the right solution? What alternatives were considered and rejected?
-6.  **Constraints & Dependencies:** What are the key timelines, technical limits, or required resources?
+## Key Components of a Strong Product Brief
 
-## Key Principles"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
