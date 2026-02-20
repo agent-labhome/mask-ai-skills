@@ -1,16 +1,22 @@
 -e # Print on Demand
 
-{"id":"ed122ed0-8876-437a-93bf-29ccb99379fe","object":"chat.completion","created":1771516202,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Print on Demand (POD)
+{"id":"9629f835-fb9a-48ef-a13b-8091002e99da","object":"chat.completion","created":1771563208,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Print on Demand (POD)
 
-**Core Concept:** A fulfillment method where products are created *only after* a customer orders them. No inventory is held.
+## Core Concept
+Print on Demand (POD) is a business model where products are manufactured only after a customer places an order. This eliminates inventory management, reduces upfront costs, and minimizes financial risk compared to traditional manufacturing.
 
-**Key Responsibilities:**
-*   **Design Creation:** Developing original artwork, graphics, or text for products.
-*   **Platform Management:** Setting up and managing stores on integrated POD platforms (e.g., Shopify with Printful, Redbubble, Etsy).
-*   **Product Curation:** Selecting appropriate products (apparel, mugs, posters, etc.) that match the design and target audience.
-*   **Marketing & Sales:** Driving traffic to storefronts through social media, SEO, and advertising.
-*   **Customer Service:** Handling customer inquiries, issues, and returns (typically coordinated with the POD supplier).
+## Key Components
 
-**Essential Tools/Platforms:**
-*   **POD Suppliers:** Printful, Printify, Gooten, Redbubble, Society6.
-*   **E-commerce Platforms"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. **Product Types**
+- Apparel (t-shirts, hoodies, hats)
+- Home goods (mugs, posters, pillows)
+- Accessories (phone cases, tote bags, stickers)
+- Books and notebooks
+- Customizable items with user-uploaded designs
+
+### 2. **Platform Ecosystem**
+- **Marketplace Platforms**: Redbubble, TeePublic, Society6 (handle production/shipping)
+- **Integration Platforms**: Printful, Printify, Gooten (connect to your store)
+- **E-commerce Platforms**: Shopify, WooCommerce, Etsy (storefront + POD integration)
+
+### 3. **Workflow Process"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

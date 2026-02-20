@@ -1,55 +1,26 @@
----
-name: kindle-publishing
-description: Kindle出版助手 - 电子书写作、格式转换、出版
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $29
-categories:
-  - 出版
-  - 写作
-  - Kindle
-platforms:
-  - Kindle
-  - Amazon
----
+-e # Kindle Publishing
 
-# Kindle Publishing
+{"id":"1e63e089-bea9-4b80-9a3f-c2bb56f8a1e0","object":"chat.completion","created":1771563203,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Kindle Publishing - SKILL.md
 
-## 功能
+## Core Competencies
 
-Kindle电子书出版工具。
+### **Technical Proficiency**
+- Formatting for KDP (Kindle Direct Publishing)
+- eBook conversion (EPUB/MOBI)
+- Cover design optimization for digital display
+- Metadata management (keywords, categories, BISAC)
+- Understanding KDP dashboard and reporting tools
 
-## 使用场景
+### **Content Preparation**
+- Manuscript editing for digital readability
+- Front/back matter optimization
+- Hyperlink and navigation implementation
+- Table of contents creation
+- Image optimization for e-ink displays
 
-### 1. 电子书写作
-
-**输入:** 主题
-
-**输出:**
-- 大纲
-- 章节内容
-
-### 2. 格式转换
-
-**输入:** 文档
-
-**输出:**
-- 格式指南
-- 转换工具
-
-### 3. 出版
-
-**输入:** 书稿
-
-**输出:**
-- 出版流程
-
-## 价格
-
-- 基础版: $29/次
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
+### **Publishing Strategy**
+- KDP Select vs. wide distribution decisions
+- Pricing strategy across global markets
+- Pre-order campaign setup
+- Series linking and sequencing
+- ISBN management (Amazon-assigned vs. purchased)
