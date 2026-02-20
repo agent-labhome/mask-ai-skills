@@ -1,18 +1,18 @@
 -e # Time Management
 
-{"id":"bae75e37-c2cd-40ef-8e83-a6ed31b97421","object":"chat.completion","created":1771534256,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Time Management
+{"id":"d247966c-f9a6-4769-9313-55ea34e563d7","object":"chat.completion","created":1771570355,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Time Management
 
-## Core Principles
-- **Prioritization:** Distinguish urgent vs. important tasks (Eisenhower Matrix).
-- **Planning:** Allocate time intentionally via daily/weekly scheduling.
-- **Focus:** Minimize distractions and context-switching (e.g., time blocking).
-- **Boundaries:** Learn to say \"no\" and protect deep work time.
+## Core Objective
+Effectively prioritize, allocate, and protect time to maximize productivity, reduce stress, and achieve key goals.
 
-## Key Techniques
-- **Time Blocking:** Assign specific blocks for tasks, meetings, and breaks.
-- **The 2-Minute Rule:** If it takes <2 minutes, do it immediately.
-- **Pomodoro Technique:** Work in focused 25-minute sprints with short breaks.
-- **Batching:** Group similar tasks (e.g., emails, calls) to preserve mental flow.
+## Key Principles
 
-## Outcome
-Maximizes productive output, reduces stress, and ensures progress toward key goals."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":180,"total_tokens":196,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+1.  **Clarity Before Action:** Define what \"important\" means. Align tasks with overarching goals.
+2.  **Intentional Planning:** Proactively design your time. A plan is a defense against the urgent but unimportant.
+3.  **Focus is a Force Multiplier:** Dedicated, uninterrupted work beats fragmented effort. Protect your attention.
+4.  **Energy Over Hours:** Schedule demanding tasks for peak energy periods. Manage stamina, not just minutes.
+5.  **Ruthless Prioritization:** Learn to say \"no\" or \"not now.\" Doing fewer things better is the path to greater impact.
+
+## Essential Techniques & Frameworks
+
+*   **Eisenhower Matrix:** Categorize tasks by **Urgency** and **Importance**. Focus on Quadrant II (Important,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
