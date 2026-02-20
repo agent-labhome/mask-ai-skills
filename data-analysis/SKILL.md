@@ -1,27 +1,21 @@
 -e # Data Analysis
 
-{"id":"07aa66e5-ace4-40c5-8904-24c4a0823c55","object":"chat.completion","created":1771555674,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Data Analysis SKILL.md
+{"id":"d69274a7-5571-4f97-b107-7c4f24f547ea","object":"chat.completion","created":1771562608,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Data Analysis
 
 ## Core Competencies
-- **Statistical Analysis**: Hypothesis testing, regression, descriptive stats
-- **Data Wrangling**: Cleaning, transforming, merging datasets (SQL, Python/R)
-- **Visualization**: Creating clear charts/dashboards (Tableau, Power BI, matplotlib)
-- **Tool Proficiency**: Excel, SQL, Python (pandas, numpy), R, BI platforms
 
-## Key Deliverables
-- Clean, analysis-ready datasets
-- Insightful visualizations and dashboards
-- Statistical summaries and reports
-- Actionable recommendations based on data
+### 1. **Data Wrangling & Preparation**
+- **Data Collection**: Gathering data from various sources (databases, APIs, CSV/Excel files, web scraping)
+- **Data Cleaning**: Handling missing values, outliers, duplicates, and inconsistencies
+- **Data Transformation**: Reshaping, merging, filtering, and aggregating datasets
+- **Data Validation**: Ensuring data quality, accuracy, and completeness
 
-## Workflow
-1. **Define** business question & success metrics
-2. **Collect** and validate data sources
-3. **Clean** and prepare data for analysis
-4. **Analyze** using appropriate statistical methods
-5. **Visualize** findings for stakeholder comprehension
-6. **Communicate** insights and recommendations
+### 2. **Statistical Analysis**
+- **Descriptive Statistics**: Measures of central tendency, dispersion, and distribution
+- **Inferential Statistics**: Hypothesis testing, confidence intervals, p-values
+- **Correlation & Regression**: Understanding relationships between variables
+- **Probability Distributions**: Normal, binomial, Poisson, etc.
 
-## Success Indicators
-- Insights lead to measurable business impact
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Exploratory Data Analysis (EDA)**
+- **Data Visualization**: Creating charts, graphs, and dashboards
+- **Pattern Recognition**: Identifying trends, anomalies, and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

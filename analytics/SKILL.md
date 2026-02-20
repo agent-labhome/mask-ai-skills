@@ -1,18 +1,22 @@
 -e # Analytics
 
-{"id":"662c0e15-60c0-40fe-b444-ce5f410cbb8f","object":"chat.completion","created":1771537706,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Analytics Brief
+{"id":"5f87efc8-8ac6-4cf6-ae79-0c3116d2fa95","object":"chat.completion","created":1771562626,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Analytics Brief
 
 ## Purpose
-To deliver clear, concise, and actionable data-driven insights that directly answer a business question or support a decision.
+Transform ambiguous business questions into structured, actionable analytics briefs that align stakeholders, define scope, and set clear expectations for data projects.
 
 ## Core Principles
-- **Start with the Question:** Every brief must be anchored to a specific business objective or problem.
-- **Clarity Over Complexity:** Use simple language. Avoid jargon unless essential.
-- **Action-Oriented:** Insights must lead to a clear \"So what?\" and recommended next steps.
-- **Audience-First:** Tailor depth, tone, and format to the stakeholder (e.g., executive vs. technical team).
+1. **Clarity Over Completeness** - A brief that is understood is better than one that is comprehensive but confusing
+2. **Stakeholder Alignment** - Ensure all parties agree on the problem, approach, and success criteria before work begins
+3. **Action-Oriented** - Every analysis should lead to a decision or action
+4. **Scope Discipline** - Define what's in and out of scope to prevent scope creep
 
-## Brief Structure (The ABC Format)
-1.  **Aim:** State the core business question in one sentence.
-2.  **Background:** Provide essential context in 2-3 bullet points (why this matters, key constraints).
-3.  **Core Findings:** Present the 2-3 most critical data points or insights. Use simple charts or numbers.
-4.  **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Brief Structure Template
+
+### 1. Executive Summary
+- **Business Question**: What are we trying to answer? (1-2 sentences)
+- **Decision Impact**: What decision will this analysis inform?
+- **Expected Value**: What's the potential business impact?
+
+### 2. Problem Context
+- **Background**: Why is this question important"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

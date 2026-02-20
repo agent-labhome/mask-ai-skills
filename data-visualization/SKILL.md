@@ -1,27 +1,21 @@
 -e # Data Visualization
 
-{"id":"0d113b1c-9b6b-4f30-afcd-9feb8bb6c13d","object":"chat.completion","created":1771520192,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Data Visualization SKILL.md
+{"id":"a427a64c-777d-4c07-8b2d-6fe513ca984c","object":"chat.completion","created":1771562612,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Data Visualization: SKILL.md
 
-## Core Purpose
-Transform data into clear, actionable visual insights.
+## Core Competency
+Transforming complex data into clear, actionable visual insights through appropriate graphical representations, storytelling, and interactive tools.
 
 ## Key Capabilities
-- Create charts, graphs, and dashboards
-- Identify patterns and trends in data
-- Simplify complex information
-- Support data-driven decision making
-- Tell compelling data stories
 
-## Common Tools
-- **Libraries**: D3.js, Matplotlib, ggplot2, Plotly
-- **Platforms**: Tableau, Power BI, Looker
-- **Languages**: Python, R, JavaScript
+### Technical Proficiency
+- **Charting Libraries**: D3.js, Chart.js, Plotly, Matplotlib, Seaborn, ggplot2
+- **Dashboard Tools**: Tableau, Power BI, Looker, Superset
+- **Interactive Visualization**: Observable, Streamlit, Dash, Shiny
+- **Mapping**: Mapbox, Leaflet, Kepler.gl, Carto
+- **Data Preparation**: Pandas, SQL, data cleaning for visualization
 
-## Best Practices
-1. **Know your audience** - Tailor complexity to viewer expertise
-2. **Choose the right chart** - Match visualization to data type and message
-3. **Simplify** - Remove clutter, highlight what matters
-4. **Be honest** - Avoid misleading scales or cherry-picked data
-5. **Make it accessible** - Use colorblind-friendly palettes, clear labels
-
-## Quick Start
+### Design Principles
+- **Visual Encoding**: Selecting appropriate marks (points, lines, bars) and channels (position, color, size)
+- **Color Theory**: Sequential, diverging, categorical palettes; accessibility considerations
+- **Perception**: Gestalt principles, pre-attentive processing, cognitive load management
+- **Composition**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
