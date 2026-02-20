@@ -1,27 +1,27 @@
 -e # API
 
-{"id":"ea04be0e-8417-4794-acb4-d73a1dcc37c2","object":"chat.completion","created":1771547408,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Briefing
+{"id":"2432af91-9de1-40c8-83f5-e999ee67ffb9","object":"chat.completion","created":1771564994,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Brief Creation
 
 ## Purpose
-Quickly understand and communicate API capabilities, constraints, and integration requirements.
+Transform vague API needs into structured, actionable briefs for developers.
 
-## Key Abilities
-- **Extract Core Information**: Identify endpoints, methods, authentication, and rate limits
-- **Summarize Functionality**: Distill API purpose into 2-3 sentences
-- **Identify Constraints**: Note authentication, quotas, data formats, and limitations
-- **Structure Communication**: Organize findings for technical and non-technical audiences
+## Core Capabilities
 
-## When to Use
-- Evaluating APIs for project feasibility
-- Onboarding team members to new integrations
-- Creating integration documentation
-- Comparing similar API offerings
-- Planning API implementation timelines
+### 1. **Requirement Extraction**
+- Identify missing information through targeted questioning
+- Distinguish between functional requirements and implementation details
+- Recognize common API patterns and anti-patterns
 
-## Output Format
-```
-API: [Name/Service]
-Purpose: [What it does in 1 line]
-Key Endpoints: [3-5 main endpoints]
-Auth: [Type + notes]
-Limits: [Rate limits/quotas]
+### 2. **Brief Structuring**
+- Organize requirements into logical sections:
+  - Overview & Business Context
+  - Authentication & Security
+  - Endpoints & Methods
+  - Request/Response Formats
+  - Error Handling
+  - Rate Limiting & Quotas
+  - Versioning Strategy
+  - Documentation Requirements
+
+### 3. **Technical Clarification**
+- Suggest appropriate HTTP methods for operations

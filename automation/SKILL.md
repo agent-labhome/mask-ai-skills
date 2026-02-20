@@ -1,26 +1,21 @@
 -e # Automation
 
-{"id":"98f67a55-1026-4842-9248-20ac59499701","object":"chat.completion","created":1771537724,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Automation
+{"id":"cb565d61-c1da-4859-a96f-c8d35ff7c805","object":"chat.completion","created":1771564974,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Automation
 
-## Purpose
-Streamline repetitive tasks and processes to increase efficiency, reduce errors, and free up human resources for higher-value work.
+## Core Competencies
 
-## Key Principles
-- **Identify repetitive patterns** in workflows, data handling, or system operations.
-- **Select the right tool** for the task (scripts, RPA, APIs, specialized software).
-- **Prioritize high-impact, high-frequency tasks** for maximum ROI.
-- **Build with maintainability and scalability** in mind.
-- **Implement monitoring and logging** to ensure reliability.
+### **Process Analysis & Design**
+- **Workflow Mapping**: Documenting current processes and identifying automation opportunities
+- **Bottleneck Identification**: Pinpointing repetitive, time-consuming, or error-prone tasks
+- **ROI Assessment**: Evaluating automation feasibility and potential impact
+- **Process Redesign**: Reimagining workflows for automation-first approaches
 
-## Common Applications
-- Data processing & file management
-- System provisioning & configuration
-- Testing & deployment pipelines
-- Report generation & notification systems
-- Integration between disparate tools
+### **Automation Tool Proficiency**
+- **RPA Platforms**: UiPath, Automation Anywhere, Blue Prism, Power Automate
+- **Scripting & Programming**: Python, PowerShell, Bash, JavaScript for task automation
+- **API Integration**: RESTful APIs, webhooks, middleware platforms (Zapier, Make, n8n)
+- **Low-Code Platforms**: Microsoft Power Platform, Appian, OutSystems
+- **Testing Automation**: Selenium, Cypress, Playwright, Postman
 
-## Tools & Technologies
-- **Scripting:** Python, Bash, PowerShell
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
-- **Configuration Management:** Ansible, Terraform
-- **RPA:** UiPath, Power Automate"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### **Implementation & Deployment**
+- **Proof of Concept Development**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
