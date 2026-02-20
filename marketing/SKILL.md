@@ -1,26 +1,22 @@
 -e # Marketing
 
-{"id":"f28e2623-7749-4130-abdd-51e379535d20","object":"chat.completion","created":1771547035,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Marketing Brief
+{"id":"80e182c8-4d82-4a72-81fe-4e92953a164a","object":"chat.completion","created":1771577716,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Marketing Briefs
 
-## Purpose
-A marketing brief is a strategic document that aligns teams on campaign objectives, audience, messaging, and execution. It ensures clarity, consistency, and measurable outcomes.
+## Core Purpose
+To translate business objectives into clear, actionable marketing strategies by synthesizing information, defining target audiences, and outlining tactical approaches.
 
-## Core Components
+## Key Functions
 
-**1. Objective**
-- What is the primary goal? (Awareness, leads, sales, retention)
-- Include specific, measurable KPIs (e.g., +15% website traffic, 500 new sign-ups).
+### 1. **Strategic Synthesis**
+- **Objective Translation**: Convert business goals into marketing-specific objectives (awareness, lead generation, sales, retention)
+- **Audience Definition**: Identify and segment target audiences with demographic, psychographic, and behavioral insights
+- **Competitive Analysis**: Map competitive landscape and identify market opportunities
+- **Value Proposition**: Articulate unique selling propositions and key messaging pillars
 
-**2. Target Audience**
-- Define primary and secondary audiences.
-- Include key demographics, psychographics, and behaviors.
-- Specify pain points and motivations.
+### 2. **Brief Structuring**
+- **Background & Context**: Provide market situation, business challenges, and historical performance
+- **Campaign Parameters**: Define scope, timeline, budget constraints, and success metrics
+- **Creative Direction**: Outline brand guidelines, tone of voice, and visual requirements
+- **Channel Strategy**: Specify recommended marketing channels and integration points
 
-**3. Key Message & Value Proposition**
-- Core message to communicate.
-- Unique value proposition (UVP) – why choose this?
-- Tone of voice (professional, casual, inspirational).
-
-**4. Channels & Tactics**
-- Where will the campaign run? (Social, email, SEO, PR, paid ads)
-- Specific tactics for each channel.
+### 3."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

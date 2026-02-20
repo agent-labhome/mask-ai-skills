@@ -1,23 +1,22 @@
 -e # SEO
 
-{"id":"b7d4f755-5668-447b-b181-7bbb85690231","object":"chat.completion","created":1771570183,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO Brief SKILL
+{"id":"2f92d6bd-b736-47b6-93f8-d39fc5eb6f71","object":"chat.completion","created":1771577730,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO Brief: SKILL.md
 
-## Purpose
-Generate concise, structured SEO briefs for content creators based on target keywords and content goals.
+## Core SEO Competencies
 
-## Input Requirements
-- **Target keyword(s)**: Primary keyword and optional secondary keywords
-- **Content goal**: (Optional) Purpose of content (informational, commercial, brand awareness, etc.)
-- **Target audience**: (Optional) Who the content is for
-- **Competitors**: (Optional) URLs of top-ranking pages for reference
+### Technical SEO
+- **Website Architecture:** URL structure, internal linking, sitemaps, canonicalization
+- **Performance Optimization:** Core Web Vitals, page speed, mobile responsiveness
+- **Indexability:** Robots.txt, meta robots, crawl budget optimization
+- **Structured Data:** Schema markup implementation and testing
+- **Technical Audits:** Identifying and resolving crawl errors, duplicate content, site migrations
 
-## Output Structure
-1. **Primary Keyword**: [Keyword]
-2. **Secondary Keywords**: [List]
-3. **Target Word Count**: [Range based on competition]
-4. **Content Angle**: [Suggested approach based on goal]
-5. **Headline Structure**: [H1 suggestion with keyword placement]
-6. **Subtopics to Cover**: [3-5 main sections with H2 suggestions]
-7. **On-Page SEO Checklist**:
-   - Meta title (65 chars)
-   -"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### On-Page SEO
+- **Keyword Research:** Identifying search intent, volume analysis, competitive gaps
+- **Content Optimization:** Title tags, meta descriptions, header structure, keyword placement
+- **Content Strategy:** Topic clustering, pillar pages, E-E-A-T alignment
+- **User Experience:** Readability, multimedia optimization, engagement signals
+
+### Off-Page SEO
+- **Link Building:** Outreach strategies, content-driven acquisition, relationship building
+- **Brand Signals:** Mentions, citations, social signals, PR"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
