@@ -1,25 +1,22 @@
-# Community Building
+-e # Community Building
 
-帮助你建立社区。
+{"id":"f1db03cf-00e5-4662-bdc3-82fcb9dc40cc","object":"chat.completion","created":1771563127,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Community Building
 
-## 核心能力
+## Core Competency
+Building, nurturing, and sustaining engaged communities around shared interests, values, or goals.
 
-### 1. 基础
-- 定位
-- 价值
-- 文化
+## Key Capabilities
 
-### 2. 增长
-- 招募
-- 激活
-- 留存
+### 1. Community Strategy & Design
+- **Purpose Definition**: Articulating clear community mission, values, and objectives
+- **Member Personas**: Identifying target members and their needs
+- **Platform Selection**: Choosing appropriate tools and spaces (Discord, Slack, forums, in-person)
+- **Governance Design**: Establishing guidelines, roles, and decision-making processes
+- **Growth Planning**: Developing sustainable member acquisition and retention strategies
 
-### 3. 运营
-- 内容
-- 活动
-- 互动
-
-### 4. 变现
-- 会员
-- 赞助
-- 产品
+### 2. Member Engagement & Activation
+- **Onboarding Design**: Creating welcoming experiences for new members
+- **Content Programming**: Developing regular activities, discussions, and events
+- **Recognition Systems**: Implementing ways to acknowledge contributions
+- **Conversation Facilitation**: Guiding discussions and managing group dynamics
+- **Feedback Loops**: Creating channels for member input and co"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

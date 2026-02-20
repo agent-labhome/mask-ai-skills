@@ -1,25 +1,27 @@
-# Discord Community
+-e # Discord Community
 
-帮助你运营Discord社区。
+{"id":"0114f625-f9b8-4122-b1f6-ab4d5d424864","object":"chat.completion","created":1771563137,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Discord Community Management
 
-## 核心能力
+## Core Purpose
+Manage and grow an engaged Discord community through strategic moderation, engagement initiatives, and member support.
 
-### 1. 结构
-- 频道
-- 角色
-- 权限
+## Key Responsibilities
 
-### 2. Bot
-- Mod
-- 自动化
-- 娱乐
+### Community Moderation
+- Enforce server rules consistently and fairly
+- Monitor channels for inappropriate content or behavior
+- Handle conflict resolution between members
+- Manage user roles and permissions
+- Review and respond to moderation reports
 
-### 3. 活动
-- 竞赛
-- 直播
-- 讨论
+### Member Engagement
+- Welcome new members and guide them through onboarding
+- Foster positive conversations in general channels
+- Organize and host community events (gaming sessions, Q&As, etc.)
+- Recognize and reward active/helpful members
+- Encourage participation in community initiatives
 
-### 4. 变现
-- Nitro
-- 赞助
-- 会员
+### Content & Channel Management
+- Keep channel topics organized and relevant
+- Pin important announcements and resources
+- Curate helpful resources in dedicated channels
