@@ -1,27 +1,26 @@
 -e # Problem Solving
 
-{"id":"9576ea1a-699b-4918-9b7e-bbc1e957e096","object":"chat.completion","created":1771534479,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Problem Solving
+{"id":"c28dda52-8a30-4404-bfbc-df925fc22227","object":"chat.completion","created":1771581441,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Problem Solving
 
 ## Core Definition
-The ability to identify, analyze, and resolve issues systematically and effectively.
+**Problem Solving** is the systematic process of identifying, analyzing, and resolving challenges or obstacles to achieve desired outcomes. It involves moving from an undesirable current state to a desired future state through logical reasoning, creativity, and structured approaches.
 
 ## Key Components
-- **Analysis**: Breaking down complex problems into manageable parts
-- **Root Cause Identification**: Distinguishing symptoms from underlying causes
-- **Solution Generation**: Developing multiple potential approaches
-- **Decision Making**: Evaluating options and selecting the best path
-- **Implementation & Adaptation**: Executing solutions and adjusting based on feedback
 
-## Quick Application Framework
-1. **Define** the problem clearly
-2. **Analyze** contributing factors and constraints
-3. **Generate** multiple possible solutions
-4. **Evaluate** options against criteria
-5. **Implement** chosen solution
-6. **Review** results and iterate if needed
+### 1. **Problem Identification & Definition**
+- Recognizing that a problem exists
+- Distinguishing symptoms from root causes
+- Clearly articulating the problem statement
+- Determining scope, constraints, and success criteria
 
-## Mindset Indicators
-- Approaches obstacles as solvable challenges
-- Separates emotion from analysis
-- Comfortable with ambiguity during problem exploration
-- Learns from failed attempts
+### 2. **Analysis & Root Cause Investigation**
+- Gathering relevant data and information
+- Breaking complex problems into manageable parts
+- Using analytical tools (5 Whys, fishbone diagrams, SWOT)
+- Identifying patterns, relationships, and underlying causes
+
+### 3. **Solution Generation**
+- Brainstorming multiple potential solutions
+- Encouraging divergent and creative thinking
+- Considering both conventional and innovative approaches
+- Leveraging analogies from other domains

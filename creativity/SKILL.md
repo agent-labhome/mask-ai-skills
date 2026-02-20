@@ -1,18 +1,21 @@
 -e # Creativity
 
-{"id":"35be43a2-c5ae-405b-85df-a663b2bdaf2a","object":"chat.completion","created":1771534529,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Creativity
+{"id":"a1ba84ca-0ac5-46bb-906e-5befd0285a00","object":"chat.completion","created":1771581431,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Creativity Brief
 
-## What It Is
-The ability to generate novel and valuable ideas, connections, or solutions.
+## Overview
+A **Creativity Brief** is a structured document that provides essential context, constraints, and direction for a creative project. Its purpose is to align stakeholders, focus creative efforts, and establish clear success criteria—without limiting creative exploration.
 
-## How to Apply It
-1.  **Reframe the Problem:** Ask \"What if?\" or \"How might we...?\" to shift perspective.
-2.  **Generate, Don't Judge:** Brainstorm freely first. Quantity fuels quality.
-3.  **Seek Novel Inputs:** Combine unrelated concepts, fields, or analogies.
-4.  **Prototype Quickly:** Make ideas tangible to test and evolve them.
+## Core Principles
 
-## Key Mindset
-**Divergent Thinking First:** Explore many possibilities before converging on the best. Suspend the \"right answer\" instinct.
+1.  **Clarity Over Exhaustiveness:** Be specific where it matters; leave room for interpretation where creativity thrives.
+2.  **Strategic Foundation:** Connect every creative decision back to a business or communication goal.
+3.  **Audience-Centric:** Define who you are speaking to, not just what you want to say.
+4.  **Constraint as Catalyst:** Use limitations (budget, timeline, format) to fuel innovation, not stifle it.
 
-## In a Nutshell
-Creativity is a disciplined process of making unexpected connections and giving yourself permission to explore."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":165,"total_tokens":180,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Essential Components (The \"What\")
+
+A robust brief should answer these fundamental questions:
+
+1.  **Background & Objective:**
+    *   **Why are we doing this?** (The business problem or opportunity)
+   "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

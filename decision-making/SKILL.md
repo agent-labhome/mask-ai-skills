@@ -1,26 +1,16 @@
 -e # Decision Making
 
-{"id":"683d338b-9eb8-40ae-b6f4-f0bd39049be8","object":"chat.completion","created":1771534474,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Decision Making SKILL
+{"id":"eeaceb47-17cd-4398-8e83-fb5356f9b925","object":"chat.completion","created":1771581446,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Decision Making
 
-## Core Principles
-- **Clarity First**: Define the problem clearly before seeking solutions
-- **Options, then choice**: Generate multiple alternatives before deciding
-- **Risk-aware**: Consider both upside potential and downside consequences
-- **Timely**: Make decisions when needed, not prematurely or too late
+## Overview
+Decision Making is the cognitive process of selecting a course of action from multiple alternatives to achieve a desired outcome. It involves gathering information, evaluating options, and committing to a choice, often under conditions of uncertainty, time pressure, or conflicting priorities.
 
-## Quick Framework
-1. **Frame**: What problem are we actually solving?
-2. **Explore**: What are 3+ possible approaches?
-3. **Evaluate**: What are the trade-offs? (Impact vs. Effort, Short vs. Long term)
-4. **Decide**: Choose and commit
-5. **Learn**: Review outcomes to improve future decisions
+## Core Components
 
-## Pro Tips
-- For complex decisions: Write down your reasoning
-- For urgent decisions: Use \"good enough\" criteria
-- For team decisions: Seek diverse perspectives, then decide
-- For reversible decisions: Decide faster
-- For irreversible decisions: Decide slower
-
-## Avoid
-- Analysis"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+1.  **Problem Definition & Framing:** Clearly identifying the decision to be made, its scope, constraints, and desired objectives.
+2.  **Information Gathering:** Researching, collecting relevant data, and seeking diverse perspectives to inform the choice.
+3.  **Option Generation:** Brainstorming and identifying a range of possible alternatives or solutions.
+4.  **Evaluation & Analysis:** Weighing the pros and cons of each option against criteria such as feasibility, impact, risk, resources, and alignment with goals.
+5.  **Selection:** Choosing the most suitable alternative based on the evaluation.
+6.  **Implementation & Action:** Executing the decision and allocating necessary resources.
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
