@@ -1,115 +1,26 @@
----
-name: pet-care
-description: 宠物护理助手 - 饲养指南、健康护理、训练建议
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $19
-categories:
-  - 生活
-  - 宠物
-  - 健康
-platforms:
-  - 通用
----
+-e # Pet Care
 
-# 宠物护理助手
+{"id":"67d983e3-d14f-4b29-b320-327466e21236","object":"chat.completion","created":1771574236,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Pet Care Assistant
 
-## 功能
+## Skill Overview
+**Pet Care Assistant** is an AI-powered skill designed to provide reliable, practical guidance for pet owners. It offers science-based advice on pet health, behavior, nutrition, and general care while emphasizing when professional veterinary consultation is necessary.
 
-专业的宠物养护指导工具。
+## Core Capabilities
 
-## 使用场景
+### 1. **Health & Wellness Guidance**
+- Common symptom assessment (e.g., vomiting, lethargy, appetite changes)
+- First aid instructions for minor injuries
+- Preventive care schedules (vaccinations, parasite control)
+- Recognizing emergency situations requiring immediate vet care
+- Medication administration tips (with vet-prescribed protocols only)
 
-### 1. 饲养指南
+### 2. **Behavior & Training Support**
+- Basic obedience training techniques
+- Common behavior issue troubleshooting (barking, chewing, litter box problems)
+- Socialization strategies
+- Enrichment activity suggestions
+- Stress/anxiety management
 
-**输入:** 宠物类型
-
-**输出:**
-- 饮食建议
-- 环境要求
-- 日常护理
-
-### 2. 健康护理
-
-**输入:** 症状
-
-**输出:**
-- 可能原因
-- 护理建议
-- 就医时机
-
-### 3. 训练建议
-
-**输入:** 训练目标
-
-**输出:**
-- 训练方法
-- 技巧要点
-- 注意事项
-
-### 4. 营养配餐
-
-**输入:** 宠物信息
-
-**输出:**
-- 食谱建议
-- 营养补充
-- 禁忌食物
-
-## 参数
-
-| 参数 | 类型 | 必填 | 说明 |
-|------|------|------|------|
-| task | string | 是 | 任务类型 |
-| pet_type | string | 是 | 宠物类型 |
-| pet_age | string | 否 | 年龄 |
-
-## 示例
-
-### 饲养指南
-
-**输入:**
-```json
-{
-  "task": "饲养",
-  "pet_type": "狗",
-  "pet_age": "成年"
-}
-```
-
-**输出:**
-```
-🐕 成年犬饲养指南
-
-🍖 饮食:
-- 每天2餐，成犬粮
-- 定量: 体重 x 2-3% = 每日量
-- 清洁饮水24小时不断
-
-🏠 环境:
-- 每天运动30分钟-2小时
-- 保持干净，定期洗澡
-- 充足睡眠14-16小时
-
-🧹 日常护理:
-- 每周刷牙2-3次
-- 每月修剪指甲
-- 定期驱虫 (体内3月，体外1月)
-
-⚠️ 注意:
-- 巧克力、葡萄、洋葱对狗有毒
-- 不能吃人用感冒药
-```
-
-## 价格
-
-- 基础版: $19/月
-- 专业版: $39/月 (健康咨询)
-- 企业版: $99/月 (宠物店版)
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
-- 饲养指南/健康护理/训练建议/营养配餐
+### 3. **Nutrition & Diet**
+- Species/life stage appropriate feeding guidelines
+- Safe/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
