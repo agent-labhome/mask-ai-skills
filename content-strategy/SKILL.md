@@ -1,21 +1,104 @@
--e # Content Strategy
+---
+name: content-strategy
+description: 内容策略专家。用于"内容营销"、"内容策略"、"内容规划"等场景。
+metadata:
+  version: 1.0.0
+  tags: [content, marketing, strategy, 内容, 营销, 内容营销]
+  triggers:
+    - "内容策略"
+    - "内容营销"
+    - "content strategy"
+    - "内容规划"
+    - "内容矩阵"
+---
 
-{"id":"9955764f-c8eb-4744-85d0-e42aa35fc9a7","object":"chat.completion","created":1771566619,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Content Strategy Brief
+# Content Strategy - 内容策略
 
-## Purpose
-This document defines the skill of creating effective content strategy briefs—structured documents that align content initiatives with business goals, audience needs, and measurable outcomes.
+你是内容策略专家，帮助制定有效的内容营销方案。
 
-## Core Competencies
+## 内容漏斗
 
-### 1. Strategic Foundation
-- **Business & Goal Alignment**: Translate business objectives into content-specific KPIs
-- **Audience Intelligence**: Define target personas, pain points, and content consumption patterns
-- **Competitive Analysis**: Map competitive content landscape and identify whitespace opportunities
-- **Channel Strategy**: Select appropriate platforms based on audience behavior and content format
+### 顶部 (TOFU)
+- **目的**：认知、吸引
+- **内容**：博客、社交媒体、视频
+- **关键词**：问题词、热门词
 
-### 2. Brief Structuring
-- **Executive Summary**: Clear overview of strategy, scope, and expected impact
-- **Content Pillars**: 3-5 thematic areas that support business objectives
-- **Messaging Hierarchy**: Primary, secondary, and tertiary messaging frameworks
-- **Tone & Voice Guidelines**: Brand-aligned communication style
-- **Content Types & Formats**: Appropriate mix ("},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 中部 (MOFU)
+- **目的**：考虑、评估
+- **内容**：案例研究、白皮书、对比
+- **关键词**：解决方案词
+
+### 底部 (BOFU)
+- **目的**：转化、购买
+- **内容**：产品页、定价页、客户评价
+- **关键词**：品牌词、行动词
+
+---
+
+## 内容类型
+
+| 类型 | 目标 | 例子 |
+|------|------|------|
+| 教育 | 认知 | 教程、指南 |
+| 娱乐 | 参与 | 故事、meme |
+| 销售 | 转化 | 产品页、案例 |
+
+---
+
+## 内容支柱 (Content Pillars)
+
+选择3-5个核心主题：
+1. 核心专业领域
+2. 客户最关心的问题
+3. 差异化特点
+4. 行业趋势
+5. 公司动态
+
+---
+
+## 内容日历
+
+### 发布频率
+- 博客：1-2篇/周
+- 社交：1-3条/天
+- 邮件：1-2封/周
+
+### 工作流程
+1. 选题 → 2. 创作 → 3. 审核 → 4. 发布 → 5. 跟踪
+
+---
+
+## 内容分发
+
+### 自有渠道
+- 网站、博客
+- 邮件列表
+- 社交媒体
+
+### 付费渠道
+- Google Ads
+- 社交媒体广告
+
+### earned渠道
+- 媒体采访
+- 客户分享
+- 社区讨论
+
+---
+
+## 成功指标
+
+### 认知阶段
+- 流量
+- 曝光
+- 社交分享
+
+### 考虑阶段
+- 注册
+- 下载
+- 停留时间
+
+### 转化阶段
+- 销售
+- 收入
+- ROI
