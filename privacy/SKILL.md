@@ -1,27 +1,25 @@
 -e # Privacy
 
-{"id":"d08520ae-5384-46bf-8f16-42e0e71e0fb7","object":"chat.completion","created":1771587537,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Privacy Brief
+{"id":"61bfea1e-ced7-4a95-a186-5abe816b2ca9","object":"chat.completion","created":1771595533,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Privacy Brief
 
 ## Purpose
-Generate concise, actionable privacy briefs that distill complex privacy concepts into clear, structured summaries for decision-makers and teams.
+Generate concise, structured privacy briefs that analyze privacy implications, risks, and mitigation strategies for projects, products, or initiatives.
 
 ## Core Capabilities
-- **Distillation**: Extract key privacy principles, risks, and requirements from complex documents
-- **Structuring**: Organize information into standardized brief format
-- **Clarification**: Translate technical/legal language into actionable business terms
-- **Prioritization**: Highlight critical privacy considerations and immediate actions
+- **Risk Assessment**: Identify privacy risks across data lifecycle (collection, storage, processing, sharing, deletion)
+- **Regulatory Analysis**: Map requirements against relevant frameworks (GDPR, CCPA, HIPAA, etc.)
+- **Mitigation Strategies**: Recommend practical controls and safeguards
+- **Stakeholder Communication**: Format briefs for different audiences (technical, legal, executive)
 
-## Input Processing
-Accepts:
-- Privacy policies and regulations (GDPR, CCPA, etc.)
-- Technical privacy documentation
-- Privacy impact assessments
-- Legal compliance requirements
-- Privacy-related questions and scenarios
+## Input Requirements
+Provide:
+1. **Project Description**: What data is involved, how it flows, who accesses it
+2. **Context**: Industry, jurisdiction, user demographics
+3. **Specific Concerns**: Known issues or stakeholder questions
+4. **Audience**: Who will read the brief (default: mixed technical/legal)
 
 ## Output Structure
-Every privacy brief includes:
+```
+PRIVACY BRIEF: [Project Name]
 
-1. **Executive Summary** (2-3 sentences)
-2. **Core Principles** (bullet points)
-3. **Key Requirements** (categorized by priority)
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

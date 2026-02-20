@@ -1,27 +1,22 @@
 -e # Contracts
 
-{"id":"66f8625f-706c-4752-8fbe-471fbd536ce2","object":"chat.completion","created":1771587532,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contracts
+{"id":"6c4172f2-8f17-4c94-8422-936329a3e18d","object":"chat.completion","created":1771595528,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Contracts
 
-## Core Competency
-Drafting, reviewing, and managing legal agreements to protect organizational interests while enabling business objectives.
+## Core Competencies
 
-## Key Abilities
+### 1. Contract Fundamentals
+- **Legal Structure**: Understanding of contract types (NDA, MSA, SOW, SLA, licensing agreements)
+- **Key Components**: Ability to identify and draft essential clauses (parties, term, payment, termination, liability, IP, confidentiality)
+- **Risk Assessment**: Identifying potential legal and business risks in contractual language
 
-### 1. Contract Drafting
-- Translate business requirements into precise legal language
-- Create clear, enforceable clauses addressing key business risks
-- Structure agreements to reflect deal terms accurately
-- Use appropriate templates and precedents effectively
-- Draft with consideration for jurisdiction and governing law
+### 2. Drafting & Review
+- **Clear Language**: Writing contracts in plain English while maintaining legal precision
+- **Redlining**: Using track changes effectively to propose and negotiate revisions
+- **Consistency**: Maintaining consistent terminology and formatting throughout documents
 
-### 2. Contract Review & Analysis
-- Identify potential risks, ambiguities, and unfavorable terms
-- Assess compliance with internal policies and external regulations
-- Evaluate counterparty obligations and rights
-- Spot missing or inconsistent provisions
-- Understand the business implications of legal language
+### 3. Negotiation Strategy
+- **Prioritization**: Distinguishing between must-have, nice-to-have, and flexible terms
+- **Business Alignment**: Ensuring contracts support business objectives and operational needs
+- **Relationship Management**: Negotiating while preserving positive business relationships
 
-### 3. Negotiation Support
-- Develop fallback positions and alternative language
-- Explain legal concepts to business stakeholders
-- Balance risk tolerance with deal objectives
+### 4. Specialized"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

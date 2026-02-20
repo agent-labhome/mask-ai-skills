@@ -1,27 +1,27 @@
 -e # Compliance
 
-{"id":"c7b4f871-1ec5-4e87-b7f3-65288bd584c3","object":"chat.completion","created":1771587527,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Compliance Brief - SKILL Documentation
+{"id":"53d5d2f2-60b8-493f-b9a8-4a4256adcd56","object":"chat.completion","created":1771595523,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Compliance Brief - SKILL Documentation
 
 ## Overview
-**Compliance Brief** is a specialized skill that transforms complex regulatory and compliance information into concise, actionable briefs for business professionals.
+**Compliance Brief** is a specialized skill designed to help organizations and individuals understand, navigate, and implement compliance requirements across various regulatory frameworks. This skill provides concise, actionable guidance on compliance matters, translating complex regulations into practical steps.
 
 ## Core Capabilities
 
 ### 1. **Regulatory Analysis**
-- Summarizes lengthy compliance documents (regulations, policies, standards)
-- Extracts key requirements and obligations
-- Identifies critical deadlines and implementation dates
-- Highlights potential risks and penalties
+- Interpret and explain specific regulations (GDPR, HIPAA, SOX, PCI-DSS, etc.)
+- Break down legal requirements into understandable components
+- Identify key compliance obligations and deadlines
 
-### 2. **Stakeholder-Specific Briefing**
-- Tailors information for different audiences:
-  - **Executives**: High-level impact, strategic implications
-  - **Managers**: Operational requirements, team responsibilities
-  - **Legal/Compliance Teams**: Detailed requirements, precedents
-  - **Frontline Staff**: Practical do's and don'ts
+### 2. **Compliance Gap Assessment**
+- Analyze current practices against regulatory requirements
+- Identify compliance gaps and vulnerabilities
+- Prioritize remediation efforts based on risk and impact
 
-### 3. **Actionable Outputs**
-- Creates compliance checklists
-- Generates implementation roadmaps
-- Produces risk assessment summaries
-- Develops communication templates"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Policy Development Guidance**
+- Assist in creating compliance policies and procedures
+- Suggest documentation requirements
+- Provide templates and frameworks for compliance documentation
+
+### 4. **Risk Management Support**
+- Help identify compliance-related risks
+- Suggest risk mitigation strategies
