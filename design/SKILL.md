@@ -1,23 +1,24 @@
 -e # Design
 
-{"id":"3637e7eb-3cd5-48cc-aa6d-c5950dd70196","object":"chat.completion","created":1771585481,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Design Brief
+{"id":"22f72140-04e8-456d-837e-2197c36b8922","object":"chat.completion","created":1771588456,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Design Brief
 
-## Purpose
-This document outlines the skill of creating effective design briefs—a critical foundational document that bridges client needs, business objectives, and creative execution.
+## Overview
+A Design Brief is a strategic document that outlines the objectives, scope, and requirements of a design project. It serves as a foundational agreement and roadmap between stakeholders and designers, ensuring alignment, clarity, and focus throughout the creative process.
 
-## Core Competencies
+## Core Purpose
+- **Alignment:** Synchronize stakeholder vision with design execution.
+- **Clarity:** Define project goals, constraints, and success metrics.
+- **Efficiency:** Streamline the design process by establishing clear guidelines and expectations.
+- **Accountability:** Create a reference point for evaluating design outcomes.
 
-### 1. Strategic Foundation
-- **Business & Brand Analysis**: Understanding client's market position, competitors, and brand voice
-- **Objective Definition**: Translating vague requests into SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals
-- **Audience Definition**: Creating detailed user personas and understanding target demographics
-- **Success Metrics**: Establishing clear KPIs and evaluation criteria
+## Key Components of a Design Brief
 
-### 2. Information Architecture
-- **Requirement Gathering**: Conducting effective stakeholder interviews and workshops
-- **Scope Definition**: Balancing ambition with practical constraints (budget, timeline, resources)
-- **Content Strategy**: Planning information hierarchy and user journeys
-- **Technical Specifications**: Documenting platform requirements, integrations, and limitations
+### 1. Project Overview
+- **Project Name:** Clear, identifiable title.
+- **Client/Stakeholder:** Primary contact and decision-makers.
+- **Date:** Creation/revision date.
 
-### 3. Communication & Collaboration
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Background & Context
+- **Company/Organization:** Brief description, mission, and values.
+- **Current Situation:** Problem or opportunity prompting the project.
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
