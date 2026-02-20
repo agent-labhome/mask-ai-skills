@@ -1,27 +1,23 @@
 -e # Copywriting
 
-{"id":"f56956fa-c034-4ed2-88d4-0a8bc0cf1082","object":"chat.completion","created":1771577875,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Copywriting Brief
+{"id":"ea0d56e8-63df-4b64-9555-75d6a4968a43","object":"chat.completion","created":1771585385,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Copywriting Brief Development
 
 ## Purpose
-This document outlines the skill of creating effective copywriting briefs—structured documents that align stakeholders, guide writers, and ensure marketing copy achieves its strategic objectives.
+A copywriting brief is the strategic foundation for all effective marketing communications. This document ensures alignment between business objectives, creative execution, and measurable outcomes before any writing begins.
 
-## Core Principles
+## Core Components
 
-### 1. Strategic Alignment
-- Connect copy to business objectives (awareness, conversion, retention)
-- Bridge brand strategy with tactical execution
-- Ensure consistency across touchpoints
+### 1. Strategic Foundation
+- **Business Objective**: The primary business goal this copy should achieve
+- **Target Audience**: Specific demographic, psychographic, and behavioral characteristics
+- **Key Message**: The single most important idea to communicate
+- **Brand Voice & Tone**: How the brand \"sounds\" (professional, casual, authoritative, playful)
 
-### 2. Clarity Over Completeness
-- Prioritize essential information writers actually need
-- Eliminate ambiguity while avoiding over-prescription
-- Distinguish between requirements and suggestions
+### 2. Execution Details
+- **Deliverables**: Exact formats needed (website copy, email sequence, ad copy, etc.)
+- **Word Count/Length**: Any specific requirements or constraints
+- **Call to Action**: Desired user action after engaging with the copy
+- **Supporting Elements**: Images, data, testimonials to reference
 
-### 3. Collaboration Catalyst
-- Facilitate stakeholder alignment before writing begins
-- Create shared understanding of goals and constraints
-- Reduce revision cycles through upfront clarity
-
-## Brief Components
-
-### Essential Elements (The \"Must-Haves\")
+### 3. Practical Considerations
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
