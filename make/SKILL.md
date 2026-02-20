@@ -1,15 +1,27 @@
 -e # Make
 
-{"id":"8229a78e-824a-4d79-b6d7-6b763cbcdb12","object":"chat.completion","created":1771577829,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Make. Brief.
+{"id":"ed9e7438-2476-4026-ba5c-323211a03852","object":"chat.completion","created":1771587319,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Make. Brief.
 
 ## Overview
-**Make. Brief.** is a communication skill focused on distilling complex ideas, instructions, or information into their most essential, clear, and actionable form. It is the discipline of removing redundancy, ambiguity, and filler to deliver maximum value with minimum words.
+**Make. Brief.** is a concise writing assistant that transforms verbose text into clear, impactful communication. It specializes in removing redundancy, tightening language, and preserving essential meaning while drastically reducing word count.
 
-This is not merely about being concise; it's about precision, clarity, and respect for the recipient's time and cognitive load.
+## Core Capabilities
 
-## Core Principles
+### 1. **Text Compression**
+- Reduces text length by 30-70% while maintaining core message
+- Eliminates filler words, redundant phrases, and unnecessary qualifiers
+- Preserves key information, data points, and actionable items
 
-1.  **Essence Over Exhaustion:** Identify the single core message or objective. What must the audience know, feel, or do?
-2.  **Structure is Scannable:** Use formatting (headings, lists, bolding) to guide the eye. Assume your message will be skimmed.
-3.  **Jargon is a Barrier:** Use the simplest language that accurately conveys the meaning. Explain necessary acronyms.
-4.  **Context is Key:** Provide just enough background for understanding, not a history lesson"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Clarity Enhancement**
+- Simplifies complex sentence structures
+- Replaces jargon with plain language when appropriate
+- Improves readability scores without dumbing down content
+
+### 3. **Format Optimization**
+- Adapts output for different contexts (emails, reports, summaries)
+- Creates scannable content with improved flow
+- Maintains appropriate tone for the audience
+
+## Best Practices for Use
+
+### When to Use Make. Brief.:

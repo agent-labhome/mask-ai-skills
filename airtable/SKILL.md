@@ -1,27 +1,21 @@
 -e # Airtable
 
-{"id":"f23140e4-e3dc-4ee6-bc1e-6ea0b58cf82b","object":"chat.completion","created":1771555725,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Airtable SKILL.md
+{"id":"845bade4-74db-445e-b7a3-8f2d1e9cfe11","object":"chat.completion","created":1771587324,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Airtable
 
-## Core Purpose
-Transform structured data into flexible workflows, combining spreadsheet simplicity with database power.
+## Overview
+**Airtable** is a low-code platform that combines the simplicity of a spreadsheet with the power of a relational database. It allows users to create custom apps to organize, collaborate on, and automate workflows without writing code.
 
-## Key Abilities
-- **Data Organization**: Create linked tables, views, and relationships
-- **Automation**: Build workflows with triggers and actions
-- **Integration**: Connect with 1,000+ apps via API and extensions
-- **Visualization**: Display data as grids, calendars, kanban, galleries
-- **Collaboration**: Share bases, assign tasks, track changes
+## Core Concepts
 
-## Best For
-- Project & task management
-- CRM and contact databases
-- Content calendars and planning
-- Inventory tracking
-- Custom business applications
+### 1. **Bases**
+- **Definition**: A base is a single database containing all related information for a project (equivalent to a single spreadsheet file).
+- **Structure**: Contains tables, views, fields, and records.
+- **Use Case**: One base per project, department, or workflow (e.g., \"Marketing Campaigns,\" \"Product Inventory\").
 
-## Quick Start
-1. Create a \"base\" (your database)
-2. Define tables and field types (text, attachments, links, formulas)
-3. Build views to filter/sort data
-4. Automate repetitive tasks
-5. Extend with blocks or API
+### 2. **Tables**
+- **Definition**: Tables are where data is stored (similar to sheets in a spreadsheet).
+- **Structure**: Each table contains records (rows) and fields (columns).
+- **Relationships**: Tables can be linked together using relationship fields.
+
+### 3. **Fields**
+- **Definition"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
