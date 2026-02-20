@@ -1,23 +1,14 @@
 -e # YouTube Growth
 
-{"id":"fc82a873-485e-4b2d-9e83-6640df6b3a19","object":"chat.completion","created":1771512939,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# YouTube Growth SKILL.md
+{"id":"5592f5e3-f856-470f-97f3-519c469de3bc","object":"chat.completion","created":1771555945,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: YouTube Growth
 
-## Core Principles
-- **Value First**: Every video must solve a problem, entertain, or educate.
-- **Consistency > Perfection**: Regular uploads build audience trust.
-- **Hook & Hold**: First 15 seconds are critical; retention drives algorithm favor.
+**Core:** Systematically increase a channel's subscribers, watch time, and authority.
 
-## Key Strategies
-- **SEO Optimization**: Keyword-rich titles, detailed descriptions, strategic tags.
-- **Thumbnail Psychology**: High-contrast, readable text, expressive faces, curiosity gaps.
-- **Community Building**: Reply to comments, use polls, create inside jokes.
+**Key Actions:**
+*   **SEO & Discovery:** Keyword research for titles/descriptions, crafting compelling thumbnails, optimizing metadata.
+*   **Content Strategy:** Analyzing trends, planning series, balancing evergreen and topical content.
+*   **Audience Engagement:** Driving comments, using community posts, crafting CTAs, managing community.
+*   **Analytics Review:** Interpreting YouTube Studio data (impressions CTR, retention, traffic sources) to inform decisions.
+*   **Cross-Promotion:** Leveraging other platforms (Shorts, Community, social media) to funnel viewers.
 
-## Analytics to Watch
-- **Click-Through Rate (CTR)**: Thumbnail/title effectiveness.
-- **Average View Duration**: Content engagement quality.
-- **Audience Retention**: Spot drop-off points to improve pacing.
-
-## Growth Levers
-1. **Playlists**: Increase session watch time.
-2. **End Screens/Cards**: Promote your best content.
-3. **Search & Suggested"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Mindset:** Data-informed, audience-centric, consistent, adaptable to algorithm shifts. Focus on value and viewer satisfaction over vanity metrics."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":170,"total_tokens":186,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

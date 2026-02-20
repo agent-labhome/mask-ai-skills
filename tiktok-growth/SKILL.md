@@ -1,24 +1,26 @@
 -e # TikTok Growth
 
-{"id":"def63e19-20a0-4306-a21c-a09c08da5af8","object":"chat.completion","created":1771512934,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Growth SKILL.md
+{"id":"edd99abd-490c-44f1-b912-471cb41f256a","object":"chat.completion","created":1771555950,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Growth SKILL.md
 
 ## Core Principles
-- **Authenticity over perfection** – Raw, relatable content performs best
-- **Hook in 3 seconds** – Immediate value or curiosity
-- **Sound is strategy** – Trending audio drives discovery
-- **Consistency > virality** – Daily posting builds momentum
+- **Hook First**: Grab attention in 0-3 seconds
+- **Value Fast**: Deliver core message immediately
+- **Trend Smart**: Adapt existing trends with unique twists
+- **Consistency > Perfection**: Regular posting beats occasional perfection
+
+## Quick Wins
+- Use trending audio within first 48 hours
+- Text overlays on every video
+- Closed captions always enabled
+- Post during your audience's peak hours (check Analytics)
+- Engage with comments for 15 minutes after posting
 
 ## Content Framework
-1. **Hook** – Problem, question, or intriguing statement
-2. **Value** – Quick tip, entertainment, or relatable moment
-3. **CTA** – \"Follow for more,\" question, or engagement prompt
+1. **Hook** (Problem/Question/Controversy)
+2. **Value** (Solution/Answer/Insight)
+3. **CTA** (Follow/Share/Comment specific question)
 
-## Growth Levers
-- **Trend-jacking** – Put your spin on trending sounds/challenges
-- **Series content** – Create recurring segments for follow-through
-- **Engage deeply** – Reply to ALL comments for first 30 minutes
-- **Cross-pollinate** – Repurpose top clips to Reels/Shorts
-
-## Algorithm Hacks
-- Post during audience active hours (check Analytics)
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Metrics That Matter
+- Watch time (aim for 100%+ completion)
+- Shares (most important for virality)
+- Comments (engagement signals)
