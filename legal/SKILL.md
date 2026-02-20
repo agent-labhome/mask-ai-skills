@@ -1,27 +1,22 @@
 -e # Legal
 
-{"id":"2a8a9a57-b1fc-43b0-b7c6-bf6244a666e2","object":"chat.completion","created":1771519858,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Legal Brief Writing
+{"id":"dc9c1e1d-bd15-4cf2-975a-813bfcf0b31f","object":"chat.completion","created":1771565482,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Legal Brief
 
-## Purpose
-Generate concise, structured legal briefs that present arguments clearly and persuasively for court proceedings.
+## Overview
+A legal brief is a formal written document that presents arguments, facts, and legal authorities to persuade a court to rule in favor of one party in a legal dispute. This skill enables users to draft, analyze, and structure legal briefs with precision and clarity.
 
-## Core Structure
-- **Caption**: Case name, court, docket number
-- **Introduction**: Case overview and procedural posture
-- **Questions Presented**: Legal issues to be decided
-- **Statement of Facts**: Relevant facts with record citations
-- **Argument**: Legal analysis with authorities (cases, statutes, rules)
-- **Conclusion**: Specific relief requested
-- **Signature**: Attorney information
+## Core Competencies
 
-## Key Principles
-- **Clarity**: Plain language with precise legal terminology
-- **Persuasion**: Logical flow from strongest to weakest arguments
-- **Authority**: Proper citation to binding precedent
-- **Conciseness**: Direct statements without unnecessary elaboration
-- **Professional Tone**: Formal but accessible to the court
+### 1. **Legal Analysis & Argumentation**
+- Identify key legal issues and relevant facts
+- Apply statutory law, case precedent, and regulations to specific situations
+- Construct logical, persuasive legal arguments
+- Anticipate and counter opposing arguments
+- Distinguish favorable from unfavorable precedent
 
-## Best Practices
-- Start with strongest argument
-- Use headings and subheadings for organization
-- Address opposing arguments directly
+### 2. **Research Proficiency**
+- Locate and evaluate primary legal sources (statutes, regulations, case law)
+- Find and assess secondary sources (treatises, law reviews, practice guides)
+- Use legal research databases (Westlaw, LexisNexis, Bloomberg Law)
+- Verify authority validity and current status
+- Identify jurisdictional requirements and variations"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
