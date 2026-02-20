@@ -1,27 +1,27 @@
 -e # Email Marketing
 
-{"id":"5c78d9e3-0a79-469d-8049-f7d562a51e90","object":"chat.completion","created":1771555819,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Email Marketing SKILL.md
+{"id":"ee9aaa57-5819-40f0-be09-6332bb0c1539","object":"chat.completion","created":1771562657,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Email Marketing Brief
 
-## Core Competencies
-- **Copywriting**: Craft compelling subject lines and body copy
-- **List Management**: Segmentation, hygiene, and growth strategies
-- **Technical Proficiency**: ESP platforms (Mailchimp, Klaviyo, HubSpot)
-- **Design Basics**: Mobile-responsive templates and visual hierarchy
-- **Analytics**: Open rates, CTR, conversion tracking, A/B testing
+## 🎯 Objective
+Define the purpose and desired outcomes of this email campaign.
 
-## Key Deliverables
-- Campaign strategy and planning
-- Automated workflows (welcome series, abandoned cart)
-- Performance reports with actionable insights
-- Compliance with CAN-SPAM/GDPR regulations
+**Primary Goal:**
+- [ ] Drive sales/conversions
+- [ ] Generate leads
+- [ ] Nurture existing customers
+- [ ] Increase engagement
+- [ ] Announce new product/feature
+- [ ] Re-engage inactive subscribers
+- [ ] Other: ________
 
-## Success Metrics
-- **Primary**: Conversion rate, revenue per email
-- **Secondary**: Open rate (25%+), CTR (2.5%+), low unsubscribe (<0.5%)
+**Success Metrics:**
+- Target open rate: ______%
+- Target click-through rate: ______%
+- Target conversion rate: ______%
+- Revenue goal: $______
 
-## Quick Tips
-- Segment lists for relevance
-- Test subject lines and send times
-- Mobile-first design
-- Clear, single CTAs
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## 👥 Target Audience
+**Segment Details:**
+- Segment name: ________________
+- Size: ______ subscribers
+- Key characteristics: ________________
