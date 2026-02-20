@@ -1,27 +1,27 @@
 -e # Investment
 
-{"id":"a0ff5f59-1942-42bd-938d-fa59950f5b95","object":"chat.completion","created":1771583899,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investment Brief Analysis
+{"id":"7d41c5b0-81f9-4a8c-bd58-d003db7d6671","object":"chat.completion","created":1771587487,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investment Brief Analysis
 
 ## Purpose
-This skill enables the AI to analyze investment briefs, extract key information, and provide structured summaries with actionable insights for investment decision-making.
+This skill enables the AI to analyze investment briefs by extracting key information, identifying critical factors, and providing structured analysis to support investment decision-making.
 
 ## Core Capabilities
 
-### 1. **Brief Analysis & Structuring**
-- Parse investment briefs to identify:
-  - Investment thesis/strategy
-  - Target sectors/geographies
-  - Fund size and structure
-  - Investment criteria (stage, check size, etc.)
-  - Team composition and expertise
-  - Value-add propositions
+### 1. **Brief Deconstruction**
+- Extract and categorize: Investment thesis, market opportunity, competitive landscape, financial projections, team background, use of funds, risk factors
+- Identify stated vs. implicit objectives
+- Map timeline and milestones
+- Flag missing or incomplete information
 
-### 2. **Key Information Extraction**
-- Identify and categorize:
-  - **Mandate**: Investment focus areas and restrictions
-  - **Strategy**: Growth, value, thematic, sector-specific approaches
-  - **Deal Flow**: Sourcing strategy and pipeline expectations
-  - **Portfolio Construction**: Target portfolio size, diversification parameters
-  - **Value Creation**: Post-investment support and operational capabilities
+### 2. **Opportunity Assessment**
+- Market sizing and growth potential analysis
+- Problem-solution fit evaluation
+- Competitive advantage assessment
+- Scalability and defensibility analysis
+- Product-market fit indicators
 
-### 3. **Risk"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Financial Analysis**
+- Revenue model evaluation
+- Unit economics assessment
+- Burn rate and runway analysis
+- Financial projection plausibility
