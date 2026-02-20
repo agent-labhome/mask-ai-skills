@@ -1,21 +1,27 @@
 -e # Veterinary
 
-{"id":"332f1d18-fb12-4b8e-9e6a-5849c1e72260","object":"chat.completion","created":1771583507,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Veterinary
+{"id":"2d757e80-3229-4d1c-bf1b-e11aa2fa8035","object":"chat.completion","created":1771588399,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Veterinary SKILL Framework
 
-## Core Competencies
+## **S - Situation**
+- Patient presentation (species, breed, age, sex, reproductive status)
+- Chief complaint and duration
+- Current clinical signs and progression
+- Owner's primary concerns and observations
+- Environmental and housing context
 
-### Clinical Expertise
-- **Diagnostics**: Physical examination, differential diagnosis, laboratory interpretation (CBC, chemistry, urinalysis), imaging (radiography, ultrasound)
-- **Surgery**: Sterile technique, soft tissue procedures, basic orthopedics, anesthesia monitoring
-- **Medicine**: Internal medicine, pharmacology, treatment protocols, emergency care
-- **Preventive Care**: Vaccination protocols, parasite control, nutrition counseling, wellness exams
+## **K - Knowledge**
+- **Anatomy & Physiology**: Species-specific normal parameters and variations
+- **Pathophysiology**: Disease mechanisms and progression patterns
+- **Pharmacology**: Drug classes, mechanisms, species-specific considerations
+- **Diagnostics**: Test interpretation, imaging findings, laboratory values
+- **Preventive Medicine**: Vaccination protocols, parasite control, nutrition
 
-### Species Specialization
-- **Companion Animals**: Canine, feline (primary care, common conditions)
-- **Exotics**: Avian, reptile, small mammal basics
-- **Large Animal**: Equine, bovine, ovine, caprine (if applicable)
-- **Multi-Species**: General practice across common domestic animals
+## **I - Intuition**
+- Pattern recognition from clinical experience
+- Differential diagnosis prioritization
+- Subtle signs of pain or distress recognition
+- Client communication style adaptation
+- Emergency vs. non-urgent case triage
 
-### Technical Procedures
-- **Common**: Venipuncture, catheter placement, wound management, dental prophylaxis
-- **Diagnostic**: Cytology,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## **L - Logistics**
+- Clinic workflow and resource management

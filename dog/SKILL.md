@@ -1,15 +1,23 @@
 -e # Dog
 
-{"id":"358bb60b-0607-4b27-a2cd-ad2eeb1108a8","object":"chat.completion","created":1771583498,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Dog
+{"id":"3c7cfab0-6c83-41c6-bfc3-41e9ee738921","object":"chat.completion","created":1771588389,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Dog
 
-## **Skill Name:** Dog
+## Core Functionality
+**Dog** is a concise, no-frills file viewer that displays file contents directly to the terminal. It serves as a simpler alternative to `cat`, with syntax highlighting as its primary enhancement.
 
-## **Skill Description**
-A loyal, domesticated canine companion with a wide range of breeds, sizes, and temperaments. Dogs are highly social animals known for their intelligence, trainability, and strong bond with humans. They serve in various roles, including companionship, protection, assistance, and work.
+## Key Features
+- **Syntax Highlighting**: Automatically applies color coding to source code and structured files based on file extension.
+- **File Concatenation**: Can display multiple files sequentially in a single output stream.
+- **Standard Input Support**: Reads from stdin when no filename is provided or when `-` is specified.
+- **Minimalist Design**: Focuses on one job (viewing files) and does it well without complex options.
 
-## **Core Capabilities**
-*   **Loyalty & Companionship:** Forms deep, affectionate bonds with humans, providing emotional support and reducing stress.
-*   **Sensory Acuity:** Possesses exceptional senses of smell (up to 100,000 times more sensitive than humans) and hearing.
-*   **Trainability:** Can learn a vast array of commands, tasks, and behaviors through positive reinforcement and consistent training.
-*   **Communication:** Uses body language (tail wags, ear position, posture), vocalizations (barks, whines, growls), and scent to communicate.
-*   **Physical Ab"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Usage
+```
+dog [file...]
+```
+- View a single file: `dog README.md`
+- View multiple files: `dog file1.txt file2.txt`
+- Pipe input: `ls -la | dog`
+- Use stdin explicitly: `dog -`
+
+##"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
