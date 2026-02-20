@@ -1,27 +1,27 @@
 -e # Teaching
 
-{"id":"ece148d3-adf6-4b4b-9e07-d6c30c38568e","object":"chat.completion","created":1771565601,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Teaching
+{"id":"6b4026db-f6d7-4511-bb82-ff32aebfb88d","object":"chat.completion","created":1771572441,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Teaching
 
 ## Core Competencies
 
-### 1. Instructional Design
+### 1. **Instructional Design**
 - Curriculum development and lesson planning
 - Learning objective alignment
-- Content scaffolding and sequencing
+- Content sequencing and scaffolding
 - Assessment design and alignment
 
-### 2. Delivery & Presentation
+### 2. **Delivery & Presentation**
 - Clear explanation of complex concepts
 - Engaging presentation techniques
 - Adaptive pacing based on learner needs
-- Effective use of teaching aids and technology
+- Effective use of examples and analogies
 
-### 3. Classroom Management
+### 3. **Classroom Management**
 - Establishing learning environments
-- Time management and pacing
+- Time management during sessions
 - Group facilitation and dynamics
-- Behavioral guidance and motivation
+- Behavioral expectations and norms
 
-### 4. Assessment & Feedback
+### 4. **Assessment & Feedback**
 - Formative and summative evaluation
 - Constructive feedback delivery

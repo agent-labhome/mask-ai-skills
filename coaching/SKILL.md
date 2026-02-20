@@ -1,27 +1,27 @@
 -e # Coaching
 
-{"id":"d058c12c-9c30-438e-9785-4a0580094679","object":"chat.completion","created":1771565611,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Coaching Brief: SKILL Framework
+{"id":"f310e6a8-4e66-452b-9342-fe6772aeaf41","object":"chat.completion","created":1771572456,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Coaching Brief
 
-## **S - Situation & Stakeholders**
-**Current Reality:**
-- What is the specific situation requiring coaching?
-- Who are the key stakeholders involved?
-- What measurable data/evidence describes the current state?
-- What constraints or boundaries exist?
+## Purpose
+A structured framework for delivering concise, actionable coaching that drives immediate performance improvement while building long-term capability.
 
-**Stakeholder Map:**
-- Primary coachee(s)
-- Sponsors/decision-makers
-- Affected teams/departments
-- External partners/customers
+## Core Principles
 
-## **K - Key Objectives & Outcomes**
-**Desired Future State:**
-- What specific changes should occur?
-- How will success be measured?
-- What are the non-negotiable outcomes?
-- What would \"good enough\" look like?
+### 1. **Focus on Forward Motion**
+- Start with the desired outcome, not the problem
+- Frame challenges as opportunities for growth
+- Maintain momentum toward solutions
 
-**Success Metrics:**
-- Quantitative indicators
-- Qualitative improvements
+### 2. **Ownership & Agency**
+- The coachee owns their development
+- Coach facilitates, doesn't prescribe
+- Build self-coaching capability
+
+### 3. **Specificity & Actionability**
+- Concrete examples over generalizations
+- Clear next steps with accountability
+- Measurable progress indicators
+
+## The Brief Coaching Framework
+
+### **PREPARE** (Before the Conversation)
