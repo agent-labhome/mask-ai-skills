@@ -1,26 +1,20 @@
 -e # Startup
 
-{"id":"5ab1ffe0-fcb6-45db-aeb1-22b20a6657d4","object":"chat.completion","created":1771538007,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md – Startup Brief
+{"id":"bdbe6253-7e56-4534-a8e8-64f71b24b551","object":"chat.completion","created":1771565292,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Startup Brief
 
-## Purpose
-A concise, actionable document that captures the core of a startup idea in under 5 minutes.
+## Core Competencies
 
-## Structure
+### 1. Strategic Vision & Market Navigation
+- **Market Intelligence**: Rapid synthesis of market landscapes, competitive analysis, and emerging trends
+- **Opportunity Mapping**: Identifying white space, underserved segments, and scalable business models
+- **Pivot Recognition**: Recognizing when to persevere, pivot, or abandon based on market feedback
+- **Resource Optimization**: Maximizing impact with constrained resources (time, capital, talent)
 
-### 1. The Problem (1-2 sentences)
-*   What specific pain point exists?
-*   Who feels it most acutely?
-*   Why is the current solution inadequate?
+### 2. Founder Mindset & Leadership
+- **Resilience Engineering**: Managing uncertainty, rejection, and failure as data points
+- **Stakeholder Alignment**: Balancing investor, team, customer, and personal objectives
+- **Decision Velocity**: Making high-quality decisions with incomplete information
+- **Founder-Market Fit**: Deep understanding of customer psychology and pain points
 
-### 2. The Solution (1-2 sentences)
-*   What is your product/service?
-*   How does it directly solve the problem?
-*   What is the core value proposition?
-
-### 3. The Market (1 sentence)
-*   Who is the target customer? (Be specific)
-*   What is the total addressable market (TAM) or relevant benchmark?
-
-### 4. The Secret / Why Now (1 sentence)
-*   What's your unique insight or unfair advantage?
-*   Why will this work *now* (technology, trend, regulation)?
+### 3. Execution Excellence
+- **Lean Methodology**: Build-Measure-Learn cycles, MVP development, and validated learning"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
