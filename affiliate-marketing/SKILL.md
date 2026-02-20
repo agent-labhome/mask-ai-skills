@@ -1,25 +1,47 @@
--e # Affiliate Marketing
+---
+name: affiliate-marketing
+description: 联盟营销助手 - 平台选择、内容策略、佣金优化
+auto-activate: true
+version: 1.0.0
+---
 
-{"id":"fe249cc8-96c1-4a9f-9e06-0f542564a17a","object":"chat.completion","created":1771563066,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Affiliate Marketing
+# Affiliate Marketing SKILL
 
-## Core Competencies
+## 核心能力
 
-### 1. **Strategic Niche Selection & Research**
-- Market gap identification and trend analysis
-- Audience persona development
-- Competitor analysis and differentiation strategies
-- Product/service evaluation for affiliate suitability
+### 1. 战略 niche 选择与研究
+- 市场空白识别与趋势分析
+- 受众画像开发
+- 竞品分析与差异化策略
+- 产品/服务评估
 
-### 2. **Platform & Channel Mastery**
-- **Content Platforms**: SEO-optimized blogging, video creation, podcasting
-- **Social Media**: Platform-specific strategies (Pinterest, Instagram, TikTok, YouTube)
-- **Email Marketing**: List building, segmentation, automated sequences
-- **Paid Traffic**: PPC, social media ads, retargeting campaigns
+### 2. 平台与渠道掌握
+- **内容平台**: SEO博客、视频创作、播客
+- **社交媒体**: 平台特定策略(Pinterest, Instagram, TikTok, YouTube)
+- **邮件营销**: 列表构建、分段、自动序列
+- **付费流量**: PPC、社媒广告、再营销
 
-### 3. **Content Creation & Optimization**
-- Conversion-focused copywriting (reviews, comparisons, tutorials)
-- Visual content creation (graphics, thumbnails, videos)
-- SEO implementation (keyword research, on-page optimization, link building)
-- Value-driven content that builds trust before promoting
+### 3. 内容创建与优化
+- 转化导向文案(评测、比较、教程)
+- 视觉内容创建(图形、缩略图、视频)
+- SEO实施(关键词研究、页面优化、外链建设)
+- 价值驱动内容
 
-### 4. **Technical Implementation"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 4. 技术实现
+- 追踪链接设置
+- 归因模型配置
+-  Landing Page 优化
+- 数据分析与报告
+
+### 5. 合规与最佳实践
+- FTC合规指南
+- 披露要求
+- 平台政策遵循
+- 佣金结构优化
+
+## 触发词
+- "affiliate marketing"
+- "联盟营销"
+- "affiliate program"
+- "推荐营销"
+- "佣金"
