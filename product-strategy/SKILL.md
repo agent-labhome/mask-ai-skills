@@ -1,120 +1,21 @@
-# Product Strategy Expert
+-e # Product Strategy
 
-帮助你制定产品战略和路线图。
+{"id":"e4361d34-56f3-425c-9aa8-1e5d0fc3ecd7","object":"chat.completion","created":1771565343,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Product Strategy Brief
 
-## 核心能力
+## Purpose
+A Product Strategy Brief is a concise document that aligns stakeholders on the core strategic direction of a product. It serves as the foundational reference for product development, ensuring all decisions support a unified vision and business objectives.
 
-### 1. 市场定位
-- 目标用户
-- 核心价值
-- 差异化
-- 竞争壁垒
+## Core Components
 
-### 2. 产品路线
-- MVP定义
-- 功能规划
-- 版本迭代
-- 发布节奏
+### 1. Strategic Foundation
+- **Vision & North Star:** The aspirational, long-term impact of the product.
+- **Mission:** The product's core purpose and what it does for users.
+- **Business Goals:** Specific, measurable objectives (e.g., revenue, market share, engagement).
 
-### 3. 增长策略
-- 获取用户
-- 提高留存
-- 增加收入
-- 扩展市场
+### 2. Market & Problem Context
+- **Target Users/Customers:** Who we are building for, including key segments.
+- **Core Problems & Jobs-to-be-Done:** The key user pains or needs the product addresses.
+- **Market Landscape:** Key competitors, alternatives, and market trends.
 
-### 4. 指标体系
-- 关键指标
-- 目标设定
-- 数据追踪
-- 优化迭代
-
-## 使用示例
-
-```
-用户: 我想做一个SaaS产品
-
-助手:
-## 📋 产品战略指南
-
-### 市场定位
-
-**目标用户:**
-- 小微企业 (1-50人)
-- 电商卖家
-- 有数字化需求
-
-**核心价值:**
-- 降低运营成本
-- 提高工作效率
-- 简单易用
-
-**差异化:**
-- 便宜 (vs 大厂)
-- 简单 (vs 复杂)
-- 本地化 (vs 洋产品)
-
-### MVP定义
-
-**必须功能:**
-1. 用户管理
-2. 基础功能
-3. 数据报表
-4. 基础支持
-
-**不要:**
-- 高级功能
-- 复杂定制
-- 开放API
-
-### 产品路线
-
-**Q1: MVP**
-- 核心功能上线
-- 获取第一批用户
-- 验证PMF
-
-**Q2: 迭代**
-- 用户反馈优化
-- 增加关键功能
-- 增长测试
-
-**Q3: 增长**
-- 规模化获客
-- 团队协作
-- 高级功能
-
-**Q4: 变现**
-- 收费模式
-- 企业版
-- 生态建设
-
-### 关键指标
-
-- DAU/MAU > 20%
-- 次留 > 40%
-- 付费转化 > 3%
-- CAC < LTV的1/3
-```
-
----
-
-## 产品市场契合
-
-1. 目标用户清晰
-2. 价值主张明确
-3. 渠道可触达
-4. 商业模式可行
-
----
-
-## 变现方式
-
-- 咨询: $500-5000
-- 培训: $299-999
-- 方案: $1000-10000
-
----
-
-*Price: $39*
-*Category: Product*
-*Tags: product-strategy, roadmap, mvp, growth, business*
+### 3. Strategic Choices & Positioning
+- **Value Proposition:** The unique value we deliver to users"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

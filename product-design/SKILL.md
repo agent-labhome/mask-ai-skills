@@ -1,27 +1,24 @@
 -e # Product Design
 
-{"id":"e7812ae6-ac75-4200-beb4-200569e9bf56","object":"chat.completion","created":1771518969,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Product Design Brief
+{"id":"cc2de2aa-73fc-48b2-bf81-3b7eba2d60c8","object":"chat.completion","created":1771565358,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Design Brief
 
-## Purpose
-A product design brief is a strategic document that aligns stakeholders and design teams around a shared vision, goals, and constraints for a new product or feature.
+## Core Competencies
 
-## Core Components
+### 1. **User-Centered Design**
+- **User Research**: Conducting interviews, surveys, usability testing
+- **Persona Development**: Creating detailed user archetypes
+- **Journey Mapping**: Visualizing user interactions and pain points
+- **Accessibility**: Designing for diverse abilities (WCAG compliance)
 
-**1. Problem & Opportunity**
-- Clearly state the user problem or business opportunity.
-- Include supporting data or user insights.
+### 2. **Visual Design**
+- **UI Design**: Creating intuitive, aesthetically pleasing interfaces
+- **Design Systems**: Developing consistent component libraries
+- **Typography**: Selecting and pairing fonts for readability
+- **Color Theory**: Applying color psychology and accessibility standards
+- **Iconography**: Designing clear, scalable visual symbols
 
-**2. Goals & Success Metrics**
-- Define 1-3 primary objectives (e.g., increase conversion, reduce support tickets).
-- Specify measurable KPIs and target outcomes.
-
-**3. Target Audience**
-- Identify primary user personas or segments.
-- Note key user needs, behaviors, and contexts.
-
-**4. Scope & Constraints**
-- Outline what’s in scope and out of scope for this phase.
-- List technical, timeline, and resource constraints.
-
-**5. Key Requirements**
-- Specify must-have features and functionalities.
+### 3. **Interaction Design**
+- **Wireframing**: Low to high-fidelity layout creation
+- **Prototyping**: Interactive mockups (Figma, Sketch, Adobe XD)
+- **Micro-interactions**: Designing subtle feedback mechanisms
+- **Animation**: Creating purposeful"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

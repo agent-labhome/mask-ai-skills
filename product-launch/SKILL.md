@@ -1,20 +1,27 @@
-# Product Launch
+-e # Product Launch
 
-帮助你产品发布。
+{"id":"16ca8da1-61b8-453d-9907-7833e02a8c46","object":"chat.completion","created":1771565348,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Launch Brief
 
-## 核心能力
+## Purpose
+This skill enables users to create comprehensive, structured product launch briefs that align stakeholders, define success metrics, and outline execution plans for new product introductions.
 
-### 1. 准备
-- 定位
-- 定价
-- 素材
+## Core Capabilities
+- **Strategic Framework Development**: Creates structured launch briefs with clear objectives, target audiences, and success metrics
+- **Stakeholder Alignment**: Ensures all teams (marketing, sales, product, support) have consistent understanding
+- **Timeline Planning**: Develops phased launch approaches with clear milestones
+- **Risk Assessment**: Identifies potential challenges and mitigation strategies
+- **Measurement Framework**: Defines KPIs and tracking mechanisms for launch success
 
-### 2. 渠道
-- 社媒
-- 邮件
-- PR
+## Input Requirements
+Users should provide:
+- Product name and category
+- Target audience/customer segments
+- Key features and differentiators
+- Launch timeline constraints
+- Competitive landscape context
+- Available resources/budget considerations
 
-### 3. 时机
-- 节日
-- 事件
-- 产品就绪
+## Output Structure
+The brief will include:
+
+1. **Executive Summary**
