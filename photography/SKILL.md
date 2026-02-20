@@ -1,21 +1,27 @@
 -e # Photography
 
-{"id":"4c2a78db-d1cd-47a3-ba93-da3b753dc103","object":"chat.completion","created":1771541619,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Photography
+{"id":"73403a02-5868-441a-805e-d6f9cfb3a259","object":"chat.completion","created":1771559506,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Photography SKILL.md
 
 ## Core Competencies
-- **Technical Mastery:** Aperture, shutter speed, ISO, white balance, focus
-- **Composition:** Rule of thirds, leading lines, framing, perspective, balance
-- **Lighting:** Natural/ambient light, flash, reflectors, understanding quality/direction
-- **Post-Processing:** Basic editing (exposure, contrast, color correction), cropping, retouching
-- **Gear Proficiency:** Camera operation, lens selection, tripod use, basic maintenance
+- **Technical Mastery:** Aperture, shutter speed, ISO, composition rules
+- **Light Understanding:** Natural/artificial light, golden hour, diffusion
+- **Post-Processing:** Basic editing, color correction, cropping
+- **Gear Knowledge:** Camera bodies, lenses, essential accessories
 
-## Key Applications
-- Portrait, landscape, street, product, or event photography
-- Visual storytelling and capturing decisive moments
-- Creating images for marketing, documentation, or artistic expression
+## Key Principles
+- Rule of thirds
+- Leading lines
+- Depth of field control
+- Storytelling through images
+- Capturing decisive moments
 
-## Quick Tips
-- **See the light first.** It's your primary tool.
-- **Get closer.** Fill the frame with your subject.
-- **Shoot in RAW** for maximum editing flexibility.
-- Practice deliberate composition; don't just point and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Quick Reference
+- **Portrait:** Wide aperture (f/1.8-2.8), focus on eyes
+- **Landscape:** Narrow aperture (f/8-16), use tripod
+- **Action:** Fast shutter (1/500+), continuous autofocus
+- **Low Light:** Higher ISO, wider aperture, stabilize camera
+
+## Pro Tips
+- Shoot in RAW for editing flexibility
+- Get closer to your subject
+- Watch"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
