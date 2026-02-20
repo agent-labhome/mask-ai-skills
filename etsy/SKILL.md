@@ -1,22 +1,24 @@
 -e # Etsy
 
-{"id":"925dd8c8-9857-439c-a2d8-3df42e5bb7e9","object":"chat.completion","created":1771537795,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Etsy SKILL
+{"id":"dfb8c70f-7555-4d7f-82bc-3bf58359dc6b","object":"chat.completion","created":1771577629,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Etsy Seller SKILL.md
 
-## Core Strengths
-- **Handmade & Vintage Focus**: Expertise in unique, custom, and artisanal goods.
-- **Seller-Centric Platform**: Deep understanding of independent creator economics and shop management.
-- **Community & Storytelling**: Building brand narratives around craftsmanship and personal connection.
-- **Niche Marketplaces**: Targeting specific interests (e.g., wedding, home decor, gifts).
+## Core Competencies
 
-## Key Capabilities
-- **Shop Optimization**: SEO for unique items, photography for handmade goods, compelling product descriptions.
-- **Seller Support**: Navigating fees, policies, shipping profiles, and Etsy Ads.
-- **Customer Experience**: Curating personalized discoveries and managing buyer-seller communication.
-- **Trend Spotting**: Identifying emerging handmade and vintage trends within the community.
+### Product Development & Curation
+- **Niche Identification**: Researching trending and evergreen markets
+- **Handmade Creation**: Crafting original items with consistent quality
+- **Supply Sourcing**: Ethical material procurement for handmade goods
+- **Product Photography**: Creating clean, well-lit images with lifestyle context
+- **Vintage Curation**: Authenticating and selecting quality vintage items
 
-## Best For
-- Marketing/selling handmade, vintage, or craft supplies.
-- Strategies for independent artists and small creative businesses.
-- Understanding a niche e-commerce platform distinct from mass-market retail.
+### Shop Management
+- **SEO Optimization**: Strategic keyword implementation in titles, tags, and descriptions
+- **Listing Creation**: Compelling product narratives with clear policies
+- **Inventory Management**: Tracking supplies and finished goods
+- **Pricing Strategy**: Calculating costs + labor + Etsy fees + profit margin
+- **Shop Branding**: Cohesive aesthetic across banner, logo, and listings
 
-*Avoid"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Customer Experience
+- **Prompt Communication**: 24-hour response time standard
+- **Custom Order Management**: Clear process for personalization requests
+- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,27 +1,24 @@
 -e # Amazon
 
-{"id":"73c5edbd-d9fb-40be-8098-cb4e4743d5e5","object":"chat.completion","created":1771537791,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Amazon SKILL.md
+{"id":"de31baff-1d84-4e3c-b09c-a70b80213470","object":"chat.completion","created":1771577624,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Amazon
 
-## Core Competencies
-- E-commerce & marketplace operations
-- Cloud computing (AWS)
-- Logistics & supply chain innovation
-- Digital content & streaming services
-- Voice/AI technology (Alexa)
+## Purpose
+Enable voice-controlled shopping, package tracking, and Prime benefits via Alexa.
 
-## Key Principles
-- Customer obsession
-- Long-term thinking
-- Operational excellence
-- Invent and simplify
-- Frugality
+## Core Capabilities
+- **Shop**: \"Alexa, order paper towels\" or \"Add eggs to my cart\"
+- **Track**: \"Where's my package?\" or \"Track my recent order\"
+- **Prime**: \"Play *The Boys*\" or \"What are my Prime benefits?\"
+- **Lists**: \"Add milk to my shopping list\" or \"What's on my to-do list?\"
 
-## Technical Environment
-- Microservices architecture
-- Data-driven decision making
-- Scalable distributed systems
-- Continuous deployment
-- Ownership culture (You Build It, You Run It)
+## Key Phrases
+- \"Alexa, order more coffee\"
+- \"Alexa, what are my deals?\"
+- \"Alexa, track my Amazon order\"
+- \"Alexa, add to cart\"
+- \"Alexa, what's on my shopping list?\"
 
-## Communication Style
-- Narrative-driven (6-page memos)
+## Notes
+- Requires Amazon account linking
+- Supports reordering, deal notifications, and delivery updates
+- Integrates with Alexa Shopping List and Amazon Prime services"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":14,"completion_tokens":193,"total_tokens":207,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

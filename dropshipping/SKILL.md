@@ -1,19 +1,20 @@
 -e # Dropshipping
 
-{"id":"2a0122a3-47b1-46bd-a6b1-042c09539de7","object":"chat.completion","created":1771566878,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Dropshipping
+{"id":"3d6dfc60-861d-424e-90d8-96b4740d193b","object":"chat.completion","created":1771577634,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Dropshipping
 
-## Core Concept
-Dropshipping is a retail fulfillment method where a store doesn't keep the products it sells in stock. Instead, when a store sells a product, it purchases the item from a third party (usually a wholesaler or manufacturer) and has it shipped directly to the customer. The seller never handles the product directly.
+## Overview
+Dropshipping is an e-commerce fulfillment model where a store sells products without holding inventory. When a customer places an order, the store purchases the item from a third-party supplier who ships it directly to the customer. The store owner never handles the product directly.
 
-## Key Components
+## Core Competencies
 
-### 1. **Business Model Fundamentals**
-- **No Inventory Investment**: Capital isn't tied up in stock
-- **Supplier Relationships**: Partner with reliable suppliers/manufacturers
-- **Margin-Based Pricing**: Markup applied to supplier prices
-- **Order Fulfillment Automation**: Systems to forward orders to suppliers
+### 1. **Market Research & Niche Selection**
+   - Identifying profitable niches with high demand and low competition
+   - Analyzing market trends, seasonality, and customer pain points
+   - Evaluating product viability (profit margins, shipping costs, supplier reliability)
+   - Using tools like Google Trends, AliExpress, and competitor analysis
 
-### 2. **Essential Platforms & Tools**
-- **E-commerce Platforms**: Shopify, WooCommerce, BigCommerce
-- **Supplier Marketplaces**: AliExpress, Oberlo, Spocket, SaleHoo
-- **Automation Tools**: Order routing, inventory"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Supplier Sourcing & Vetting**
+   - Finding reliable suppliers (AliExpress, Oberlo, SaleHoo, Wholesale Central)
+   - Vetting suppliers for quality, communication, and shipping times
+   - Ordering samples to assess product quality
+   - Establishing backup suppliers"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
