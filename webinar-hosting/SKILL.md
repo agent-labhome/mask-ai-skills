@@ -1,110 +1,21 @@
-# Webinar Hosting Expert
+-e # Webinar Hosting
 
-帮助你举办成功的在线研讨会。
+{"id":"fa124346-f5b4-4a62-9e51-3e247b161b9f","object":"chat.completion","created":1771563256,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Webinar Hosting
 
-## 核心能力
+## Overview
+A comprehensive guide for planning, producing, and hosting successful webinars that engage audiences and achieve business objectives.
 
-### 1. 主题策划
-- 选题方向
-- 目标受众
-- 嘉宾邀请
-- 价值设定
+## Core Competencies
 
-### 2. 技术准备
-- 平台选择
-- 设备测试
-- 备份方案
-- 互动工具
+### 1. Pre-Webinar Planning
+- **Objective Setting**: Define clear goals (lead generation, education, sales, community building)
+- **Audience Analysis**: Research target demographics, pain points, and interests
+- **Topic Selection**: Choose relevant, timely topics with clear value propositions
+- **Format Design**: Decide between solo presentation, interview, panel, Q&A, or workshop
+- **Technology Stack**: Select platform (Zoom, Webex, GoToWebinar, etc.) based on features and audience size
 
-### 3. 推广策略
-- 报名渠道
-- 宣传素材
-- 倒计时
-- 提醒机制
-
-### 4. 现场执行
-- 开场流程
-- 内容呈现
-- 互动环节
-- Q&A处理
-
-## 使用示例
-
-```
-用户: 我想办一个直播
-
-助手:
-## 📺 Webinar指南
-
-### 平台选择
-
-**免费:**
-- Zoom (最多100人)
-- Google Meet
-- 腾讯会议
-
-**付费:**
-- WebinarJam ($199/月)
-- LiveStorm ($49/月)
-- Hopin ($99/月)
-
-### 准备清单
-
-**提前1周:**
-- 确定主题
-- 准备PPT
-- 测试设备
-
-**提前3天:**
-- 发送报名邀请
-- 准备推广素材
-
-**提前1天:**
-- 设备测试
-- 网络检查
-- 熟悉内容
-
-**当天:**
-- 提前30分钟进入
-- 测试音视频
-- 准备回复
-
-### 开场流程 (10分钟)
-
-1. 欢迎 + 自我介绍 (2min)
-2. 介绍议程 (2min)
-3. 预期收获 (2min)
-4. 互动提问 (4min)
-
-### 互动技巧
-
-- 投票/问卷
-- 举手发言
-- 文字提问
-- 红包/奖励
-```
-
----
-
-## 转化设计
-
-| 环节 | 目标 |
-|------|------|
-| 开场 | 注意力 |
-| 内容 | 价值感知 |
-| 案例 | 信任建立 |
-| CTA | 行动转化 |
-
----
-
-## 变现方式
-
-- 门票: $10-100
-- 产品: 课程/咨询
-- 赞助: $500-5000
-
----
-
-*Price: $29*
-*Category: Marketing*
-*Tags: webinar, live, online-event, hosting, presentation*
+### 2. Content Development
+- **Presentation Structure**: Create logical flow with clear takeaways
+- **Visual Design**: Develop engaging slides with minimal text and high-quality visuals
+- **Storytelling**: Incorporate narratives and examples to illustrate points
+- **Interactive Elements**: Plan"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
