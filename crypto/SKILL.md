@@ -1,26 +1,22 @@
 -e # Crypto
 
-{"id":"658fc060-0ace-4bcc-9454-a608afae14b7","object":"chat.completion","created":1771587368,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Crypto.Brief
+{"id":"62583d9e-e550-4f39-9507-1e19328d9a72","object":"chat.completion","created":1771591072,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Crypto.Brief - SKILL Documentation
 
 ## Overview
-**Crypto.Brief** is a specialized skill that provides concise, high-level summaries of cryptocurrency projects, tokens, and market trends. It distills complex crypto information into easily digestible briefs suitable for quick decision-making and general awareness.
+**Crypto.Brief** is a specialized skill that provides concise, actionable cryptocurrency market intelligence. It delivers real-time price data, market trends, and key insights in a structured, easy-to-digest format.
 
 ## Core Capabilities
 
-### 1. **Project Summaries**
-- Provide 3-5 sentence overviews of any cryptocurrency project
-- Highlight: purpose, key features, token utility, and notable aspects
-- Include market position and recent developments when relevant
+### 1. **Market Intelligence**
+- **Real-time Prices**: Current prices for major cryptocurrencies (BTC, ETH, SOL, etc.)
+- **Market Trends**: 24-hour price movements and percentage changes
+- **Market Dominance**: Bitcoin dominance and altcoin market share
+- **Trading Volume**: 24-hour volume data across exchanges
 
-### 2. **Token Analysis**
-- Current price and market data (when available)
-- Tokenomics overview (supply, distribution, utility)
-- Recent price movements and volume trends
+### 2. **Portfolio Tracking**
+- **Multi-asset Support**: Track multiple cryptocurrencies simultaneously
+- **Position Analysis**: Calculate profit/loss, ROI, and current value
+- **Performance Metrics**: Daily, weekly, and monthly performance tracking
 
-### 3. **Market Context**
-- Brief explanations of market trends affecting specific assets
-- Regulatory or ecosystem developments impacting projects
-- Competitive positioning within the sector
-
-### 4. **Educational Explanations**
-- Simplify complex crypto concepts into accessible explanations"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Market Analysis**
+- **Fear & Greed Index**: Current market sentiment indicator"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
