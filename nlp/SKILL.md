@@ -1,20 +1,27 @@
 -e # NLP
 
-{"id":"102631e6-6deb-4bcf-a5ab-c1f445361853","object":"chat.completion","created":1771559214,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# NLP SKILL.md
+{"id":"134db66c-2220-4385-b0a6-6e9ea0160c2b","object":"chat.completion","created":1771585230,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Natural Language Processing (NLP)
 
 ## Core Competencies
-- **Text Processing**: Tokenization, stemming, lemmatization, stopword removal
-- **Language Modeling**: Statistical and neural approaches (n-grams, RNNs, Transformers)
-- **Information Extraction**: NER, relation extraction, keyphrase extraction
-- **Text Classification**: Sentiment analysis, topic modeling, intent detection
-- **Sequence Tasks**: Machine translation, summarization, question answering
 
-## Key Tools & Frameworks
-- **Python Libraries**: spaCy, NLTK, Transformers (Hugging Face), Gensim
-- **ML Frameworks**: PyTorch, TensorFlow, scikit-learn
-- **Vector Databases**: FAISS, Pinecone, Chroma (for embeddings)
-- **Evaluation**: BLEU, ROUGE, perplexity, F1-score
+### 1. **Text Processing & Preprocessing**
+- Tokenization (word, subword, sentence)
+- Stop word removal & text normalization
+- Stemming & lemmatization
+- Part-of-Speech (POS) tagging
+- Named Entity Recognition (NER)
 
-## Current Focus Areas
-- Transformer architectures (BERT, GPT, T5)
-- Few-shot/zero"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Language Modeling**
+- Statistical language models (n-grams)
+- Neural language models (RNNs, Transformers)
+- Pre-trained models (BERT, GPT, T5, etc.)
+- Fine-tuning & transfer learning
+
+### 3. **Text Representation**
+- Bag-of-Words & TF-IDF
+- Word embeddings (Word2Vec, GloVe, FastText)
+- Contextual embeddings (ELMo, BERT embeddings)
+- Document embeddings
+
+### 4. **Core NLP Tasks**
+- **Classification**: Sentiment analysis, topic labeling, intent detection
