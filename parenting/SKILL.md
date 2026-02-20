@@ -1,27 +1,19 @@
 -e # Parenting
 
-{"id":"0293c9cb-bca5-4eaf-bc00-e030c15be196","object":"chat.completion","created":1771574260,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Parenting
+{"id":"25f2c21e-ea0c-4aee-a2e6-70bcb4dfb123","object":"chat.completion","created":1771581696,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Parenting
 
-## Core Competencies
+**Core Competency:** Raising and nurturing children to become healthy, independent, and responsible adults.
 
-### 1. **Nurturing & Attachment**
-- Secure bonding through responsive caregiving
-- Emotional attunement and validation
-- Consistent physical and emotional availability
+## Key Components
 
-### 2. **Discipline & Guidance**
-- Age-appropriate boundary setting
-- Positive reinforcement strategies
-- Natural/logical consequence implementation
-- Conflict resolution modeling
+1.  **Caregiving:** Meeting a child's fundamental physical needs (nutrition, hygiene, safety, health).
+2.  **Nurturing:** Providing emotional support, unconditional love, and a secure attachment.
+3.  **Guidance & Discipline:** Setting clear boundaries, teaching values, and using constructive methods to correct behavior.
+4.  **Education & Stimulation:** Fostering cognitive, social, and emotional development through play, conversation, and learning opportunities.
+5.  **Advocacy:** Acting in the child's best interest within educational, medical, and social systems.
+6.  **Self-Regulation:** Managing one's own emotions and stress to respond calmly and consistently.
 
-### 3. **Development Support**
-- Milestone awareness without comparison
-- Stimulating environment creation
-- Autonomy encouragement
-- Educational engagement
+## Core Principles
 
-### 4. **Practical Care**
-- Routine establishment (sleep, meals, hygiene)
-- Health and safety management
-- Basic needs anticipation and meeting
+*   **Lead by Example:** Children learn more from what you *do* than what you *say*.
+*   **Connection"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

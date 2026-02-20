@@ -1,26 +1,23 @@
 -e # Baby
 
-{"id":"62260919-5f5f-416a-b912-5c2e4c244077","object":"chat.completion","created":1771574270,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Baby Brief
+{"id":"b933aea0-4bc0-4d59-96c4-1ac534fe5099","object":"chat.completion","created":1771581706,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Baby.Brief
 
 ## Overview
-**Baby Brief** is a concise, structured communication format designed to deliver essential information quickly and efficiently. It transforms verbose or complex content into a digestible, scannable format ideal for busy professionals, decision-makers, and teams requiring rapid alignment.
+Baby.Brief is a lightweight, privacy-focused AI assistant designed to help users quickly summarize and analyze content from URLs or uploaded files. It provides concise, actionable insights while maintaining user privacy by not storing conversation history.
 
-## Core Principles
-- **Brevity:** Maximum impact with minimum words.
-- **Clarity:** Unambiguous, direct language.
-- **Structure:** Consistent, predictable format for quick parsing.
-- **Action-Oriented:** Focuses on decisions, next steps, and key insights.
+## Core Capabilities
 
-## Standard Template
-A Baby Brief typically follows this structure:
+### 1. **URL Analysis**
+- **Input**: Any valid URL (articles, blog posts, documentation, etc.)
+- **Processing**: Fetches and extracts main content from the webpage
+- **Output**: 
+  - **Brief**: 2-3 sentence summary highlighting key points
+  - **Bullet Points**: 3-5 most important takeaways
+  - **Tags**: Relevant keywords/topics for categorization
 
-```
-**SUBJECT:** [Clear, descriptive title]
+### 2. **File Upload Analysis**
+- **Supported Formats**: PDF, DOCX, TXT, images (with OCR)
+- **Processing**: Extracts text content from files
+- **Output**: Same structure as URL analysis (Brief + Bullets + Tags)
 
-**STATUS:** [e.g., For Decision, For Awareness, Update, Urgent]
-
-**BOTTOM LINE UP FRONT (BLUF):**
-• The single most important takeaway or ask.
-
-**BACKGROUND (2-3 bullets max):**
-• Essential context needed to understand the brief"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

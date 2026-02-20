@@ -1,27 +1,26 @@
 -e # Kids
 
-{"id":"d2bac229-2533-4eb9-9d98-f43714c7e907","object":"chat.completion","created":1771574275,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Kids
+{"id":"51a71b65-51e9-4d58-8ed8-787cbda48842","object":"chat.completion","created":1771581711,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Kids
 
 ## What is SKILL.md?
-A super simple way to show what you can do! Like a superhero card that lists your special powers.
+A simple way to show what you can do! Like a superhero card that lists your powers.
 
-## Your Superpowers List
-**My Name:** [Your Name]  
-**My Age:** [Your Age]
+## Your Super Skills List
 
 ### 🎨 Creative Powers
 - Drawing animals
 - Building LEGO castles
-- Making up funny stories
-- [Add your own!]
+- Making up stories
+- Singing songs
 
 ### 🧠 Brain Powers
 - Counting to 100
 - Reading chapter books
 - Solving puzzles
-- [Add your own!]
+- Remembering dinosaur names
 
 ### 🏃‍♂️ Action Powers
 - Riding a bike
+- Swimming
 - Soccer kicks
-- Monkey bar champion
+- Tree climbing
