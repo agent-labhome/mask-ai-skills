@@ -1,25 +1,27 @@
-# Upselling & Cross-selling
+-e {"id":"3d9d7d1c-6981-443f-9065-1cd300dc0c07","object":"chat.completion","created":1771597015,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+# Upselling Skill
 
-帮助你追加销售和交叉销售。
+## Metadata
+- **Name:** Upselling
+- **Description:** Proactively suggests complementary or premium products/services to enhance customer value and increase order size.
+- **Triggers:** 
+  - Customer expresses interest in a base product
+  - Customer is at checkout/purchase confirmation stage
+  - Customer has shown previous purchase patterns indicating potential for upgrade
+  - Customer inquires about product limitations or premium features
 
-## 核心能力
+## Overview
+This skill enables the assistant to identify opportunities to recommend relevant upgrades, add-ons, or premium alternatives that align with the customer's expressed needs and purchase context.
 
-### 1. 时机
-- 购买后
-- 使用中
-- 续费
+## Key Principles
+- **Relevance:** Suggestions must directly relate to the customer's current interest or purchase
+- **Value-first:** Focus on how the upsell benefits the customer, not just the additional cost
+- **Timing:** Present at natural decision points without being intrusive
+- **Clarity:** Transparently explain differences between options
 
-### 2. 方法
-- 捆绑
-- 升级
-- 推荐
-
-### 3. 个性化
-- 历史
-- 行为
-- 偏好
-
-### 4. 衡量
-- 转化率
-- 收入
--  ARPU
+## Implementation Notes
+- Use customer history and preferences to personalize suggestions
+- Always provide clear reasoning for why the upsell recommendation is beneficial
+- Include option to decline gracefully without pressure
+- Consider bundling or limited-time offers when appropriate
+```"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":26,"completion_tokens":246,"total_tokens":272,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":26},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
