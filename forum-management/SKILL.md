@@ -1,20 +1,41 @@
--e # Forum Management
+-e {"id":"d69370eb-4d10-427e-8d0a-cddb9838c2c4","object":"chat.completion","created":1771597422,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+---
+title: Forum Management
+category: Community & Communication
+subcategory: Moderation & Governance
+description: Skills and best practices for managing online forums, communities, and discussion platforms.
+tags:
+  - moderation
+  - community-management
+  - online-forums
+  - user-engagement
+  - content-moderation
+  - community-guidelines
+prerequisites:
+  - Basic understanding of online communities
+  - Familiarity with forum software (Discourse, phpBB, etc.)
+  - Communication skills
+related_skills:
+  - Conflict Resolution
+  - Content Strategy
+  - User Onboarding
+  - Analytics & Reporting
+  - Crisis Management
+---
 
-{"id":"2402c79a-1f9d-4b2e-bd94-7669a0cf0c5a","object":"chat.completion","created":1771563141,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Forum Management
+# Forum Management
 
 ## Overview
-The Forum Management skill enables comprehensive administration of online discussion platforms, including user moderation, content organization, and community governance. This skill combines technical platform administration with community leadership to maintain healthy, productive discussion environments.
+Forum Management involves overseeing online discussion platforms to foster healthy communities, facilitate meaningful conversations, and maintain safe, productive environments. Effective forum management balances community growth with quality control.
 
-## Core Competencies
+## Core Responsibilities
 
-### 1. Platform Administration
-- **System Configuration**: Setting up and customizing forum software (Discourse, phpBB, vBulletin, etc.)
-- **Permission Management**: Configuring user roles, access levels, and moderation privileges
-- **Plugin/Extension Management**: Installing and maintaining forum enhancements and integrations
-- **Backup & Security**: Implementing data protection and security measures
-- **Performance Optimization**: Ensuring forum responsiveness and reliability
+### 1. **Community Moderation**
+- Review and moderate user-generated content
+- Enforce community guidelines consistently
+- Handle reported content and user disputes
+- Manage user warnings, suspensions, and bans
+- Monitor discussion threads for quality and relevance
 
-### 2. Content Moderation
-- **Post Management**: Reviewing, editing, moving, or removing discussions and replies
-- **Spam Prevention**: Implementing and managing anti-spam measures and filters
-- **Content Curation**: Featuring important discussions, creating announcements,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Community Building**
+- Welcome new members and facilitate"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
