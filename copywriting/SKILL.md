@@ -1,27 +1,27 @@
 -e # Copywriting
 
-{"id":"5fae5b32-e197-4257-bc8f-40f66f5c9440","object":"chat.completion","created":1771570123,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Copywriting Brief Development
+{"id":"f56956fa-c034-4ed2-88d4-0a8bc0cf1082","object":"chat.completion","created":1771577875,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Copywriting Brief
 
 ## Purpose
-A well-structured copywriting brief is the foundation of effective marketing communication. This skill transforms vague requests into actionable, strategic direction that aligns stakeholders, guides writers, and ensures the final copy achieves business objectives.
+This document outlines the skill of creating effective copywriting briefs—structured documents that align stakeholders, guide writers, and ensure marketing copy achieves its strategic objectives.
 
 ## Core Principles
 
-### 1. **Strategic Alignment**
-   - Every brief must connect copy to business goals
-   - Copy exists to solve problems, not just fill space
-   - Audience needs must balance with business objectives
+### 1. Strategic Alignment
+- Connect copy to business objectives (awareness, conversion, retention)
+- Bridge brand strategy with tactical execution
+- Ensure consistency across touchpoints
 
-### 2. **Clarity Over Completeness**
-   - A clear, concise brief beats a lengthy, ambiguous one
-   - Prioritize essential information writers actually use
-   - Eliminate jargon and internal terminology
+### 2. Clarity Over Completeness
+- Prioritize essential information writers actually need
+- Eliminate ambiguity while avoiding over-prescription
+- Distinguish between requirements and suggestions
 
-### 3. **Collaborative Foundation**
-   - The brief is a contract between stakeholders and writer
-   - It should answer questions before they're asked
-   - Creates shared understanding of success metrics
+### 3. Collaboration Catalyst
+- Facilitate stakeholder alignment before writing begins
+- Create shared understanding of goals and constraints
+- Reduce revision cycles through upfront clarity
 
-## Essential Brief Components
+## Brief Components
 
-### **1. Strategic Foundation**
+### Essential Elements (The \"Must-Haves\")

@@ -1,20 +1,26 @@
 -e # Writing
 
-{"id":"9da6047e-20f7-4ba6-902c-3c12131a15d3","object":"chat.completion","created":1771519012,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Writing. Brief.
+{"id":"9b5b7ebb-641e-456e-ad25-275c6435ab33","object":"chat.completion","created":1771577871,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Writing Brief Content
 
-**Core Principle:** Value the reader's time. Every word must earn its place.
+## Core Principle
+**Conciseness with clarity** – delivering complete information in the fewest words possible without sacrificing understanding.
 
-### Key Rules
+## Key Techniques
 
-*   **Start with the point.** Lead with the conclusion or main request.
-*   **Cut relentlessly.** Remove filler words, redundant phrases, and unnecessary context.
-*   **Use simple words.** Choose \"use\" over \"utilize,\" \"start\" over \"commence.\"
-*   **Prefer short sentences.** One idea per sentence.
-*   **Be specific.** \"Send the report by 3 PM\" is better than \"Send it soon.\"
-*   **Use formatting.** Bullet points, bold key terms, and clear headings aid quick scanning.
+### 1. **Start with the Bottom Line**
+- Lead with the main point or conclusion
+- Answer \"What does the reader need to know?\" first
+- Example: Instead of building up to it, state: \"We need to postpone the launch by two weeks.\"
 
-### Before & After
+### 2. **Apply the \"So What?\" Test**
+- For every sentence, ask: \"Does this add necessary value?\"
+- Remove explanations that don't change understanding
+- Eliminate redundant adjectives and adverbs
 
-**Unclear:** \"I was just wondering if, at your earliest convenience, you might be able to circulate the notes from the meeting we had earlier today to the broader team for their awareness and reference.\"
+### 3. **Use the Inverted Pyramid**
+- Most important information → Supporting details → Background/context
+- Allows readers to stop at any point with core understanding
 
-**Brief:** \"Please share today's meeting"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 4. **Implement Sentence-Level Editing**
+- Replace phrases with single words (\"due to the fact that\" → \"because\")
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
