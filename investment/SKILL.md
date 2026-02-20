@@ -1,26 +1,24 @@
 -e # Investment
 
-{"id":"50be20f6-f31c-4ca0-a5b2-e8175173e6ac","object":"chat.completion","created":1771589181,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investment Brief Creation
+{"id":"8ecead52-2f84-48c3-a1e9-b594af61eff1","object":"chat.completion","created":1771595490,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investment Brief Analysis
 
 ## Purpose
-Create clear, concise investment briefs that synthesize complex financial information into actionable decision-making documents for stakeholders.
+To analyze, structure, and communicate investment opportunities through concise, well-structured briefs that enable informed decision-making.
 
-## Core Components
+## Core Capabilities
 
-### 1. Executive Summary (1-2 paragraphs)
-- Investment thesis in one sentence
-- Key metrics (size, IRR, hold period)
-- Strategic rationale
-- Risk-adjusted return profile
+### 1. **Investment Analysis Framework**
+- **Market Assessment**: Size, growth, trends, competitive landscape
+- **Company/Asset Evaluation**: Financials, management, competitive advantages
+- **Risk Analysis**: Market, operational, regulatory, financial risks
+- **Valuation**: Multiple methodologies (DCF, comparables, precedent transactions)
+- **Return Projections**: IRR, ROI, payback period, sensitivity analysis
 
-### 2. Investment Thesis
-- **Opportunity**: Market gap, inefficiency, or catalyst
-- **Value Creation**: How returns will be generated
-- **Competitive Advantage**: Why this opportunity is unique
-- **Alignment**: How this fits portfolio strategy
+### 2. **Brief Structuring**
+- **Executive Summary**: One-page overview of opportunity and recommendation
+- **Investment Thesis**: Clear rationale and value proposition
+- **Key Metrics**: Financial and operational highlights
+- **Deal Structure**: Proposed terms, capital requirements, ownership
+- **Timeline**: Key milestones and decision points
 
-### 3. Financial Highlights
-- **Deal Structure**: Equity/debt split, pricing, terms
-- **Projected Returns**: IRR, MOIC, cash yield
-- **Key Assumptions**: Growth rates, margins, exit multiple
-- **Capital Stack**: Sources & uses of funds
+### 3. **Stake"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

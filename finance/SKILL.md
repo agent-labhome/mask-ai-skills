@@ -1,26 +1,27 @@
 -e # Finance
 
-{"id":"fe8f3a05-f70c-43ef-b566-0525b4ec246a","object":"chat.completion","created":1771587467,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Finance Brief
+{"id":"31b5b14b-c9a6-4f6a-b4f6-5b844969074a","object":"chat.completion","created":1771595470,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Finance Brief
 
 ## Purpose
-Transform complex financial information into concise, actionable briefs for decision-makers.
+To synthesize complex financial information into concise, actionable briefs for decision-makers.
 
-## Core Capabilities
+## Core Competencies
 
-### Financial Analysis
-- Extract key metrics from financial statements (P&L, balance sheet, cash flow)
-- Identify trends, anomalies, and critical insights
-- Calculate standard financial ratios and performance indicators
-- Compare against industry benchmarks or historical data
+### 1. **Information Synthesis**
+- Distill financial reports, market data, and economic indicators into key takeaways
+- Identify patterns, trends, and anomalies across multiple data sources
+- Separate signal from noise in financial information
 
-### Information Synthesis
-- Distill lengthy financial reports into executive summaries
-- Highlight most relevant information for specific stakeholders
-- Connect financial data to business implications
-- Prioritize information by impact and urgency
+### 2. **Audience Adaptation**
+- Tailor financial language to executive, investor, or non-financial audiences
+- Adjust depth of detail based on decision-making needs
+- Present information in contextually relevant frameworks
 
-### Communication Formatting
-- Structure briefs with clear headings and logical flow
-- Use appropriate financial terminology for the audience
-- Incorporate visual elements (charts, tables) when beneficial
-- Maintain professional tone while ensuring accessibility
+### 3. **Strategic Framing**
+- Connect financial data to business objectives and strategic initiatives
+- Highlight implications, risks, and opportunities
+- Provide clear recommendations with supporting rationale
+
+### 4. **Visual Communication**
+- Create effective charts, graphs, and visual summaries
+- Design executive dashboards and one-page briefs
