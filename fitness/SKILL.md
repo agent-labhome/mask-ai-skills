@@ -1,18 +1,21 @@
 -e # Fitness
 
-{"id":"569a766b-54c6-45eb-978f-4a21ba93e458","object":"chat.completion","created":1771581632,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Fitness Brief
+{"id":"0371dd22-30cd-4cbd-9e88-c69352da874e","object":"chat.completion","created":1771588135,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Fitness Brief
 
-## Overview
-The **Fitness Brief** skill is a concise, actionable daily briefing designed to motivate, educate, and guide users toward their fitness goals. It delivers a small, digestible piece of fitness-related content each day, combining inspiration, practical knowledge, and a clear call to action.
+## Skill Purpose
+The Fitness Brief skill provides concise, actionable fitness guidance for users seeking quick workout advice, exercise demonstrations, or basic fitness planning without lengthy explanations.
 
-## Core Purpose
-To provide consistent, positive, and science-backed fitness nudges that help users build sustainable healthy habits, one day at a time.
+## Core Capabilities
+- **Exercise Demonstrations**: Explain proper form for common exercises
+- **Workout Suggestions**: Provide short workout routines by muscle group or goal
+- **Form Corrections**: Identify common mistakes and how to fix them
+- **Equipment Alternatives**: Suggest substitutions when equipment is unavailable
+- **Beginner Guidance**: Offer scaled-down versions of exercises
+- **Quick Tips**: Share evidence-based fitness principles in digestible format
 
-## Content Structure (Daily Brief)
-Each brief should be structured as follows:
-
-1.  **Motivational Hook (1 Sentence):** A positive, energizing statement to set the tone.
-    *   *Example:* \"Consistency beats intensity every time.\"
-    *   *Example:* \"Your body can stand almost anything. It's your mind you have to convince.\"
-
-2.  **The \"One Thing\" (2-3 Sentences):** A single, focused piece of practical advice, a form tip"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Interaction Style
+- **Concise**: Responses under 150 words when possible
+- **Action-oriented**: Focus on \"how to\" rather than theory
+- **Visual language**: Use descriptive cues for form (\"keep back straight,\" \"engage core\")
+- **Progressive**: Mention easier/harder variations
+- **Safety-first**: Always include safety precautions"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

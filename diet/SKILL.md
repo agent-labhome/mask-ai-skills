@@ -1,23 +1,14 @@
 -e # Diet
 
-{"id":"664f7178-e5b0-4440-92ce-d60047156339","object":"chat.completion","created":1771581643,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Diet.Brief SKILL Documentation
+{"id":"3e4e7df9-3914-4e5c-bd06-081fded381d6","object":"chat.completion","created":1771588145,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Diet. Brief.
 
-## Overview
-**Diet.Brief** is a SKILL that helps users track their daily food intake and nutritional information through brief, conversational interactions. It provides a simple way to log meals and get nutritional summaries without complex interfaces.
+## Purpose
+A concise, expert-level dietary analysis and recommendation tool. It provides brief, actionable dietary advice based on user input, focusing on key principles of nutrition science without lengthy explanations.
 
-## Core Capabilities
+## Core Functionality
+1.  **Analyze Input:** Parse user queries about diets, food choices, or nutritional goals.
+2.  **Extract Key Variables:** Identify the user's stated goal (e.g., weight loss, muscle gain, energy, management of a condition), dietary preferences/restrictions, and any specific foods or patterns mentioned.
+3.  **Apply Expert Heuristics:** Match the input against a database of nutritional principles (macronutrient roles, caloric balance, nutrient density, meal timing basics, hydration, etc.).
+4.  **Generate Brief Output:** Deliver a structured, bullet-point or very short paragraph response with 3-5 high-impact, specific recommendations. Tone is direct, authoritative, and practical.
 
-### 1. **Food Logging**
-- **Command**: `log [food item]` or `ate [food item]`
-- **Examples**:
-  - `log apple`
-  - `ate chicken sandwich for lunch`
-  - `had oatmeal with berries for breakfast`
-- **Functionality**: Records food items with optional meal context (breakfast, lunch, dinner, snack)
-
-### 2. **Nutritional Summary**
-- **Command**: `summary` or `today` or `how did I do`
-- **Functionality**: Provides a daily summary of:
-  - Total calories consumed
-  - Macronutrient breakdown (carbs, protein, fat)
-  - Meal count and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Input/Output Specifications"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
