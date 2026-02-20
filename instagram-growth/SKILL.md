@@ -1,17 +1,20 @@
 -e # Instagram Growth
 
-{"id":"9843f02d-0d18-4597-94ac-cb83c2d3b738","object":"chat.completion","created":1771555955,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Instagram Growth
+{"id":"c0c3465d-23cb-4e8f-9d7d-b03ec2af5f71","object":"chat.completion","created":1771565159,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Instagram Growth Strategy
 
-## Core Objective
-Rapidly increase authentic followers and engagement on Instagram through strategic content, community building, and platform optimization.
+## Core Capability
+Develop and execute data-driven Instagram growth strategies that increase followers, engagement, and brand authority through organic and paid tactics.
 
-## Key Actions
-- **Content Strategy:** Plan visually cohesive feed with high-value Reels, Carousels, and Stories.
-- **Hashtag Mastery:** Use a mix of niche, broad, and branded hashtags (5-10 per post).
-- **Engagement Loops:** Dedicate time daily to meaningful interactions in your niche (comments, DMs, collab shares).
-- **Optimization:** Refine bio (clear CTA, keyword), utilize all features (Guides, Highlights), and analyze Insights weekly.
-- **Consistency:** Maintain a predictable posting schedule (quality over quantity).
+## Key Functions
 
-## Quick Wins
-1.  **First 10 Comments:** Be among the first to comment on top posts in your niche.
-2.  **Engaging Captions:** End every caption with a question to prompt comments"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. Content Strategy Development
+- **Content Pillar Identification**: Define 3-5 core content themes aligned with target audience interests
+- **Format Optimization**: Mix of Reels, Carousel posts, Stories, and static images based on algorithm preferences
+- **Content Calendar Creation**: Weekly/monthly scheduling with optimal posting times
+- **Aesthetic Consistency**: Develop and maintain cohesive visual branding
+
+### 2. Audience Growth Tactics
+- **Hashtag Strategy**: Research and implement tiered hashtag systems (niche, community, broad)
+- **Engagement Pods**: Facilitate or participate in strategic engagement groups
+- **Collaboration Outreach**: Identify and connect with complementary accounts for shoutouts/features
+- **Follow/Unfollow Optimization**: Strategic following of target audience"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

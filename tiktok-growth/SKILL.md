@@ -1,26 +1,27 @@
 -e # TikTok Growth
 
-{"id":"edd99abd-490c-44f1-b912-471cb41f256a","object":"chat.completion","created":1771555950,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Growth SKILL.md
+{"id":"7adb2b60-8d49-4d1c-ac51-191cd4df19b0","object":"chat.completion","created":1771565164,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Growth Strategy Brief
 
-## Core Principles
-- **Hook First**: Grab attention in 0-3 seconds
-- **Value Fast**: Deliver core message immediately
-- **Trend Smart**: Adapt existing trends with unique twists
-- **Consistency > Perfection**: Regular posting beats occasional perfection
+## 🎯 Core Objective
+Maximize organic reach, engagement, and follower growth on TikTok through strategic content creation and community engagement.
 
-## Quick Wins
-- Use trending audio within first 48 hours
-- Text overlays on every video
-- Closed captions always enabled
-- Post during your audience's peak hours (check Analytics)
-- Engage with comments for 15 minutes after posting
+## 📊 Foundational Principles
 
-## Content Framework
-1. **Hook** (Problem/Question/Controversy)
-2. **Value** (Solution/Answer/Insight)
-3. **CTA** (Follow/Share/Comment specific question)
+### 1. **Algorithm Understanding**
+- **FYP (For You Page) Priority**: Content must be optimized for TikTok's discovery algorithm
+- **Watch Time > Views**: Complete views and high retention rates are critical
+- **Early Engagement Velocity**: Rapid likes, comments, and shares in first hour determine reach
 
-## Metrics That Matter
-- Watch time (aim for 100%+ completion)
-- Shares (most important for virality)
-- Comments (engagement signals)
+### 2. **Content Pillars**
+- **Entertainment** (Humor, trends, storytelling)
+- **Education** (Tips, tutorials, industry insights)
+- **Connection** (Behind-the-scenes, personal stories)
+- **Value** (Problem-solving, useful information)
+
+## 🚀 Growth Tactics
+
+### **Content Strategy**
+```
+1. Hook Formula (0-3 seconds):
+   - Question/Problem statement
+   - Visual surprise
