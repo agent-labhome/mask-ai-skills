@@ -1,17 +1,23 @@
 -e # Psychology
 
-{"id":"295474e1-3539-4ecc-b850-c1621bff3afc","object":"chat.completion","created":1771541580,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Psychology SKILL.md
+{"id":"07054d2c-196a-4735-ac26-1863f763c39d","object":"chat.completion","created":1771573988,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Psychology: A Brief Overview
 
-## Core Competencies
-- **Critical Thinking** – Evaluate theories, research methods, and evidence objectively.
-- **Research Literacy** – Understand and interpret quantitative/qualitative studies, statistics, and experimental design.
-- **Empathetic Listening** – Actively listen and communicate with awareness of cognitive/emotional states.
-- **Behavioral Observation** – Systematically notice and interpret verbal/nonverbal cues.
-- **Ethical Reasoning** – Apply ethical principles (confidentiality, consent, do no harm) in professional and personal contexts.
+## Core Definition
+Psychology is the scientific study of mind and behavior, encompassing conscious and unconscious phenomena, as well as thought and emotion.
 
-## Key Knowledge Areas
-- **Cognitive Processes** – Memory, attention, perception, decision-making, problem-solving.
-- **Developmental Stages** – Lifespan changes across physical, cognitive, social domains.
-- **Social Dynamics** – Group behavior, attitudes, persuasion, prejudice, relationships.
-- **Mental Health Fundamentals** – Basic recognition of common disorders, stress responses, coping mechanisms.
-- **Learning Principles** – Classical/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Major Perspectives
+- **Biological:** Examines how brain structure, neurotransmitters, and genetics influence behavior
+- **Behavioral:** Focuses on observable behaviors and environmental influences
+- **Cognitive:** Studies mental processes like memory, problem-solving, and decision-making
+- **Psychodynamic:** Explores unconscious drives and early childhood experiences
+- **Humanistic:** Emphasizes personal growth, free will, and human potential
+
+## Key Subfields
+- **Clinical Psychology:** Assessment and treatment of mental disorders
+- **Developmental Psychology:** Lifespan changes in behavior and thinking
+- **Social Psychology:** How individuals are influenced by others and social contexts
+- **Cognitive Psychology:** Mental processes including perception, attention, and language
+- **Industrial-Organizational:** Psychology applied to workplace settings
+
+## Fundamental Concepts
+- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
