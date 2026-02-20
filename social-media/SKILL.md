@@ -1,20 +1,27 @@
 -e # Social Media
 
-{"id":"ada75a29-7350-45ee-aaf7-b5d3387f90f6","object":"chat.completion","created":1771566930,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Social Media Brief
+{"id":"8a034e19-f9c5-48b3-a2b7-a79e8016a79c","object":"chat.completion","created":1771585530,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Social Media Brief
 
-## Purpose
-This document outlines the skill requirements for creating effective social media briefs that align brand strategy with platform execution.
+## Core Competency
+Strategic social media planning and execution for brand growth, community engagement, and measurable business impact.
 
-## Core Competencies
+## Key Capabilities
 
-### 1. Strategic Foundation
-- **Audience Analysis**: Identify target demographics, psychographics, and platform preferences
-- **Competitive Analysis**: Benchmark against 3-5 key competitors' social presence
-- **Platform Selection**: Match campaign goals to appropriate platforms (TikTok vs LinkedIn vs Instagram, etc.)
-- **Goal Setting**: Define SMART objectives (awareness, engagement, conversion, loyalty)
+### 1. Platform Strategy & Selection
+- Platform-specific expertise (Meta, Instagram, TikTok, LinkedIn, X/Twitter, Pinterest, YouTube)
+- Audience-platform alignment analysis
+- Cross-platform integration strategies
+- Emerging platform evaluation
 
-### 2. Content Strategy
-- **Content Pillars**: Develop 3-5 thematic categories that support brand identity
-- **Content Mix**: Balance promotional, educational, entertaining, and user-generated content
-- **Format Mastery**: Understand platform-specific formats (Reels, Stories, Carousels, Threads, etc.)
-- **Voice & Tone**: Adapt brand voice appropriately for each platform"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Content Strategy & Creation
+- Content calendar development
+- Platform-optimized content formats (Reels, Stories, Carousels, etc.)
+- Brand voice and visual identity implementation
+- User-generated content strategies
+- Content repurposing systems
+
+### 3. Community Management
+- Engagement strategy development
+- Comment moderation and response protocols
+- Crisis communication planning
+- Community growth tactics
