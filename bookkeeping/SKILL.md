@@ -1,27 +1,23 @@
 -e # Bookkeeping
 
-{"id":"6537be8c-3b09-4a58-8060-3fe4676b10e5","object":"chat.completion","created":1771519874,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bookkeeping SKILL.md
+{"id":"4495132a-5ba2-444a-b035-aa56f4a2ccfa","object":"chat.completion","created":1771565445,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Bookkeeping
 
 ## Core Competencies
-- **Double-entry accounting** mastery
-- **Accounts payable/receivable** management
-- **Bank reconciliation** and transaction tracking
-- **Financial statement** preparation (P&L, balance sheets)
-- **Tax documentation** and compliance support
-- **Payroll processing** and records maintenance
-- **Expense categorization** and tracking
 
-## Key Tools
-- QuickBooks, Xero, FreshBooks
-- Excel/Google Sheets (advanced)
-- Accounting software integration
-- Document management systems
+### 1. **Financial Record Management**
+- **Double-Entry Bookkeeping**: Maintain accurate general ledger using debit/credit principles
+- **Transaction Recording**: Process invoices, receipts, payments, and expenses
+- **Account Reconciliation**: Monthly bank/credit card statement reconciliation
+- **Chart of Accounts**: Maintain organized account structure for business needs
 
-## Essential Traits
-- Meticulous attention to detail
-- Strong organizational skills
-- Discretion with confidential data
-- Deadline-oriented workflow
-- Basic analytical interpretation
+### 2. **Accounts Management**
+- **Accounts Payable**: Process vendor invoices, manage payment schedules
+- **Accounts Receivable**: Generate customer invoices, track payments, follow up on overdue accounts
+- **Payroll Processing**: Calculate wages, deductions, and tax withholdings
 
-## Deliverables
+### 3. **Financial Reporting**
+- **Basic Financial Statements**: Prepare income statements, balance sheets, cash flow statements
+- **Trial Balance**: Generate and review for accuracy before closing periods
+- **Management Reports**: Create aging reports, revenue summaries, expense analyses
+
+### 4. **Com"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
