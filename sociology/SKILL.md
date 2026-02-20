@@ -1,27 +1,27 @@
 -e # Sociology
 
-{"id":"63561d3d-5884-484c-aced-7aa666d501e3","object":"chat.completion","created":1771573993,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Sociology
+{"id":"083fb5a1-cc28-4e41-886d-a71f03c88bcf","object":"chat.completion","created":1771583689,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Sociology - SKILL.md
 
 ## Core Competencies
 
-**Theoretical Analysis**
-- Apply major sociological paradigms (structural-functionalism, conflict theory, symbolic interactionism)
-- Analyze social phenomena through multiple theoretical lenses
-- Connect micro-level interactions to macro-level structures
+**Theoretical Understanding**
+- Major sociological paradigms (functionalism, conflict theory, symbolic interactionism)
+- Classical and contemporary sociological theories
+- Critical analysis of social structures and institutions
 
-**Research Methodology**
-- Design and execute qualitative studies (ethnography, interviews, content analysis)
-- Conduct quantitative research (surveys, statistical analysis)
-- Apply ethical research practices and critical data interpretation
+**Research & Methodology**
+- Quantitative and qualitative research design
+- Data collection (surveys, interviews, ethnography, content analysis)
+- Statistical analysis and interpretation
+- Ethical research practices
 
-**Social Systems Analysis**
-- Deconstruct institutions (family, education, religion, government, economy)
-- Analyze social stratification (class, race, gender, sexuality, ability)
-- Examine power dynamics and social inequality
+**Analytical Skills**
+- Identifying patterns in social behavior and organization
+- Connecting micro-level interactions to macro-level structures
+- Critical thinking about power, inequality, and social change
+- Comparative analysis across cultures and historical periods
 
-## Key Applications
+## Key Knowledge Areas
 
-**Critical Thinking**
-- Identify hidden assumptions in social arrangements
-- Recognize socialization processes and their impacts
-- Challenge \"common sense\" explanations with evidence
+- Social stratification (class, race, gender, sexuality)
+- Social institutions (family, education, religion, government, economy)

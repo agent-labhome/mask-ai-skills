@@ -1,27 +1,27 @@
 -e # History
 
-{"id":"482a6261-8880-4335-aef7-9db8f8c97c84","object":"chat.completion","created":1771573978,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: History
+{"id":"75d2fd2c-5ca0-4225-a0a0-6cee0e9ad1d0","object":"chat.completion","created":1771583675,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: History
 
 ## Core Competencies
 
 **Historical Analysis & Interpretation**
-- Critical evaluation of primary and secondary sources
-- Understanding historical context and causality
-- Recognizing bias, perspective, and historiography
-- Analyzing continuity and change over time
+- Ability to evaluate primary and secondary sources for credibility, perspective, and bias
+- Skill in identifying continuity and change across time periods
+- Capacity to analyze cause-and-effect relationships in historical contexts
+- Understanding of historical contingency (how outcomes depend on preceding events)
 
 **Chronological Reasoning**
-- Sequencing events and understanding temporal relationships
-- Identifying turning points and periods of transformation
-- Recognizing long-term patterns and trends
-- Understanding periodization and historical frameworks
+- Proficiency in periodization (organizing history into meaningful segments)
+- Ability to construct and interpret timelines
+- Skill in sequencing events and recognizing their temporal relationships
+- Understanding of anachronism and historical context
 
-**Research & Methodology**
-- Archival research and source verification
-- Historical methodology and evidence evaluation
-- Comparative analysis across regions/time periods
-- Interdisciplinary approaches (social, economic, cultural history)
+**Research Methodology**
+- Expertise in archival research and document analysis
+- Knowledge of historiographical approaches and schools of thought
+- Ability to synthesize information from multiple historical sources
+- Skill in distinguishing between correlation and causation in historical data
 
-**Communication of Historical Knowledge**
-- Clear narrative construction and argumentation
-- Effective use of evidence to support claims
+**Contextualization**
+- Capacity to situate events within broader social, political, economic, and cultural contexts
+- Understanding of historical geography and its influence on events
