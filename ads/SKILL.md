@@ -1,27 +1,27 @@
 -e # Ads
 
-{"id":"cf13988a-978b-43d2-8d85-948a5096077f","object":"chat.completion","created":1771547083,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Ads Brief
+{"id":"81cc8fe1-af11-4109-ab97-d2575ab38e88","object":"chat.completion","created":1771555825,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Ads Brief
 
 ## Purpose
 Create clear, actionable advertising briefs that align creative teams with business objectives.
 
-## Core Elements
-- **Objective**: Primary goal (awareness, conversion, etc.)
-- **Target Audience**: Demographics, behaviors, pain points
-- **Key Message**: Single compelling takeaway
-- **Brand Voice**: Tone and personality guidelines
-- **Call-to-Action**: Desired user response
-- **Specifications**: Format, duration, platform requirements
-- **Success Metrics**: How performance will be measured
+## Core Components
+1. **Objective** - What the ad must achieve (awareness, conversions, etc.)
+2. **Target Audience** - Demographics, psychographics, behaviors
+3. **Key Message** - Single compelling idea to communicate
+4. **Brand Voice** - Tone and personality guidelines
+5. **Mandatories** - Legal requirements, logos, disclaimers
+6. **Success Metrics** - How performance will be measured
 
 ## Best Practices
 - Start with the business problem, not creative ideas
-- Keep it concise (1 page maximum)
-- Include competitive context when relevant
-- Distinguish \"must-have\" from \"nice-to-have\"
-- Align all stakeholders before creative work begins
+- Be specific about what the audience should feel/do
+- Include competitive context
+- Keep it concise (1 page ideal)
+- Distinguish between \"must-have\" and \"nice-to-have\"
 
 ## Common Pitfalls to Avoid
-- Vague objectives (\"increase engagement\")
-- Overly broad target audiences
-- Multiple conflicting messages
+- Vague objectives (\"increase awareness\")
+- Overloading with multiple messages
+- Omitting measurement criteria
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

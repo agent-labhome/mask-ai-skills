@@ -1,27 +1,25 @@
 -e # SEO
 
-{"id":"1b3a234d-35f4-497b-9954-5d1984bfbd69","object":"chat.completion","created":1771547074,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO SKILL.md
+{"id":"521e3d90-adad-486f-9f91-a55b108ab0aa","object":"chat.completion","created":1771555811,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO SKILL.md
 
 ## Core Competencies
-- Keyword research & strategy
-- On-page optimization (meta tags, content, structure)
-- Technical SEO (site speed, mobile-friendliness, indexing)
-- Backlink analysis & link building
-- SEO analytics (Google Analytics, Search Console)
-- Local SEO optimization
+- **Technical SEO**: Site audits, crawl optimization, structured data, Core Web Vitals
+- **On-Page SEO**: Keyword research, content optimization, meta tags, internal linking
+- **Off-Page SEO**: Link building, brand mentions, local SEO, reputation management
+- **Analytics**: Google Analytics, Search Console, rank tracking, performance reporting
 
 ## Key Tools
-- Google Search Console
-- Google Analytics
-- SEMrush / Ahrefs / Moz
-- Screaming Frog
-- Google PageSpeed Insights
+- Google Search Console, Google Analytics, SEMrush/Ahrefs, Screaming Frog
+- Keyword research tools, rank trackers, schema markup generators
 
 ## Deliverables
-- SEO audits & recommendations
-- Keyword mapping & targeting
-- Content optimization plans
-- Performance tracking & reporting
-- Technical implementation guidance
+- SEO audits and strategy documents
+- Keyword mapping and content plans
+- Technical implementation guides
+- Performance reports with actionable insights
 
 ## Mindset
+- Data-driven decision making
+- User intent focused
+- Adaptable to algorithm changes
+- Balances technical precision with creative content strategy"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":181,"total_tokens":196,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

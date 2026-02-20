@@ -1,24 +1,27 @@
 -e # Copywriting
 
-{"id":"088420b2-2c89-4914-a749-7578280fdfbc","object":"chat.completion","created":1771547069,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Copywriting Brief SKILL
+{"id":"acc24b84-a70d-4b3a-bdc3-294938c16b55","object":"chat.completion","created":1771555806,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Copywriting Briefs
 
 ## Purpose
-A structured framework to capture essential information for creating effective copy that aligns with business goals and audience needs.
+Create clear, actionable briefs that align stakeholders and empower copywriters to produce effective, on-brand content.
 
-## Core Components
+## Core Principles
 
-### 1. Project Basics
-- **Project Name:** [Clear identifier]
-- **Client/Stakeholder:** [Who is requesting this?]
-- **Due Date:** [When is it needed?]
+**Clarity Over Creativity**
+- Define objectives before solutions
+- Use plain language, avoid jargon
+- Specify what success looks like
 
-### 2. Objective & Goals
-- **Primary Objective:** What should this copy achieve? (e.g., increase sign-ups, explain a feature, drive sales)
-- **Success Metrics:** How will we measure success? (e.g., CTR, conversions, engagement)
+**Context is King**
+- Include business goals, not just creative asks
+- Provide audience insights, not just demographics
+- Share competitive landscape
 
-### 3. Target Audience
-- **Primary Audience:** Who are we speaking to? (Demographics, psychographics, job roles)
-- **Audience Needs/Pain Points:** What problems do they have that we're solving?
-- **Current Mindset:** What do they think/feel about this topic now?
+**Constraints Enable Creativity**
+- Define guardrails (tone, voice, legal requirements)
+- Specify practical limits (word count, formats, timeline)
+- Note mandatory inclusions (CTAs, keywords, disclosures)
 
-### 4."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Essential Components
+
+1. **Objective** - What should this copy achieve?
