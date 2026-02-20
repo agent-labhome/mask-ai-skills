@@ -1,23 +1,21 @@
 -e # Ethereum
 
-{"id":"c2952995-fe72-46aa-b3c7-6b4a54986532","object":"chat.completion","created":1771559470,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ethereum SKILL.md
+{"id":"2c106b1b-bbe9-498c-8b1f-e47b1c4ff785","object":"chat.completion","created":1771565250,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Ethereum
 
-## Core Concepts
-- **Ethereum**: Decentralized blockchain with smart contract functionality
-- **Smart Contracts**: Self-executing code on Ethereum Virtual Machine (EVM)
-- **Gas**: Unit measuring computational effort (paid in ETH)
-- **ETH**: Native cryptocurrency (used for transactions and gas)
+## Core Competencies
 
-## Key Components
-- **EVM**: Global decentralized computer executing smart contracts
-- **Accounts**: Externally Owned (EOA) and Contract accounts
-- **Consensus**: Transitioned from PoW to PoS (The Merge)
-- **Layers**: L1 (mainnet), L2 (scaling solutions like Optimism, Arbitrum)
+### Foundational
+- **Blockchain Fundamentals**: Understanding of distributed ledgers, consensus mechanisms, cryptographic hashing
+- **Ethereum Architecture**: EVM, accounts (EOA/contract), gas, transactions, blocks
+- **Smart Contracts**: Solidity/Vyper development, testing, deployment patterns
+- **Web3 Stack**: JSON-RPC, wallets (MetaMask), providers, signers
 
-## Development Stack
-- **Languages**: Solidity (primary), Vyper
-- **Tools**: Hardhat, Foundry, Truffle
-- **Frameworks**: Ethers.js, Web3.js
-- **Testing**: Mocha/Chai, Waffle
+### Development
+- **Smart Contract Languages**: Solidity (primary), Vyper
+- **Development Tools**: Hardhat, Foundry, Truffle, Remix IDE
+- **Testing**: Unit/integration tests, security analysis (Slither, MythX)
+- **Deployment**: Migration scripts, upgrade patterns (Proxy, UUPS)
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Tooling & Infrastructure
+- **Nodes**: Running/maintaining Geth, Erigon, Nethermind clients
+- **APIs**: Ethers.js, Web3"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
