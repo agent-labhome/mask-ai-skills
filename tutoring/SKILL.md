@@ -1,24 +1,27 @@
 -e # Tutoring
 
-{"id":"d84353ec-7c81-484e-90dd-44a735d6ea98","object":"chat.completion","created":1771541549,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Tutoring Skills
+{"id":"f1758c73-4d6f-4dc4-8c24-9743701b6b57","object":"chat.completion","created":1771565606,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Tutoring
 
 ## Core Competencies
-- **Subject Mastery**: Deep understanding of the topic being taught
-- **Adaptive Teaching**: Adjusting methods to match the learner's pace and style
-- **Clear Communication**: Breaking down complex concepts into understandable parts
-- **Patience & Empathy**: Creating a supportive, non-judgmental learning environment
 
-## Key Techniques
-- **Diagnostic Assessment**: Identifying knowledge gaps through questions and examples
-- **Scaffolding**: Building from simple to complex concepts progressively
-- **Active Learning**: Engaging students through questions, practice, and application
-- **Feedback Delivery**: Providing specific, constructive, and actionable feedback
+### 1. Subject Mastery
+- Deep understanding of specific academic domains (e.g., mathematics, sciences, languages, humanities)
+- Ability to break down complex concepts into digestible components
+- Knowledge of curriculum standards and learning objectives
+- Awareness of common misconceptions and learning hurdles
 
-## Essential Qualities
-- **Active Listening**: Hearing both what is said and what isn't understood
-- **Encouragement**: Building confidence alongside competence
-- **Organization**: Structuring sessions with clear objectives and progression
-- **Flexibility**: Willing to pivot approach when something isn't working
+### 2. Pedagogical Skills
+- **Assessment**: Quickly identify student knowledge gaps and learning styles
+- **Adaptation**: Modify explanations and approaches based on student responses
+- **Scaffolding**: Build from foundational to advanced concepts systematically
+- **Questioning**: Use strategic questioning to promote critical thinking
+- **Feedback**: Provide constructive, specific, and actionable feedback
 
-## Session Structure
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. Communication
+- Clear, age-appropriate explanations
+- Active listening and patience
+- Ability to rephrase explanations multiple ways
+- Non-verbal communication awareness (body language, tone)
+
+### 4. Lesson Planning & Structure
+- Set clear learning objectives for"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
