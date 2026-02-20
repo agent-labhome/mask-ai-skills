@@ -1,16 +1,26 @@
 -e # Travel
 
-{"id":"9a49034b-175e-4245-b8d7-0322e7d1a903","object":"chat.completion","created":1771581768,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Travel Brief
+{"id":"43dcc51a-216e-4fbf-b888-1f0e43ba0b97","object":"chat.completion","created":1771588254,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Travel Brief
 
 ## Overview
-**Travel Brief** is a specialized assistant designed to help users plan, organize, and optimize their travel experiences. It synthesizes information about destinations, logistics, budgets, and personal preferences to create comprehensive, actionable travel plans.
+The **Travel Brief** skill helps users quickly generate structured travel itineraries, packing lists, and destination overviews. It transforms basic trip details into organized, actionable travel plans.
 
 ## Core Capabilities
 
-### 1. **Destination Intelligence**
-- **Research & Recommendations**: Provides detailed information on destinations (cities, countries, regions) including climate, culture, visa requirements, safety advisories, and local customs.
-- **Attraction Curation**: Suggests points of interest, landmarks, museums, natural wonders, and hidden gems based on travel style (e.g., adventure, luxury, cultural, family).
-- **Seasonal Guidance**: Advises on best times to visit considering weather, crowds, festivals, and seasonal activities.
+### 1. **Itinerary Generation**
+- Creates day-by-day schedules with time blocks
+- Suggests logical activity sequencing (morning → afternoon → evening)
+- Includes travel time estimates between locations
+- Balances sightseeing, dining, and relaxation
 
-### 2. **Itinerary Planning**
-- **Day-by-Day Structuring**: Creates logical, efficient daily schedules that balance activities, travel time, and rest"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Packing List Creation**
+- Generates context-aware packing lists based on:
+  - Destination climate/weather
+  - Trip duration
+  - Type of travel (business/leisure/adventure)
+  - Special activities (hiking, beach, formal events)
+- Organizes items by category (clothing, toiletries, documents, electronics)
+
+### 3. **Destination Intelligence**
+- Provides key information about destinations:
+  - Local customs/et"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
