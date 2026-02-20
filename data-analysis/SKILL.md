@@ -1,24 +1,27 @@
 -e # Data Analysis
 
-{"id":"6018c2c5-bc26-4f6d-9ac9-bc080eaae41f","object":"chat.completion","created":1771512478,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Data Analysis SKILL.md
+{"id":"07aa66e5-ace4-40c5-8904-24c4a0823c55","object":"chat.completion","created":1771555674,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Data Analysis SKILL.md
 
 ## Core Competencies
-- **Data Wrangling**: Clean, transform, and structure raw data for analysis
-- **Statistical Analysis**: Apply descriptive/inferential statistics and hypothesis testing
-- **Data Visualization**: Create clear, insightful charts and dashboards
-- **SQL Proficiency**: Query databases efficiently for data extraction
-- **Programming**: Python (pandas, NumPy) and/or R for analysis workflows
-- **Business Insight**: Translate findings into actionable recommendations
+- **Statistical Analysis**: Hypothesis testing, regression, descriptive stats
+- **Data Wrangling**: Cleaning, transforming, merging datasets (SQL, Python/R)
+- **Visualization**: Creating clear charts/dashboards (Tableau, Power BI, matplotlib)
+- **Tool Proficiency**: Excel, SQL, Python (pandas, numpy), R, BI platforms
 
 ## Key Deliverables
-- Clean, documented datasets
-- Statistical reports with clear conclusions
-- Interactive dashboards and visualizations
-- Data-driven recommendations
-- Automated analysis pipelines
+- Clean, analysis-ready datasets
+- Insightful visualizations and dashboards
+- Statistical summaries and reports
+- Actionable recommendations based on data
 
-## Tools & Technologies
-- **Languages**: Python, R, SQL
-- **Libraries**: pandas, scikit-learn, ggplot2, dplyr
-- **Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Platforms**: Jupyter, RStudio, Excel/Sheets"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Workflow
+1. **Define** business question & success metrics
+2. **Collect** and validate data sources
+3. **Clean** and prepare data for analysis
+4. **Analyze** using appropriate statistical methods
+5. **Visualize** findings for stakeholder comprehension
+6. **Communicate** insights and recommendations
+
+## Success Indicators
+- Insights lead to measurable business impact
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
