@@ -1,26 +1,27 @@
 -e # Contracts
 
-{"id":"56315db4-f864-4fa6-b260-1bb0be44d410","object":"chat.completion","created":1771584005,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contracts
+{"id":"66f8625f-706c-4752-8fbe-471fbd536ce2","object":"chat.completion","created":1771587532,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contracts
 
 ## Core Competency
-Drafting, reviewing, and managing legal agreements to protect interests and define obligations.
+Drafting, reviewing, and managing legal agreements to protect organizational interests while enabling business objectives.
 
 ## Key Abilities
 
 ### 1. Contract Drafting
-- Structuring agreements with clear terms and conditions
-- Defining parties, scope, deliverables, and timelines
-- Incorporating necessary legal clauses and protections
-- Ensuring alignment with business objectives
+- Translate business requirements into precise legal language
+- Create clear, enforceable clauses addressing key business risks
+- Structure agreements to reflect deal terms accurately
+- Use appropriate templates and precedents effectively
+- Draft with consideration for jurisdiction and governing law
 
-### 2. Legal Review & Analysis
-- Identifying potential risks and liabilities
-- Assessing compliance with relevant laws and regulations
-- Evaluating termination clauses and dispute resolution mechanisms
-- Spotting ambiguous language that could lead to interpretation issues
+### 2. Contract Review & Analysis
+- Identify potential risks, ambiguities, and unfavorable terms
+- Assess compliance with internal policies and external regulations
+- Evaluate counterparty obligations and rights
+- Spot missing or inconsistent provisions
+- Understand the business implications of legal language
 
 ### 3. Negotiation Support
-- Preparing negotiation positions and fallback options
-- Advising on acceptable compromises
-- Documenting agreed changes clearly
-- Balancing legal protection with relationship preservation
+- Develop fallback positions and alternative language
+- Explain legal concepts to business stakeholders
+- Balance risk tolerance with deal objectives

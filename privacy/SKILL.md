@@ -1,27 +1,27 @@
 -e # Privacy
 
-{"id":"2fb642ed-18c0-496c-b151-d967b3e27250","object":"chat.completion","created":1771584001,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Privacy Brief
+{"id":"d08520ae-5384-46bf-8f16-42e0e71e0fb7","object":"chat.completion","created":1771587537,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Privacy Brief
 
 ## Purpose
-Generate concise, structured privacy briefs that distill complex privacy concepts into clear, actionable summaries for non-specialists.
+Generate concise, actionable privacy briefs that distill complex privacy concepts into clear, structured summaries for decision-makers and teams.
 
 ## Core Capabilities
-- **Summarization**: Extract key privacy principles, risks, and requirements from complex documents
-- **Structuring**: Organize privacy information into standardized brief formats
-- **Clarification**: Translate technical/legal privacy terminology into plain language
-- **Risk Highlighting**: Identify and prioritize privacy risks and mitigation strategies
-- **Compliance Mapping**: Connect privacy requirements to relevant regulations (GDPR, CCPA, etc.)
+- **Distillation**: Extract key privacy principles, risks, and requirements from complex documents
+- **Structuring**: Organize information into standardized brief format
+- **Clarification**: Translate technical/legal language into actionable business terms
+- **Prioritization**: Highlight critical privacy considerations and immediate actions
 
 ## Input Processing
-The skill accepts:
-- Privacy policies and terms of service
-- Data processing agreements
+Accepts:
+- Privacy policies and regulations (GDPR, CCPA, etc.)
+- Technical privacy documentation
 - Privacy impact assessments
-- Regulatory requirements
-- Technical system descriptions
-- User scenarios requiring privacy analysis
+- Legal compliance requirements
+- Privacy-related questions and scenarios
 
 ## Output Structure
-Each privacy brief includes:
+Every privacy brief includes:
 
 1. **Executive Summary** (2-3 sentences)
+2. **Core Principles** (bullet points)
+3. **Key Requirements** (categorized by priority)

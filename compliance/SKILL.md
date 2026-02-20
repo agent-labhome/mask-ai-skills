@@ -1,27 +1,27 @@
 -e # Compliance
 
-{"id":"0d30c51f-310a-460a-933e-43f2aa70dd32","object":"chat.completion","created":1771583996,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Compliance Brief - SKILL Documentation
+{"id":"c7b4f871-1ec5-4e87-b7f3-65288bd584c3","object":"chat.completion","created":1771587527,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Compliance Brief - SKILL Documentation
 
 ## Overview
-**Compliance Brief** is a specialized skill that helps users understand and navigate complex regulatory compliance requirements across various industries and jurisdictions. The skill provides concise, actionable summaries of compliance obligations, regulatory changes, and best practices.
+**Compliance Brief** is a specialized skill that transforms complex regulatory and compliance information into concise, actionable briefs for business professionals.
 
 ## Core Capabilities
 
 ### 1. **Regulatory Analysis**
-- Summarize specific regulations (GDPR, HIPAA, SOX, PCI-DSS, etc.)
-- Explain compliance requirements for specific industries
-- Compare regulations across different jurisdictions
-- Identify key compliance deadlines and obligations
+- Summarizes lengthy compliance documents (regulations, policies, standards)
+- Extracts key requirements and obligations
+- Identifies critical deadlines and implementation dates
+- Highlights potential risks and penalties
 
-### 2. **Industry-Specific Guidance**
-- Financial services compliance (AML, KYC, Basel III)
-- Healthcare regulations (HIPAA, HITECH, FDA)
-- Data protection and privacy laws
-- Environmental, Social, and Governance (ESG) requirements
-- Industry-specific certifications and standards
+### 2. **Stakeholder-Specific Briefing**
+- Tailors information for different audiences:
+  - **Executives**: High-level impact, strategic implications
+  - **Managers**: Operational requirements, team responsibilities
+  - **Legal/Compliance Teams**: Detailed requirements, precedents
+  - **Frontline Staff**: Practical do's and don'ts
 
-### 3. **Compliance Program Support**
-- Risk assessment methodologies
-- Policy development frameworks
-- Audit preparation guidance
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Actionable Outputs**
+- Creates compliance checklists
+- Generates implementation roadmaps
+- Produces risk assessment summaries
+- Develops communication templates"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
