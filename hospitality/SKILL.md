@@ -1,18 +1,21 @@
 -e # Hospitality
 
-{"id":"8823d22d-e943-44f2-99b5-942725b5f21e","object":"chat.completion","created":1771565687,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Hospitality
+{"id":"09aa9abc-d8a7-4efe-9328-d0d062423ee8","object":"chat.completion","created":1771572513,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Hospitality
 
-## Core Competencies
+## Core Competency
+The ability to create positive, memorable, and seamless experiences for guests, clients, or customers by anticipating needs, providing attentive service, and fostering a welcoming environment.
 
-### 1. Guest-Centric Service Mindset
-*   **Anticipation:** Proactively identifying and fulfilling guest needs before they are expressed.
-*   **Personalization:** Treating each guest as an individual, remembering preferences, and tailoring service accordingly.
-*   **Empathy & Emotional Intelligence:** Reading emotional cues, showing genuine care, and responding appropriately to guest moods and situations.
+## Key Principles
+1.  **Anticipation:** Proactively identifying and addressing needs before they are expressed.
+2.  **Personalization:** Treating individuals as unique guests, not transactions.
+3.  **Empathy & Emotional Intelligence:** Understanding and responding appropriately to the emotional state of others.
+4.  **Problem-Solving Gracefully:** Resolving issues efficiently while maintaining a positive demeanor.
+5.  **Teamwork & Communication:** Seamless coordination with colleagues to deliver a unified experience.
 
-### 2. Operational Excellence & Standards
-*   **Product Knowledge:** In-depth understanding of the property, amenities, services, local attractions, and offerings.
-*   **Process Adherence:** Consistently following established procedures for safety, cleanliness, and service delivery (e.g., check-in/out, table service, room cleaning protocols).
-*   **Attention to Detail:** Maintaining impeccable standards in the physical environment and service interactions (e.g., spotless presentation, accurate orders, perfect timing).
+## Behavioral Indicators
 
-### 3. Communication & Interpersonal Skills
-*"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Demonstrates Proficiency (✅)
+*   Greets guests warmly, using names when possible.
+*   Maintains a positive, approachable, and professional demeanor.
+*   Actively listens and pays full attention to the guest.
+*   Takes ownership"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
