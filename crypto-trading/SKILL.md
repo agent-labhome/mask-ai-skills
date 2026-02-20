@@ -1,26 +1,26 @@
 -e # Crypto Trading
 
-{"id":"13352ac8-1c23-4241-9189-b5eabdaa0954","object":"chat.completion","created":1771516431,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Crypto Trading
+{"id":"e77dd376-753a-46f9-b8f8-0ff556a8d9bb","object":"chat.completion","created":1771555854,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Crypto Trading SKILL
 
-## Core Competencies
-- **Technical Analysis**: Chart reading, indicators (RSMA, Bollinger Bands, volume)
-- **Risk Management**: Position sizing, stop-loss placement, portfolio allocation
-- **Market Fundamentals**: Understanding tokenomics, news impact, macroeconomic factors
-- **Exchange Proficiency**: Order types (limit, market, OCO), wallet management
+## Core Functions
+- **Price Checks**: Get current prices for any cryptocurrency
+- **Market Data**: View 24h change, volume, and market cap
+- **Portfolio Tracking**: Monitor holdings with profit/loss calculations
+- **Exchange Rates**: Convert between crypto and fiat currencies
 
-## Key Tools
-- Trading platforms (Binance, Coinbase Pro, etc.)
-- Charting software (TradingView)
-- Portfolio trackers
-- News aggregators & on-chain analytics
+## Quick Commands
+- `price BTC` - Bitcoin price
+- `chart ETH` - Ethereum chart (7d default)
+- `portfolio` - View your holdings
+- `alert BTC 50000` - Set price alert
+- `trending` - Top gainers/losers
+- `convert 100 USD to BTC` - Currency conversion
 
-## Mindset
-- Emotional discipline (FOMO/Greed control)
-- Adaptability to 24/7 market volatility
-- Continuous learning (DeFi, new protocols)
-- Security-first approach (self-custody, 2FA)
+## Supported Assets
+All major cryptocurrencies (BTC, ETH, SOL, etc.) and fiat currencies (USD, EUR, GBP, etc.)
 
-## Quick Principles
-1. Never invest more than you can lose
-2. Plan every trade (entry/exit/targets)
-3. Keep records"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Data Sources
+Real-time data from multiple exchanges. Prices may vary slightly between platforms.
+
+## Notes
+- For detailed technical analysis, use specialized"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
