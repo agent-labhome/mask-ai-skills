@@ -1,26 +1,26 @@
 -e # Analytics
 
-{"id":"f6bae6fc-45f0-40a3-ac5b-dd5ea29884d0","object":"chat.completion","created":1771570234,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Analytics Brief
+{"id":"a55b5f46-6319-4114-ac99-cd86d7bc570c","object":"chat.completion","created":1771577971,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Analytics Brief
 
-## Core Competency
-Transforming complex data into actionable business insights through structured analysis and clear communication.
+## Purpose
+This document outlines the skills and competencies required to effectively create and interpret analytics briefs—concise documents that frame data analysis projects with clear objectives, scope, and expected outcomes.
 
-## Key Capabilities
+## Core Competencies
 
-### 1. **Data Interpretation & Analysis**
-- Translating raw data into meaningful business insights
-- Identifying patterns, trends, and anomalies in datasets
-- Applying statistical reasoning to business problems
-- Connecting data findings to strategic objectives
+### 1. **Business Acumen & Stakeholder Management**
+- Translate business problems into analytical questions
+- Identify key stakeholders and their information needs
+- Understand organizational goals and success metrics
+- Bridge communication between technical teams and business leaders
 
-### 2. **Brief Development & Structuring**
-- Creating clear, focused analytical briefs that answer specific business questions
-- Structuring analysis with logical flow: problem → methodology → findings → recommendations
-- Tailoring communication style to different stakeholders (executive vs. technical)
-- Balancing depth of analysis with clarity of presentation
+### 2. **Problem Framing & Scoping**
+- Define clear, measurable objectives for analysis
+- Establish project boundaries and constraints
+- Prioritize analysis components based on impact and feasibility
+- Distinguish between descriptive, diagnostic, predictive, and prescriptive analytics needs
 
-### 3. **Methodology Selection**
-- Choosing appropriate analytical approaches for different problem types
-- Understanding when to use descriptive, diagnostic, predictive, or prescriptive analytics
-- Selecting relevant KPIs and success metrics
-- Designing analysis frameworks that are both rigorous and practical"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Requirements Gathering**
+- Conduct effective stakeholder interviews
+- Document business requirements and success criteria
+- Identify available data sources and gaps
+- Specify key performance indicators (KPIs) and metrics

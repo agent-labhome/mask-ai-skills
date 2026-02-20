@@ -1,27 +1,25 @@
 -e # Excel
 
-{"id":"752e925c-bc4e-40c5-81f4-40f583c3d22c","object":"chat.completion","created":1771555679,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Excel SKILL.md
+{"id":"79b50c6a-d283-4698-b240-d2c9b09d50c3","object":"chat.completion","created":1771577985,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Excel
 
 ## Core Competencies
-- **Formulas & Functions**: SUM, VLOOKUP/XLOOKUP, IF, INDEX-MATCH, PivotTables
-- **Data Management**: Sorting, filtering, validation, tables, removing duplicates
-- **Analysis**: PivotTables, charts, conditional formatting, data analysis tools
-- **Automation**: Basic macros, data connections, Power Query fundamentals
-- **Formatting**: Cell styles, custom formats, conditional formatting rules
 
-## Key Outputs
-- Clean, structured datasets
-- Interactive dashboards and reports
-- Automated data processing workflows
-- Data visualizations (charts, sparklines)
-- Error-checked financial models
+### 1. **Data Management & Organization**
+- Structuring data in tabular format
+- Sorting and filtering data sets
+- Removing duplicates and cleaning data
+- Using Tables for dynamic ranges
+- Data validation and drop-down lists
 
-## Tools & Features
-- Power Query (data transformation)
-- PivotTables & PivotCharts
-- Data Validation & Conditional Formatting
-- XLOOKUP & dynamic arrays
-- Keyboard shortcuts for efficiency
+### 2. **Formulas & Functions**
+- **Essential:** SUM, AVERAGE, COUNT, MIN, MAX
+- **Lookup:** VLOOKUP, XLOOKUP, INDEX/MATCH
+- **Logical:** IF, AND, OR, IFS, SWITCH
+- **Text:** CONCAT, TEXTSPLIT, LEFT, RIGHT, MID
+- **Date/Time:** TODAY, NOW, DATE, DATEDIF
+- **Advanced:** SUMIFS, COUNTIFS, FILTER, UNIQUE
 
-## Best Practices
-- Use tables for dynamic ranges
+### 3. **Data Analysis**
+- PivotTables and PivotCharts
+- Conditional formatting
+- What-If Analysis (Goal Seek"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
