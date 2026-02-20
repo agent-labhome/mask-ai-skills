@@ -1,27 +1,27 @@
 -e # iOS
 
-{"id":"b769e2b7-fdc4-489f-8851-52d519f08cb2","object":"chat.completion","created":1771518905,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# iOS SKILL.md
+{"id":"32e6fe4f-25d0-42b9-99aa-4b81a021466a","object":"chat.completion","created":1771585117,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# iOS Development SKILL.md
 
 ## Core Competencies
-- Swift & Objective-C
-- UIKit & SwiftUI
-- Xcode & Interface Builder
-- Auto Layout & Adaptive UI
-- Core Data & Realm
 
-## Key Frameworks
-- Foundation, Core Animation, Core Graphics
-- Combine & Async/Await
-- Networking (URLSession, Alamofire)
+### **Languages & Frameworks**
+- Swift (primary)
+- Objective-C (legacy support)
+- SwiftUI & UIKit
+- Combine & async/await
+
+### **Architecture Patterns**
+- MVVM (preferred)
+- MVC, VIPER, Clean Architecture
+- Protocol-oriented programming
+
+### **Key iOS SDKs**
+- Foundation, UIKit, SwiftUI
+- Core Data, CloudKit
+- Core Animation, Core Graphics
+- ARKit, Core ML (as needed)
 - MapKit, Core Location
-- AVFoundation, Photos
 
-## Architecture Patterns
-- MVC, MVVM, VIPER
-- Protocol-Oriented Programming
-- Dependency Injection
-- Reactive Programming (Combine/RxSwift)
-
-## Development Tools
-- Git & GitHub/GitLab
-- CocoaPods & Swift Package Manager
+### **Development Tools**
+- Xcode & Instruments
+- Swift Package Manager, CocoaPods

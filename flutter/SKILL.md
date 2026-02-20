@@ -1,19 +1,20 @@
 -e # Flutter
 
-{"id":"2379190e-cf9b-4237-ab7a-b62cc8b6162d","object":"chat.completion","created":1771518915,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Flutter SKILL.md
+{"id":"e131ba18-2cd8-4a61-ad90-49dcc8026199","object":"chat.completion","created":1771585130,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Flutter
 
-## Core Competencies
-- **Dart Language**: Strong understanding of Dart syntax, async/await, streams, and null safety
-- **Widget Framework**: Expertise in Stateless/Stateful widgets, widget lifecycle, and composition
-- **State Management**: Proficient with Provider, Riverpod, BloC, and GetX patterns
-- **UI/UX Implementation**: Material Design, Cupertino widgets, custom painting, and animations
+## Core Proficiency
+- **Framework:** Flutter (Dart)
+- **Platforms:** iOS, Android, Web, Desktop (macOS/Windows/Linux)
+- **Architecture:** Widget-based reactive UI
 
-## Technical Stack
-- **Cross-Platform**: iOS, Android, Web, Desktop (macOS/Windows/Linux)
-- **Tooling**: Flutter CLI, DevTools, Firebase integration, CI/CD setup
-- **Architecture**: Clean Architecture, MVVM, repository pattern, dependency injection
-- **Testing**: Unit, widget, and integration testing with mockito and flutter_test
+## Key Technical Skills
+- **UI Development:** Widget tree, Material/Cupertino components, custom widgets
+- **State Management:** Provider, Riverpod, Bloc, GetX, StatefulWidget
+- **Navigation:** Navigator 2.0, GoRouter, named routes
+- **Data Persistence:** SharedPreferences, SQLite (sqflite), Hive, Firebase
+- **Networking:** Dio, http package, REST API integration, WebSocket
+- **Dependency Injection:** Provider, GetIt, Riverpod
 
-## Key Libraries
-- **Navigation**: go_router, auto_route
-- **Networking**: Dio, http,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Development Tools
+- **IDE:** VS Code, Android Studio/IntelliJ with Flutter plugins
+- **Build Tools:** Flutter CLI, Gradle, CocoaP"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
