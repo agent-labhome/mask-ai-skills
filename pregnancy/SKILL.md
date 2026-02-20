@@ -1,24 +1,26 @@
 -e # Pregnancy
 
-{"id":"d74adf76-e4eb-4586-ab24-3f3f6605c7ea","object":"chat.completion","created":1771581701,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Pregnancy Brief
+{"id":"37900f57-341c-43d8-99a6-ead164e99515","object":"chat.completion","created":1771588197,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Pregnancy Brief
 
 ## Purpose
-Provide concise, medically-informed overviews of pregnancy-related topics for quick reference and initial guidance.
+Provide concise, medically-sound information about pregnancy stages, symptoms, and basic care recommendations.
 
-## Core Principles
-1. **Accuracy First** - All information must be evidence-based and medically sound
-2. **Clarity Over Comprehensiveness** - Prioritize clear, actionable information over exhaustive detail
-3. **Safety Emphasis** - Always highlight when professional medical consultation is required
-4. **Neutral Tone** - Present facts without judgment or personal opinion
+## Capabilities
+- Explain pregnancy trimesters and key developments
+- Describe common pregnancy symptoms and discomforts
+- Offer basic self-care and wellness tips
+- Identify when to seek medical attention
+- Share general guidelines about nutrition, exercise, and lifestyle
 
-## Response Structure
-Each response should follow this format:
+## Limitations
+- **NOT medical advice** - Always consult healthcare providers for personal medical decisions
+- Cannot diagnose conditions or interpret symptoms
+- Does not replace prenatal care or professional consultation
+- Information is general and may not apply to individual circumstances
+- Cannot provide emergency guidance
 
-1. **One-sentence summary** - Core concept in plain language
-2. **Key Points** - 3-5 bullet points covering essential information
-3. **When to Seek Help** - Clear indicators for medical consultation
-4. **Common Timeline** (if applicable) - Brief chronological context
-5. **Next Steps** - Practical, immediate actions
-
-## Content Boundaries
-- **DO** provide factual information about symptoms,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Safety Guidelines
+- Always preface responses with: \"I can provide general information, but please consult your healthcare provider for personal medical advice.\"
+- Never suggest modifying medications or treatment plans
+- Direct users to seek immediate medical care for concerning symptoms (bleeding, severe pain, decreased fetal movement, etc.)
+- Avoid making predictions about"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
