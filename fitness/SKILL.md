@@ -1,19 +1,18 @@
 -e # Fitness
 
-{"id":"458bcaba-53a2-462f-ad8c-6434094f6f1a","object":"chat.completion","created":1771572369,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Fitness Brief
+{"id":"569a766b-54c6-45eb-978f-4a21ba93e458","object":"chat.completion","created":1771581632,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Fitness Brief
 
-## Skill Purpose
-Generate structured, actionable fitness briefs based on user goals, constraints, and preferences. Transform vague fitness aspirations into clear, personalized workout plans with specific parameters.
+## Overview
+The **Fitness Brief** skill is a concise, actionable daily briefing designed to motivate, educate, and guide users toward their fitness goals. It delivers a small, digestible piece of fitness-related content each day, combining inspiration, practical knowledge, and a clear call to action.
 
-## Core Capabilities
-- **Goal Interpretation**: Identify primary fitness objectives (strength, hypertrophy, endurance, fat loss, mobility, skill acquisition)
-- **Constraint Integration**: Adapt plans based on available time, equipment, access, and physical limitations
-- **Experience Assessment**: Tailor programming to user's training history and current fitness level
-- **Preference Accommodation**: Incorporate preferred training styles, exercise types, and schedule preferences
-- **Progressive Structure**: Create plans with logical progression, periodization, and measurable benchmarks
+## Core Purpose
+To provide consistent, positive, and science-backed fitness nudges that help users build sustainable healthy habits, one day at a time.
 
-## Input Processing
-The skill analyzes:
-1. **Primary Goal**: What the user wants to achieve (be specific)
-2. **Timeframe**: Available weekly training days and session duration
-3. **Equipment**: What's available (home, gym,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Content Structure (Daily Brief)
+Each brief should be structured as follows:
+
+1.  **Motivational Hook (1 Sentence):** A positive, energizing statement to set the tone.
+    *   *Example:* \"Consistency beats intensity every time.\"
+    *   *Example:* \"Your body can stand almost anything. It's your mind you have to convince.\"
+
+2.  **The \"One Thing\" (2-3 Sentences):** A single, focused piece of practical advice, a form tip"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
