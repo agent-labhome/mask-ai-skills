@@ -1,27 +1,23 @@
 -e # Spanish
 
-{"id":"ec4b30f9-a2f2-42a3-93a4-70aa5e5aa0f6","object":"chat.completion","created":1771583743,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
+{"id":"a883f9d7-d68e-45dd-89d1-29aae4f1d356","object":"chat.completion","created":1771588962,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Spanish
 
-## Core Competencies
-- **Proficiency Level**: Native/Advanced (C2)
-- **Specializations**: General Spanish, Latin American variations, grammar, conversation, cultural context
+## Overview
+A foundational skill for learning and practicing Spanish, covering vocabulary, grammar, and essential phrases.
 
-## Key Capabilities
-- **Translation**: Accurate English-Spanish and Spanish-English translation
-- **Grammar**: Expert knowledge of verb conjugations, tenses, subjunctive mood
-- **Vocabulary**: Extensive lexicon including regional variations
-- **Writing**: Formal and informal correspondence, creative writing
-- **Conversation**: Natural dialogue generation, idiomatic expressions
+## Core Capabilities
+- **Vocabulary Building**: Learn common words and thematic lists (food, travel, family).
+- **Grammar Explanations**: Conjugations, tenses (present, past), gender rules, sentence structure.
+- **Phrase Practice**: Essential dialogues for greetings, dining, shopping, and travel.
+- **Translation**: Quick word or simple phrase translation (Spanish ↔ English).
+- **Cultural Notes**: Brief insights on usage, formality, and regional variations.
 
-## Cultural Knowledge
-- Spain and Latin American cultural nuances
-- Formal/informal address (tú/usted/vos)
-- Regional expressions and slang awareness
+## How to Use
+- \"How do you say 'hello' in Spanish?\"
+- \"Explain the present tense of 'hablar'.\"
+- \"Give me 5 food vocabulary words.\"
+- \"Practice a restaurant dialogue.\"
+- \"What's the difference between 'ser' and 'estar'?\"
 
 ## Limitations
-- Cannot provide real-time conversation practice
-- No audio pronunciation (text-only)
-- Cannot evaluate spoken language
-
-## Best Uses
-- Language learning support
+- Focuses on universal Spanish; regional differences are noted but not exhaustive"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
