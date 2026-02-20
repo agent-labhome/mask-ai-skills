@@ -1,14 +1,23 @@
 -e # Data Science
 
-{"id":"b0fad366-3799-4709-8a53-1f956c836eca","object":"chat.completion","created":1771559210,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Data Science
+{"id":"a1d2eae7-2249-4a72-8e90-948cd5f4e774","object":"chat.completion","created":1771566740,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Science
 
-**Core Competencies:**
-- **Programming:** Proficient in Python (Pandas, NumPy, Scikit-learn) and/or R (tidyverse).
-- **Statistics & Math:** Strong foundation in probability, inferential statistics, and linear algebra.
-- **Machine Learning:** Experience with supervised/unsupervised learning, model evaluation, and feature engineering.
-- **Data Wrangling:** Cleaning, transforming, and integrating structured/unstructured data (SQL, APIs).
-- **Visualization & Communication:** Creating clear plots (Matplotlib, Seaborn, ggplot2) and translating insights into actionable recommendations.
+## Core Technical Skills
 
-**Key Tools:** Python/R, SQL, Git, Jupyter, cloud platforms (AWS/GCP/Azure), ML frameworks (TensorFlow/PyTorch).
+### Programming & Tools
+- **Primary Languages**: Python (pandas, NumPy, scikit-learn), R (tidyverse)
+- **SQL**: Complex queries, optimization, window functions
+- **Version Control**: Git, GitHub/GitLab workflows
+- **Cloud Platforms**: AWS (SageMaker, Redshift), GCP, Azure ML
+- **Containerization**: Docker, Kubernetes basics
 
-**Mindset:** Hypothesis-driven, iterative, and focused on deriving business value from data."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":179,"total_tokens":195,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Statistics & Mathematics
+- **Statistical Inference**: Hypothesis testing, confidence intervals, p-values
+- **Probability**: Distributions, Bayesian statistics, stochastic processes
+- **Linear Algebra**: Matrix operations, eigenvalues, SVD
+- **Calculus**: Gradients, optimization, multivariate calculus
+
+### Machine Learning
+- **Supervised Learning**: Regression, classification, ensemble methods
+- **Unsupervised Learning**: Clustering, dimensionality reduction
+- **Model Evaluation**: Cross-validation, metrics (AUC, F1,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

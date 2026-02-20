@@ -1,27 +1,22 @@
 -e # Deep Learning
 
-{"id":"2f38c330-755f-431b-8276-41a1114763fb","object":"chat.completion","created":1771559200,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Deep Learning
+{"id":"d6fedcad-f02c-416c-92b6-76f514ed4f48","object":"chat.completion","created":1771566750,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Deep Learning
 
-**Core Competencies**
-- Neural network architecture design (CNNs, RNNs, Transformers)
-- Model training, optimization, and hyperparameter tuning
-- Framework proficiency (PyTorch, TensorFlow, or JAX)
-- Understanding of backpropagation and gradient-based learning
+## Core Competencies
 
-**Key Applications**
-- Computer vision (classification, detection, segmentation)
-- Natural language processing (LLMs, text generation, translation)
-- Generative models (GANs, diffusion models, VAEs)
-- Time-series analysis and sequential data modeling
+### Foundational Knowledge
+- **Neural Network Architecture**: Understanding of MLPs, CNNs, RNNs, Transformers
+- **Activation Functions**: ReLU, Sigmoid, Tanh, Softmax
+- **Loss Functions**: Cross-entropy, MSE, MAE, custom loss design
+- **Optimization**: Gradient descent variants (SGD, Adam, RMSprop), learning rate scheduling
+- **Regularization**: Dropout, batch normalization, weight decay, early stopping
 
-**Essential Concepts**
-- Loss functions, regularization, and overfitting mitigation
-- Batch normalization, dropout, and other training techniques
-- Transfer learning and fine-tuning
-- Basic understanding of hardware acceleration (GPU/TPU)
+### Model Development
+- **Framework Proficiency**: TensorFlow/Keras, PyTorch, JAX
+- **Model Design**: Layer configuration, architecture selection, parameter tuning
+- **Training Pipeline**: Data loading, augmentation, batching, distributed training
+- **Transfer Learning**: Fine-tuning pre-trained models, feature extraction
+- **Hyperparameter Optimization**: Grid/random search, Bayesian optimization
 
-**Evaluation & Deployment**
-- Performance metrics selection and interpretation
-- Model validation and testing methodologies
-- Basic model compression and optimization for deployment
-- Ethical considerations and bias awareness
+### Specialized Architectures
+- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

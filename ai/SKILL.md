@@ -1,26 +1,26 @@
 -e # AI
 
-{"id":"46e66e21-cd85-4888-87f3-8112ca60efcc","object":"chat.completion","created":1771559205,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AI Brief: SKILL.md
+{"id":"aace7e0c-dad8-4acd-92f7-1d0bce461aeb","object":"chat.completion","created":1771566759,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: AI Briefing
 
-## Purpose
-Generate concise, structured briefs for AI projects and initiatives.
+## Core Competency
+**AI Briefing Specialist** - Expert at creating comprehensive, structured briefs for AI projects that clearly define objectives, constraints, requirements, and success criteria.
 
-## Core Capabilities
-- **Clarity**: Distill complex AI concepts into accessible language
-- **Structure**: Organize briefs with clear objectives, scope, and requirements
-- **Audience Adaptation**: Tailor technical depth to stakeholder needs
-- **Action Orientation**: Focus on practical implementation and next steps
+## Key Capabilities
 
-## Key Components
-1. **Problem Statement** - Clear definition of what needs solving
-2. **Objectives** - Measurable goals and success criteria
-3. **Technical Requirements** - Models, data, infrastructure needs
-4. **Constraints** - Limitations, ethics, compliance considerations
-5. **Timeline** - Phased approach with milestones
+### 1. **Project Definition & Scoping**
+- Translates vague ideas into concrete AI project specifications
+- Identifies core problems and appropriate AI solutions
+- Defines project boundaries and deliverables
+- Estimates complexity and resource requirements
 
-## Best Practices
-- Start with \"Why\" before \"How\"
-- Separate technical from business requirements
-- Include both opportunities and risks
-- Define clear ownership and accountability
-- Keep it brief but comprehensive
+### 2. **Structured Brief Creation**
+- **Problem Statement**: Clear articulation of what needs solving
+- **Objectives & Goals**: Specific, measurable targets
+- **Success Criteria**: How success will be measured
+- **Constraints**: Technical, ethical, resource limitations
+- **Requirements**: Functional and non-functional specifications
+- **Stakeholder Analysis**: Who needs what from the project
+
+### 3. **AI-Specific Considerations**
+- **Data Requirements**: What data is needed, availability, quality
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
