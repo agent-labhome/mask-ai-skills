@@ -1,13 +1,13 @@
 -e # Bitcoin
 
-{"id":"cd799d4e-8a18-4823-9d1e-85c6fbd3550d","object":"chat.completion","created":1771555859,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bitcoin SKILL.md
+{"id":"2d8d6e57-7560-4d1c-9d14-4181cdbee3fe","object":"chat.completion","created":1771559465,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bitcoin SKILL.md
 
 ## Core Concept
 A decentralized digital currency operating on a peer-to-peer network without central authority.
 
 ## Key Features
 - **Decentralized**: No central bank or administrator
-- **Limited Supply**: 21 million BTC maximum
+- **Limited Supply**: Capped at 21 million BTC
 - **Proof-of-Work**: Mining secures the network
 - **Transparent**: All transactions recorded on public blockchain
 - **Pseudonymous**: Addresses not directly tied to identity
@@ -15,13 +15,13 @@ A decentralized digital currency operating on a peer-to-peer network without cen
 ## Primary Use Cases
 1. Digital store of value (\"digital gold\")
 2. Peer-to-peer electronic cash
-3. Hedge against inflation
-4. Cross-border payments
+3. Hedge against inflation/fiat devaluation
+4. Settlement layer for other protocols
 
-## Quick Facts
-- Created by Satoshi Nakamoto (2008)
-- Block time: ~10 minutes
-- Halving events: Every 210,000 blocks (~4 years)
-- Current circulating supply: ~19.5M BTC
+## Quick Start
+- Get a wallet (self-custody recommended)
+- Acquire BTC via exchanges or peer-to-peer
+- Secure private keys (not your keys, not your coins)
+- Understand transaction fees and confirmation times
 
-## Security Notes
+## Essential Terms

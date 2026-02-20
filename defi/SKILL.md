@@ -1,21 +1,25 @@
 -e # DeFi
 
-{"id":"14173ec8-070b-496d-83f0-ef25290dd4fe","object":"chat.completion","created":1771555868,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: DeFi Fundamentals
+{"id":"8a3ac2fa-a654-4cb8-9e96-5e7243fb095e","object":"chat.completion","created":1771559474,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: DeFi Fundamentals
 
 ## Core Competencies
-- **Smart Contract Literacy**: Read/audit basic DeFi protocols (AMMs, lending pools)
-- **Tokenomics Analysis**: Evaluate token utility, emission schedules, governance rights
-- **Yield Strategy Design**: Construct sustainable farming/stacking strategies
-- **Risk Assessment**: Identify smart contract, oracle, and systemic risks
-- **Cross-Chain Navigation**: Bridge assets, assess interoperability solutions
+- **Smart Contract Literacy**: Read/audit basic DeFi contracts (lending, AMMs)
+- **Protocol Analysis**: Evaluate TVL, tokenomics, and security mechanisms
+- **Yield Strategies**: Understand farming, staking, and liquidity provision risks/returns
+- **Cross-Chain Operations**: Bridge assets and use multichain DeFi ecosystems
 
-## Technical Toolkit
-- **Wallet Mastery**: Secure private key management, multi-sig setups
-- **DEX Operations**: Liquidity provision, arbitrage spotting, slippage calculation
-- **Lending Protocols**: Collateralization ratio management, liquidation prevention
-- **Analytics Proficiency**: Use DeFi Llama, Dune Analytics, Etherscan
+## Key Tools
+- **Block Explorers**: Etherscan, BscScan
+- **Analytics Platforms**: DeFi Llama, Dune Analytics
+- **Wallets**: MetaMask, Rabby, WalletConnect integration
+- **Trading**: Uniswap, Curve, 1inch aggregator
 
-## Key Mindsets
-- **Trust Minimization**: Verify, don't trust
-- **Composability Thinking**: \"Money Lego\" protocol integration
-- **Gas Optimization"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Risk Awareness
+- Smart contract vulnerabilities
+- Impermanent loss (AMMs)
+- Oracle manipulation
+- Regulatory exposure
+
+## Quick Start
+1. Set up non-custodial wallet
+2. Start with established protocols (Aave"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
