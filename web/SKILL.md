@@ -1,26 +1,20 @@
 -e # Web
 
-{"id":"9bf6396a-c620-45e2-a859-b58670702239","object":"chat.completion","created":1771585182,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web Brief
+{"id":"686b53a2-b5b0-4f8e-b060-2ae83a8998cd","object":"chat.completion","created":1771590963,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web Brief
 
 ## Core Competency
-**Web Brief Interpretation & Execution** – The ability to translate concise web project briefs into actionable development plans, identifying implicit requirements, potential challenges, and optimal technical approaches.
+**Web Brief Interpretation & Execution** - The ability to understand, analyze, and implement web project requirements from client briefs, translating business objectives into actionable technical and creative solutions.
 
 ## Key Capabilities
 
-### 1. **Brief Analysis & Deconstruction**
-- Parse concise project descriptions to extract core objectives
-- Identify implied requirements not explicitly stated
-- Distinguish between \"must-have\" and \"nice-to-have\" features
-- Recognize technical constraints from business requirements
+### 1. Brief Analysis & Requirements Gathering
+- **Client Needs Assessment**: Extract business goals, target audience, and success metrics from briefs
+- **Technical Requirements Identification**: Identify platform needs, integrations, and technical constraints
+- **Scope Definition**: Distinguish between must-have features and nice-to-have enhancements
+- **Assumption Clarification**: Recognize and flag ambiguous requirements for client clarification
 
-### 2. **Technical Translation**
-- Convert business goals into technical specifications
-- Map brief requirements to appropriate technologies and frameworks
-- Identify architectural patterns suited to brief constraints
-- Determine optimal stack based on project scale and requirements
-
-### 3. **Scope Definition & Clarification**
-- Formulate precise questions to fill information gaps
-- Define project boundaries and exclusions
-- Estimate complexity levels from brief descriptions
-- Identify potential scope creep areas
+### 2. Solution Architecture
+- **Technology Selection**: Recommend appropriate frameworks, platforms, and tools based on brief requirements
+- **Information Architecture**: Design logical site structures and user flows
+- **Responsive Strategy**: Plan for multi-device compatibility and performance optimization
+- **Scalability Planning**: Anticipate future growth needs and technical"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

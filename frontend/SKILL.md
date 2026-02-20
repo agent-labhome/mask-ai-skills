@@ -1,26 +1,27 @@
 -e # Frontend
 
-{"id":"5b20507d-095f-44b1-a9ce-5549d107fda5","object":"chat.completion","created":1771585168,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md - Frontend Developer
+{"id":"c149aa7c-e77d-456b-ac22-1010a813b47e","object":"chat.completion","created":1771590949,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Frontend Development - SKILL.md
 
 ## Core Technologies
 
-### **HTML/CSS**
-- Semantic HTML5
-- CSS3 (Flexbox, Grid, animations, transitions)
-- Responsive design principles
-- Accessibility (WCAG, ARIA)
+### **HTML5**
+- Semantic markup and accessibility (ARIA, landmarks)
+- Modern APIs (LocalStorage, Geolocation, Canvas, Web Workers)
+- SEO fundamentals and meta tags
+- Form validation and input types
+
+### **CSS3**
+- Flexbox and CSS Grid layouts
+- CSS Custom Properties (variables)
+- Responsive design (media queries, mobile-first)
+- CSS-in-JS solutions (Styled Components, Emotion)
 - CSS methodologies (BEM, SMACSS)
+- Animations and transitions
+- CSS preprocessors (Sass, Less)
 
-### **JavaScript**
-- ES6+ features (arrow functions, destructuring, modules, async/await)
+### **JavaScript (ES6+)**
+- Modern syntax (arrow functions, destructuring, spread/rest)
+- Asynchronous programming (Promises, async/await, fetch API)
 - DOM manipulation and events
-- Browser APIs
-- Modern JavaScript patterns
-
-### **TypeScript**
-- Type system and interfaces
-- Generics
-- Type guards and assertions
-- Configuration (tsconfig)
-
-## Frameworks & Libraries
+- Modules (ES6 modules, CommonJS)
+- TypeScript fundamentals
