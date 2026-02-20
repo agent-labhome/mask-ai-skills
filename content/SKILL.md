@@ -1,27 +1,27 @@
 -e # Content
 
-{"id":"862c69df-5a30-4094-9436-1f5fbc0ce547","object":"chat.completion","created":1771585375,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Content Brief Creation
+{"id":"4afca679-2f2a-44de-a34e-f120504608e7","object":"chat.completion","created":1771592611,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Content Brief Creation
 
 ## Purpose
-Transform project requirements into structured, actionable content briefs that guide writers to produce high-quality, on-target content.
+Transform vague content requests into structured, actionable briefs that align content with business goals, audience needs, and measurable outcomes.
 
-## Core Competencies
+## Core Capabilities
 
-### 1. Requirement Analysis
-- Extract key information from project requests
-- Identify target audience and their needs
-- Determine content goals (awareness, conversion, education, etc.)
-- Clarify ambiguous requirements through questioning
+### 1. **Strategic Alignment**
+- Identify business objectives behind content requests
+- Connect content to specific KPIs (traffic, conversions, engagement, etc.)
+- Determine content's role in customer journey (awareness, consideration, decision)
 
-### 2. Brief Structuring
-- Create clear, standardized brief templates
-- Organize information logically (overview → specifics → requirements)
-- Balance comprehensive detail with brevity
-- Include all essential sections while avoiding information overload
+### 2. **Audience Analysis**
+- Define primary and secondary target audiences
+- Identify audience pain points, needs, and motivations
+- Map audience language, tone preferences, and content consumption habits
 
-### 3. Specification Clarity
-- Define content type (blog post, landing page, white paper, etc.)
-- Specify word count range and format requirements
-- Outline tone, voice, and style guidelines
-- Provide SEO requirements (keywords, meta descriptions, headers)
-- Include brand voice examples and guidelines
+### 3. **Content Specification**
+- Determine optimal content format (blog post, video, guide, etc.)
+- Establish word count/length based on topic complexity and goals
+- Define required elements (headings, visuals, CTAs, data points)
+
+### 4. **SEO & Distribution Strategy**
+- Identify primary and secondary keywords
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

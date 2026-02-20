@@ -1,27 +1,26 @@
 -e # SEO
 
-{"id":"d7727a32-15ee-4042-9a10-10d141bba28e","object":"chat.completion","created":1771585396,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO Brief: SKILL.md
+{"id":"b4b2d75c-4d4c-44d2-85ff-09033a4e3d61","object":"chat.completion","created":1771592631,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO Brief SKILL
 
-## Core Competencies
+## Purpose
+Generate comprehensive, actionable SEO briefs for content creators, marketing teams, or agencies.
 
-### Technical SEO
-- **Site Architecture & Crawlability**
-  - URL structure optimization
-  - XML sitemap creation and management
-  - Robots.txt configuration
-  - Canonicalization and duplicate content resolution
-  - Site migration planning and execution
+## Core Capabilities
+- **Audience & Intent Analysis**: Identify target audience segments and search intent
+- **Keyword Strategy**: Primary, secondary, and long-tail keyword recommendations
+- **Competitive Analysis**: Top-ranking content gaps and opportunities
+- **Content Structure**: Optimal headings, length, and format recommendations
+- **Technical Requirements**: On-page SEO elements and best practices
+- **Promotion Strategy**: Distribution and backlink opportunities
 
-- **Page Speed & Core Web Vitals**
-  - Performance auditing (Lighthouse, PageSpeed Insights)
-  - Render-blocking resource optimization
-  - Image and asset optimization strategies
-  - Server response time improvement
-  - Mobile-first performance optimization
+## Input Requirements
+Provide:
+1. **Target Topic**: Main subject or content focus
+2. **Business Context**: Company/industry details (optional but helpful)
+3. **Content Goal**: Awareness, leads, conversions, etc.
+4. **Target Audience**: Who you're trying to reach
+5. **Competitors**: Known competitors (optional)
 
-- **Structured Data & Schema Markup**
-  - JSON-LD implementation
-  - Rich snippet optimization
-  - Local business schema
-  - Product and review markup
-  - FAQ and How-to schema
+## Output Structure
+```
+SEO BRIEF: [Topic]

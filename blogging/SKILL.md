@@ -1,23 +1,22 @@
 -e # Blogging
 
-{"id":"3b440e61-a249-4103-9d68-1170b57ec324","object":"chat.completion","created":1771585390,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Blogging
+{"id":"6aa39a2c-f01b-4910-b2a3-10a2bd3554b9","object":"chat.completion","created":1771592626,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Blogging
 
 ## Core Competencies
 
-### 1. Content Strategy & Planning
-- **Audience Analysis**: Identify target readers, their needs, and pain points
-- **Content Calendar Management**: Plan, schedule, and organize blog topics
-- **SEO Research**: Keyword identification and topic prioritization
-- **Goal Setting**: Define measurable objectives (traffic, engagement, conversions)
+### 1. Content Strategy
+- **Audience Definition**: Identify target readers, their needs, and pain points
+- **Content Planning**: Develop editorial calendars and topic clusters
+- **SEO Fundamentals**: Keyword research, on-page optimization, and search intent analysis
+- **Content Repurposing**: Adapting content across formats (social media, newsletters, videos)
 
-### 2. Writing & Content Creation
-- **Clear Communication**: Convey complex ideas simply
-- **Storytelling**: Structure posts with compelling narratives
-- **Voice Development**: Maintain consistent brand/personal tone
-- **Editing & Proofreading**: Self-review for clarity, grammar, and flow
-- **Formatting**: Use headers, lists, and visual breaks effectively
+### 2. Writing & Storytelling
+- **Clear Communication**: Present complex ideas simply and accessibly
+- **Engaging Openings**: Hook readers within the first paragraph
+- **Structured Content**: Logical flow with clear headings and transitions
+- **Voice Development**: Consistent tone and personality across posts
+- **Editing Skills**: Self-editing for clarity, conciseness, and grammar
 
-### 3. Technical Skills
-- **Platform Proficiency**: WordPress, Medium, Ghost, or other CMS
-- **Basic HTML**: Formatting and troubleshooting
-- **SEO Implementation**: Meta descriptions, alt text,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. Technical Execution
+- **Platform Proficiency**: WordPress, Medium, Substack, or other CMS platforms
+- **Basic HTML/CSS**: Formatting control"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,18 +1,26 @@
 -e # Writing
 
-{"id":"961365f7-a9b6-4fd0-9b9d-33bec65fecf1","object":"chat.completion","created":1771585380,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Writing Briefs
+{"id":"a2730cc6-fa11-4ef9-9047-8004903d604f","object":"chat.completion","created":1771592616,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Writing Brief Content
 
 ## Core Competency
-The ability to distill complex information into concise, actionable, and audience-focused documents that drive clear decisions and outcomes.
+The ability to convey information clearly, concisely, and effectively in minimal space while maintaining impact and purpose.
 
 ## Key Principles
-1.  **Clarity Over Comprehensiveness:** Prioritize the essential message. Omit unnecessary detail.
-2.  **Audience-Centric:** Tailor language, tone, and depth to the reader's needs and knowledge level.
-3.  **Action-Oriented:** Every brief should lead to a clear decision, action, or understanding.
-4.  **Structured for Scannability:** Use formatting (headings, bullets, whitespace) to guide the reader quickly to key points.
 
-## Essential Structure (The Brief Brief)
-A high-impact brief typically includes these elements, often in this order:
+### 1. **Clarity First**
+- Start with the main point
+- Use simple, direct language
+- Eliminate ambiguity
+- Define necessary terms upfront
 
-1.  **Header:** To | From | Date | Subject (The \"TL;DR\" of the brief)
-2.  **Purpose/Objective (1-2 sentences):** Why"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Essentialism**
+- One idea per sentence/paragraph
+- Remove redundant words
+- Cut unnecessary details
+- Keep only what serves the purpose
+
+### 3. **Purpose-Driven**
+- Know your objective before writing
+- Tailor content to audience needs
+- Include only relevant information
+- End with clear next steps or takeaways
