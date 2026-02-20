@@ -1,27 +1,18 @@
 -e # Management
 
-{"id":"91fe4d72-2303-4959-8732-c94ebe523803","object":"chat.completion","created":1771534304,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Management Briefs
+{"id":"65c70967-f3cb-4361-a302-177efdfefd70","object":"chat.completion","created":1771570388,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Management Briefing
 
 ## Purpose
-Deliver concise, actionable management summaries that enable rapid, informed decision-making.
+A management brief is a concise, structured communication that presents key information, analysis, and recommendations to senior leadership to support rapid, informed decision-making.
 
-## Key Principles
+## Core Principles
+- **Clarity Over Completeness:** Prioritize the most critical information. The goal is insight, not exhaustive detail.
+- **Audience-Centric:** Tailor content, depth, and language to the specific knowledge and needs of the executives.
+- **Action-Oriented:** Every brief should drive toward a clear decision, approval, or direction.
+- **Brevity with Substance:** Be succinct but never superficial. Every sentence must carry weight.
 
-**Clarity Over Completeness**
-- Lead with the single most important conclusion
-- Use plain language, avoid jargon
-- Structure: Situation → Analysis → Recommendation
+## Structure (The \"BLUF\" Method - Bottom Line Up Front)
+A standard brief follows this flow:
 
-**Brevity as Discipline**
-- One page maximum for written briefs
-- 5 minutes maximum for verbal briefs
-- Include only decision-critical information
-- Append supporting data, don't embed it
-
-**Action Orientation**
-- Every brief must end with clear options
-- Specify recommended action and rationale
-- Define decision deadline and stakeholders
-- Outline next steps and owners
-
-## Format Template
+1.  **EXECUTIVE SUMMARY (BLUF):** The single most important section. State the core issue, recommended action, and key rationale in 3-5 sentences.
+2.  **BACKGROUND/C"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

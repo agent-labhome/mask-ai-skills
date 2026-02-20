@@ -1,18 +1,27 @@
 -e # Leadership
 
-{"id":"1fef2768-f55f-4485-b09b-e4abacaacd9d","object":"chat.completion","created":1771534300,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership
+{"id":"b53b5e60-fe96-41ce-8ddc-537cb599cabe","object":"chat.completion","created":1771570383,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership Briefing
 
-## Core Definition
-The ability to guide, inspire, and influence others toward a common goal or vision.
+## 🎯 Purpose
+A leadership brief is a concise, structured communication tool that enables leaders to convey essential information, align teams, and drive action efficiently. It transforms complex situations into clear, actionable guidance.
 
-## Key Behaviors
-*   **Sets Direction:** Clearly defines goals, purpose, and strategy.
-*   **Inspires Action:** Motivates others through vision, communication, and example.
-*   **Empowers Others:** Delegates authority, provides resources, and fosters autonomy.
-*   **Builds Trust:** Acts with integrity, demonstrates competence, and shows care for team members.
-*   **Makes Decisions:** Assesses situations, weighs options, and commits to a course of action.
-*   **Develops People:** Coaches, mentors, and provides feedback to grow team capabilities.
+## 📋 Core Structure
 
-## In Practice
-*   **Brief:** A leader provides clear context (\"Here's why this matters\"), specific direction (\"Here's what we need to achieve\"), and defines success (\"Here's what good looks like\").
-*   **Effective:** Focuses on outcomes,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. **Situation Summary** (1-2 sentences)
+- Current reality or challenge
+- Context needed for understanding
+- \"What we're facing right now\"
+
+### 2. **Key Objective** (1 sentence)
+- Primary goal or desired outcome
+- Success definition
+- \"What we need to achieve\"
+
+### 3. **Critical Information** (3-5 bullet points)
+- Essential facts only
+- Data that informs decisions
+- Constraints or limitations
+
+### 4. **Action Required** (Clear directives)
+- Who needs to do what
+- By when

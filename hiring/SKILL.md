@@ -1,27 +1,26 @@
 -e # Hiring
 
-{"id":"4f7463e8-72c4-4e6f-815d-1bbc3e33859a","object":"chat.completion","created":1771534314,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Hiring Brief SKILL
+{"id":"fec061f5-d68e-4d67-95d2-e1c3ee5bd43a","object":"chat.completion","created":1771570398,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Hiring Brief
 
-## Purpose
-Create clear, concise hiring briefs that align stakeholders and attract the right candidates.
+## Overview
+This document outlines the structured approach for creating effective hiring briefs that align talent acquisition with business objectives.
 
-## Core Principles
+## Core Competencies
 
-**1. Start with the \"Why\"**
-- Business impact: How does this role move the company forward?
-- Team context: Where does this role fit in the organization?
-- Success metrics: What does winning look like in 6/12 months?
+### 1. Strategic Alignment
+- Translate business objectives into role requirements
+- Map organizational needs to candidate profiles
+- Balance immediate needs with long-term talent strategy
+- Understand team dynamics and cultural fit requirements
 
-**2. Define the Non-Negotiables**
-- Must-have skills (limit to 3-5)
-- Required experience level
-- Cultural fit requirements
-- Deal-breakers (be specific)
+### 2. Market Intelligence
+- Research competitive compensation benchmarks
+- Analyze talent availability in target markets
+- Identify sourcing channels for specific skill sets
+- Understand industry trends affecting candidate expectations
 
-**3. Keep it Human**
-- Write for candidates, not HR systems
-- Use active voice and inclusive language
-- Highlight growth opportunities
-- Show team personality
-
-## Brief Structure
+### 3. Requirements Definition
+- Distinguish between \"must-have\" and \"nice-to-have\" qualifications
+- Define success metrics for the role
+- Create realistic candidate personas
+- Establish clear evaluation criteria
