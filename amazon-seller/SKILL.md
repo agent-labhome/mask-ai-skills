@@ -1,52 +1,21 @@
----
-name: amazon-seller
-description: 亚马逊卖家助手 - 选品、Listing优化、广告投放
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $39
-categories:
-  - 电商
-  - 亚马逊
-  - 销售
-platforms:
-  - Amazon
----
+-e # Amazon Seller
 
-# Amazon Seller
+{"id":"255a1604-bad1-499d-be81-2f9a2660452d","object":"chat.completion","created":1771555990,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Amazon Seller
 
-## 功能
+## Core Competencies
+- **Product Sourcing & Selection**: Identifying profitable products, analyzing competition, and managing supplier relationships.
+- **Listing Optimization**: Creating high-converting titles, bullet points, descriptions, and backend keywords.
+- **Inventory Management**: Forecasting demand, managing FBA/FBM inventory, and preventing stockouts.
+- **PPC Advertising**: Running and optimizing Sponsored Products, Brands, and Display campaigns.
+- **Review Management**: Strategically generating and maintaining positive seller feedback and product reviews.
+- **Account Health**: Monitoring performance metrics, resolving policy violations, and preventing suspension.
 
-亚马逊运营工具。
+## Key Tools & Platforms
+- **Amazon Seller Central**
+- **Helium 10 / Jungle Scout** (product research)
+- **InventoryLab** (inventory management)
+- **SellerApp / Sellics** (analytics & PPC)
 
-## 使用场景
-
-### 1. 选品分析
-
-**输入:** 品类
-
-**输出:**
-- 市场分析
-
-### 2. Listing优化
-
-**输入:** 产品
-
-**输出:**
-- 标题优化
-
-### 3. 广告投放
-
-**输入:** 产品
-
-**输出:**
-- 广告策略
-
-## 价格
-
-- 基础版: $39/月
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
+## Quick Tips
+- Always calculate your profit margin *after* all fees (FBA, storage, advertising).
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
