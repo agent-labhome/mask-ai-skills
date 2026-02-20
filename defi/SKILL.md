@@ -1,19 +1,18 @@
 -e # DeFi
 
-{"id":"8a96f783-d16f-4286-a274-313f0ddb79cd","object":"chat.completion","created":1771572306,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for DeFi
+{"id":"d6b70b5f-3224-49ed-b572-b4d9728f21e8","object":"chat.completion","created":1771577771,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: DeFi (Decentralized Finance)
 
-## Core Technical Skills
+## Core Competencies
 
-### Blockchain Fundamentals
-- **Ethereum Ecosystem**: EVM, smart contracts, gas mechanics, L2 solutions (Optimism, Arbitrum, zkSync)
-- **Alternative Chains**: Solana, Cosmos, Polkadot, Avalanche, Polygon
-- **Smart Contract Development**: Solidity, Vyper, Rust (Solana), Move (Aptos/Sui)
-- **Web3 Libraries**: web3.js, ethers.js, viem, wagmi
+### Technical Foundation
+- **Blockchain Fundamentals**: Ethereum, smart contracts, gas mechanics, Layer 2 solutions
+- **Smart Contract Development**: Solidity, Vyper, security best practices (OpenZeppelin)
+- **Web3 Integration**: ethers.js, web3.js, wallet connections, transaction handling
+- **Token Standards**: ERC-20, ERC-721, ERC-1155, tokenomics design
+- **Oracle Integration**: Chainlink, Band Protocol, custom oracle solutions
 
-### Smart Contract Security
-- **Security Patterns**: Checks-Effects-Interactions, reentrancy guards, access control
-- **Audit Tools**: Slither, MythX, Foundry fuzzing, Echidna
-- **Common Vulnerabilities**: Oracle manipulation, flash loan attacks, MEV, front-running
-
-### DeFi Protocols & Mechanisms
-- **AMMs & DEXs**: Uniswap V"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### DeFi Protocol Knowledge
+- **Lending/Borrowing**: Compound, Aave, MakerDAO mechanics
+- **Decentralized Exchanges**: Uniswap V2/V3, Curve, Balancer AMM models
+- **Yield Farming**: Liquidity provision, staking strategies, impermanent loss
+- **Derivatives**: Synthetix, dYdX"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

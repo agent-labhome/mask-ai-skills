@@ -1,27 +1,23 @@
 -e # Crypto
 
-{"id":"d5921638-e59e-4a50-bb04-b1ce1adf7cc8","object":"chat.completion","created":1771572291,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Crypto.Brief SKILL
+{"id":"d8e0bcfe-8164-4f22-bbbb-c69601d859d6","object":"chat.completion","created":1771577756,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Crypto. Brief
 
-## Overview
-**Crypto.Brief** is a specialized skill that provides concise, up-to-date cryptocurrency information and market data. It delivers quick snapshots of crypto prices, trends, and essential metrics in a digestible format.
+## Purpose
+Generate concise, structured summaries of cryptocurrency projects, tokens, or market events.
 
-## Capabilities
+## Core Function
+Transform complex crypto information into clear, digestible briefs with essential details and actionable insights.
 
-### 1. **Price Information**
-- Current prices for major cryptocurrencies (Bitcoin, Ethereum, etc.)
-- Price changes (24h, 7d, 30d)
-- Market cap and trading volume
-- Support for specific crypto requests (e.g., \"What's Bitcoin's price?\")
+## Input Format
+- **Project/Token Name:** (e.g., \"Ethereum\", \"Uniswap\", \"Solana\")
+- **Topic/Event:** (e.g., \"latest upgrade\", \"tokenomics\", \"partnership announcement\", \"market dip\")
+- **Optional Specifics:** Any particular focus areas or questions.
 
-### 2. **Market Overview**
-- Top gainers/losers
-- Market sentiment indicators
-- Total market capitalization
-- Dominance percentages (BTC, ETH dominance)
+## Output Structure
+A brief organized into the following sections:
 
-### 3. **Trend Analysis**
-- Simple trend identification (bullish/bearish)
-- Notable price movements
-- Volume analysis
-
-### 4. **Conversion Tools**
+1.  **Project/Event:** Clear title.
+2.  **TL;DR (Bottom Line Up Front):** One-sentence summary of the most critical takeaway.
+3.  **Key Details:**
+    *   **Category:** (e.g., Layer 1, DeFi, NFT, Gaming, Infrastructure).
+    *   **Core"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
