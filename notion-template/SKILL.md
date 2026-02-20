@@ -1,84 +1,22 @@
-# Notion Template Creator
+-e # Notion Template
 
-帮助你创建和变现Notion模板，从设计到销售。
+{"id":"7889e422-c7af-4a60-ab80-b98c0c2c83d0","object":"chat.completion","created":1771564897,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Notion Template Brief
 
-## 核心能力
+## Purpose
+This skill enables users to create structured Notion template briefs for various project types. It transforms user inputs into organized, actionable Notion templates with clear sections, objectives, and requirements.
 
-### 1. 模板设计
-- 工作流规划
-- 数据库结构
-- 视图设计
-- 自动化设置
+## Core Capabilities
+1. **Template Generation**: Creates Notion-style templates with consistent formatting
+2. **Project Type Adaptation**: Customizes templates for different project types (marketing, product, content, etc.)
+3. **Structured Sections**: Organizes information into logical Notion blocks
+4. **Actionable Format**: Produces ready-to-use templates with clear next steps
 
-### 2. 热门模板类型
-- 个人OKR/目标管理
-- 项目管理
-- 知识管理系统
-- 内容创作日历
-- 财务追踪
-- 学习笔记
+## Input Processing
+- **Project Type Detection**: Identifies what kind of template is needed
+- **Requirement Extraction**: Pulls key information from user requests
+- **Scope Definition**: Determines appropriate depth and detail level
+- **Stakeholder Consideration**: Adapts for different audience needs
 
-### 3. 变现策略
-- Gumroad/LEMPYP销售
-- 付费社区
-- YouTube教程
-- Twitter推广
-
-### 4. 优化技巧
-- 预设使用说明
-- 视频教程
-- 模板更新
-- 客户支持
-
-## 使用示例
-
-```
-用户: 我想做一个个人知识管理系统
-
-助手:
-## 🧠 Notion第二大脑模板
-
-### 核心结构
-```
-📁 Input (收集)
-  - Quick Capture (快速收集)
-  - Read Later (阅读清单)
-  - Ideas (灵感库)
-
-📁 Knowledge (知识)
-  - Notes (笔记)
-  - Highlights (高亮)
-  - Book Notes (读书笔记)
-
-📁 Projects (项目)
-  - Active Projects
-  - Completed
-
-📁 Archive (归档)
-```
-
-### 数据库设计
-- Property: Name, Status, Tag, Priority, Due Date
-- View: Board, List, Calendar, Timeline
-
-### 自动化
-- /AI自动总结
-- 自动分类标签
-- 日期提醒
-
-### 销售定价
-- 基础版: $9
-- 完整版: $29
-- 定制咨询: $99
-```
-
-## 变现数据
-
-- 畅销模板: $500-5000/月
-- 兼职: $100-500/月
-
----
-
-*Price: $29*
-*Category: Productivity*
-*Tags: notion, template, productivity, second-brain,PKM*
+## Template Structure
+All templates include:
+1. **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
