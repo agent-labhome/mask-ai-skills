@@ -1,27 +1,22 @@
 -e # Trading
 
-{"id":"7585235f-48b7-46f8-8071-0913333d8791","object":"chat.completion","created":1771547017,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Trading
+{"id":"0a49774d-d48f-46c9-a33f-829cf76f80e1","object":"chat.completion","created":1771572224,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Trading
 
-## Core Competencies
-- **Technical Analysis**: Chart patterns, indicators, trend analysis
-- **Fundamental Analysis**: Economic data, company financials, news impact
-- **Risk Management**: Position sizing, stop-losses, portfolio allocation
-- **Market Psychology**: Sentiment analysis, emotional discipline
-- **Execution**: Order types, timing, platform proficiency
+## Purpose
+Enable users to execute trades, monitor positions, and access market data through natural language commands.
 
-## Key Markets
-- Equities
-- Forex
-- Commodities
-- Cryptocurrencies
-- Derivatives (options, futures)
+## Core Capabilities
 
-## Essential Traits
-- Discipline under pressure
-- Quick decision-making
-- Continuous learning
-- Adaptability to changing conditions
-- Record-keeping & analysis
+### 1. **Trade Execution**
+- **Buy/Sell Orders**: Execute market, limit, stop-loss, and stop-limit orders
+- **Position Management**: Close positions, adjust size, set take-profit/stop-loss
+- **Multi-Asset Support**: Stocks, ETFs, options, futures, forex, crypto
+- **Order Types**: Market, limit, stop, trailing stop, bracket orders
 
-## Tools
-- Trading platforms (Thinkorswim, MT4, etc.)
+### 2. **Portfolio & Account Management**
+- **Portfolio Overview**: View holdings, allocation, P&L, performance metrics
+- **Account Details**: Balance, buying power, margin, settled cash
+- **Position Details**: Entry price, current value, unrealized/realized P&L
+- **Watchlists**: Create, manage, and monitor custom watchlists
+
+### 3. **Market"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

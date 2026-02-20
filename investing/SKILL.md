@@ -1,25 +1,17 @@
 -e # Investing
 
-{"id":"8bbd4148-895a-43bd-ba72-4bccf38aa842","object":"chat.completion","created":1771547022,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Investing SKILL.md
+{"id":"162ca867-a805-432c-8f44-3ba77a9de2a1","object":"chat.completion","created":1771572220,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investing
 
-## Core Principles
-- **Time in market > timing market** – Long-term consistency beats short-term speculation
-- **Diversify** – Spread risk across asset classes (stocks, bonds, real estate)
-- **Compound returns** – Reinvest earnings; exponential growth over decades
-- **Risk tolerance** – Match investments to your comfort with volatility
-- **Costs matter** – Minimize fees (expense ratios, commissions)
+## Core Purpose
+To make informed decisions about allocating capital with the goal of generating future returns, balancing risk and reward to build wealth over time.
 
-## Key Strategies
-- **Index investing** – Low-cost ETFs/mutual funds tracking broad markets
-- **Dollar-cost averaging** – Invest fixed amounts regularly regardless of price
-- **Asset allocation** – Balance portfolio based on goals and timeline
-- **Rebalance annually** – Maintain target allocation as markets shift
+## Key Principles
+*   **Risk vs. Reward:** Higher potential returns typically come with higher risk.
+*   **Diversification:** Spreading investments across different assets (stocks, bonds, real estate) to mitigate risk.
+*   **Time Horizon:** Investment strategy should align with your financial goals and timeline (short-term vs. long-term).
+*   **Compound Growth:** Reinvesting earnings to generate additional earnings over time is a powerful wealth-building tool.
+*   **Fundamental Analysis:** Evaluating an asset's intrinsic value based on financial health, industry position, and economic factors.
+*   **Market Psychology:** Understanding that investor sentiment and emotions can drive market fluctuations.
 
-## Red Flags
-- Promises of guaranteed high returns
-- Complex products you don’t understand
-- High-pressure sales tactics
-- No transparency on fees
-
-## Starter Checklist
-- [ ]"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Core Methodologies & Frameworks
+1.  **Asset Allocation:** Determining the mix of asset classes (e.g., 60% stocks"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

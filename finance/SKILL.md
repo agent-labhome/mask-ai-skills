@@ -1,22 +1,26 @@
 -e # Finance
 
-{"id":"784ba576-054e-451e-a881-e2a789676d58","object":"chat.completion","created":1771565435,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Finance Brief
+{"id":"e88d1faa-8eec-4e2a-89da-9786aade502a","object":"chat.completion","created":1771572215,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Finance Brief
 
-## Purpose
-Generate concise, structured financial briefs that distill complex financial information into clear, actionable summaries for decision-makers.
+## Overview
+The **Finance Brief** skill enables concise, structured financial analysis and reporting. It transforms complex financial data into clear, actionable summaries for decision-makers.
 
 ## Core Capabilities
-- **Financial Summary Generation**: Create executive summaries of financial reports, earnings calls, and market analyses
-- **Data Distillation**: Transform complex financial data into key takeaways and implications
-- **Stakeholder Adaptation**: Tailor financial briefs for different audiences (executives, investors, department heads)
-- **Trend Highlighting**: Identify and emphasize significant financial trends and anomalies
-- **Recommendation Synthesis**: Extract actionable insights from financial analysis
 
-## Input Processing
-- Accepts financial reports, earnings transcripts, market data, analyst notes, and performance metrics
-- Handles numerical data, qualitative analysis, and mixed financial content
-- Processes both structured (tables, charts) and unstructured (narrative) financial information
+### 1. **Financial Analysis**
+- Summarize financial statements (income statement, balance sheet, cash flow)
+- Highlight key metrics (profitability, liquidity, solvency, efficiency ratios)
+- Identify trends, anomalies, and areas requiring attention
+- Compare performance against benchmarks or previous periods
 
-## Output Structure
-1. **Executive Summary** (2-3 sentences)
-2. **Key"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Executive Summarization**
+- Extract essential insights from lengthy financial reports
+- Present findings in clear, non-technical language
+- Structure information hierarchically (key takeaways → supporting details)
+- Tailor depth to audience expertise (C-suite vs. department heads)
+
+### 3. **Scenario Briefing**
+- Explain financial implications of business decisions
+- Outline risks and opportunities in market changes
+- Summarize investment or funding considerations
+- Present budget vs. actual"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
