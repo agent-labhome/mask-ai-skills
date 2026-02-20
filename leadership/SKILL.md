@@ -1,23 +1,27 @@
 -e # Leadership
 
-{"id":"734b26a5-04a1-49fc-9cf0-5563a3b228a4","object":"chat.completion","created":1771587647,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership
+{"id":"26d9f375-cf7c-4f4f-a2f4-baa895d67f4a","object":"chat.completion","created":1771595628,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership Briefing
 
-## Core Definition
-Leadership is the ability to guide, inspire, and influence individuals or groups toward achieving a common goal. It is not about authority or title, but about creating a vision, building trust, and enabling others to contribute their best work.
+## Purpose
+A leadership brief is a concise, structured communication that enables leaders to make informed decisions, align teams, and drive action. This skill focuses on delivering critical information clearly, efficiently, and with strategic intent.
 
-## Key Behaviors & Actions
+## Core Principles
 
-**1. Vision & Direction**
-*   Articulates a clear, compelling purpose and end-state.
-*   Translates high-level goals into actionable steps for the team.
-*   Makes decisions aligned with the mission, even with incomplete data.
+**Clarity Over Completeness**
+- Prioritize the essential 20% of information that drives 80% of the decision.
+- Use plain language; avoid jargon unless universally understood by the audience.
+- State the bottom line up front (BLUF).
 
-**2. Empowerment & Development**
-*   Delegates meaningful tasks and provides autonomy with clear boundaries.
-*   Identifies and nurtures the strengths of team members.
-*   Creates opportunities for growth and provides constructive feedback.
+**Strategic Alignment**
+- Connect information directly to organizational goals and priorities.
+- Frame issues within the broader mission and context.
+- Highlight implications, not just facts.
 
-**3. Communication & Influence**
-*   Listens actively and seeks to understand diverse perspectives.
-*   Communicates with clarity, transparency, and appropriate frequency.
-*   Persuades and aligns others through logic, empathy, and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Action Orientation**
+- Every brief should lead to a clear decision, action, or behavioral change.
+- Include specific, actionable recommendations.
+- Define next steps and ownership.
+
+## Structure of an Effective Brief
+
+### 1. **Opening (BLUF - 10%)**

@@ -1,17 +1,20 @@
 -e # Culture
 
-{"id":"dae70ec7-7c95-4da5-b47d-7855e6a70dd3","object":"chat.completion","created":1771581312,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Culture Brief
+{"id":"f6198c32-ca98-4446-aeb9-e42e2b829cd8","object":"chat.completion","created":1771595643,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Culture Brief
+
+## Overview
+A **Culture Brief** is a strategic document that articulates the core values, behaviors, and environment of an organization or team. It serves as a foundational guide for decision-making, hiring, and daily operations, ensuring alignment and cohesion.
 
 ## Purpose
-A Culture Brief is a strategic document that captures the essence of an organization's culture, values, and behavioral norms. It serves as a reference point for decision-making, hiring, onboarding, and daily operations, ensuring cultural alignment and consistency.
+- **Define Identity:** Clarify what the organization stands for and its unique character.
+- **Guide Behavior:** Establish expected norms and interactions.
+- **Drive Alignment:** Ensure everyone works toward shared goals with a common mindset.
+- **Attract Talent:** Help recruit individuals who resonate with the culture.
+- **Support Scaling:** Maintain cultural integrity during growth.
 
 ## Core Components
+A comprehensive Culture Brief typically includes:
 
-### 1. **Foundational Elements**
-- **Mission & Vision:** The organization's core purpose and aspirational future.
-- **Core Values:** 3-5 fundamental principles that guide behavior (e.g., \"Radical Candor,\" \"Customer Obsession,\" \"Default to Action\").
-- **Cultural Pillars:** Key themes that define the work environment (e.g., \"Learning & Growth,\" \"Ownership,\" \"Collaboration over Competition\").
-
-### 2. **Operational Manifestations**
-- **Behaviors We Reward:** Specific, observable actions that exemplify our values (e.g., \"Publicly credits colleagues\").
-- **Behaviors We Challenge:**"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+1.  **Mission & Vision:** The fundamental purpose and aspirational future.
+2.  **Core Values (3-5):** The essential, non-negotiable principles (e.g., \"Radical Candor,\" \"Customer Obsession,\" \"Bias for Action\").
+3"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
