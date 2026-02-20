@@ -1,27 +1,14 @@
 -e # Data Science
 
-{"id":"67bafa25-8b43-4d32-9126-0cf94bb5b9d2","object":"chat.completion","created":1771518749,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Science
+{"id":"b0fad366-3799-4709-8a53-1f956c836eca","object":"chat.completion","created":1771559210,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Data Science
 
-## Core Competencies
-- **Statistical Analysis**: Hypothesis testing, regression, probability
-- **Programming**: Python (pandas, scikit-learn), R, SQL
-- **Machine Learning**: Supervised/unsupervised learning, model evaluation
-- **Data Wrangling**: Cleaning, transformation, feature engineering
-- **Data Visualization**: Matplotlib, Seaborn, Tableau, storytelling
+**Core Competencies:**
+- **Programming:** Proficient in Python (Pandas, NumPy, Scikit-learn) and/or R (tidyverse).
+- **Statistics & Math:** Strong foundation in probability, inferential statistics, and linear algebra.
+- **Machine Learning:** Experience with supervised/unsupervised learning, model evaluation, and feature engineering.
+- **Data Wrangling:** Cleaning, transforming, and integrating structured/unstructured data (SQL, APIs).
+- **Visualization & Communication:** Creating clear plots (Matplotlib, Seaborn, ggplot2) and translating insights into actionable recommendations.
 
-## Key Tools
-- **Languages**: Python, SQL, R
-- **Libraries**: pandas, NumPy, scikit-learn, TensorFlow/PyTorch
-- **Platforms**: Jupyter, Git, cloud services (AWS/GCP/Azure)
-- **Databases**: SQL, NoSQL, data warehouses
+**Key Tools:** Python/R, SQL, Git, Jupyter, cloud platforms (AWS/GCP/Azure), ML frameworks (TensorFlow/PyTorch).
 
-## Deliverables
-- Predictive models & algorithms
-- Data pipelines & ETL processes
-- Dashboards & visual reports
-- Statistical insights & recommendations
-- Production-ready code
-
-## Mindset
-- Hypothesis-driven experimentation
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Mindset:** Hypothesis-driven, iterative, and focused on deriving business value from data."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":179,"total_tokens":195,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
