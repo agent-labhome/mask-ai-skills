@@ -1,23 +1,19 @@
 -e # Photography
 
-{"id":"47f15b03-d949-4ab0-b1e1-b1585cd0cf60","object":"chat.completion","created":1771573855,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Photography
+{"id":"eadb41d0-f376-447e-af58-274268293861","object":"chat.completion","created":1771583546,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Photography
 
 ## Core Competencies
 
 ### Technical Proficiency
-- **Camera Operation:** Mastery of DSLR, mirrorless, and smartphone cameras
-- **Exposure Triangle:** Understanding ISO, aperture, and shutter speed relationships
-- **Focus Techniques:** Manual and autofocus, focus stacking, hyperfocal distance
-- **White Balance:** Color temperature management and creative color grading
-- **File Formats:** RAW vs. JPEG workflows and post-processing implications
+- **Camera Operation:** Mastery of manual settings (aperture, shutter speed, ISO, white balance)
+- **Lens Selection:** Understanding focal lengths, apertures, and specialty lenses
+- **Lighting:** Natural light assessment, artificial lighting setups (strobes, continuous, modifiers)
+- **Composition:** Rule of thirds, leading lines, framing, negative space, perspective
+- **Focus & Depth of Field:** Selective focus techniques, hyperfocal distance, bokeh control
 
-### Composition & Visual Design
-- **Rule of Thirds:** Fundamental framing and balance principles
-- **Leading Lines:** Guiding viewer attention through compositional elements
-- **Negative Space:** Using emptiness to emphasize subjects
-- **Symmetry & Patterns:** Creating visual harmony and rhythm
-- **Depth & Perspective:** Layering foreground, middle ground, and background
-
-### Lighting Mastery
-- **Natural Light:** Golden hour, blue hour, overcast, and harsh sunlight techniques
-- **Artificial Light:** Strobes"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Genre Specializations
+- **Portraiture:** Environmental, studio, candid, group posing
+- **Landscape:** Golden/blue hour timing, foreground interest, panoramic techniques
+- **Street:** Candid capture, decisive moment, urban storytelling
+- **Product/Commercial:** Tabletop lighting, product staging, detail highlighting
+- **Event/Wedding:** Fast-paced adaptation, flash techniques, timeline management"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

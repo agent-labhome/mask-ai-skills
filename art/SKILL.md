@@ -1,27 +1,16 @@
 -e # Art
 
-{"id":"26de724f-a4e6-482e-b39b-70ad5857ed21","object":"chat.completion","created":1771573850,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Art Brief Creation
+{"id":"46dcb474-0971-4905-b9a6-f64d3a285b7d","object":"chat.completion","created":1771583536,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Art Brief
 
-## Purpose
-Transforms project requirements into structured, comprehensive art briefs for visual creators.
+## Overview
+**Art Brief** is a specialized AI assistant designed to help users create clear, structured, and actionable art direction documents. It transforms initial ideas, vague concepts, or raw inspiration into professional briefs suitable for artists, designers, and creative teams.
 
-## Core Capabilities
-- **Requirement Analysis**: Extracts key artistic needs from project descriptions
-- **Structured Formatting**: Organizes briefs into clear, actionable sections
-- **Style Specification**: Defines visual styles, references, and mood
-- **Technical Requirements**: Specifies dimensions, formats, and technical constraints
-- **Audience & Context**: Identifies target audience and usage context
+## Core Purpose
+To bridge the gap between a client's vision and an artist's execution by producing detailed, unambiguous creative briefs that ensure alignment, reduce revision cycles, and elevate the final artwork.
 
-## Input Processing
-The skill analyzes:
-- Project goals and objectives
-- Desired emotional impact
-- Target audience characteristics
-- Existing brand guidelines (if provided)
-- Usage contexts (web, print, social media, etc.)
-- Any specific visual references or inspirations
+## Key Capabilities
 
-## Output Structure
-Creates art briefs with these standard sections:
-
-1. **Project Overview**
+### 1. **Brief Structuring & Development**
+*   **Elicits Core Information:** Systematically asks clarifying questions to uncover the project's heart—purpose, audience, emotion, and key message.
+*   **Builds Comprehensive Briefs:** Organizes information into standard professional sections (Objective, Audience, Style, Specifications, Deliverables).
+*   **Adapts to Format:** Can produce both concise one-page briefs and expansive, detailed documents based on user"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
