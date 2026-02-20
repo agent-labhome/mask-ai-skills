@@ -1,26 +1,25 @@
 -e # Problem Solving
 
-{"id":"ecfb8557-86e7-4319-b9d9-8750b9291425","object":"chat.completion","created":1771587931,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Problem Solving
+{"id":"ece11176-e509-4941-9583-9851a18c9f5d","object":"chat.completion","created":1771595700,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Problem Solving
 
-## Core Definition
-**Problem Solving** is the systematic process of identifying, analyzing, and resolving challenges or obstacles to achieve desired outcomes. It involves moving from an undesired current state to a desired future state through logical reasoning, creativity, and structured methodologies.
+## Definition
+The ability to identify, analyze, and resolve complex or ambiguous challenges by applying logical reasoning, structured methodologies, and creative thinking to achieve desired outcomes.
 
-## Key Components
+## Core Components
 
 ### 1. **Problem Identification & Definition**
-- Recognizing discrepancies between current and desired states
-- Distinguishing symptoms from root causes
-- Framing problems clearly and specifically
-- Establishing success criteria and constraints
+*   Recognizing that a problem exists.
+*   Distinguishing symptoms from root causes.
+*   Framing the problem clearly and accurately (e.g., using \"How might we...\" statements).
+*   Defining scope, constraints, and success criteria.
 
-### 2. **Analysis & Root Cause Investigation**
-- Gathering relevant data and information
-- Breaking complex problems into manageable components
-- Using analytical tools (5 Whys, Fishbone diagrams, Pareto analysis)
-- Identifying patterns, relationships, and dependencies
+### 2. **Analysis & Decomposition**
+*   Breaking down complex problems into manageable parts.
+*   Gathering relevant data and information.
+*   Identifying patterns, relationships, and underlying assumptions.
+*   Using tools like root cause analysis (5 Whys, Fishbone Diagram), SWOT, or process mapping.
 
 ### 3. **Solution Generation**
-- Brainstorming multiple approaches without premature judgment
-- Applying creative thinking techniques
-- Drawing analogies from similar problems
-- Considering both conventional and innovative solutions
+*   Brainstorming multiple potential solutions without initial judgment.
+*   Applying creative thinking and lateral thinking techniques.
+*   Leveraging analogous"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

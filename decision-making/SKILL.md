@@ -1,21 +1,20 @@
 -e # Decision Making
 
-{"id":"14f456c5-dbaf-43ec-a1ff-ae7b4d02c865","object":"chat.completion","created":1771587936,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Decision Making
+{"id":"750d2e79-6679-4354-9a05-f70309f3ff81","object":"chat.completion","created":1771595704,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Decision Making
 
-## Purpose
-To systematically evaluate options and select the most effective course of action in alignment with organizational goals, available resources, and potential risks.
+## Overview
+Decision making is the cognitive process of selecting a course of action from multiple alternatives. It involves gathering information, evaluating options, and committing to a choice, often under conditions of uncertainty or competing priorities.
 
-## Core Principles
+## Key Concepts
 
-1.  **Goal-Oriented:** Every decision must advance specific, defined objectives.
-2.  **Evidence-Based:** Rely on data, facts, and logical analysis over intuition or assumption.
-3.  **Proactive & Timely:** Balance thoroughness with the need for action, avoiding \"analysis paralysis.\"
-4.  **Owned & Accountable:** The decision-maker takes responsibility for the outcome and the process.
+### 1. **Types of Decisions**
+   - **Programmed Decisions**: Routine, repetitive decisions governed by established rules or procedures.
+   - **Non-programmed Decisions**: Unique, complex decisions requiring novel solutions and judgment.
 
-## The DECIDE Framework
+### 2. **Decision-Making Models**
+   - **Rational Model**: Logical, step-by-step approach assuming complete information and optimal outcomes.
+   - **Bounded Rationality**: Recognizes cognitive limits; seeks satisfactory rather than optimal solutions.
+   - **Intuitive Model**: Relies on experience, instincts, and pattern recognition.
+   - **Recognition-Primed Decision (RPD)**: Experts quickly match situations to known patterns to determine actions.
 
-A structured, six-step process for effective decision-making.
-
-### 1. **D**efine the Decision
-*   **Clarify the Problem/Opportunity:** What exactly needs to be decided? Write it down.
-*   **Identify the Goal:** What is the desired outcome? Make it SMART (Specific, Measurable,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Decision-Making Process** (Rational Framework"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
