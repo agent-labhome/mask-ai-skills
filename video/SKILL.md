@@ -1,24 +1,24 @@
 -e # Video
 
-{"id":"99abe06d-d7f2-404a-ac04-189ab1154b8a","object":"chat.completion","created":1771585420,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Video Brief SKILL
+{"id":"70216cce-b530-4ee1-8ced-1a1b025b10fc","object":"chat.completion","created":1771592674,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Video Brief SKILL
 
 ## Overview
-The Video Brief skill helps users create structured, professional video briefs for various purposes including marketing, tutorials, presentations, and social media content. It guides users through essential elements needed for effective video production planning.
+The Video Brief skill helps users create structured, comprehensive briefs for video production projects. It guides users through essential planning elements to ensure all stakeholders have clear expectations and requirements.
 
-## Core Capabilities
+## Core Functions
 
-### 1. **Brief Generation**
-- Creates comprehensive video briefs based on user requirements
-- Adapts to different video types (marketing, tutorial, social media, corporate, etc.)
-- Includes all essential sections: objectives, target audience, key messages, etc.
+### 1. Project Definition
+- **Purpose & Goals**: Clarify why the video is being created and what it should achieve
+- **Target Audience**: Identify primary and secondary viewers
+- **Key Message**: Define the core message to communicate
+- **Call-to-Action**: Specify desired viewer actions after watching
 
-### 2. **Template Selection**
-- Offers multiple brief templates:
-  - **Standard Brief**: Comprehensive for professional productions
-  - **Quick Brief**: Simplified for faster projects
-  - **Social Media Brief**: Optimized for platform-specific content
-  - **Tutorial/How-to Brief**: Structured for educational content
+### 2. Content Specifications
+- **Video Type**: Identify format (explainer, testimonial, tutorial, promotional, etc.)
+- **Length**: Determine optimal duration
+- **Tone & Style**: Define visual and emotional approach
+- **Key Scenes/Sequences**: Outline main content sections
 
-### 3. **Section Customization**
-- **Project Overview**: Title, description, purpose
-- **Objectives & Goals"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. Production Details
+- **Location Requirements**: Specify filming environments
+- **Talent/Casting**: Identify needed on-screen"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
