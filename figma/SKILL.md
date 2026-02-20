@@ -1,27 +1,27 @@
 -e # Figma
 
-{"id":"e33ed84c-96f1-45c4-a20f-0d115e8dea3c","object":"chat.completion","created":1771518979,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Figma Briefing SKILL
+{"id":"b50409db-f642-4458-a1d6-c937a706e75f","object":"chat.completion","created":1771555764,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Figma Briefing SKILL
 
 ## Purpose
-Quickly generate structured design briefs in Figma using natural language. Converts loose ideas into actionable design specifications.
+Quickly generate structured Figma design briefs for projects, features, or components.
 
 ## How to Use
-1. **Activate**: Type `/brief` followed by your design request
-2. **Examples**:
-   - `/brief landing page for eco-friendly water bottle`
-   - `/brief mobile app dashboard for fitness tracking`
-   - `/brief redesign of navigation for e-commerce site`
+1. **Start with**: \"Create a Figma brief for...\" or \"Brief for...\"
+2. **Specify**: Project type, feature, or component
+3. **Include**: Any specific requirements or constraints
 
-## What It Creates
-A structured Figma frame containing:
-- **Project Overview** - Clear description and objectives
-- **Target Audience** - User personas and demographics
-- **Core Requirements** - Key features and functionality
-- **Design Constraints** - Technical limitations and guidelines
-- **Success Metrics** - How to measure effectiveness
+## Output Structure
+- **Project Overview**: Context and goals
+- **Target Audience**: Primary users
+- **Core Requirements**: Key features/functionality
+- **Design Scope**: What's in/out of scope
+- **Constraints**: Technical/business limitations
+- **Success Metrics**: How to measure effectiveness
+- **Timeline**: Key milestones (if provided)
 
-## Best Practices
-- Be specific about the product/service
-- Mention the primary user goal
-- Include any brand guidelines or constraints
-- Specify platform (web, mobile, tablet)
+## Examples
+- \"Create a Figma brief for a mobile banking dashboard\"
+- \"Brief for a SaaS onboarding flow\"
+- \"Figma brief: e-commerce product card component\"
+
+## Tips
