@@ -1,20 +1,26 @@
 -e # Contracts
 
-{"id":"e9ce7d39-1713-4b2f-bed5-21e0fd206580","object":"chat.completion","created":1771580099,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contract Drafting & Management
+{"id":"56315db4-f864-4fa6-b260-1bb0be44d410","object":"chat.completion","created":1771584005,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contracts
 
-## Core Competencies
+## Core Competency
+Drafting, reviewing, and managing legal agreements to protect interests and define obligations.
 
-### 1. Contract Fundamentals
-- **Structure & Components**: Master standard contract sections (preamble, recitals, definitions, operative provisions, boilerplate, signatures)
-- **Legal Concepts**: Understand consideration, capacity, mutual assent, legality of purpose
-- **Risk Allocation**: Identify indemnification, limitation of liability, warranties, insurance requirements
-- **Termination Rights**: Draft clear termination triggers, notice periods, and exit obligations
+## Key Abilities
 
-### 2. Drafting Techniques
-- **Precision Language**: Use \"shall\" for obligations, \"may\" for permissions, avoid ambiguous terms
-- **Cross-Referencing**: Ensure internal consistency between sections and defined terms
-- **Clarity Over Cleverness**: Write for enforceability, not literary merit
-- **Scenario Planning**: Anticipate potential disputes and draft accordingly
+### 1. Contract Drafting
+- Structuring agreements with clear terms and conditions
+- Defining parties, scope, deliverables, and timelines
+- Incorporating necessary legal clauses and protections
+- Ensuring alignment with business objectives
 
-### 3. Negotiation Skills
-- **Redlining Proficiency**: Track changes clearly,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Legal Review & Analysis
+- Identifying potential risks and liabilities
+- Assessing compliance with relevant laws and regulations
+- Evaluating termination clauses and dispute resolution mechanisms
+- Spotting ambiguous language that could lead to interpretation issues
+
+### 3. Negotiation Support
+- Preparing negotiation positions and fallback options
+- Advising on acceptable compromises
+- Documenting agreed changes clearly
+- Balancing legal protection with relationship preservation

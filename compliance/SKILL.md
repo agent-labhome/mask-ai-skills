@@ -1,25 +1,27 @@
 -e # Compliance
 
-{"id":"a1bf0e04-6cc9-4410-ba9b-02771dcb24f6","object":"chat.completion","created":1771580094,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Compliance Brief
+{"id":"0d30c51f-310a-460a-933e-43f2aa70dd32","object":"chat.completion","created":1771583996,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Compliance Brief - SKILL Documentation
 
-## Purpose
-A concise, structured summary of compliance requirements, risks, and actions for stakeholders who need to understand obligations quickly without extensive detail.
+## Overview
+**Compliance Brief** is a specialized skill that helps users understand and navigate complex regulatory compliance requirements across various industries and jurisdictions. The skill provides concise, actionable summaries of compliance obligations, regulatory changes, and best practices.
 
-## Core Principles
-- **Clarity over completeness** – Prioritize key obligations and deadlines
-- **Action-oriented** – Focus on what needs to be done, by whom, and when
-- **Risk-aware** – Highlight critical compliance gaps and consequences
-- **Audience-specific** – Tailor depth and language to the reader's role
+## Core Capabilities
 
-## Structure Template
+### 1. **Regulatory Analysis**
+- Summarize specific regulations (GDPR, HIPAA, SOX, PCI-DSS, etc.)
+- Explain compliance requirements for specific industries
+- Compare regulations across different jurisdictions
+- Identify key compliance deadlines and obligations
 
-### 1. Header
-- **Title**: [Regulation/Policy Name] Compliance Brief
-- **Date**: [Issuance Date]
-- **Audience**: [Target readers, e.g., \"Executive Team,\" \"Product Managers\"]
-- **Status**: [Draft/Final/Update]
+### 2. **Industry-Specific Guidance**
+- Financial services compliance (AML, KYC, Basel III)
+- Healthcare regulations (HIPAA, HITECH, FDA)
+- Data protection and privacy laws
+- Environmental, Social, and Governance (ESG) requirements
+- Industry-specific certifications and standards
 
-### 2. Executive Summary (1-2 paragraphs)
-- What is the regulation/policy?
-- Why does it matter to us?
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Compliance Program Support**
+- Risk assessment methodologies
+- Policy development frameworks
+- Audit preparation guidance
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

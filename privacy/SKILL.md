@@ -1,20 +1,27 @@
 -e # Privacy
 
-{"id":"e357481f-1fe9-449e-a57f-5043066261fd","object":"chat.completion","created":1771580110,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Privacy Brief
+{"id":"2fb642ed-18c0-496c-b151-d967b3e27250","object":"chat.completion","created":1771584001,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Privacy Brief
 
 ## Purpose
-Generate concise, structured privacy briefs that distill complex privacy concepts into clear, actionable summaries for stakeholders.
+Generate concise, structured privacy briefs that distill complex privacy concepts into clear, actionable summaries for non-specialists.
 
 ## Core Capabilities
-- **Privacy Analysis**: Identify key privacy considerations in products, features, or initiatives
-- **Stakeholder Summarization**: Tailor privacy briefs to different audiences (executives, engineers, legal, etc.)
-- **Risk Highlighting**: Surface potential privacy risks and compliance considerations
-- **Recommendation Generation**: Provide actionable privacy recommendations
-- **Framework Application**: Apply privacy frameworks (GDPR, CCPA, Privacy by Design, etc.) as needed
+- **Summarization**: Extract key privacy principles, risks, and requirements from complex documents
+- **Structuring**: Organize privacy information into standardized brief formats
+- **Clarification**: Translate technical/legal privacy terminology into plain language
+- **Risk Highlighting**: Identify and prioritize privacy risks and mitigation strategies
+- **Compliance Mapping**: Connect privacy requirements to relevant regulations (GDPR, CCPA, etc.)
 
-## Input Requirements
-To generate an effective privacy brief, provide:
-1. **Product/Feature Description**: What is being analyzed?
-2. **Data Elements**: What personal data is collected/processed?
-3. **Context**: Purpose, user base, geographic scope, existing privacy measures
-4. **Audience**: Who needs the brief? (Optional - defaults to"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Input Processing
+The skill accepts:
+- Privacy policies and terms of service
+- Data processing agreements
+- Privacy impact assessments
+- Regulatory requirements
+- Technical system descriptions
+- User scenarios requiring privacy analysis
+
+## Output Structure
+Each privacy brief includes:
+
+1. **Executive Summary** (2-3 sentences)
