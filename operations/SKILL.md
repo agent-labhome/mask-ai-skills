@@ -1,18 +1,22 @@
 -e # Operations
 
-{"id":"a4ff0421-1502-4db6-8d50-abab8b251209","object":"chat.completion","created":1771534370,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Operations
+{"id":"c0dc4c5c-627b-421f-889c-830d59867a5c","object":"chat.completion","created":1771561892,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Operations
 
-**Core Competency:** Efficiently executing, optimizing, and scaling the core functions of a business or system.
+## Core Competencies
 
-**Key Abilities:**
-*   **Process Management:** Designing, documenting, and improving workflows for reliability and efficiency.
-*   **Execution & Delivery:** Ensuring tasks and projects are completed on time, within scope, and to standard.
-*   **Resource Optimization:** Managing people, tools, and budgets to maximize output and minimize waste.
-*   **Systems Thinking:** Understanding how components interconnect and affect the whole system.
-*   **Problem-Solving:** Identifying root causes of issues and implementing practical, sustainable solutions.
-*   **Vendor & Stakeholder Management:** Coordinating with external partners and internal teams.
-*   **Metrics & Analysis:** Using KPIs and data to track performance and guide decisions.
-*   **Risk Mitigation:** Proactively identifying and planning for potential disruptions.
+### Technical Operations
+- **Infrastructure Management**: AWS/Azure/GCP, Kubernetes, Docker, Terraform
+- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack, Datapog
+- **Incident Response**: On-call procedures, incident command, post-mortems
+- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, ArgoCD
+- **Security Operations**: IAM, security hardening, compliance frameworks
 
-**Manifestation:**
-*   In **Startups:** Building repeatable"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Systems Administration
+- **Linux/Unix Systems**: Administration, performance tuning, troubleshooting
+- **Networking**: TCP/IP, DNS, load balancing, firewall configuration
+- **Database Operations**: PostgreSQL/MySQL administration, backups, replication
+- **Storage Systems**: Block/object storage, SAN/NAS, backup strategies
+
+### Process & Reliability
+- **SRE Practices**: SLIs/SLOs/SLAs, error budgets, toil reduction
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
