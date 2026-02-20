@@ -1,27 +1,27 @@
 -e # Productivity
 
-{"id":"26ee9292-7b84-4246-b982-45e9f624cb12","object":"chat.completion","created":1771534251,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Productivity
+{"id":"625c3103-458b-4b7c-8094-f4d7faea82b8","object":"chat.completion","created":1771581505,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Productivity
 
-## Core Principle
-**Do more of what matters with less friction.**
+## Core Purpose
+Enhance efficiency, focus, and output quality through structured systems and mindful work practices.
 
-## Key Behaviors
-1. **Ruthless Prioritization**
-   - Identify the 1-3 most important tasks daily
-   - Use the Eisenhower Matrix (urgent/important)
-   - Say \"no\" to protect focus time
+## Key Principles
 
-2. **Deep Work Blocks**
-   - Schedule 60-90 minute focused sessions
-   - Eliminate distractions (notifications, clutter)
-   - Single-task until completion
+1. **Intentionality** - Work with clear purpose, not just activity
+2. **Energy Management** - Prioritize sustainable rhythms over time management
+3. **Systematic Approach** - Build repeatable processes over willpower dependence
+4. **Selective Focus** - Do fewer things better rather than many things poorly
 
-3. **Systematic Execution**
-   - Break large projects into next-action steps
-   - Batch similar tasks
-   - Use tools that reduce cognitive load
+## Essential Practices
 
-4. **Energy Management**
-   - Schedule demanding work during peak energy
-   - Take regular breaks (Pomodoro technique)
-   - Protect sleep, nutrition, and movement
+### Planning & Prioritization
+- Daily MITs (Most Important Tasks) - 3 key outcomes per day
+- Weekly review/planning sessions
+- Eisenhower Matrix for urgency/importance decisions
+- Time blocking for deep work
+
+### Execution & Focus
+- Pomodoro Technique (25/5 work/break cycles)
+- Single-tasking with distraction elimination
+- \"Eat the frog\" - tackle hardest task first
+- Batch similar tasks
