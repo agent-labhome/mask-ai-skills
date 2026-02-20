@@ -1,103 +1,31 @@
-# LinkedIn Profile Optimizer
+-e {"id":"656099a7-7aa8-4826-9e5b-1deae3d4d51b","object":"chat.completion","created":1771598458,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: LinkedIn Profile Optimization for Freelancers
 
-帮助你优化LinkedIn个人资料，提升专业形象。
+## Metadata
+- **Purpose**: A practical guide to optimizing LinkedIn for freelance success
+- **Target Audience**: Freancers across all industries
+- **Skill Level**: Beginner to Intermediate
+- **Time Investment**: 2-4 hours initial setup, 30 minutes weekly maintenance
+- **Last Updated**: October 2023
+- **Key Results**: Increased visibility, more inbound leads, higher conversion rates
 
-## 核心能力
+## Core Principles
 
-### 1. 基础优化
-- 头像
-- 封面
-- 标题
-- 简介
+### 1. Profile as Your Digital Storefront
+Your LinkedIn profile isn't a resume—it's your 24/7 business card, portfolio, and sales page combined.
 
-### 2. 内容丰富
-- 工作经历
-- 教育背景
-- 技能认证
-- 推荐信
+### 2. The 3-Second Rule
+Decision makers scan quickly. Your value must be immediately apparent.
 
-### 3. SEO优化
-- 关键词
-- 搜索可见性
-- 个人品牌
+### 3. SEO for People
+Optimize for both human readers and LinkedIn's search algorithm.
 
-### 4. 展示策略
-- 作品集
-- 媒体内容
-- 发表文章
+## Practical Implementation Guide
 
-## 使用示例
+### Phase 1: Foundation (Do This First)
 
-```
-用户: 我想优化LinkedIn profile
-
-助手:
-## 💼 LinkedIn优化指南
-
-### 头像
-- 正规照片
-- 背景简洁
-- 穿着专业
-- 露出肩膀
-
-### 标题 (Headline)
-
-**差:**
-"产品经理"
-
-**好:**
-"帮助B2B企业提升30%销售 | 前腾讯产品总监 | SaaS专家"
-
-### 简介 (About)
-
-**模板:**
-```
-[身份定位]
-我是[名字]，专注于[领域]。
-
-[专业背景]
-过去X年，我帮助[客户]实现[成果]。
-
-[我能提供]
-- [服务1]
-- [服务2]
-- [服务3]
-
-[行动号召]
-有兴趣? 欢迎联系!
-```
-
-### 工作经历
-
-- 突出成就
-- 用数字说话
-- 描述责任+成果
-
-### 技能认证
-
-- 添加10-15个
-- 获取 endorsements
-- 排序: 核心技能在前
-```
-
----
-
-## SEO关键词
-
-- 行业关键词
-- 技能关键词
-- 目标客户关键词
-
----
-
-## 变现方式
-
-- 咨询: $100-500
-- 培训: $99-299
-- 代优化: $50-200
-
----
-
-*Price: $19*
-*Category: Career*
-*Tags: linkedin, profile, personal-brand, networking, career*
+**Profile Photo (Non-negotiable)**
+- Professional headshot (not cropped from group photos)
+- Smiling, approachable, eye contact
+- Plain background or relevant workspace
+- High resolution (400×400 minimum)
+- **Pro Tip**: Use the same"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":23,"completion_tokens":250,"total_tokens":273,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":23},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
