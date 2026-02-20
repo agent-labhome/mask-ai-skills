@@ -1,27 +1,25 @@
 -e # Insurance
 
-{"id":"2b4996d7-3838-4d63-a184-b8a86f0768d6","object":"chat.completion","created":1771574310,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Insurance Briefing
+{"id":"2228b673-2c06-4cdd-a656-0519271802a5","object":"chat.completion","created":1771583938,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Insurance Brief
 
 ## Overview
-The Insurance Briefing skill enables users to quickly generate concise, structured summaries of insurance policies, claims, or coverage scenarios. This tool is designed for insurance professionals, brokers, and clients who need clear, actionable summaries without extensive policy review.
+The **Insurance Brief** skill enables users to quickly generate concise, structured summaries of insurance-related documents, policies, or scenarios. It distills complex insurance information into clear, actionable briefs for decision-makers, clients, or internal teams.
 
 ## Core Capabilities
 
-### 1. Policy Summarization
-- **Input**: Insurance policy documents or descriptions
-- **Output**: Structured summary including:
-  - Policy type (auto, home, life, health, commercial)
-  - Coverage limits and deductibles
-  - Key inclusions/exclusions
-  - Premium information
-  - Policy period
-  - Important conditions
+### 1. **Document Analysis & Summarization**
+- Parse insurance policies (coverage details, exclusions, limits)
+- Summarize claims reports and incident documentation
+- Extract key terms from contracts and endorsements
+- Identify coverage gaps and potential exposures
 
-### 2. Claims Briefing
-- **Input**: Claims details or scenarios
-- **Output**: Concise claims summary:
-  - Claim type and incident details
-  - Coverage applicability
-  - Estimated payout ranges
-  - Required documentation
-  - Timeline expectations
+### 2. **Scenario Briefing**
+- Generate risk assessment summaries for specific situations
+- Compare coverage options across different policy types
+- Outline recommended actions based on policy terms
+- Highlight critical deadlines and notification requirements
+
+### 3. **Stakeholder-Specific Outputs**
+- **Executive Briefs**: High-level summaries with decision points
+- **Client Briefs**: Plain-language explanations of coverage
+- **Claims Brief"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
