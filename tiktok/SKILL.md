@@ -1,27 +1,24 @@
 -e # TikTok
 
-{"id":"55632bda-6546-486a-a987-89d9b1d8e30c","object":"chat.completion","created":1771537850,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok SKILL.md
+{"id":"2a832f9a-3abf-4f20-989f-1725339a456f","object":"chat.completion","created":1771577580,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok SKILL.md
 
-## Purpose
-Create and manage TikTok content directly from your workflow.
+## Skill Overview
+**Skill Name:** TikTok  
+**Platform:** TikTok  
+**Category:** Social Media & Content Creation  
+**Primary Use:** Short-form video creation, social engagement, and content discovery
 
-## Key Commands
-- `post to tiktok` - Upload a video with caption and hashtags
-- `schedule tiktok` - Schedule posts for optimal timing
-- `check analytics` - View video performance metrics
-- `trending sounds` - Discover popular audio clips
-- `draft ideas` - Generate content concepts based on trends
+## Core Capabilities
 
-## File Support
-- Videos: MP4, MOV (9:16 aspect ratio recommended)
-- Captions: Auto-generate or custom text
-- Hashtags: Auto-suggest or manual entry
+### 1. Content Creation
+- **Video Recording:** 15-second to 10-minute vertical videos
+- **Editing Tools:** Built-in effects, filters, transitions, and text overlays
+- **Audio Integration:** Vast music library, sound effects, and voiceover capabilities
+- **Duets & Stitches:** Collaborative features for reacting to/remixing others' content
+- **Templates:** Pre-made video formats for quick content creation
 
-## Best Practices
-- Keep videos under 60 seconds
-- Use trending sounds when relevant
-- Post during peak hours (6-10 PM local)
-- Engage with comments promptly
-
-## Notes
-- Requires TikTok Creator Account
+### 2. Discovery & Consumption
+- **For You Page (FYP):** Personalized algorithm-driven content feed
+- **Following Feed:** Content from accounts you follow
+- **Search & Explore:** Hashtag and trend discovery
+- **Live Streaming:** Real-time broadcasting with"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
