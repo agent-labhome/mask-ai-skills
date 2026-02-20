@@ -1,25 +1,21 @@
 -e # Lifestyle
 
-{"id":"fe035317-1fe2-4cc1-8046-4335bbe76084","object":"chat.completion","created":1771583793,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Lifestyle Brief
+{"id":"a41d7bd8-a07b-4688-b8d3-46c6d055e1e8","object":"chat.completion","created":1771589027,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Lifestyle Brief
 
-## Purpose
-Generate concise, structured lifestyle briefs for content creators, strategists, or clients. This skill transforms general lifestyle topics or requests into clear, actionable briefs with target audience, tone, key messages, and content pillars.
+## Skill Purpose
+Lifestyle Brief is a concise, actionable lifestyle guidance system that provides clear, practical recommendations across key life domains. It transforms broad lifestyle goals into specific, manageable actions.
 
-## Input Format
-Users can provide:
-- A general lifestyle category (e.g., \"sustainable home,\" \"mindful morning routines\")
-- A specific product, service, or brand context
-- A simple request (e.g., \"need a brief for a yoga brand's blog\")
-- Key adjectives or desired emotions
+## Core Functionality
+- **Domain Analysis**: Assesses user needs across 5 key lifestyle areas
+- **Actionable Recommendations**: Provides 2-3 specific, practical suggestions per domain
+- **Brief Format**: Delivers information in a concise, scannable structure
+- **Personalization**: Tailors advice based on user context and stated preferences
 
-## Output Structure
-Each brief will follow this template:
+## Key Lifestyle Domains
+1. **Nutrition** - Eating habits, meal planning, hydration
+2. **Fitness** - Exercise routines, movement, activity integration
+3. **Mindfulness** - Stress management, mental wellbeing, relaxation
+4. **Sleep** - Sleep hygiene, rest quality, recovery
+5. **Productivity** - Time management, focus, work-life balance
 
-**1. Project Title**
-   - Clear, engaging name for the brief.
-
-**2. Objective**
-   - Primary goal (e.g., inspire, educate, drive engagement, promote product integration).
-
-**3. Target Audience**
-   - Demographics & psychographics (e.g., \"Wellness-seeking millennials, urban professionals aged 28-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Interaction Patterns"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
