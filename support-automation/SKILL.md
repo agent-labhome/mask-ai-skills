@@ -1,23 +1,21 @@
 -e # Support Automation
 
-{"id":"3e12fd58-60c4-4624-af34-3bc930129d9b","object":"chat.completion","created":1771512871,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Support Automation
+{"id":"4afbab65-7990-4ab5-a4d1-59814517b084","object":"chat.completion","created":1771562889,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Support Automation
 
-## Core Capabilities
-- **Ticket Triage**: Automatically categorize, prioritize, and route support tickets
-- **Self-Service**: Build and maintain knowledge bases, chatbots, and automated workflows
-- **Response Automation**: Generate and send initial responses, follow-ups, and resolutions
-- **Escalation Management**: Define and trigger rules for human agent handoff
-- **Metrics & Reporting**: Track deflection rates, resolution times, and automation effectiveness
+## Skill Overview
+**Support Automation** refers to the strategic implementation of technology to streamline, augment, or fully automate customer support processes. The goal is to improve efficiency, reduce resolution times, and enhance the customer experience while allowing human agents to focus on complex, high-value interactions.
 
-## Key Tools & Platforms
-- Chatbots (Intercom, Zendesk Answer Bot)
-- Help center software (Help Scout, Freshdesk)
-- Workflow automation (Zapier, Make)
-- AI-powered support (GPT-based responders, sentiment analysis)
+---
 
-## Best Practices
-- Start with high-volume, low-complexity queries
-- Maintain clear escalation paths to human agents
-- Regularly update knowledge bases and automation rules
-- Measure deflection rate and customer satisfaction
-- Balance automation with personal touch"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Core Objectives
+*   **Deflect Repetitive Inquiries:** Automatically handle common, low-complexity questions (e.g., \"What are your hours?\", \"Reset my password\").
+*   **Accelerate Resolution:** Provide instant answers and guided troubleshooting 24/7.
+*   **Augment Human Agents:** Equip support teams with tools for faster research, suggested responses, and context.
+*   **Scale Efficiently:** Manage increasing support volume without linear growth in headcount.
+*   **Gather Data & Insights:** Automatically tag, categorize, and analyze support interactions to identify trends and knowledge gaps.
+
+---
+
+## Key Components & Technologies
+
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
