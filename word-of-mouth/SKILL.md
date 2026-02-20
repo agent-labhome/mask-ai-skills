@@ -1,25 +1,19 @@
-# Word of Mouth Marketing
+-e # Word of Mouth
 
-帮助你做口碑营销。
+{"id":"9ae5fe30-f83f-4470-90b1-7f1e1a60d916","object":"chat.completion","created":1771563086,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Word of Mouth
 
-## 核心能力
+## Overview
+**Word of Mouth** is a skill that enables Alexa to generate and share personalized recommendations for products, services, or experiences based on a user's described needs, preferences, or a specific category.
 
-### 1. 基础
-- 产品
-- 体验
-- 惊喜
+## Core Functionality
+The skill acts as a conversational recommendation engine. Users can ask for suggestions in a natural, open-ended way.
 
-### 2. 触发
-- 推荐
-- 评价
-- 案例
-
-### 3. 渠道
-- 社群
-- 网红
-- 论坛
-
-### 4. 衡量
--  NPS
--  推荐率
--  成本
+### Primary Intents
+1.  **RecommendationRequest**
+    *   **User Utterances (Examples):**
+        *   \"Alexa, ask Word of Mouth for a good book to read on vacation.\"
+        *   \"Find me a cozy coffee shop nearby.\"
+        *   \"I need a gift for my nephew who loves dinosaurs.\"
+        *   \"Recommend a podcast about history.\"
+        *   \"What's a good Italian restaurant?\"
+    *   **Skill Behavior:** The skill parses the query to identify the **category** (e.g., \"book,\" \"coffee"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

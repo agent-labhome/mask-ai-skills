@@ -1,22 +1,17 @@
 -e # Influencer Marketing
 
-{"id":"8e14bff3-8266-409a-b191-ad4cad0977e3","object":"chat.completion","created":1771516307,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Influencer Marketing Briefs
+{"id":"a44cea16-d9fe-44e4-8038-e35a793c8624","object":"chat.completion","created":1771563081,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Influencer Marketing Brief
 
-## Purpose
-To create clear, actionable briefs that align influencers with campaign goals, ensuring authentic and effective collaborations.
+## Core Purpose
+To create a clear, strategic, and actionable brief that aligns brand objectives with an influencer's creative execution, ensuring a successful and measurable campaign.
 
-## Core Principles
-- **Clarity Over Creativity:** The brief must be unambiguous before it can be inspiring.
-- **Strategic Alignment:** Every element ties back to the core campaign objective.
-- **Empowerment, Not Micromanagement:** Provide direction and guardrails, not a script.
+## Key Components of an Effective Brief
 
-## Brief Structure (The 5 Ws)
+### 1. Campaign Overview & Objectives
+- **Brand & Product:** Clear introduction to the brand, its values, and the specific product/service being promoted.
+- **Campaign Goal:** Primary objective (e.g., brand awareness, product launch, sales/conversions, lead generation, community growth).
+- **Key Performance Indicators (KPIs):** Specific, measurable metrics (e.g., reach, engagement rate, clicks, conversions, UGC volume, hashtag use).
 
-**1. WHY (Objective & KPIs)**
-- State the primary campaign goal (Awareness, Consideration, Conversion).
-- Define 1-3 measurable KPIs (e.g., Reach, Engagement Rate, Use of Tracked Link/Code).
-- **Ask:** \"What does success look like for this specific collaboration?\"
-
-**2. WHO (Audience & Influencer Fit)**
-- Describe the target audience segment for this piece of content.
-- Explain *why* this"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Influencer Profile & Audience
+- **Desired Creator Profile:** Channel (Instagram, TikTok, YouTube, etc.), niche, content style, audience demographics, and brand alignment values.
+- **Target Audience:** Detailed description of the end-consumer the campaign aims"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

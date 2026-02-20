@@ -1,25 +1,25 @@
 -e # Affiliate Marketing
 
-{"id":"5779a29d-5f7e-4fc3-aad8-718426bd3c97","object":"chat.completion","created":1771516302,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Affiliate Marketing
+{"id":"fe249cc8-96c1-4a9f-9e06-0f542564a17a","object":"chat.completion","created":1771563066,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Affiliate Marketing
 
-**Core Competency:** Promoting third-party products/services to earn commission on resulting sales or actions.
+## Core Competencies
 
----
+### 1. **Strategic Niche Selection & Research**
+- Market gap identification and trend analysis
+- Audience persona development
+- Competitor analysis and differentiation strategies
+- Product/service evaluation for affiliate suitability
 
-## Key Abilities
+### 2. **Platform & Channel Mastery**
+- **Content Platforms**: SEO-optimized blogging, video creation, podcasting
+- **Social Media**: Platform-specific strategies (Pinterest, Instagram, TikTok, YouTube)
+- **Email Marketing**: List building, segmentation, automated sequences
+- **Paid Traffic**: PPC, social media ads, retargeting campaigns
 
-- **Niche Selection:** Identifying profitable, aligned markets.
-- **Program Research:** Evaluating affiliate networks (ShareASale, CJ) and direct programs.
-- **Content Integration:** Seamlessly embedding affiliate links into valuable content (reviews, tutorials, lists).
-- **Compliance:** Disclosing affiliate relationships clearly (FTC/legal requirements).
-- **Performance Tracking:** Analyzing clicks, conversions, and EPC (Earnings Per Click).
-- **Optimization:** Testing strategies, links, and placements to improve conversion rates.
+### 3. **Content Creation & Optimization**
+- Conversion-focused copywriting (reviews, comparisons, tutorials)
+- Visual content creation (graphics, thumbnails, videos)
+- SEO implementation (keyword research, on-page optimization, link building)
+- Value-driven content that builds trust before promoting
 
----
-
-## Tools & Knowledge
-
-- **Networks:** Amazon Associates, ShareASale, Impact, Rakuten.
-- **Tracking:** Understanding cookies, attribution windows.
-- **Platforms:** Leveraging blogs, social media, email lists, and SEO.
-- **Metrics:** CTR, Conversion Rate,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 4. **Technical Implementation"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
