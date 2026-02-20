@@ -1,16 +1,21 @@
 -e # Networking
 
-{"id":"d4826c9b-958e-4c35-b103-b94793b2bec8","object":"chat.completion","created":1771534413,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Networking
+{"id":"be107b55-5426-4d3f-8a49-a9e3f99e378b","object":"chat.completion","created":1771579868,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Networking - SKILL.md
 
-**Purpose:** Building and maintaining professional relationships to exchange information, advice, and support.
+## Core Competencies
 
-**Core Actions:**
-*   **Connect:** Proactively introduce yourself and find common ground.
-*   **Listen:** Focus on understanding others' goals and challenges.
-*   **Give:** Offer help, insights, or introductions without immediate expectation of return.
-*   **Follow Up:** Maintain connections with a brief message or shared resource.
-*   **Nurture:** Sustain relationships over time, not just when you need something.
+### Foundational Knowledge
+- **Protocols & Standards**: TCP/IP, UDP, HTTP/HTTPS, DNS, DHCP, ARP
+- **Network Models**: OSI 7-layer, TCP/IP 4-layer
+- **Addressing**: IPv4/IPv6, subnetting, CIDR notation
+- **Network Types**: LAN, WAN, WLAN, VLAN, VPN
 
-**Key Mindset:** It's about cultivating a garden, not hunting. Value comes from mutual, long-term benefit.
+### Infrastructure & Hardware
+- **Devices**: Routers, switches, firewalls, load balancers, access points
+- **Cabling & Media**: Ethernet standards, fiber optics, wireless standards
+- **Topologies**: Star, mesh, ring, bus architectures
 
-**Quick Tip:** Your network is not your contact list; it's the people who know and are willing to help you."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":15,"completion_tokens":158,"total_tokens":173,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Security & Management
+- **Security**: Firewall configuration, IDS/IPS, VPN setup, encryption
+- **Monitoring**: Packet analysis (Wireshark), SNMP, network performance tools
+- **Troubleshooting**: Connectivity issues,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
