@@ -1,26 +1,19 @@
 -e # Design
 
-{"id":"8a056cf6-eed4-4b38-8ca9-5e7a312a995d","object":"chat.completion","created":1771541428,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Design Brief Creation
+{"id":"4554160a-0af3-4809-81f6-7b42432aedcc","object":"chat.completion","created":1771573860,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Design Brief
 
-## Purpose
-Create clear, actionable design briefs that align stakeholders, define project scope, and establish measurable success criteria.
+## Overview
+A **Design Brief** is a strategic document that outlines the objectives, scope, and requirements for a design project. It serves as a critical communication tool between stakeholders (clients, managers) and the design team, ensuring alignment, clarity, and a shared vision from the outset.
 
-## Core Principles
-- **Clarity over completeness**: Focus on essential information that drives decisions
-- **Problem-first approach**: Start with user/business problems, not solutions
-- **Collaborative foundation**: Briefs should invite input, not dictate outcomes
-- **Measurable outcomes**: Every brief must define what success looks like
+This skill involves the ability to **create, interpret, and execute** a design brief effectively.
 
-## Key Components
+---
 
-### 1. Project Context
-- Business objectives and constraints
-- User problems/opportunities
-- Current state assessment
-- Success metrics (KPIs, OKRs)
+## Core Components of a Design Brief
 
-### 2. Scope & Deliverables
-- Clear boundaries (in-scope vs. out-of-scope)
-- Tangible outputs (wireframes, prototypes, etc.)
-- Timeline and milestones
-- Resource requirements
+A well-structured brief typically includes:
+
+1.  **Project Overview & Background:** Context about the company, product, or service. Why is this project needed now?
+2.  **Objectives & Goals:** What are the specific, measurable outcomes? (e.g., Increase user sign-ups by 15%, refresh brand to appeal to a younger demographic).
+3.  **Target Audience:** Who are we designing for? Include demographics, psychographics, behaviors, and pain points.
+4.  **Scope of Work:** Clearly defined deliverables"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
