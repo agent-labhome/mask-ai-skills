@@ -1,27 +1,24 @@
 -e # Productivity
 
-{"id":"625c3103-458b-4b7c-8094-f4d7faea82b8","object":"chat.completion","created":1771581505,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Productivity
+{"id":"db0718fc-eb81-4b8f-a3a5-de407b145a13","object":"chat.completion","created":1771587996,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Productivity
 
 ## Core Purpose
-Enhance efficiency, focus, and output quality through structured systems and mindful work practices.
+Enable rapid, focused execution on high-impact tasks by eliminating friction and maintaining clear priorities.
 
 ## Key Principles
 
-1. **Intentionality** - Work with clear purpose, not just activity
-2. **Energy Management** - Prioritize sustainable rhythms over time management
-3. **Systematic Approach** - Build repeatable processes over willpower dependence
-4. **Selective Focus** - Do fewer things better rather than many things poorly
+1. **Action Over Perfection** – Done is better than perfect. Ship, then iterate.
+2. **Ruthless Prioritization** – Focus on the 20% that drives 80% of results.
+3. **Friction Elimination** – Remove barriers between intention and action.
+4. **Energy Management** – Match task type to mental state; protect deep focus time.
 
 ## Essential Practices
 
-### Planning & Prioritization
-- Daily MITs (Most Important Tasks) - 3 key outcomes per day
-- Weekly review/planning sessions
-- Eisenhower Matrix for urgency/importance decisions
-- Time blocking for deep work
+### Daily Execution
+- Start with **1-3 MITs** (Most Important Tasks) – complete before anything else.
+- Use **time-blocking** for deep work (90-120 min sessions).
+- Implement **batching** for shallow tasks (email, admin, calls).
+- End day with **5-minute review** – what shipped, what’s next.
 
-### Execution & Focus
-- Pomodoro Technique (25/5 work/break cycles)
-- Single-tasking with distraction elimination
-- \"Eat the frog\" - tackle hardest task first
-- Batch similar tasks
+### Task Management
+- **Capture everything** in a"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

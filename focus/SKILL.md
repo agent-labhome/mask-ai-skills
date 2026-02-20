@@ -1,27 +1,21 @@
 -e # Focus
 
-{"id":"8eba8231-1fdd-4ba7-90b4-dcf6153d1737","object":"chat.completion","created":1771581509,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Focus.Brief
+{"id":"0de9ef46-18f6-454c-b40c-4646489ae0ca","object":"chat.completion","created":1771588001,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Focus.Brief
 
-## Purpose
-A concise communication framework that delivers essential information in a structured, time-efficient format.
+## Overview
+**Focus.Brief** is a minimalist productivity tool designed to help users maintain laser focus on their most important tasks. It combines the principles of single-tasking with structured time management to combat distraction and increase productivity.
 
-## Core Principles
+## Core Features
 
-### 1. **Clarity Over Completeness**
-- Prioritize the most critical information
-- Eliminate unnecessary details
-- Use plain language
+### 1. **Single-Task Focus**
+- **One Task at a Time**: Users can only work on one predefined task during a focus session
+- **Task Locking**: Once a session starts, the task cannot be changed, preventing task-switching
+- **Clear Intent**: Forces users to define exactly what they'll accomplish before starting
 
-### 2. **Structure Over Stream**
-- Follow the prescribed format
-- Maintain logical flow
-- Use consistent organization
+### 2. **Structured Time Management**
+- **Flexible Timers**: Customizable focus durations (25, 50, 90 minutes or custom)
+- **Smart Breaks**: Automatic break suggestions based on session length
+- **Session Tracking**: Visual progress indicators and completion statistics
 
-### 3. **Action Over Ambiguity**
-- Include clear next steps
-- Specify responsibilities
-- Define timelines
-
-## Standard Format
-
-```
+### 3. **Minimalist Interface**
+- **Distraction-Free Design**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
