@@ -1,27 +1,27 @@
 -e # Hiring
 
-{"id":"844e6cc0-7c71-4533-b588-7aff6ce36f56","object":"chat.completion","created":1771587596,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Hiring Brief: SKILL Framework
+{"id":"387d26b9-46d1-4b40-83a9-321423e2e83b","object":"chat.completion","created":1771595578,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Hiring Brief SKILL
 
-## 🎯 **S** - Situation & Scope
-**Current Context:**
-- [Briefly describe the current team structure, project needs, or gap being addressed]
-- [Mention any time constraints, budget considerations, or strategic priorities]
+## Purpose
+This document outlines the structured approach for creating effective hiring briefs that align talent acquisition with business objectives.
 
-**Hiring Objective:**
-- [Specific role(s) to be filled]
-- [Expected start date and timeline]
-- [Team integration plan]
+## Core Principles
 
-## 🔍 **K** - Knowledge & Competencies
-**Hard Skills (Non-negotiables):**
-- [Technical skills, tools, certifications]
-- [Years/level of experience required]
-- [Domain-specific knowledge]
+### 1. **Strategic Alignment**
+- Connect hiring needs directly to business goals
+- Define how this role contributes to team/company success
+- Consider both immediate needs and long-term growth
 
-**Soft Skills (Essential):**
-- [Communication style needed]
-- [Collaboration requirements]
-- [Leadership/autonomy level]
+### 2. **Clarity & Specificity**
+- Avoid generic job descriptions
+- Define measurable outcomes for the role
+- Specify must-have vs. nice-to-have qualifications
 
-**Growth Potential:**
-- [Skills we'd like them to develop]
+### 3. **Inclusive Design**
+- Use inclusive language that welcomes diverse candidates
+- Focus on skills and competencies over pedigree
+- Consider alternative pathways to qualifications
+
+## Essential Components
+
+### **Role Context**

@@ -1,27 +1,27 @@
 -e # Onboarding
 
-{"id":"a70e6f7e-8fd8-4c2d-a9c1-4d44818a3ad1","object":"chat.completion","created":1771587605,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Onboarding Brief
+{"id":"291afd30-e20b-4372-bc0d-eb5c7dc518af","object":"chat.completion","created":1771595589,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Onboarding Brief
 
 ## Purpose
-A concise, structured document that provides essential context and direction for new team members during their initial onboarding period.
+Create a concise, structured onboarding brief that accelerates new hire ramp-up by providing essential context, expectations, and resources in a single, accessible document.
 
-## Core Components
+## Core Principles
+- **Clarity over completeness**: Focus on what's essential for the first 30-90 days
+- **Action-oriented**: Include specific tasks and measurable goals
+- **Human-centered**: Balance organizational needs with individual success
+- **Living document**: Designed to be updated as the role evolves
 
-### 1. **Welcome & Introduction**
-- Warm welcome message from manager/team lead
-- Team mission and how the new hire contributes
-- Key team members and their roles
+## Structure Template
 
-### 2. **Role Context**
-- Position title and reporting structure
-- Primary responsibilities (first 30/60/90 days)
-- Key success metrics for the role
-- How performance will be evaluated
+### 1. HEADER
+```
+Role: [Position Title]
+Department: [Team/Department]
+Manager: [Name]
+Start Date: [Date]
+First Check-in: [Date/Time]
+```
 
-### 3. **Immediate Priorities**
-- First week objectives (meetings, training, setup)
-- First 30-day deliverables
-- Critical stakeholders to connect with
-- Essential systems/tools to master
-
-### 4. **Cultural Integration**
+### 2. WELCOME & PURPOSE
+- Brief welcome message from manager
+- Role's mission statement (1-2 sentences)

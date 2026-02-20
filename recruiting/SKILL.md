@@ -1,27 +1,20 @@
 -e # Recruiting
 
-{"id":"2c146f68-442e-4055-a9d8-532adee89789","object":"chat.completion","created":1771587590,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Recruiting Brief
+{"id":"09815a85-9d4c-4e69-9f18-8601cf815e4f","object":"chat.completion","created":1771595573,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Recruiting Brief
 
-## Core Purpose
-Create clear, actionable recruiting briefs that align hiring needs with business objectives, ensuring efficient talent acquisition.
+## Purpose
+This document outlines the essential skills, competencies, and knowledge required to effectively create and manage a recruiting brief. A recruiting brief serves as the foundational document aligning stakeholders on role requirements, candidate profile, and hiring process.
 
-## Key Components of an Effective Recruiting Brief
+---
 
-### 1. **Business Context & Role Justification**
-- Business need driving the hire
-- How role supports company goals/OKRs
-- Budget approval status and reporting structure
+## Core Competencies
 
-### 2. **Role Definition**
-- **Job Title**: Industry-standard, level-appropriate
-- **Department & Team**: Reporting lines and team composition
-- **Location**: On-site/hybrid/remote requirements
-- **Employment Type**: FTE, contract, temporary
+### 1. Strategic Workforce Planning & Analysis
+*   **Business Acumen:** Understands company goals, department objectives, and how the role contributes to success.
+*   **Gap Analysis:** Identifies skill and capacity gaps within teams that necessitate hiring.
+*   **Future-Proofing:** Considers not just immediate needs but the medium-term strategic direction and required competencies.
+*   **Data-Informed Decision Making:** Uses metrics (e.g., attrition, promotion rates, project pipeline) to justify headcount.
 
-### 3. **Candidate Profile**
-- **Must-Have Requirements** (non-negotiables):
-  - Minimum years of experience
-  - Specific technical skills/certifications
-  - Education requirements
-  - Industry/domain expertise
-- **Nice-to-Have Qualifications**:
+### 2. Role Definition & Design
+*   **Job Analysis:** Breaks down the core purpose, key responsibilities, and daily tasks of the role.
+*   **Success"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
