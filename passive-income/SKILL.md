@@ -1,20 +1,26 @@
 -e # Passive Income
 
-{"id":"bd37ff4f-b56c-49f0-befc-1496e0bf9ee9","object":"chat.completion","created":1771513136,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Passive Income
+{"id":"7f61b911-b99f-4d0a-b767-5b36484c06b2","object":"chat.completion","created":1771555904,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Passive Income
 
-**Core Concept:** Generating income with minimal ongoing effort after initial setup.
+## Core Concept
+Generating income with minimal ongoing effort after initial setup.
 
-**Key Principles:**
-- **Automation:** Systems work for you while you sleep.
-- **Scalability:** Can grow without proportional time investment.
-- **Asset Creation:** Build or acquire income-producing assets.
+## Key Methods
+- **Investments**: Dividends, interest, bonds
+- **Digital Assets**: Ebooks, online courses, stock media
+- **Royalties**: Books, music, patents
+- **Rental Income**: Real estate, equipment, digital products
+- **Automated Businesses**: Affiliate sites, software, vending machines
 
-**Common Avenues:**
-- **Digital:** Online courses, ebooks, stock media, affiliate websites, software.
-- **Financial:** Dividends, interest, royalties, peer-to-peer lending.
-- **Physical:** Rental properties, vending machines, laundromats.
-- **Creative:** Licensing patents, designs, or music.
+## Quick Start
+1. **Audit**: Identify existing assets/skills
+2. **Start Small**: One method, minimal upfront cost
+3. **Automate**: Systems over constant effort
+4. **Reinvest**: Compound earnings into new streams
 
-**Mindset:** Focus on building systems, not trading time for money. Prioritize upfront work for long-term payoff. Manage and optimize, don't micromanage.
+## Mindset
+- **Long-term**: Builds slowly, compounds over time
+- **Scalability**: Prioritize methods that scale without linear time input
+- **Diversification**: Multiple streams reduce risk
 
-**Rule of Thumb:** If it requires your constant active involvement, it's not passive. It's a business."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":188,"total_tokens":204,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Remember**: \"Passive\" requires initial active work"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

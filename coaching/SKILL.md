@@ -1,27 +1,27 @@
 -e # Coaching
 
-{"id":"492758df-1f86-4140-8879-a4fca9fcba86","object":"chat.completion","created":1771518641,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Coaching Brief
+{"id":"761293ae-efe2-456f-8dba-56b804a956e1","object":"chat.completion","created":1771555918,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Coaching Briefs
 
 ## Purpose
-Deliver concise, actionable coaching that drives immediate performance improvement.
+Create concise, actionable coaching briefs that align stakeholders, clarify objectives, and drive effective execution.
 
 ## Core Principles
-- **Focus on one thing** - Identify the single most impactful change
-- **Evidence-based** - Anchor feedback in observable behaviors
-- **Forward-looking** - Emphasize future application over past mistakes
 
-## Structure (3-5 minutes max)
+**Brevity with Impact**
+- One page maximum
+- Lead with the \"why\"
+- Use plain language, no jargon
 
-### 1. **Context** (30 sec)
-- \"Here's what I observed in [situation]...\"
-- State the specific behavior/outcome needing attention
+**Clarity of Outcome**
+- Define success in observable terms
+- Specify what changes, not just what happens
+- Include both quantitative and qualitative measures
 
-### 2. **Impact** (60 sec)
-- \"The effect was...\"
-- Connect behavior to business/personal consequences
-- Use data or direct observations
+**Action Orientation**
+- Assign clear ownership
+- Include next immediate steps
+- Set realistic timeframes
 
-### 3. **Alternative** (90 sec)
-- \"Try this instead...\"
-- Provide 1-2 specific, actionable alternatives
-- Demonstrate if possible
+## Essential Components
+
+1. **Situation** (2-3 sentences)
