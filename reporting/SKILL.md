@@ -1,26 +1,26 @@
 -e # Reporting
 
-{"id":"0dfc8164-7e45-4a02-bb9b-87f483404d77","object":"chat.completion","created":1771570253,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Reporting Brief
+{"id":"d639376f-b3db-4654-8b6e-0f1a1d3b91f8","object":"chat.completion","created":1771587259,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Reporting Brief
 
 ## Purpose
-Effectively communicate key information from reports, analyses, or investigations in a concise, structured format suitable for decision-makers and stakeholders.
+To create concise, structured summaries of complex information for decision-makers, enabling rapid understanding and action.
 
 ## Core Principles
 
-### 1. **Clarity Over Completeness**
-- Extract only essential information
-- Eliminate jargon and technical details unless critical
-- Use plain language accessible to all stakeholders
-
-### 2. **Audience Awareness**
-- Tailor content to decision-maker's needs
-- Consider time constraints of recipients
+### 1. **Audience-Centric**
+- Identify the decision-maker's needs and priorities
+- Adapt language and detail level to the audience
 - Anticipate follow-up questions
 
-### 3. **Action Orientation**
-- Highlight implications, not just facts
-- Connect findings to organizational goals
-- Provide clear recommendations when appropriate
+### 2. **Clarity Over Completeness**
+- Prioritize key insights over exhaustive detail
+- Use plain language, avoid jargon unless necessary
+- One main point per section/paragraph
+
+### 3. **Action-Oriented**
+- Always include implications and recommendations
+- Make next steps clear and specific
+- Connect information to organizational goals
 
 ## Structure Template
 

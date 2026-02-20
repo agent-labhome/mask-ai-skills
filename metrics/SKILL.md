@@ -1,25 +1,21 @@
 -e # Metrics
 
-{"id":"20469268-4c2d-48ab-85dd-d65dd00cf4e3","object":"chat.completion","created":1771520203,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Metrics & Briefing
+{"id":"a3dfc39f-764c-4d6e-8f9c-d0d5a4e9d416","object":"chat.completion","created":1771587249,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Metrics Brief
 
-**Core Competency:** Transforming data into concise, actionable insights for decision-makers.
+## Overview
+The **Metrics Brief** skill enables users to quickly generate concise, structured summaries of key performance metrics for any given topic. This skill transforms complex data into actionable insights by identifying the most relevant metrics, providing current values, establishing benchmarks, and highlighting critical trends.
 
-## Key Abilities
-- **Metric Selection:** Identifying the most relevant KPIs for a given business goal
-- **Data Synthesis:** Distilling complex data into clear, meaningful patterns
-- **Executive Summarization:** Creating brief, focused reports (1-page max)
-- **Storytelling with Data:** Framing metrics within business context
-- **Visual Communication:** Using simple charts and formatting for clarity
+## Core Capabilities
 
-## Deliverables
-- One-page dashboards
-- Executive summaries
-- KPI scorecards
-- Data-driven recommendations
-- Progress-to-goal briefs
+### 1. **Metric Identification & Categorization**
+- Automatically identifies the 5-7 most critical metrics for any business domain, project, or initiative
+- Organizes metrics into logical categories (e.g., Financial, Operational, Customer, Growth)
+- Prioritizes metrics based on strategic importance and decision-making relevance
 
-## Guiding Principles
-1. **Less is more:** Focus on 3-5 key metrics that matter
-2. **So what?:** Always connect data to business impact
-3. **Action-oriented:** Every metric should suggest a decision
-4. **Audience-aware:** Tailor depth and terminology"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Current State Analysis**
+- Provides current values for identified metrics (when data is available)
+- Highlights which metrics are on/off track using clear visual indicators (✅/❌)
+- Identifies data gaps where current values are unavailable
+
+### 3. **Benchmarking & Context**
+- Establishes relevant"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
