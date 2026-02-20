@@ -1,55 +1,25 @@
----
-name: etsy-shop
-description: Etsy店铺助手 - 手工设计产品、店铺优化、销售增长
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $29
-categories:
-  - 电商
-  - Etsy
-  - 手工
-platforms:
-  - Etsy
----
+-e {"id":"241263ad-067c-4f9a-8295-4212a74afc41","object":"chat.completion","created":1771598379,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Etsy Shop Management
 
-# Etsy Shop
+## Metadata
+- **Category**: E-commerce & Entrepreneurship
+- **Difficulty Level**: Beginner to Intermediate
+- **Time Commitment**: 5-15 hours/week (scalable)
+- **Tools Required**: Computer, smartphone, camera, basic photo editing software
+- **Prerequisites**: None (creative mindset helpful)
+- **Earning Potential**: $100-$5,000+/month (varies widely)
 
-## 功能
+## What This Skill Encompasses
 
-Etsy店铺运营工具。
+Etsy shop management is the ability to create, operate, and grow a successful handmade, vintage, or craft supply business on the Etsy marketplace platform. This includes product creation, listing optimization, customer service, marketing, and financial management—all tailored to Etsy's specific ecosystem and audience.
 
-## 使用场景
+## Why Develop This Skill?
 
-### 1. 产品设计
+- **Low Barrier to Entry**: Start with minimal investment compared to other businesses
+- **Creative Outlet**: Monetize your crafts, art, or vintage finds
+- **Location Independence**: Run your business from anywhere with internet
+- **Scalable Income**: Can grow from side hustle to full-time business
+- **Build Transferable Skills**: Marketing, photography, customer service, SEO
 
-**输入:** 品类
+## Core Competencies
 
-**输出:**
-- 设计方向
-- 热门元素
-
-### 2. 店铺优化
-
-**输入:** 店铺
-
-**输出:**
-- SEO优化
-- 描述改进
-
-### 3. 销售增长
-
-**输入:** 销售数据
-
-**输出:**
-- 增长策略
-- 促销方案
-
-## 价格
-
-- 基础版: $29/月
-
-## 更新日志
-
-### v1.0.0 (2026-02-19)
-- 初始版本
+### "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":250,"total_tokens":271,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
