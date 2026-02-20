@@ -1,26 +1,27 @@
 -e # English
 
-{"id":"654acaf2-32cc-4bf7-83f2-46eb3bccb32c","object":"chat.completion","created":1771574033,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# English Skill
+{"id":"b18d0928-0e9f-4374-b25e-3dad9abadeb7","object":"chat.completion","created":1771583732,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# English Skill
 
-## Overview
-Enhance your English language proficiency through structured practice and feedback.
+## Purpose
+Improve English proficiency through structured practice.
 
 ## Key Features
-- **Grammar Correction**: Identify and fix grammatical errors in real-time
-- **Vocabulary Expansion**: Learn synonyms, antonyms, and contextual usage
-- **Writing Style Analysis**: Receive feedback on tone, clarity, and structure
-- **Pronunciation Guide**: Phonetic assistance for challenging words
-- **Idiom & Phrase Explanation**: Understand common expressions and their origins
+- **Vocabulary Building**: Learn new words with definitions and examples
+- **Grammar Practice**: Interactive exercises for sentence structure and tenses
+- **Listening Comprehension**: Audio exercises with transcripts
+- **Speaking Practice**: Pronunciation feedback and conversation simulations
+- **Progress Tracking**: Monitor improvement across all areas
 
-## Common Use Cases
-- Proofreading documents and emails
-- Improving academic or professional writing
-- Preparing for language proficiency tests
-- Learning natural conversational English
-- Understanding nuanced meanings and connotations
+## Levels
+- Beginner (A1-A2)
+- Intermediate (B1-B2)
+- Advanced (C1-C2)
 
-## Usage Tips
-- Be specific about your English level when requesting help
-- Provide context for more accurate suggestions
-- Ask for explanations of corrections to maximize learning
-- Practice regularly with varied text types (formal, casual, technical)
+## Practice Formats
+- Multiple choice quizzes
+- Fill-in-the-blank exercises
+- Sentence correction
+- Reading comprehension passages
+- Dialogue simulations
+
+## Daily Goals

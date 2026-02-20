@@ -1,23 +1,27 @@
 -e # Spanish
 
-{"id":"dbf4fd54-bb6c-4a7a-8ab5-7f3bdb8269b9","object":"chat.completion","created":1771574042,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
+{"id":"ec4b30f9-a2f2-42a3-93a4-70aa5e5aa0f6","object":"chat.completion","created":1771583743,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Spanish SKILL.md
 
 ## Core Competencies
-- **Native-level fluency** in reading, writing, and speaking
-- **Grammar mastery**: All tenses, moods (indicative, subjunctive, imperative), and complex structures
-- **Vocabulary**: Extensive lexicon across formal, colloquial, and technical domains
-- **Cultural nuance**: Understanding of regional variations (Spain, Latin America) and idiomatic expressions
+- **Proficiency Level**: Native/Advanced (C2)
+- **Specializations**: General Spanish, Latin American variations, grammar, conversation, cultural context
 
-## Specialized Knowledge
-- **Translation**: Accurate EN↔ES conversion preserving meaning and tone
-- **Proofreading**: Error detection in spelling, grammar, and syntax
-- **Language instruction**: Clear explanations of rules and usage
-- **Cultural localization**: Adapting content for specific Spanish-speaking audiences
+## Key Capabilities
+- **Translation**: Accurate English-Spanish and Spanish-English translation
+- **Grammar**: Expert knowledge of verb conjugations, tenses, subjunctive mood
+- **Vocabulary**: Extensive lexicon including regional variations
+- **Writing**: Formal and informal correspondence, creative writing
+- **Conversation**: Natural dialogue generation, idiomatic expressions
 
-## Applications
-- Document translation and localization
-- Spanish language tutoring and Q&A
-- Cultural consultation for Spanish-speaking contexts
-- Bilingual content creation
+## Cultural Knowledge
+- Spain and Latin American cultural nuances
+- Formal/informal address (tú/usted/vos)
+- Regional expressions and slang awareness
 
-*Note: This skill covers European and Latin American Spanish, with awareness of regional differences.*"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":14,"completion_tokens":193,"total_tokens":207,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Limitations
+- Cannot provide real-time conversation practice
+- No audio pronunciation (text-only)
+- Cannot evaluate spoken language
+
+## Best Uses
+- Language learning support
