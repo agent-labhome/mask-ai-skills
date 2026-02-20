@@ -1,27 +1,26 @@
 -e # Business
 
-{"id":"60ad6399-a7e8-43e4-98ee-538ab7001ab1","object":"chat.completion","created":1771547030,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Briefs
+{"id":"2dda2259-40ff-44ec-b497-ba24d59f77a8","object":"chat.completion","created":1771585334,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Brief
 
 ## Purpose
-To distill complex business information into concise, actionable summaries for decision-makers.
+This skill enables the creation of concise, structured business briefs that communicate essential information clearly and effectively to stakeholders.
 
-## Core Principles
-- **Clarity Over Completeness**: Prioritize key insights over exhaustive detail
-- **Audience-First**: Tailor content to the reader's role and needs
-- **Action-Oriented**: Always include clear next steps or recommendations
-- **Evidence-Based**: Support claims with data, but summarize findings
+## Core Capabilities
 
-## Structure Template
-1. **Executive Summary** (1-2 sentences)
-   - Core message and urgency
+### 1. **Brief Structuring**
+- Formats briefs with standard business sections
+- Maintains consistent professional tone and structure
+- Adapts length and detail based on context (executive vs. detailed briefs)
 
-2. **Context/Background** (2-3 bullet points)
-   - Why this matters now
+### 2. **Content Generation**
+- **Problem Statements**: Clearly defines business challenges or opportunities
+- **Objectives**: Sets specific, measurable goals
+- **Scope**: Defines boundaries and limitations
+- **Stakeholders**: Identifies key parties involved
+- **Timeline**: Establishes realistic timeframes
+- **Resources**: Outlines required assets and budget
+- **Success Metrics**: Defines measurable outcomes
 
-3. **Key Findings** (3-5 bullet points)
-   - Data-driven insights only
-
-4. **Recommendations** (2-3 actionable items)
-   - Specific, measurable next steps
-
-5. **Risks/Considerations** (1-2 bullet points)
+### 3. **Audience Adaptation**
+- **Executive Briefs**: High-level, strategic focus, 1-2 pages max
+- **Team Brief"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

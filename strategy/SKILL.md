@@ -1,27 +1,26 @@
 -e # Strategy
 
-{"id":"b9eaf131-12b3-4a45-af47-a62abd4fe52b","object":"chat.completion","created":1771579975,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Strategy Brief Development
+{"id":"13290b19-a73c-4382-ac0e-3be44264c68b","object":"chat.completion","created":1771585339,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Strategy Brief Development
 
-## Purpose
-Develop concise, actionable strategic briefs that align teams, clarify objectives, and drive focused execution.
+## Core Competency
+Creating concise, actionable strategic briefs that align stakeholders, define clear objectives, and establish measurable success criteria.
 
-## Core Principles
+## What This Skill Enables
+- **Clarity**: Translates complex strategic goals into clear, executable direction
+- **Alignment**: Ensures all stakeholders share common understanding and expectations
+- **Focus**: Identifies priorities and constraints to guide decision-making
+- **Measurement**: Establishes criteria for evaluating success and progress
 
-### 1. **Strategic Clarity Over Volume**
-- Distill complexity into essential elements
-- Every sentence must serve a strategic purpose
-- Eliminate jargon in favor of plain, powerful language
+## Key Components of a Strategy Brief
 
-### 2. **Audience-Centric Design**
-- Tailor depth and format to decision-makers' needs
-- Anticipate stakeholder questions
-- Balance strategic vision with operational reality
+### 1. Strategic Context
+- **Current State Analysis**: Understanding where we are now
+- **Problem/Opportunity Statement**: Clear articulation of what needs addressing
+- **Stakeholder Landscape**: Who is involved and what matters to them
 
-### 3. **Action Orientation**
-- Every objective must have clear success measures
-- Connect strategy to specific initiatives
-- Define decision rights and escalation paths
+### 2. Strategic Intent
+- **Vision/Goal**: The desired future state
+- **Objectives**: Specific, measurable outcomes
+- **Success Criteria**: How we'll know we've succeeded
 
-## Framework Components
-
-### **1. Strategic Context (The Why)**
+###"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
