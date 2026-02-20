@@ -1,25 +1,26 @@
 -e # UX
 
-{"id":"52cba797-ecf7-4446-9085-c039a15f83cf","object":"chat.completion","created":1771577937,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: UX Brief
+{"id":"ac43f808-c823-49d3-a143-a72af9992aa5","object":"chat.completion","created":1771585491,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: UX Brief Creation
 
 ## Purpose
-A UX Brief is a strategic document that aligns stakeholders, defines project scope, and establishes clear objectives for user experience design work. It serves as the foundational reference point throughout the design process.
+Create effective, actionable UX briefs that align stakeholders, define project scope, and establish clear success metrics for user experience initiatives.
 
-## Core Components
+## Core Competencies
 
-### 1. Project Overview
-- **Project Name & ID**: Clear identification
-- **Date & Version**: Version control tracking
-- **Author/Stakeholders**: Key contacts and roles
-- **Executive Summary**: 2-3 sentence high-level description
+### 1. Strategic Alignment
+- Translate business objectives into UX goals
+- Identify key stakeholders and their needs
+- Align UX initiatives with organizational priorities
+- Connect user needs to business outcomes
 
-### 2. Business Context
-- **Business Goals**: What the organization aims to achieve
-- **Success Metrics**: How success will be measured (KPIs)
-- **Problem Statement**: The core business/user problem being solved
-- **Opportunity**: The potential value of solving this problem
+### 2. Scope Definition
+- Define clear project boundaries and deliverables
+- Establish realistic timelines and milestones
+- Identify constraints (technical, resource, timeline)
+- Prioritize features and requirements
 
-### 3. User Context
-- **Target Users**: Primary and secondary user segments
-- **User Needs & Goals**: What users want to accomplish
-- **Pain Points**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. User-Centered Focus
+- Articulate user personas and their goals
+- Define user scenarios and use cases
+- Identify pain points and opportunities
+- Establish user success metrics

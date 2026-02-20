@@ -1,23 +1,27 @@
 -e # UI
 
-{"id":"15a1058d-473f-40f3-904e-2f3ba9679d21","object":"chat.completion","created":1771577933,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: UI Brief Creation
+{"id":"c539936f-1950-4951-aed2-13d8e86bb3d2","object":"chat.completion","created":1771585486,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# UI Brief - SKILL Framework
 
-## Purpose
-Transform ambiguous or incomplete UI requirements into structured, actionable design briefs that provide clear direction for designers and developers.
+## **S - Situation & Scope**
+**Current Context:**
+- Need to create or refine a user interface for a digital product/feature
+- Stakeholders require clear direction on visual design, interaction patterns, and user experience
+- Multiple teams (design, development, product) need alignment on UI implementation
 
-## Core Competencies
+**Scope Boundaries:**
+- Visual design system (colors, typography, spacing)
+- Component library and interaction patterns
+- Responsive behavior across device sizes
+- Accessibility requirements
+- Brand alignment and consistency
 
-### 1. Requirement Analysis
-- **Clarify Ambiguities**: Identify vague terms (\"modern,\" \"user-friendly,\" \"clean\") and request specific examples or metrics
-- **Stakeholder Alignment**: Uncover unstated business goals and user needs through targeted questioning
-- **Constraint Identification**: Surface technical, timeline, and resource limitations early
+## **K - Key Objectives & Constraints**
+**Primary Objectives:**
+1. Create intuitive, user-friendly interface that reduces cognitive load
+2. Establish visual hierarchy that guides users to key actions
+3. Ensure consistency across all screens and states
+4. Meet accessibility standards (WCAG 2.1 AA minimum)
+5. Support efficient development with reusable components
 
-### 2. Information Architecture
-- **User Flow Mapping**: Outline primary user journeys and decision points
-- **Content Hierarchy**: Define priority of information and actions
-- **State Management**: Account for loading, error, empty, and success states
-
-### 3. Design Specification
-- **Component-Level Thinking**: Break down into reusable UI patterns
-- **Interaction Details**: Specify hover states, animations, transitions, and micro-interactions
-- **Respons"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Constraints & Limitations:**
+- Technical platform capabilities
