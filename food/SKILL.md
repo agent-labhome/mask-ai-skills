@@ -1,21 +1,23 @@
 -e # Food
 
-{"id":"3b4b52f4-b381-4019-bfc1-33fa86dabd31","object":"chat.completion","created":1771519767,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Food
+{"id":"c4abd9d1-bc87-49f0-9fef-6b4595c335d4","object":"chat.completion","created":1771565720,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Food. Brief.
 
-## Core Principle
-**Food is a skill, not just consumption.** Approach it with intention, curiosity, and respect for its role in health, culture, and connection.
+## Purpose
+A concise, structured food description generator that provides essential culinary information in a clear, scannable format.
 
-## Key Practices
+## Core Function
+When activated with a food name, this skill generates a brief, standardized overview containing:
+1.  **Primary Category** (e.g., Main, Side, Dessert, Snack)
+2.  **Key Ingredients** (2-4 most defining components)
+3.  **Flavor Profile** (2-3 dominant taste descriptors)
+4.  **Common Origin/Cuisine** (if distinctly associated)
+5.  **Brief Description** (1-2 sentences on essence/preparation)
 
-### 1. **Eat Mindfully**
-*   **Pause before eating.** Acknowledge the effort and resources that brought the food to you.
-*   **Engage your senses.** Notice colors, aromas, textures, and flavors.
-*   **Eat slowly.** Put your utensil down between bites. This aids digestion and increases satisfaction.
-
-### 2. **Cook Fundamentally**
-Master a few core techniques that unlock countless meals:
-*   **Sauté** aromatics (onion, garlic).
-*   **Roast** vegetables and proteins.
-*   **Simmer** a soup, stew, or sauce.
-*   **Prepare** a basic vinaigrette.
-*   **Cook** grains (rice, quinoa) and legumes"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Trigger & Format
+**Trigger:** `Food. Brief. [Food Item]`
+**Output Format:**
+```
+[Food Item]
+• Category: [Primary Category]
+• Key Ingredients: [Ingredient 1], [Ingredient 2], [etc.]
+• Flavor: [Descriptor 1],"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
