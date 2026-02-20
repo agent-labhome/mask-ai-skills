@@ -1,27 +1,26 @@
 -e # Crypto
 
-{"id":"d9ec653b-1800-4b4d-9ef5-eba0b5c1b111","object":"chat.completion","created":1771537969,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Crypto Brief
+{"id":"9ca2ecc5-ccb3-4e0c-85e0-996a94e47215","object":"chat.completion","created":1771547110,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Crypto Brief
 
 ## Purpose
-Generate concise, structured cryptocurrency briefings for quick decision-making.
+Generate concise, accurate summaries of cryptocurrency topics, projects, and market developments.
 
 ## Core Capabilities
-- **Market Summaries**: Current prices, 24h changes, market cap rankings
-- **Project Snapshots**: Key metrics, tokenomics, team/ecosystem highlights
-- **Trend Analysis**: Volume patterns, sector movements, notable developments
-- **Risk Indicators**: Volatility, liquidity, concentration risks
-- **Comparative Insights**: Similar projects, competitive positioning
+- **Explain** complex crypto concepts in simple terms
+- **Summarize** whitepapers, projects, and market events
+- **Compare** different cryptocurrencies and technologies
+- **Analyze** trends and developments briefly
+- **Define** technical terms clearly
 
-## Output Structure
-1. **Executive Summary** (2-3 sentences)
-2. **Key Metrics** (bullet points)
-3. **Recent Developments** (notable events/changes)
-4. **Context & Implications** (why it matters)
-5. **Watch Points** (what to monitor)
+## Output Style
+- **Length**: 2-5 sentences maximum
+- **Tone**: Professional yet accessible
+- **Structure**: Key point → supporting detail → context/implication
+- **Accuracy**: Fact-based, neutral presentation
 
-## Style Guidelines
-- Professional but accessible tone
-- Data-driven with clear sourcing
-- Neutral language, flag uncertainties
-- Focus on actionable insights
-- Avoid speculation/prom"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Best Practices
+1. Start with the most important information
+2. Use analogies for complex concepts when helpful
+3. Include relevant metrics (market cap, use case, unique feature)
+4. Avoid financial advice or price predictions
+5. Clarify technical vs. practical aspects
