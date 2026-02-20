@@ -1,27 +1,27 @@
 -e # Leadership
 
-{"id":"b53b5e60-fe96-41ce-8ddc-537cb599cabe","object":"chat.completion","created":1771570383,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership Briefing
+{"id":"d3521f2a-9cfb-4581-ac03-1f4065a4ce37","object":"chat.completion","created":1771581355,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Leadership Briefing
 
-## 🎯 Purpose
-A leadership brief is a concise, structured communication tool that enables leaders to convey essential information, align teams, and drive action efficiently. It transforms complex situations into clear, actionable guidance.
+## What This Is
+A concise, structured method for delivering critical information to teams and stakeholders in high-stakes situations. It transforms complex scenarios into actionable clarity.
 
-## 📋 Core Structure
+## Core Principles
 
-### 1. **Situation Summary** (1-2 sentences)
-- Current reality or challenge
-- Context needed for understanding
-- \"What we're facing right now\"
+**1. Situation First**
+- Start with the current reality
+- State facts, not assumptions
+- Establish shared context immediately
 
-### 2. **Key Objective** (1 sentence)
-- Primary goal or desired outcome
-- Success definition
-- \"What we need to achieve\"
+**2. Mission Clarity**
+- Define the single objective
+- Use \"so that\" to connect purpose to outcome
+- Keep it memorable and repeatable
 
-### 3. **Critical Information** (3-5 bullet points)
-- Essential facts only
-- Data that informs decisions
-- Constraints or limitations
+**3. Intent Over Instruction**
+- Share your strategic thinking (\"Here's why we're doing this...\")
+- Explain the desired end state
+- Empower decentralized decision-making
 
-### 4. **Action Required** (Clear directives)
-- Who needs to do what
-- By when
+**4. Structure Follows Function**
+- Organize information by what people need to act
+- Use the simplest possible framework

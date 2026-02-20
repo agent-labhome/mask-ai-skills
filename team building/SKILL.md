@@ -1,21 +1,23 @@
 -e # Team Building
 
-{"id":"09d947aa-4f3c-40fb-b409-3b53b29894e3","object":"chat.completion","created":1771534309,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Team Building
+{"id":"92e7f263-f184-40a5-8ec4-87f6ff4c174e","object":"chat.completion","created":1771581365,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Team Building
 
-## Purpose
-To assemble, develop, and lead high-performing teams that achieve shared goals.
+## Overview
+Team Building is the intentional process of strengthening relationships, improving collaboration, and enhancing collective performance within a group. It involves creating environments and experiences that foster trust, communication, and shared purpose.
 
-## Key Principles
-- **Psychological Safety:** Foster an environment where members feel safe to take risks and be vulnerable.
-- **Clarity & Alignment:** Ensure everyone understands the team's purpose, goals, and their role.
-- **Trust & Respect:** Build mutual reliance and appreciation for diverse skills and perspectives.
-- **Inclusion & Belonging:** Actively create a culture where all members feel valued and heard.
+## Core Principles
 
-## Core Actions
-1.  **Forming:** Define the mission, select complementary skills, and establish initial norms.
-2.  **Facilitating:** Run effective meetings, manage conflict constructively, and enable clear communication.
-3.  **Developing:** Coach individuals, provide growth opportunities, and celebrate team progress.
-4.  **Sustaining:** Maintain morale, reinforce positive dynamics, and adapt the team as needed.
+1. **Psychological Safety** - Creating an environment where team members feel safe to take risks, voice opinions, and admit mistakes without fear of negative consequences.
 
-## Quick Tips
-- Lead by"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+2. **Shared Purpose** - Aligning team members around common goals, values, and vision that transcend individual interests.
+
+3. **Interdependence Awareness** - Helping team members understand how their work connects to and depends on others.
+
+4. **Inclusive Participation** - Ensuring all voices are heard and valued, regardless of role, seniority, or personality type.
+
+5. **Continuous Process** - Recognizing that team building is not a one-time event but an ongoing practice.
+
+## Key Components
+
+### 1. Foundation Building
+- **Trust Development**: Activities and practices that build"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

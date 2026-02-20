@@ -1,22 +1,25 @@
 -e # Motivation
 
-{"id":"83c525cb-a3e7-4f74-8c33-6cbe274e4cf2","object":"chat.completion","created":1771534242,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Motivation & Brief
+{"id":"7c33f758-5343-4db8-a68a-f2812a8ecf00","object":"chat.completion","created":1771581375,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Motivation Brief
 
-## Core Purpose
-To provide clear, concise, and actionable motivation for tasks or projects, framed as a brief that inspires action.
+## Purpose
+A concise, structured framework for creating compelling motivation briefs that align teams, clarify purpose, and drive focused action.
 
-## Key Principles
-- **Clarity over fluff**: Get straight to the point
-- **Purpose-driven**: Always answer \"why this matters\"
-- **Action-oriented**: End with clear next steps
-- **Human-centric**: Connect to real impact
-- **Concise**: One paragraph maximum when possible
+## Core Principles
+
+1. **Clarity Over Completeness** - Better to be brief and understood than comprehensive and confusing
+2. **Audience-Centric** - Tailor language and depth to the specific team/individual
+3. **Action-Oriented** - Every element should point toward concrete next steps
+4. **Emotion + Logic** - Balance rational objectives with emotional connection
 
 ## Structure Template
-1. **The Spark** (1 sentence): Immediate hook/benefit
-2. **The Why** (1-2 sentences): Core purpose or impact
-3. **The Vision** (1 sentence): Desired outcome
-4. **The Action** (1 sentence): Clear next step
 
-## Example Output
-\"This streamlines our client onboarding, cutting setup time in half. By removing this friction point, we improve first-week satisfaction scores and reduce support tickets. Imagine new clients fully"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. HEADLINE (The Hook)
+- Single compelling sentence
+- Answers \"Why should I care?\"
+- Example: \"Transform how our customers experience onboarding\"
+
+### 2. CONTEXT (The Why Now)
+- 2-3 bullet points maximum
+- Market shift, customer pain, competitive threat, or opportunity
+- Data point if available (e.g., \"30% of users drop off"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
