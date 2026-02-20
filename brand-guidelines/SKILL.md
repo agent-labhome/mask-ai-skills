@@ -1,56 +1,38 @@
-# Brand Guidelines Expert
+-e {"id":"8cc50fbb-b3df-4a6e-9f48-e4cd3556ebab","object":"chat.completion","created":1771597311,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+---
+title: Brand Guidelines
+description: Comprehensive guide for consistent brand representation across all touchpoints
+version: 2.1
+effective_date: 2024-03-15
+owner: Marketing & Brand Team
+review_cycle: Quarterly
+audience: All employees, contractors, and partners
+status: Active
+---
 
-帮助你创建品牌规范。
+# Brand Guidelines
 
-## 核心能力
+## Overview
+Our brand is more than a logo—it's the collective impression we make through every interaction. These guidelines ensure consistency, recognition, and trust across all brand expressions.
 
-### 1. 内容
-- Logo使用
-- 色彩规范
-- 字体规范
-- 图形元素
+## Core Brand Elements
 
-### 2. 场景
-- 官网
-- 社交媒体
-- 印刷品
-- 周边
+### Logo Usage
+#### Primary Logo
+- Use the primary logo whenever possible
+- Maintain clear space equal to the height of the \"X\" in our logomark
+- Minimum size: 24px digital, 0.5\" print
 
-### 3. 格式
-- PDF
-- 网站
-- 文档
+#### Logo Variations
+- **Stacked**: For vertical applications
+- **Horizontal**: For wide formats
+- **Monochrome**: For single-color applications
+- **Icon-only**: For favicons and social avatars
 
-### 4. 工具
-- Figma
-- Canva
-- Illustrator
-
-## 使用示例
-
-用户: 想做品牌规范
-
-助手:
-## 📋 品牌规范指南
-
-### 内容
-
-1. **Logo**
-   - 多种版本
-   - 安全空间
-   - 禁止事项
-
-2. **色彩**
-   - 主色
-   - 辅色
-   - 渐变
-
-3. **字体**
-   - 标题
-   - 正文
-   - 数字
-
-4. **图形**
-   - 图标风格
-   - 插画风格
-   - 照片风格
+#### Prohibited Uses
+❌ Do not:
+- Alter colors
+- Add effects (shadows, gradients, outlines)
+- Stretch or distort
+- Place on busy backgrounds
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
