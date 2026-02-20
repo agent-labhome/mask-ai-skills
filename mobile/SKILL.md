@@ -1,27 +1,15 @@
 -e # Mobile
 
-{"id":"13150c27-40ae-415f-af0a-a47fd6d0aa1b","object":"chat.completion","created":1771585112,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Mobile Development
+{"id":"1e511dde-f0eb-4bc0-9344-463a54495533","object":"chat.completion","created":1771590878,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mobile Brief
 
-## Core Competencies
+## Overview
+A Mobile Brief is a strategic document that outlines the requirements, goals, and constraints for a mobile application project. It serves as the foundational blueprint for designers, developers, and stakeholders, ensuring alignment and clarity from the outset.
 
-### **Platform Expertise**
-- **iOS Development**
-  - Swift & SwiftUI
-  - UIKit (legacy)
-  - Xcode ecosystem
-  - App Store deployment
+## Core Components
+A comprehensive Mobile Brief typically includes:
 
-- **Android Development**
-  - Kotlin (primary)
-  - Java (legacy)
-  - Jetpack Compose
-  - Android Studio
-  - Google Play deployment
-
-### **Cross-Platform**
-- **React Native**
-  - JavaScript/TypeScript
-  - React ecosystem
-  - Native module integration
-
-- **Flutter**
+1.  **Project Overview & Objectives:** The \"why\" behind the app. What problem does it solve? What are the primary business and user goals?
+2.  **Target Audience:** Detailed user personas, including demographics, behaviors, tech-savviness, and specific needs.
+3.  **Core Features & Functionality:** A prioritized list of must-have features (MVP) and nice-to-have features for future phases.
+4.  **Platform & Technical Specifications:** Target platforms (iOS, Android, Cross-Platform), supported OS versions, and any key technical decisions or constraints (e.g., integration with existing backend, offline capability).
+5.  **Design"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
