@@ -1,27 +1,26 @@
 -e # Branding
 
-{"id":"8361a251-26ee-443a-bbca-d915d0e93791","object":"chat.completion","created":1771519922,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Branding Brief
+{"id":"44a254b8-a75a-48a5-b498-8a2f16b596f7","object":"chat.completion","created":1771577947,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Branding Brief
 
 ## Purpose
-A branding brief is a strategic document that outlines the core requirements, goals, and parameters for a brand development or refresh project. It serves as the foundational guide for designers, strategists, and marketers.
+This skill helps marketing professionals, business owners, and brand strategists create comprehensive branding briefs that align stakeholders, guide creative teams, and ensure consistent brand development.
 
-## Core Components
+## Core Capabilities
 
-**1. Project & Business Context**
--   Company/Product Name
--   Current Situation & Market Position
--   Key Challenges or Opportunities
--   Project Objectives (What must this branding achieve?)
+### 1. **Strategic Foundation Development**
+- Define brand vision, mission, and values
+- Identify target audience segments and personas
+- Analyze competitive landscape and market positioning
+- Establish brand personality and voice guidelines
 
-**2. Target Audience**
--   Primary & secondary audience profiles
--   Key demographics, psychographics, and behaviors
--   Their needs, pains, and aspirations
+### 2. **Creative Direction Specification**
+- Articulate desired brand aesthetic and visual language
+- Specify logo requirements and usage guidelines
+- Define color palette, typography, and imagery standards
+- Outline brand application across various touchpoints
 
-**3. Brand Essence & Positioning**
--   Mission, Vision, Core Values
--   Unique Value Proposition (UVP)
--   Desired brand personality (e.g., innovative, trustworthy, playful)
--   Key brand message or tagline (if known)
-
-**4. Competitive Landscape**
+### 3. **Implementation Planning**
+- Create rollout timelines and phasing strategies
+- Identify key deliverables and success metrics
+- Outline stakeholder roles and responsibilities
+- Develop brand governance and maintenance protocols

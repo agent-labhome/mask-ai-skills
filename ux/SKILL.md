@@ -1,24 +1,25 @@
 -e # UX
 
-{"id":"4e6547ed-5cbf-4a17-ae13-59b118e8f4ff","object":"chat.completion","created":1771541433,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# UX Brief - Skill Guide
+{"id":"52cba797-ecf7-4446-9085-c039a15f83cf","object":"chat.completion","created":1771577937,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: UX Brief
 
 ## Purpose
-A UX Brief is a strategic document that aligns stakeholders around user-centered design goals, constraints, and success metrics before work begins.
+A UX Brief is a strategic document that aligns stakeholders, defines project scope, and establishes clear objectives for user experience design work. It serves as the foundational reference point throughout the design process.
 
 ## Core Components
-- **Project Overview** – Context and objectives
-- **Problem Statement** – What user need are we solving?
-- **Target Users** – Primary personas and scenarios
-- **Success Metrics** – How we'll measure impact (e.g., task completion rate, satisfaction score)
-- **Constraints** – Timeline, budget, technical limitations
-- **Deliverables** – Expected outputs (wireframes, prototypes, etc.)
 
-## Key Principles
-- **Collaborative** – Co-create with stakeholders
-- **Concise** – 1-2 pages maximum
-- **User-Focused** – Frame problems from user perspective
-- **Actionable** – Clear enough to guide design decisions
+### 1. Project Overview
+- **Project Name & ID**: Clear identification
+- **Date & Version**: Version control tracking
+- **Author/Stakeholders**: Key contacts and roles
+- **Executive Summary**: 2-3 sentence high-level description
 
-## Common Pitfalls to Avoid
-- Vague objectives without measurable outcomes
-- Omitting technical or business constraints"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Business Context
+- **Business Goals**: What the organization aims to achieve
+- **Success Metrics**: How success will be measured (KPIs)
+- **Problem Statement**: The core business/user problem being solved
+- **Opportunity**: The potential value of solving this problem
+
+### 3. User Context
+- **Target Users**: Primary and secondary user segments
+- **User Needs & Goals**: What users want to accomplish
+- **Pain Points**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

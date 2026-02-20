@@ -1,27 +1,23 @@
 -e # UI
 
-{"id":"ebdf02f3-66e8-43ec-9031-c8a674bca24c","object":"chat.completion","created":1771541438,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# UI Brief SKILL
+{"id":"15a1058d-473f-40f3-904e-2f3ba9679d21","object":"chat.completion","created":1771577933,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: UI Brief Creation
 
 ## Purpose
-Create clear, concise UI briefs that align stakeholders and guide development.
+Transform ambiguous or incomplete UI requirements into structured, actionable design briefs that provide clear direction for designers and developers.
 
-## Core Principles
-- **Clarity over completeness** - Focus on what matters most
-- **User-centered** - Always start with user needs and context
-- **Actionable** - Provide enough detail for implementation
-- **Collaborative** - Leave room for designer/developer expertise
+## Core Competencies
 
-## Structure (1 page max)
+### 1. Requirement Analysis
+- **Clarify Ambiguities**: Identify vague terms (\"modern,\" \"user-friendly,\" \"clean\") and request specific examples or metrics
+- **Stakeholder Alignment**: Uncover unstated business goals and user needs through targeted questioning
+- **Constraint Identification**: Surface technical, timeline, and resource limitations early
 
-### 1. CONTEXT (1-2 sentences)
-- What problem are we solving?
-- Who is the user and what's their situation?
+### 2. Information Architecture
+- **User Flow Mapping**: Outline primary user journeys and decision points
+- **Content Hierarchy**: Define priority of information and actions
+- **State Management**: Account for loading, error, empty, and success states
 
-### 2. OBJECTIVES (bullet points)
-- Primary user goal
-- Business goal
-- Success metrics (if applicable)
-
-### 3. REQUIREMENTS
-**Must have:**
-- Core functionality (3-5 items max)
+### 3. Design Specification
+- **Component-Level Thinking**: Break down into reusable UI patterns
+- **Interaction Details**: Specify hover states, animations, transitions, and micro-interactions
+- **Respons"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
