@@ -1,27 +1,27 @@
 -e # Reporting
 
-{"id":"11d30d51-5753-4123-82e0-f8438bef09f3","object":"chat.completion","created":1771562622,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Reporting Brief
+{"id":"0dfc8164-7e45-4a02-bb9b-87f483404d77","object":"chat.completion","created":1771570253,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Reporting Brief
 
 ## Purpose
-Effectively summarize complex information into concise, actionable briefs for decision-makers.
+Effectively communicate key information from reports, analyses, or investigations in a concise, structured format suitable for decision-makers and stakeholders.
 
 ## Core Principles
 
-### 1. **Audience-Centric**
-- Identify decision-maker's needs, priorities, and preferred format
-- Adapt depth and technicality based on audience expertise
+### 1. **Clarity Over Completeness**
+- Extract only essential information
+- Eliminate jargon and technical details unless critical
+- Use plain language accessible to all stakeholders
+
+### 2. **Audience Awareness**
+- Tailor content to decision-maker's needs
 - Consider time constraints of recipients
+- Anticipate follow-up questions
 
-### 2. **Structure & Clarity**
-- Lead with key findings/conclusions (BLUF: Bottom Line Up Front)
-- Use clear, jargon-free language
-- Organize information hierarchically
-- Include only essential supporting data
-
-### 3. **Action-Oriented**
-- Connect information to decisions/actions
+### 3. **Action Orientation**
+- Highlight implications, not just facts
+- Connect findings to organizational goals
 - Provide clear recommendations when appropriate
-- Highlight implications and next steps
-- Specify required decisions or approvals
 
-## Essential Components
+## Structure Template
+
+### **HEADER**
