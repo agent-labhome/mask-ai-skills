@@ -1,27 +1,20 @@
 -e # UX Design
 
-{"id":"774b9633-0f94-4873-ba6e-282a004966fc","object":"chat.completion","created":1771518964,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# UX Design Brief - SKILL.md
+{"id":"ff10a44c-81c9-4936-900b-a4791b9f9d34","object":"chat.completion","created":1771561827,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: UX Design Brief
 
-## Purpose
-A UX Design Brief is a strategic document that aligns stakeholders, defines project scope, and establishes success criteria for user experience initiatives.
+## Overview
+A UX Design Brief is a strategic document that outlines the project scope, objectives, constraints, and requirements for a user experience design project. It serves as a foundational guide aligning stakeholders, designers, and developers toward common goals.
 
-## Core Components
+---
 
-### 1. Project Overview
-- **Project Name**: Clear identifier
-- **Date**: When brief was created
-- **Stakeholders**: Key decision-makers and contributors
-- **Background**: Why this project exists
+## Core Components of a UX Design Brief
 
-### 2. Problem Statement
-- **User Pain Points**: Specific problems users encounter
-- **Business Impact**: How these problems affect the organization
-- **Opportunity**: What solving this enables
+### 1. Project Context & Background
+- **Business/Product Overview**: What is the product/service? What problem does it solve?
+- **Current State Analysis**: Existing user pain points, market position, competitor landscape.
+- **Project Drivers**: Why is this project happening now? (e.g., user feedback, business goal, market opportunity)
 
-### 3. Goals & Objectives
-- **User Goals**: What users should be able to accomplish
-- **Business Goals**: Desired organizational outcomes
-- **Success Metrics**: How you'll measure success (KPIs)
-
-### 4. Target Audience
-- **Primary Users**: Main user segments
+### 2. Objectives & Goals
+- **Business Goals**: What measurable outcomes does the business want? (e.g., increase conversion by 15%, reduce support tickets)
+- **User Goals**: What do users need to accomplish? (e.g., complete a task faster, feel more confident)
+- **Success Metrics"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
