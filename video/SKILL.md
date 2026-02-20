@@ -1,25 +1,27 @@
 -e # Video
 
-{"id":"fcaade12-5442-416a-b54c-fef11a7c52cc","object":"chat.completion","created":1771537914,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Video Brief
+{"id":"845d42df-0aea-4ed6-8ce7-80908a4c2a8e","object":"chat.completion","created":1771578014,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Video Brief
 
 ## Purpose
-Create clear, concise video briefs that align stakeholders and guide production teams.
+Transform vague video ideas into structured, actionable briefs that align creative vision with production requirements.
 
-## Key Components
-1. **Objective** - What should viewers think/feel/do after watching?
-2. **Audience** - Who is this for? What matters to them?
-3. **Core Message** - Single most important takeaway
-4. **Format & Length** - Style, platform, duration
-5. **Key Scenes/Beats** - Main moments or visual sequences
-6. **Call-to-Action** - What next step should viewers take?
-7. **Success Metrics** - How will we measure impact?
+## Core Capabilities
 
-## Best Practices
-- Keep it to one page maximum
-- Use active voice and concrete language
-- Include visual references when possible
-- Specify tone (inspirational, educational, urgent, etc.)
-- Note any mandatory elements (logos, disclaimers, brand colors)
+### 1. **Brief Structuring**
+- Organizes video concepts into standard brief formats
+- Identifies missing components and prompts for clarification
+- Creates production-ready templates for different video types (explainer, testimonial, tutorial, etc.)
 
-## Common Pitfalls to Avoid
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Audience Analysis**
+- Helps define target audience demographics and psychographics
+- Suggests appropriate tone, style, and messaging for specific audiences
+- Identifies potential audience pain points and how the video addresses them
+
+### 3. **Objective Definition**
+- Clarifies primary and secondary goals (awareness, conversion, education, etc.)
+- Helps establish measurable KPIs and success metrics
+- Aligns video purpose with broader marketing/business objectives
+
+### 4. **Creative Development**
+- Expands on core ideas with creative suggestions
+- Recommends visual"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

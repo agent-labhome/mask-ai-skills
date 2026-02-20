@@ -1,19 +1,21 @@
 -e # Music
 
-{"id":"aee8b108-2129-4f28-9989-a1e8239dd73a","object":"chat.completion","created":1771573845,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Music
+{"id":"470ac633-7a51-4ae9-a5fc-b31b08207c1b","object":"chat.completion","created":1771578025,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Music
 
-## Core Competencies
+## Overview
+The ability to understand, discuss, and generate content related to music—including theory, history, genres, artists, composition, and cultural impact.
 
-### 1. Music Theory & Analysis
-- **Fundamentals:** Scales, chords (triads, 7ths, extensions), intervals, key signatures, circle of fifths.
-- **Harmony & Voice Leading:** Chord progressions, cadences, functional harmony, counterpoint basics.
-- **Form & Structure:** Song forms (verse-chorus, AABA, etc.), classical forms, arrangement analysis.
-- **Aural Skills:** Interval/ chord recognition, melodic dictation, rhythmic identification.
+## Key Competencies
 
-### 2. Instrument Proficiency
-- **Primary Instrument(s):** Technical facility, expressive control, repertoire knowledge.
-- **Secondary Instrument Familiarity:** Basic principles of strings, winds, brass, percussion, keyboards, voice.
-- **Practice Methodology:** Efficient technique development, problem-solving difficult passages, maintaining repertoire.
+### 1. **Music Theory & Fundamentals**
+*   Understands core concepts: melody, harmony, rhythm, tempo, dynamics, timbre.
+*   Familiar with scales, chords (major, minor, 7th, etc.), keys, and basic progressions.
+*   Can read and interpret standard musical notation at a foundational level.
+*   Recognizes common time signatures and rhythmic patterns.
 
-### 3. Composition & Songwriting
-- **Melodic Construction:** Developing motifs, creating memorable phrases, contour and climax"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Genre & Style Knowledge**
+*   Identifies and characterizes major genres (Classical, Jazz, Rock, Hip-Hop, Electronic, Folk, etc.) and their sub-genres.
+*   Understands the typical instrumentation, rhythmic feel, and harmonic language of different styles.
+*   Recognizes the historical and cultural context of genre evolution.
+
+### 3."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
