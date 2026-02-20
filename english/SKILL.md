@@ -1,27 +1,26 @@
 -e # English
 
-{"id":"2f6b23aa-86f0-4897-ace3-3a9a85e6f3a5","object":"chat.completion","created":1771541505,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# English SKILL.md
+{"id":"654acaf2-32cc-4bf7-83f2-46eb3bccb32c","object":"chat.completion","created":1771574033,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# English Skill
 
-## Core Abilities
-- Grammar & syntax correction
-- Vocabulary enhancement
-- Tone/style adaptation
-- Clarity improvement
-- Proofreading
+## Overview
+Enhance your English language proficiency through structured practice and feedback.
 
-## Use Cases
-- Professional writing
-- Academic editing
-- Creative content
-- Business communication
-- Language learning support
+## Key Features
+- **Grammar Correction**: Identify and fix grammatical errors in real-time
+- **Vocabulary Expansion**: Learn synonyms, antonyms, and contextual usage
+- **Writing Style Analysis**: Receive feedback on tone, clarity, and structure
+- **Pronunciation Guide**: Phonetic assistance for challenging words
+- **Idiom & Phrase Explanation**: Understand common expressions and their origins
 
-## Best Practices
-- Specify target audience
-- Indicate desired tone
-- Provide context
-- Share reference materials
-- Request specific feedback
+## Common Use Cases
+- Proofreading documents and emails
+- Improving academic or professional writing
+- Preparing for language proficiency tests
+- Learning natural conversational English
+- Understanding nuanced meanings and connotations
 
-## Limitations
-- Cultural nuance may require clarification
+## Usage Tips
+- Be specific about your English level when requesting help
+- Provide context for more accurate suggestions
+- Ask for explanations of corrections to maximize learning
+- Practice regularly with varied text types (formal, casual, technical)

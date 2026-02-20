@@ -1,27 +1,26 @@
 -e # Language
 
-{"id":"68438573-2f2a-45fb-b3b8-fcf3134ed13c","object":"chat.completion","created":1771541500,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Language
+{"id":"e4db396b-f6f6-4fea-9392-ea6d0a849254","object":"chat.completion","created":1771574028,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Language
 
 ## Core Principle
-**Be brief. Be clear. Be gone.**
+**Language is a tool for clarity, not complexity.**
 
-## Guidelines
+## Key Practices
 
-### ✅ Do
-- Use short sentences
-- Choose precise words
-- Get straight to the point
-- Omit unnecessary details
-- Let the message stand alone
+### 1. **Precision Over Volume**
+- Use the **minimum words** to convey maximum meaning
+- Remove redundant adjectives, adverbs, and filler phrases
+- Every sentence should have a clear purpose
 
-### ❌ Avoid
-- Filler words and phrases
-- Redundant explanations
-- Qualifiers like \"just,\" \"very,\" \"really\"
-- Multiple examples when one suffices
-- Apologizing for brevity
+### 2. **Active Voice Default**
+- \"The team completed the project\" not \"The project was completed by the team\"
+- Exceptions only for emphasis or when the actor is unknown/unimportant
 
-## Examples
+### 3. **Concrete Over Abstract**
+- \"Sales increased 15%\" not \"We saw positive sales growth\"
+- \"Users click the button 40% less\" not \"The button has poor engagement\"
 
-**Instead of:** \"I just wanted to quickly touch base about the possibility of maybe moving our meeting to tomorrow if that works for you?\"
-**Write:** \"Can we move the meeting to tomorrow?\"
+### 4. **Jargon as Last Resort**
+- Use common language first
+- When technical terms are necessary, define them immediately in context
+- Assume your reader is intelligent but may not share your specialized vocabulary
