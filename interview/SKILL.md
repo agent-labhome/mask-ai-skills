@@ -1,27 +1,20 @@
 -e # Interview
 
-{"id":"c8986779-eba4-434e-8d81-f9d34584a2c9","object":"chat.completion","created":1771581307,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Interview Briefs
+{"id":"3e9a1182-5d2c-42dc-9785-2bd417af362a","object":"chat.completion","created":1771587601,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Interview Brief
 
 ## Core Competencies
 
-### 1. Information Synthesis & Analysis
-- **Rapid comprehension** of complex interview requirements
-- **Pattern recognition** across multiple stakeholder inputs
-- **Gap identification** between stated needs and unspoken requirements
-- **Priority distillation** from conflicting or ambiguous information
+### 1. **Interview Preparation & Research**
+- **Company & Role Analysis**: Deep research into company culture, values, recent news, and specific role requirements
+- **Stakeholder Mapping**: Identifying interviewers' backgrounds, roles, and potential priorities
+- **Industry Context**: Understanding market position, competitors, and industry trends relevant to the role
 
-### 2. Stakeholder Communication
-- **Active listening** with high retention of verbal details
-- **Clarification questioning** that reveals underlying needs
-- **Professional rapport building** in high-pressure contexts
-- **Expectation management** through transparent communication
+### 2. **Candidate Assessment Framework**
+- **Technical Evaluation**: Structured approach to assessing technical skills, problem-solving abilities, and domain knowledge
+- **Cultural Fit Analysis**: Evaluating alignment with company values, team dynamics, and work style preferences
+- **Growth Potential Assessment**: Identifying learning agility, career trajectory, and long-term fit
 
-### 3. Research & Preparation
-- **Company/industry analysis** with speed and precision
-- **Candidate profile matching** against multidimensional criteria
-- **Interview structure design** tailored to specific objectives
-- **Bias identification** in existing processes
-
-### 4. Strategic Thinking
-- **Interview objective alignment** with business goals
-- **Process optimization** for efficiency and effectiveness
+### 3. **Question Design & Strategy**
+- **Behavioral Interviewing**: Crafting questions that reveal past performance indicators of future success
+- **Scenario-Based Questions**: Designing realistic job-related scenarios to assess practical application of skills
+- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

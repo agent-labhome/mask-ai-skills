@@ -1,24 +1,27 @@
 -e # Recruiting
 
-{"id":"f9ad5e88-9591-4af7-a7d1-3299ac274b93","object":"chat.completion","created":1771581297,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Recruiting Brief
+{"id":"2c146f68-442e-4055-a9d8-532adee89789","object":"chat.completion","created":1771587590,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Recruiting Brief
 
-## Overview
-A recruiting brief is a strategic document that aligns hiring teams on role requirements, candidate profiles, and recruitment process. This skill enables creation of comprehensive, actionable briefs that streamline hiring and improve candidate quality.
+## Core Purpose
+Create clear, actionable recruiting briefs that align hiring needs with business objectives, ensuring efficient talent acquisition.
 
-## Core Components
+## Key Components of an Effective Recruiting Brief
 
-### 1. **Role Definition**
-- **Job Title & Level**: Clear positioning within organizational structure
-- **Reporting Lines**: Direct manager and team relationships
-- **Location & Work Arrangement**: On-site, hybrid, or remote requirements
-- **Budget Range**: Salary band and compensation components
+### 1. **Business Context & Role Justification**
+- Business need driving the hire
+- How role supports company goals/OKRs
+- Budget approval status and reporting structure
 
-### 2. **Business Context**
-- **Team Mission**: How this role contributes to organizational goals
-- **Growth Impact**: Expected outcomes and success metrics
-- **Team Dynamics**: Current team composition and culture fit needs
+### 2. **Role Definition**
+- **Job Title**: Industry-standard, level-appropriate
+- **Department & Team**: Reporting lines and team composition
+- **Location**: On-site/hybrid/remote requirements
+- **Employment Type**: FTE, contract, temporary
 
 ### 3. **Candidate Profile**
-- **Must-Have Requirements**: Non-negotiable skills and experience
-- **Nice-to-Have Qualifications**: Secondary desirable attributes
-- **Success Indicators"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Must-Have Requirements** (non-negotiables):
+  - Minimum years of experience
+  - Specific technical skills/certifications
+  - Education requirements
+  - Industry/domain expertise
+- **Nice-to-Have Qualifications**:
