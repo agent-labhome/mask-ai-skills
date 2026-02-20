@@ -1,24 +1,29 @@
--e # Product Design
+-e {"id":"15d0a171-8390-4358-bf64-cf7e1c8f5c22","object":"chat.completion","created":1771597258,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+---
+title: Product Design Skill Framework
+category: Design & Creative
+subcategory: Digital Product Design
+version: 2.1
+last_updated: 2023-11-15
+prerequisites: [\"Visual Design Fundamentals\", \"Basic UX Principles\", \"Design Tools Proficiency\"]
+related_skills: [\"UX Research\", \"UI Design\", \"Prototyping\", \"Design Systems\"]
+---
 
-{"id":"cc2de2aa-73fc-48b2-bf81-3b7eba2d60c8","object":"chat.completion","created":1771565358,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Design Brief
+# Product Design Skill Framework
+
+## Overview
+Product Design is the holistic practice of creating digital products that are useful, usable, and desirable for users while meeting business objectives. It synthesizes user needs, business goals, and technical constraints into coherent, effective solutions.
 
 ## Core Competencies
 
-### 1. **User-Centered Design**
-- **User Research**: Conducting interviews, surveys, usability testing
-- **Persona Development**: Creating detailed user archetypes
-- **Journey Mapping**: Visualizing user interactions and pain points
-- **Accessibility**: Designing for diverse abilities (WCAG compliance)
+### 1. User-Centered Design
+- **User Research**: Conducting interviews, surveys, and usability testing
+- **Persona Development**: Creating archetypal user representations
+- **Journey Mapping**: Visualizing user interactions across touchpoints
+- **Accessibility**: Designing inclusive experiences (WCAG compliance)
 
-### 2. **Visual Design**
-- **UI Design**: Creating intuitive, aesthetically pleasing interfaces
-- **Design Systems**: Developing consistent component libraries
-- **Typography**: Selecting and pairing fonts for readability
-- **Color Theory**: Applying color psychology and accessibility standards
-- **Iconography**: Designing clear, scalable visual symbols
-
-### 3. **Interaction Design**
-- **Wireframing**: Low to high-fidelity layout creation
-- **Prototyping**: Interactive mockups (Figma, Sketch, Adobe XD)
-- **Micro-interactions**: Designing subtle feedback mechanisms
-- **Animation**: Creating purposeful"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Interaction Design
+- **Information Architecture**: Organizing and structuring content
+- **Wireframing**: Creating low-fidelity structural layouts
+- **Interaction Patterns**: Applying established UX patterns appropriately
+- **Microinter"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
