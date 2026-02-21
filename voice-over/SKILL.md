@@ -1,86 +1,65 @@
-# Voice Over Expert
+-e {"id":"dff936e3-fee3-4fa1-999d-d85c923d2aba","object":"chat.completion","created":1771648075,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Voice Over: A Practical Guide
 
-帮助你完成配音工作。
+## Metadata
 
-## 核心能力
-
-### 1. 类型
-- 商业广告
-- 纪录片
-- 动画
-- 有声书
-
-### 2. 设备
-- 麦克风
-- 声卡
-- 录音棚
-- 软件
-
-### 3. 技巧
-- 气息控制
-- 情感表达
-- 口齿清晰
-- 节奏
-
-### 4. 接单
-- 平台
-- 价格
-- 客户
-
-## 使用示例
-
-```
-用户: 想做配音
-
-助手:
-## 🎤 配音指南
-
-### 类型
-
-**商业广告:**
-- 高端大气
-- 情感丰富
-
-**纪录片:**
-- 自然叙述
-- 专业
-
-**动画:**
-- 角色配音
-- 多声线
-
-**有声书:**
-- 故事感
-- 耐听
-
-### 设备
-
-**入门:**
-- USB麦克风
-- Audacity
-
-**专业:**
-- XLR麦克风
-- 声卡
-- 录音棚
-
-### 技巧
-
-- 保持距离
-- 避免喷麦
-- 情感投入
-- 节奏稳定
-```
+**Category:** Audio Production / Performance  
+**Difficulty:** Beginner to Advanced  
+**Time Investment:** 30 minutes to several hours per project  
+**Essential Tools:** Microphone, audio interface, computer, recording software  
+**Related Skills:** Acting, audio editing, script analysis, marketing  
 
 ---
 
-## 价格
+## Introduction
 
-- 入门: $50-100/分钟
-- 专业: $200-500/分钟
+Voice over (VO) is the art of using your voice to bring scripts to life for various media including commercials, animations, audiobooks, video games, and corporate presentations. Unlike on-camera acting, voice over relies entirely on vocal expression, timing, and emotional authenticity.
 
----
+## Core Principles
 
-*Price: $19*
-*Category: Media*
-*Tags: voice-over, recording, audio, narration, voice*
+1. **Clarity Over Everything** - Every word must be understood
+2. **Authenticity** - Sound like a real person, not a \"radio voice\"
+3. **Technical Consistency** - Maintain consistent volume, proximity, and tone
+4. **Script Servicing** - Your performance serves the message, not your ego
+
+## Practical Guide
+
+### Phase 1: Preparation & Setup
+
+#### Equipment Essentials (Budget to Professional)
+
+**Entry Level ($150-300)**
+- USB microphone (Audio-Technica ATR2100x, Rode NT-USB)
+- Pop filter
+- Basic headphones
+- Free DAW: Audacity or GarageBand
+
+**Intermediate ($500-1000)**
+- XLR microphone (Rode NT1, Shure SM7B)
+- Audio interface (Focusrite Scarlett 2i2)
+- Shock mount
+- Acoustic treatment panels
+
+**Professional ($2000+)**
+- Studio condenser microphone (Neumann TLM 103)
+- High-end interface (Universal Audio Apollo)
+- Sound-treated booth or room
+- Professional DAW (Adobe Audition, Pro Tools)
+
+#### Environment Setup
+
+1. **Room Selection**
+   - Choose smallest room available
+   - Avoid square rooms (parallel walls cause standing waves)
+   - Add soft surfaces: carpets, curtains, furniture
+
+2. **Quick Acoustics**
+   - Record in a closet with clothes as natural baffles
+   - Use moving blankets on walls
+   - Create a \"blanket fort\" around microphone
+   - Place microphone away from walls (minimum 1 foot)
+
+3. **Microphone Technique**
+   - Position 6-8 inches from mouth
+   - Slightly off-axis to reduce plosives
+   - Pop filter 2-3 inches from microphone
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
