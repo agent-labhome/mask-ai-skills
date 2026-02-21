@@ -1,38 +1,50 @@
-# SKILL.md: SaaS Pricing
+-e {"id":"9fea4e9c-881d-408b-bd85-0476b1bab07e","object":"chat.completion","created":1771671525,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: SaaS Pricing Strategy
 
 ## Metadata
-- **Skill Name:** SaaS Pricing Strategy
-- **Domain:** Business Strategy / Product Management / Marketing
-- **Experience Level:** Intermediate to Advanced
-- **Last Updated:** October 2023
-- **Related Skills:** Unit Economics, Value-Based Pricing, Competitive Analysis, Go-to-Market Strategy, Financial Modeling
+- **Skill Domain**: Business Strategy / Product Management
+- **Complexity Level**: Intermediate to Advanced
+- **Time to Master**: 3-6 months of applied practice
+- **Prerequisites**: Basic understanding of SaaS business models, market research fundamentals, Excel/Spreadsheet proficiency
+- **Related Skills**: Unit Economics, Customer Discovery, Competitive Analysis, Value Proposition Design
 
----
+## Practical Guide: Mastering SaaS Pricing Strategy
 
-## Core Competencies
+### 1. Foundational Concepts (Week 1-2)
 
-### 1. Pricing Models & Structures
-**Practical Knowledge:**
-- **Usage-Based:** Per seat/user, per API call, per GB stored, per transaction
-- **Feature-Based:** Tiered plans (Basic/Pro/Enterprise) with graduated features
-- **Flat-Rate:** Single price for all features
-- **Hybrid:** Base fee + usage overages
-- **Freemium:** Free tier with paid upgrades
-- **Pay-as-you-go:** Pure consumption model
+**Core Pricing Models to Understand:**
+- **Per-User Pricing**: Charge per seat/user (e.g., Slack, Notion)
+- **Usage-Based Pricing**: Charge based on consumption (e.g., AWS, Twilio)
+- **Tiered Pricing**: Multiple packages with feature differentiation (e.g., HubSpot)
+- **Freemium**: Free basic version, paid premium features (e.g., Zoom, Dropbox)
+- **Flat-Rate**: Single price for all features (e.g., Basecamp)
 
-**Implementation Checklist:**
-- [ ] Map pricing model to customer value realization
-- [ ] Align billing frequency with customer cash flow (monthly vs. annual)
-- [ ] Design clear upgrade paths between tiers
-- [ ] Implement grandfathering strategies for existing customers
-- [ ] Create transparent overage policies
+**Key Metrics to Calculate:**
+- Customer Acquisition Cost (CAC)
+- Lifetime Value (LTV)
+- LTV:CAC Ratio (aim for 3:1 or higher)
+- Monthly Recurring Revenue (MRR)
+- Churn Rate (both customer and revenue)
 
-### 2. Value-Based Pricing Framework
-**Practical Process:**
-1. **Customer Research:** 
-   - Conduct win/loss interviews
-   - Survey willingness-to-pay
-   - Analyze customer segments and use cases
+### 2. Research Phase (Week 3-4)
 
-2. **Value Metrics Identification:**
-  "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":300,"total_tokens":320,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Competitive Analysis Framework:**
+1. Identify 5-7 direct and adjacent competitors
+2. Document their pricing pages (screenshot and notes)
+3. Map their feature matrices
+4. Note their positioning language
+5. Track any pricing changes over time (use Wayback Machine)
+
+**Customer Value Research:**
+- Conduct 10+ customer interviews asking:
+  - \"What's the biggest problem this solves for you?\"
+  - \"How would you solve this if our product didn't exist?\"
+  - \"What would happen if you couldn't use this for a month?\"
+- Survey 50+ potential customers with Van Westendorp's Price Sensitivity Meter questions
+
+### 3. Pricing Structure Design (Week 5-6)
+
+**Building Your Pricing Page:**
+1. **Anchor with highest price first** (psychologically makes other options seem more reasonable)
+2. **Limit choices to 3-4 tiers** (paradox of choice - too many options reduce conversions)
+3. **Create clear value progression** between tiers
+4."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
