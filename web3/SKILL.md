@@ -1,20 +1,37 @@
--e # Web3
+-e {"id":"5bfaf3c0-326b-461a-8fe4-4574b7f22e61","object":"chat.completion","created":1771636524,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web3
 
-{"id":"e1ae22a5-26c6-46ed-997a-359a28fdd56a","object":"chat.completion","created":1771591076,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web3
+## Metadata
+- **Category:** Technology / Blockchain
+- **Proficiency Level:** Intermediate to Advanced
+- **Related Fields:** Cryptography, Distributed Systems, Economics, Software Development
+- **Prerequisites:** Basic programming, Understanding of blockchain fundamentals, Familiarity with web technologies
+- **Learning Resources:** Official documentation, Developer tutorials, Community forums, Online courses
+- **Tools & Platforms:** Ethereum, IPFS, Hardhat/Truffle, MetaMask, The Graph, OpenZeppelin
 
-## Core Technical Stack
+## Practical Overview
 
-### Blockchain Fundamentals
-- **Ethereum Ecosystem**: Solidity, EVM, smart contract development
-- **Alternative L1s**: Solana (Rust), Polkadot (Substrate), Cosmos SDK
-- **L2 Solutions**: Optimistic Rollups (Arbitrum, Optimism), ZK-Rollups (zkSync, StarkNet)
-- **Interoperability**: Cross-chain bridges, IBC protocol
+### Core Competencies
 
-### Smart Contract Development
-- **Languages**: Solidity (primary), Rust (Solana), Vyper, Cairo (StarkNet)
-- **Frameworks**: Hardhat, Foundry, Truffle, Brownie
-- **Testing**: Unit/integration testing, security analysis tools
-- **Deployment & Management**: Upgrade patterns, proxy contracts
+**1. Blockchain Fundamentals**
+- Understand distributed ledger technology
+- Cryptographic principles (hashing, digital signatures)
+- Consensus mechanisms (PoW, PoS, PoA)
+- Smart contract architecture
+- Gas economics and optimization
 
-### Decentralized Application (dApp) Development
-- **Frontend Integration**: Web3.js, Ethers.js"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**2. Smart Contract Development**
+- Solidity programming language
+- Contract design patterns
+- Security best practices (reentrancy, overflow/underflow)
+- Testing and deployment strategies
+- Upgradeability patterns (proxy, diamond)
+
+**3. Decentralized Application (dApp) Architecture**
+- Frontend integration (Web3.js, Ethers.js)
+- Wallet connectivity (MetaMask, WalletConnect)
+- Decentralized storage (IPFS, Arweave, Filecoin)
+- Oracle integration (Chainlink, Band Protocol)
+- Layer 2 solutions (Polygon, Optimism, Arbitrum)
+
+**4. Web3 Ecosystem Tools**
+- Development frameworks"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":300,"total_tokens":318,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
