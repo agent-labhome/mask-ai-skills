@@ -1,55 +1,56 @@
-# SKILL.md: Copywriting
+-e {"id":"9133212d-40d3-4ce1-a42b-4b54a05926c0","object":"chat.completion","created":1771650352,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Copywriting
 
 ## Metadata
-
-- **Skill:** Copywriting
-- **Category:** Communication & Marketing
-- **Prerequisites:** Basic writing proficiency, understanding of target audiences
-- **Time to Basic Proficiency:** 3-6 months of consistent practice
-- **Key Tools:** Word processors (Google Docs, Word), grammar checkers (Grammarly, Hemingway), SEO tools (Ahrefs, SEMrush), headline analyzers (CoSchedule)
-- **Related Skills:** Content Strategy, SEO, Marketing Psychology, Brand Strategy
+- **Skill Domain:** Marketing & Communications
+- **Complexity Level:** Intermediate to Advanced
+- **Prerequisites:** Strong language skills, basic marketing understanding
+- **Time to Basic Proficiency:** 3-6 months
+- **Time to Mastery:** 2-5 years
+- **Key Tools:** Word processors, SEO tools (Ahrefs, SEMrush), grammar checkers (Grammarly), CMS platforms
+- **Related Skills:** Content Strategy, SEO, Brand Strategy, UX Writing, Advertising
 
 ## Overview
-
-Copywriting is the art and science of persuasive writing that motivates readers to take specific actions—whether purchasing a product, subscribing to a service, clicking a link, or adopting an idea. Unlike general content writing, copywriting is fundamentally conversion-focused.
+Copywriting is the art and science of persuasive writing for business purposes. Unlike content writing which primarily informs or entertains, copywriting aims to persuade readers to take specific actions—making purchases, subscribing, clicking, or engaging with a brand.
 
 ## Core Principles
 
-### 1. **AIDA Framework** (Attention, Interest, Desire, Action)
+### 1. **The AIDA Model**
 - **Attention:** Grab the reader immediately
-- **Interest:** Maintain engagement with relevant information
-- **Desire:** Create emotional connection and want
-- **Action:** Provide clear, compelling instruction
+- **Interest:** Build curiosity and relevance
+- **Desire:** Create emotional connection and need
+- **Action:** Provide clear, compelling call-to-action
 
-### 2. **Know Your Audience**
+### 2. **Features vs. Benefits**
+- **Features:** What the product/service is or has
+- **Benefits:** What the customer gains or experiences
+- **Formula:** \"So that...\" (connects feature to benefit)
+
+### 3. **Know Your Audience**
 - Develop detailed buyer personas
-- Speak their language, address their pain points
-- Understand where they are in the customer journey
-
-### 3. **Benefit-Oriented Communication**
-- Focus on what the customer gains (benefits) rather than just features
-- \"Saves 10 hours weekly\" vs. \"Automated reporting feature\"
+- Understand pain points, desires, and language
+- Write to one person, not a crowd
 
 ### 4. **Clarity Over Cleverness**
-- Simple, direct language typically outperforms complex prose
-- One clear message per piece of copy
+- Simple, direct language outperforms complex prose
+- One main idea per sentence/paragraph
+- Eliminate jargon unless audience-specific
 
-## Practical Guide
+## Technical Framework
 
-### Phase 1: Research & Preparation
-
-**Step 1: Define Your Objective**
-- What specific action should the reader take?
-- How will you measure success? (CTR, conversions, sales)
-
-**Step 2: Understand Your Audience**
+### **The Copywriting Triangle**
 ```
-Example Persona:
-- Name: \"Busy Brian\"
-- Demographic: 35-45, urban professional
-- Pain Points: Time scarcity, work-life balance
-- Goals: Efficiency, career advancement
-- Preferred Channels: LinkedIn, industry newsletters
+     Persuasion
+      /      \
+ Emotion   Logic
 ```
 
-**Step 3"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":450,"total_tokens":472,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### **Headline Formulas**
+1. **How-to:** \"How to [Achieve Desired Outcome] in [Timeframe]\"
+2. **Question:** \"Are You Making These [Number] [Industry] Mistakes?\"
+3. **List:** \"[Number] Ways to [Solve Problem] Without [Obstacle]\"
+4. **Direct:** \"The [Adjective] Guide to [Topic] for [Audience]\"
+5. **Testimonial:** \"How [Person] [Achieved Result] Using [Product]\"
+
+### **The PAS Framework**
+- **Problem:** Agitate the pain point
+- **Agitate"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
