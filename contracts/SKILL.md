@@ -1,49 +1,46 @@
-# SKILL: Contracts
+-e {"id":"2e1851a3-6672-4cfc-9834-16e89503c4db","object":"chat.completion","created":1771652502,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contracts
 
 ## Metadata
-- **Category**: Legal & Business
-- **Subcategory**: Professional Skills
-- **Prerequisites**: Basic business understanding, clear communication skills
-- **Time to Proficiency**: 6-12 months (varies by complexity)
-- **Key Tools**: Contract management software (DocuSign, PandaDoc, ContractWorks), Microsoft Word/Google Docs, redlining tools, legal databases
-- **Related Skills**: Negotiation, Legal Research, Risk Assessment, Project Management
+- **Category**: Legal & Business Operations
+- **Complexity**: Advanced
+- **Usage Frequency**: Regular (Weekly/Monthly)
+- **Criticality**: High (Legal/Financial Impact)
+- **Primary Users**: Business Owners, Legal Teams, Sales Teams, Procurement
+- **Cross-Functional**: Finance, Operations, Legal, Sales
 
 ## Overview
-Contract skills involve creating, reviewing, negotiating, and managing legally binding agreements between parties. This includes understanding legal terminology, identifying risks, ensuring compliance, and facilitating mutually beneficial arrangements. Professionals with contract skills bridge business objectives with legal protection.
+The Contracts skill enables systematic creation, management, and analysis of business agreements. This comprehensive framework covers the entire contract lifecycle from template creation to execution and renewal management, with built-in compliance safeguards and risk assessment tools.
 
-## Core Competencies
+## Core Capabilities
 
-### 1. Contract Creation
-- Drafting clear, unambiguous language that reflects business intent
-- Structuring agreements with proper sections (recitals, definitions, obligations, terms, termination, etc.)
-- Incorporating necessary legal clauses (confidentiality, indemnification, limitation of liability, force majeure)
-- Ensuring compliance with relevant laws and regulations
-- Using templates appropriately while customizing for specific needs
+### 1. Contract Creation & Templating
+- **Template Library**: Pre-built templates for common agreements (NDAs, MSAs, SOWs, Employment, Licensing)
+- **Clause Bank**: Modular legal clauses with risk ratings (Low/Medium/High)
+- **Smart Variables**: Auto-population of party information, dates, and financial terms
+- **Version Control**: Track changes with audit trail and approval workflows
 
-### 2. Contract Review & Analysis
-- Identifying key terms and obligations for each party
-- Spotting ambiguous language, inconsistencies, and gaps
-- Assessing legal, financial, and operational risks
-- Evaluating compliance with company policies and regulatory requirements
-- Understanding the business context and strategic implications
+### 2. Risk Assessment Engine
+- **Risk Scoring**: Automated analysis based on contract type, clauses, and counterparty
+- **Red Flag Detection**: Identify unfavorable terms (liability caps, auto-renewals, termination rights)
+- **Compliance Check**: Verify against regulatory requirements and internal policies
+- **Benchmarking**: Compare terms against industry standards
 
-### 3. Negotiation & Redlining
-- Proposing and negotiating changes to contract terms
-- Using redlining/track changes effectively
-- Prioritizing negotiation points (must-haves vs. nice-to-haves)
-- Finding creative solutions to impasses
-- Maintaining positive relationships while protecting interests
+### 3. Negotiation Management
+- **Position Tracking**: Document initial, target, and fallback positions
+- **Concession Log**: Track traded terms with business impact assessment
+- **Stakeholder Alignment**: Approval workflows with role-based permissions
+- **Communication Log**: Centralized record of all negotiation communications
 
-### 4. Contract Management
-- Maintaining organized contract repositories
-- Tracking key dates (renewals, termination notices, deliverables)
-- Managing amendments and addendums
-- Ensuring proper execution and distribution
-- Monitoring compliance with contract terms
+### 4. Lifecycle Management
+- **Milestone Tracking**: Key dates (effective, termination, renewal, payment)
+- **Obligation Management**: Track deliverables, reporting requirements, and SLAs
+- **Amendment Handling**: Manage addendums and contract changes
+- **Renewal Pipeline**: Automated alerts for upcoming renewals (90/60/30 days)
 
-### 5. Risk Assessment & Mitigation
-- Identifying potential liabilities and exposures
-- Evaluating counterparty risk
-- Recommating insurance requirements
-- Developing contingency plans for potential breaches
-- Balancing risk with"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 5. Analytics & Reporting
+- **Portfolio Dashboard**: Overview of all contracts by status, value, and risk
+- **Financial Exposure**: Aggregate liability, revenue commitments, and payment schedules
+- **Counterparty Analysis**: Performance and compliance history of vendors/partners
+- **Negotiation Intelligence**: Success rates and common concession patterns
+
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,58 +1,52 @@
-# SKILL.md: Legal
+-e {"id":"8eadaef9-7902-46c7-a568-6659eb57d44b","object":"chat.completion","created":1771652491,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Legal
+**Metadata & Integration Guide for Business Use**
 
-## Metadata
-- **Category:** Professional & Compliance
-- **Complexity:** Intermediate to Advanced
-- **Domain:** Law, Regulation, Policy
-- **Key Applications:** Contract review, compliance, risk management, dispute resolution, regulatory navigation
-- **Related Skills:** Research, Analysis, Negotiation, Writing, Critical Thinking
+---
 
-## Practical Description
+## **1. SKILL METADATA**
 
-### What This Skill Enables
-Legal skill is the ability to understand, interpret, and apply laws, regulations, and contractual frameworks to protect interests, ensure compliance, and manage risk. It's not about becoming a lawyer, but about developing legal literacy to navigate obligations, rights, and potential pitfalls in professional and organizational contexts.
+| Field | Value |
+|-------|-------|
+| **SKILL ID** | `legal` |
+| **Category** | Professional Services / Compliance |
+| **Primary Use Case** | Legal document analysis, compliance checking, contract review, regulatory guidance |
+| **Input Types** | Text queries, document uploads (contracts, policies, terms), compliance questions |
+| **Output Types** | Summaries, risk assessments, compliance checklists, suggested revisions, regulatory explanations |
+| **Supported Jurisdictions** | General legal principles (with jurisdictional disclaimers) |
+| **Languages** | Primary: English (with multi-language document support) |
+| **Confidentiality Level** | Enterprise-grade (assumed—requires verification with provider) |
+| **Integration Complexity** | Medium (requires legal validation layer) |
 
-### Core Components
-1. **Legal Analysis & Interpretation**
-   - Reading and understanding statutes, regulations, and case law
-   - Identifying applicable legal principles to specific situations
-   - Recognizing legal implications of actions and decisions
+---
 
-2. **Contract Literacy**
-   - Understanding standard contract structures and clauses
-   - Identifying key terms (representations, warranties, indemnities, limitations of liability)
-   - Recognizing red flags and negotiation points
+## **2. BUSINESS USE CASES**
 
-3. **Compliance Management**
-   - Understanding regulatory requirements for your industry
-   - Implementing compliance programs and controls
-   - Managing documentation and reporting obligations
+### **A. Contract Review & Analysis**
+- **Red Flag Identification**: Detect unfavorable clauses (auto-renewals, liability caps, termination penalties)
+- **Standardization Checks**: Compare against company templates
+- **Obligation Extraction**: Create summary tables of parties' duties, deadlines, payments
+- **Version Comparison**: Highlight changes between contract versions
 
-4. **Risk Assessment**
-   - Identifying legal risks in operations and transactions
-   - Evaluating likelihood and impact of legal exposure
-   - Developing mitigation strategies
+### **B. Regulatory Compliance**
+- **Gap Analysis**: Compare policies against regulations (GDPR, CCPA, HIPAA, SOX)
+- **Requirement Checklists**: Generate compliance task lists
+- **Policy Drafting Assistance**: Create first drafts of privacy policies, terms of service, disclaimers
+- **Regulatory Updates**: Summarize new legislation impacts
 
-5. **Dispute Navigation**
-   - Understanding dispute resolution mechanisms (negotiation, mediation, arbitration, litigation)
-   - Preserving legal rights and avoiding waiver
-   - Managing evidence and documentation
+### **C. Risk Assessment**
+- **Liability Analysis**: Identify potential exposure points
+- **Clause Risk Scoring**: Rate contract clauses by risk level (low/medium/high)
+- **Dispute Probability**: Flag ambiguous language likely to cause disputes
 
-### Practical Applications
+### **D. Due Diligence Support**
+- **Document Summarization**: Create executive summaries of lengthy legal documents
+- **Issue Spotting**: Identify unusual or problematic provisions in M&A documents
+- **Timeline Extraction**: Create chronological obligation timelines
 
-**For Professionals:**
-- Reviewing employment agreements and NDAs before signing
-- Understanding intellectual property rights in your work
-- Navigating non-compete and confidentiality obligations
-- Managing personal liability in professional roles
+---
 
-**For Business Operations:**
-- Drafting and reviewing vendor/client agreements
-- Ensuring regulatory compliance (GDPR, CCPA, industry-specific regulations)
-- Managing corporate governance requirements
-- Handling data privacy and security obligations
+## **3. IMPLEMENTATION GUIDE**
 
-**For Project Management:**
-- Identifying regulatory approvals needed for projects
-- Managing contractual obligations across stakeholders
-- Documenting decisions to create"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### **Phase 1: Assessment & Scope Definition**
+1. **Identify Primary Use Cases**
+   - Prioritize by volume (e.g., NDA review) or risk (e.g., vendor contracts"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
