@@ -1,21 +1,44 @@
--e # Flutter
+-e {"id":"e3e5dd51-1122-4ee4-81f7-a8402f12d5f5","object":"chat.completion","created":1771636603,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Flutter
 
-{"id":"eaf9d80a-b253-4dab-afa0-862229a95f70","object":"chat.completion","created":1771590898,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Flutter
+## Metadata
+- **Category**: Mobile & Cross-Platform Development
+- **Level**: Intermediate to Advanced
+- **Prerequisites**: 
+  - Dart programming language
+  - Object-oriented programming concepts
+  - Basic understanding of mobile development
+- **Related Skills**: Dart, Firebase, REST APIs, State Management, UI/UX Design
+- **Common Use Cases**: 
+  - Cross-platform mobile apps (iOS/Android)
+  - Desktop applications (Windows/macOS/Linux)
+  - Web applications
+  - Embedded and IoT interfaces
 
 ## Core Competencies
 
-### Technical Proficiency
-- **Dart Language**: Strong understanding of Dart syntax, OOP principles, async/await, streams
-- **Flutter Framework**: Widget tree architecture, state management, lifecycle management
-- **UI/UX Implementation**: Custom widget creation, responsive design, Material/Cupertino design systems
-- **State Management**: Provider, Riverpod, Bloc, GetX, or similar patterns
-- **Platform Integration**: Native Android/iOS interop, platform channels, FFI
+### 1. Dart Language Proficiency
+- **Syntax & Features**: Async/await, streams, isolates, mixins, extensions
+- **Type System**: Sound null safety, generics, type inference
+- **Package Management**: pub.dev ecosystem, dependency versioning
 
-### Development Skills
-- **Cross-Platform Development**: Single codebase for iOS, Android, Web, Desktop
-- **Performance Optimization**: Widget rebuild optimization, memory management, rendering pipeline
-- **Testing**: Unit, widget, and integration testing with flutter_test
-- **Debugging**: Flutter DevTools, performance profiling, hot reload/restart
-- **Package Management**: Pub.dev ecosystem, custom package creation
+### 2. Flutter Framework Architecture
+```dart
+// Understanding the widget tree hierarchy
+MaterialApp(
+  home: Scaffold(
+    appBar: AppBar(),
+    body: Column(
+      children: [
+        StatelessWidget(),
+        StatefulWidget(),
+        CustomWidget(),
+      ],
+    ),
+  ),
+)
+```
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. Widget System Mastery
+- **Stateless vs Stateful Widgets**: When to use each
+- **Built-in Widgets**: Material/Cupertino, layout, scrolling, styling
+- **Custom Widgets**: Composition, reusability"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":300,"total_tokens":318,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

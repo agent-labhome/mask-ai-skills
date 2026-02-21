@@ -1,22 +1,28 @@
--e # iOS
+-e {"id":"83e6a5df-6da2-4cc4-8081-b243e4f6a3e2","object":"chat.completion","created":1771636583,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: iOS Development
 
-{"id":"d128fce3-ed86-454c-b309-ef4e50ea7f97","object":"chat.completion","created":1771590883,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# iOS Development SKILL.md
+## Metadata
+- **Category**: Mobile Development > Native iOS
+- **Experience Level**: Junior to Senior
+- **Prerequisites**: Swift basics, Xcode familiarity, macOS
+- **Related Skills**: SwiftUI, UIKit, Core Data, REST APIs, Git
+- **Tools**: Xcode, Swift, iOS SDK, CocoaPods/Swift Package Manager, TestFlight
 
 ## Core Competencies
 
-### **Languages & Tools**
-- **Primary**: Swift (5+), SwiftUI, UIKit
-- **Secondary**: Objective-C (legacy support)
-- **Tools**: Xcode, Instruments, Swift Package Manager, CocoaPods, SwiftLint
-- **Architecture**: MVVM, MVC, VIPER, Clean Architecture
+### 1. **Swift Programming**
+- **Syntax & Features**: Optionals, protocols, extensions, generics, async/await
+- **Memory Management**: ARC, strong/weak references, memory leak detection
+- **Concurrency**: GCD, OperationQueue, async/await, actors
+- **Design Patterns**: MVVM, Coordinator, Delegate, Singleton
 
-### **Key Frameworks**
-- **UI**: SwiftUI, UIKit, Combine, Core Animation
-- **Networking**: URLSession, Alamofire, REST/GraphQL APIs
-- **Data**: Core Data, Realm, UserDefaults, Keychain
-- **Concurrency**: Async/Await, DispatchQueue, OperationQueue
-- **Testing**: XCTest, XCUITest, Quick/Nimble
+### 2. **UI Development**
+- **UIKit**: Storyboards, programmatic UI, Auto Layout, UITableView/UICollectionView
+- **SwiftUI**: Declarative syntax, state management, custom modifiers
+- **Animations**: UIView animations, Core Animation, Lottie
+- **Accessibility**: VoiceOver, Dynamic Type, accessibility identifiers
 
-### **Platform-Specific Expertise**
-- **iOS Features**: Push Notifications, Background Modes, In-App Purchases
-- **Apple Ecosystem**: App Store Connect,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Architecture & Patterns**
+- **App Architecture**: MVC, MVVM, VIPER, Clean Architecture
+- **Dependency Management**: Dependency injection, service locator
+- **State Management**: @State, @Binding, @ObservedObject, Redux patterns
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":300,"total_tokens":317,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

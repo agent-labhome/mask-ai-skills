@@ -1,22 +1,48 @@
--e # Mobile App
+-e {"id":"002c8362-e046-46c7-9e6c-55ac5b3beeb1","object":"chat.completion","created":1771636576,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Mobile App Development
 
-{"id":"4cbdd0f8-76df-4778-9fbe-cf8d508d91dc","object":"chat.completion","created":1771565211,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md - Mobile App Development
+## Metadata
+- **Skill Category**: Technical Development
+- **Proficiency Levels**: Beginner → Intermediate → Advanced → Expert
+- **Time to Basic Proficiency**: 3-6 months
+- **Time to Advanced Proficiency**: 2-3 years
+- **Related Skills**: UI/UX Design, Backend Development, Product Management, QA Testing
+- **Tools Ecosystem**: IDEs, Frameworks, Testing Suites, Deployment Platforms
 
-## 🎯 Project Brief
-**Project Type:** Mobile Application  
-**Platform:** [iOS/Android/Cross-Platform - specify which]  
-**Category:** [e.g., Social, Productivity, E-commerce, Health & Fitness, etc.]
+## Practical Skill Components
 
-## 🛠️ Technical Stack
+### 1. Core Competencies
 
-### Core Technologies
-- **Primary Framework:** React Native / Flutter / Swift (iOS) / Kotlin (Android) / Other: ______
-- **State Management:** Redux / MobX / Provider / Bloc / Other: ______
-- **Navigation:** React Navigation / Flutter Navigation / Native Navigation
-- **UI Framework:** NativeBase / Material UI / Cupertino / Custom
+#### Platform-Specific Development
+**iOS (Swift/SwiftUI)**
+```swift
+// Example: Basic SwiftUI view
+struct ContentView: View {
+    @State private var count = 0
+    
+    var body: some View {
+        VStack {
+            Text(\"Count: \(count)\")
+                .font(.title)
+            Button(\"Increment\") {
+                count += 1
+            }
+            .buttonStyle(.borderedProminent)
+        }
+        .padding()
+    }
+}
+```
 
-### Backend Integration
-- **API Type:** REST / GraphQL / gRPC
-- **Authentication:** OAuth / JWT / Firebase Auth / Custom
-- **Database:** Firebase / AWS Amplify / Supabase / Custom Backend
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Android (Kotlin/Jetpack Compose)**
+```kotlin
+// Example: Basic Composable function
+@Composable
+fun CounterScreen() {
+    var count by remember { mutableStateOf(0) }
+    
+    Column(
+        modifier = Modifier.padding(16.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text(
+            text = \""},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":300,"total_tokens":318,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
