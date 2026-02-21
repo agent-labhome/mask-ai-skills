@@ -1,115 +1,29 @@
-# Digital Products Creator
+-e {"id":"eafa1029-27a1-4670-b1ba-424b4344c646","object":"chat.completion","created":1771638603,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Digital Products
 
-帮助你创建数字产品。
+## Metadata
+- **Skill Name:** Digital Products
+- **Category:** Business Development, Entrepreneurship, Technology
+- **Proficiency Levels:** Beginner → Intermediate → Advanced → Expert
+- **Related Skills:** Product Management, Marketing, UX/UI Design, Analytics, Content Creation
+- **Tools:** Figma, Google Analytics, Shopify, WordPress, Canva, Notion, Stripe
+- **Time to Basic Competency:** 3-6 months
+- **Time to Proficiency:** 1-2 years
 
-## 核心能力
+## Overview
+Digital products are intangible goods or services distributed in digital format, including e-books, online courses, software, templates, digital art, and subscription content. This skill encompasses the complete lifecycle: ideation, creation, marketing, sales, delivery, and iteration.
 
-### 1. 产品类型
-- 电子书
-- 模板
-- 工具
-- 课程
+## Core Competencies
 
-### 2. 制作流程
-- 选题策划
-- 内容创作
-- 包装设计
-- 上架销售
+### 1. **Product Ideation & Validation**
+- **Market Research:** Identify gaps, analyze competitors, understand target audiences
+- **Problem-Solution Fit:** Define clear value propositions addressing specific pain points
+- **Validation Methods:** 
+  - MVP (Minimum Viable Product) testing
+  - Pre-launch email lists
+  - Crowdfunding validation
+  - Customer interviews and surveys
+- **Tools:** Google Trends, AnswerThePublic, SurveyMonkey, Typeform
 
-### 3. 平台选择
-- Gumroad
-- Lemon Squeezy
-- Shopify
-- 自有网站
-
-### 4. 营销推广
-- 内容营销
-- 社媒推广
-- 联盟营销
-- 邮件列表
-
-## 使用示例
-
-```
-用户: 想卖数字产品
-
-助手:
-## 📦 数字产品指南
-
-### 产品类型
-
-**电子书:**
-- $9-29
-- 写作简单
-- 制作快
-
-**模板:**
-- $19-99
-- Notion/Canva模板
-- 需求大
-
-**工具:**
-- $29-199
-- 浏览器插件
-- 小工具
-
-**课程:**
-- $49-499
-- 视频教程
-- 价值高
-
-### 制作流程
-
-1. **选题** (1周)
-   - 目标受众
-   - 痛点需求
-   - 差异化
-
-2. **制作** (2-4周)
-   - 内容撰写
-   - 设计包装
-   - 测试优化
-
-3. **上线** (1周)
-   - 平台选择
-   - 页面优化
-   - 推广准备
-
-### 平台对比
-
-| 平台 | 费用 | 特点 |
-|------|------|------|
-| Gumroad | 10% | 简单 |
-| Lemon | 5%+ | 现代 |
-| Shopify | $29+ | 品牌 |
-
-### 定价
-
-**首次发布:**
-- 早鸟价 50% off
-- 正式价
-- 捆绑价
-```
-
----
-
-## 热门产品
-
-- Notion模板
-- AI提示词
-- 设计素材
-- 视频教程
-
----
-
-## 变现方式
-
-- 销售: $100-10000/月
-- 培训: $99-499
-- 咨询: $100-500
-
----
-
-*Price: $29*
-*Category: Business*
-*Tags: digital-products, ebook, template, course, sales*
+### 2. **Product Creation & Development**
+- **Content Development:** Writing, recording, designing, or coding based on product type
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":300,"total_tokens":320,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

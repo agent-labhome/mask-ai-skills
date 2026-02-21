@@ -1,25 +1,24 @@
-# Freelance Business
+-e {"id":"1e1fdc6a-d71f-4e16-b14c-533e46348d0d","object":"chat.completion","created":1771638582,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Freelance Business
 
-帮助你建立自由职业业务。
+## Metadata
+* **Skill Name:** Freelance Business Management
+* **Category:** Entrepreneurship & Professional Services
+* **Proficiency Level:** Intermediate to Expert
+* **Related Skills:** Client Relations, Financial Management, Marketing, Project Management, Contract Law
+* **Last Updated:** October 2023
+* **Status:** Actively Practicing
 
-## 核心能力
+## Overview
+Comprehensive capability to establish, operate, and scale a sustainable freelance business. This encompasses client acquisition, service delivery, financial administration, legal compliance, and strategic growth—transforming specialized expertise into a viable professional practice.
 
-### 1. 定位
-- 技能
--  niche
-- 定价
+## Core Competencies
 
-### 2. 获客
-- Upwork
-- Fiverr
-- 直接客户
+### 1. Business Foundation & Legal Structure
+* **Entity Formation:** Selection and establishment of appropriate business structure (Sole Proprietorship, LLC, S-Corp) based on liability, tax, and growth considerations
+* **Legal Compliance:** Registration, business licenses, permits, and adherence to local/state/federal regulations
+* **Contract Crafting:** Development of comprehensive service agreements, including scope of work, payment terms, IP rights, confidentiality, and termination clauses
+* **Insurance:** Procurement of professional liability (errors & omissions), general liability, and equipment insurance as needed
 
-### 3. 运营
-- 合同
-- 发票
-- 交付
-
-### 4. 增长
-- 涨价
-- 被动收入
-- 团队
+### 2. Service Design & Pricing Strategy
+* **Service Packaging:** Structuring offerings into clear, marketable packages (hourly, project-based, retainer, value-based)
+* **Pricing Models:** Implementation of competitive yet profitable pricing strategies"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":300,"total_tokens":322,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
