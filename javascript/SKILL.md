@@ -13,27 +13,40 @@
 
 ## Core Concepts
 
-### 1. Fundamentals (Beginner)
-```javascript
-// Variables and Data Types
-let mutable = \"can change\";
-const immutable = \"cannot change\";
-var legacy = \"avoid in modern code\";
+### 1. Fundamentals
+- **Variables**: `let`, `const`, `var` (avoid legacy)
+- **Data Types**: String, Number, Boolean, Null, Undefined, Symbol, BigInt
+- **Operators**: Arithmetic, Logical, Comparison, Ternary
 
-// Primitive Types
-const str = \"string\";
-const num = 42;
-const bool = true;
-const nul = null;
-const undef = undefined;
-const sym = Symbol(\"unique\");
+### 2. Functions
+- Function declaration vs expression
+- Arrow functions: `() => {}`
+- Parameters, arguments, return values
+- Closures and scope
 
-// Reference Types
-const obj = { key: \"value\" };
-const arr = [1, 2, 3];
-const func = () => {};
+### 3. Objects & Arrays
+- Object literals: `{ key: value }`
+- Array methods: `map`, `filter`, `reduce`, `forEach`
+- Destructuring: `const { a, b } = obj`
 
-// Type Coercion
-console.log(5 + \"5\"); // \"55\" (string concatenation)
-console.log(\"5\" == 5); // true (loose equality)
-console.log(\"5\""},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":300,"total_tokens":319,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 4. Control Flow
+- Conditionals: `if/else`, `switch`, ternary
+- Loops: `for`, `while`, `do...while`, `for...of`
+- Error handling: `try/catch/finally`
+
+### 5. Async Programming
+- Promises: `.then()`, `.catch()`, `.finally()`
+- Async/Await: syntactic sugar for promises
+- `fetch()` API for HTTP requests
+
+## Use Cases
+- Frontend web development
+- Backend with Node.js
+- Mobile apps (React Native)
+- Desktop apps (Electron)
+- CLI tools and scripts
+
+## Resources
+- MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- JavaScript.info: https://javascript.info
+- ES6 Features: https://es6-features.org
