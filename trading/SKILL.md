@@ -1,24 +1,52 @@
-# SKILL.md: Trading
+-e {"id":"3ffe8b23-9879-4016-a9f8-1ea45311fca6","object":"chat.completion","created":1771649878,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Trading
 
-## Core Competencies
+## Metadata
+- **Skill Name:** Trading
+- **Category:** Finance & Investment
+- **Difficulty:** Intermediate to Advanced
+- **Time to Basic Proficiency:** 6-12 months
+- **Key Prerequisites:** Basic financial literacy, risk management understanding, emotional discipline
+- **Related Skills:** Technical Analysis, Fundamental Analysis, Risk Management, Behavioral Finance
 
-### 1. Market Analysis
-- **Technical Analysis**: Chart patterns, indicators (RSI, MACD, Bollinger Bands), trend analysis, support/resistance levels
-- **Fundamental Analysis**: Financial statements, economic indicators, sector/industry analysis, valuation metrics
-- **Sentiment Analysis**: Market mood, news interpretation, social media trends, positioning data
+## Overview
+Trading involves buying and selling financial instruments (stocks, bonds, currencies, commodities, derivatives) with the primary goal of generating profits from price movements. Unlike long-term investing, trading typically focuses on shorter timeframes, from seconds (scalping) to several months (swing trading).
 
-### 2. Risk Management
-- Position sizing methodologies
-- Stop-loss and take-profit strategies
-- Portfolio diversification
-- Risk/reward ratio calculation
-- Drawdown management
-- Correlation analysis
+## Core Trading Styles
 
-### 3. Trading Strategies
-- **Day Trading**: Scalping, momentum trading, range trading
-- **Swing Trading**: Trend following, breakout trading, pullback strategies
-- **Position Trading**: Long-term trend identification, fundamental-driven positions
-- **Algorithmic Trading**: Strategy development, backtesting, execution algorithms
+### 1. Day Trading
+- **Timeframe:** Positions opened and closed within the same trading day
+- **Typical Holding Period:** Minutes to hours
+- **Key Characteristics:** No overnight risk, requires intense focus, high transaction costs
+- **Best For:** Full-time traders with significant capital and risk tolerance
 
-### 4. Execution & Order"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+### 2. Swing Trading
+- **Timeframe:** Days to weeks
+- **Typical Holding Period:** 2-10 days
+- **Key Characteristics:** Captures \"swings\" in market momentum, balances frequency with analysis depth
+- **Best For:** Part-time traders with moderate time availability
+
+### 3. Position Trading
+- **Timeframe:** Weeks to months
+- **Typical Holding Period:** Several weeks to several months
+- **Key Characteristics:** Based on fundamental trends, lower transaction costs, requires patience
+- **Best For:** Those with longer-term perspective who can tolerate drawdowns
+
+### 4. Scalping
+- **Timeframe:** Seconds to minutes
+- **Typical Holding Period:** Seconds to minutes
+- **Key Characteristics:** High frequency, small profit targets, requires advanced tools and execution
+- **Best For:** Professional traders with direct market access
+
+## Essential Components of Trading
+
+### A. Market Analysis Methods
+
+#### Technical Analysis
+- **Price Action:** Reading raw price movements without indicators
+- **Chart Patterns:** 
+  - Reversal patterns (Head & Shoulders, Double Tops/Bottoms)
+  - Continuation patterns (Flags, Pennants, Triangles)
+- **Technical Indicators:**
+  - Trend indicators (Moving Averages, MACD, ADX)
+  - Momentum indicators (RSI, Stochastic, CCI)
+  - Volume indicators ("},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
