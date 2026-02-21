@@ -1,17 +1,32 @@
--e # Music Production
+-e {"id":"c639fa6f-d07a-4dce-9552-8eae17c418aa","object":"chat.completion","created":1771636340,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Music Production
 
-{"id":"5c7eafce-8130-4e2d-a4fe-1fe027dc9992","object":"chat.completion","created":1771567004,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Music Production
+## Metadata
+- **Skill Domain:** Creative Arts / Audio Engineering
+- **Complexity Level:** Intermediate to Advanced
+- **Prerequisites:** Basic computer literacy, musical interest
+- **Time to Basic Proficiency:** 6-12 months
+- **Core Tools:** Digital Audio Workstation (DAW), audio interface, studio monitors/headphones
+- **Key Concepts:** Sound design, arrangement, mixing, mastering
+- **Related Skills:** Sound engineering, music theory, audio electronics
+
+## Skill Description
+Music production is the process of creating, recording, arranging, and refining musical compositions into finished recordings. It combines technical audio engineering with artistic decision-making across the entire creative workflow.
 
 ## Core Competencies
 
-### Technical Proficiency
-- **Digital Audio Workstations (DAWs):** Proficient in at least one primary DAW (Ableton Live, Logic Pro, FL Studio, Pro Tools, Cubase, or Reaper) with understanding of workflow, routing, and key features
-- **Audio Engineering:** Signal flow, gain staging, compression, EQ, reverb, delay, and other essential processing
-- **Mixing:** Balance, panning, frequency spectrum management, dynamic control, spatial effects
-- **Mastering:** Final polish, loudness optimization, format preparation for distribution
-- **Recording:** Microphone techniques, acoustic treatment, analog/digital conversion, vocal/instrument recording
+### 1. **DAW Proficiency**
+- **Tools:** Ableton Live, Logic Pro, FL Studio, Pro Tools, Cubase, Reaper
+- **Skills:**
+  - Project setup and session management
+  - Multi-track recording and editing
+  - MIDI programming and quantization
+  - Audio clip manipulation (warping, time-stretching)
+  - Automation curve creation
+  - Routing and bus management
+  - Template creation for workflow efficiency
 
-### Musical Knowledge
-- **Music Theory:** Scales, chords, progressions, rhythm, melody, harmony
-- **Arrangement:** Song structure, instrumentation, build-ups/breakdowns, transitions
-- **Sound Design:** Synthesis"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Recording Techniques**
+- **Microphone Knowledge:**
+  - Dynamic vs. condenser vs. ribbon microphones
+  - Polar patterns (cardioid, omnidirectional, figure-8)
+  - Proximity effect and off-axis coloration"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":300,"total_tokens":320,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
