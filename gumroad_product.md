@@ -71,7 +71,7 @@
 
 ## 📦 立即获取
 
-**[立即购买 →](https://xalliance.gumroad.com/l/mcybyu)**
+**[立即购买 →](https://xalliance.gumroad.com/l/wsjphs)**
 
 ---
 

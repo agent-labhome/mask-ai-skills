@@ -71,7 +71,7 @@ Covers content creation, e-commerce, social media marketing, tech development, f
 
 ## 📦 Get Now
 
-**[Buy Now →](https://xalliance.gumroad.com/l/mcybyu)**
+**[Buy Now →](https://xalliance.gumroad.com/l/wsjphs)**
 
 ---
 
