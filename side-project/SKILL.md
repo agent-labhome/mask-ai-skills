@@ -1,96 +1,78 @@
-# Side Project Builder
+-e {"id":"36e33a1f-51ce-4b15-9849-e3a6f47a3a19","object":"chat.completion","created":1771671703,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
 
-帮助你构建副业项目。
+## Project Metadata
 
-## 核心能力
+**Project Name:** [Your Side Project Name]  
+**Category:** [e.g., Web App, CLI Tool, Mobile App, API Service, Library]  
+**Tech Stack:** [e.g., React, Node.js, Python, PostgreSQL, Docker]  
+**Status:** [Active Development / MVP / Beta / Stable]  
+**Repository:** [GitHub/GitLab URL]  
+**Live Demo:** [URL if applicable]  
+**License:** [e.g., MIT, Apache 2.0]  
 
-### 1. 项目选择
-- 市场需求
-- 技能匹配
-- 时间投入
-- 变现潜力
+**One-Liner:** A brief description of what your project does (e.g., \"A CLI tool that converts markdown files to styled PDFs\").
 
-### 2. 快速开发
-- 工具选择
-- MVP思维
-- 外包策略
-- 自动化
+---
 
-### 3. 用户获取
-- 社媒营销
-- 内容推广
-- 社区运营
-- 付费广告
+## Overview
 
-### 4. 变现路径
-- 订阅收入
-- 一次性付费
-- 联盟佣金
-- 广告收入
+A concise paragraph explaining the problem your project solves, its core features, and what makes it unique or valuable. Mention the target audience if applicable.
 
-## 使用示例
+**Core Features:**
+- Feature 1: Brief description
+- Feature 2: Brief description
+- Feature 3: Brief description
 
-```
-用户: 想做个副业
+---
 
-助手:
-## 💼 副业项目指南
+## Getting Started
 
-### 最佳副业
+### Prerequisites
+- List required software/tools (e.g., Node.js 18+, Python 3.10, Docker)
+- Any API keys or environment variables needed
 
-**高变现:**
-1. SaaS产品
-2. 数字产品
-3. 咨询服务
-4. 课程
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/project-name.git
+cd project-name
 
-**快速启动:**
-1. 模板/工具
-2. 订阅服务
-3. 联盟营销
-4. 内容创作
+# Install dependencies
+npm install  # or pip install -r requirements.txt, etc.
 
-### 开发栈
-
-**快速开发:**
-- No-code: Bubble/Glide
-- Low-code: Zapier/Make
-- Full-code: Next.js
-
-### 时间管理
-
-**每日2小时:**
-- 早上: 开发
-- 晚上: 运营
-- 周末: 推广
-
-### 变现策略
-
-**免费→付费:**
-- 免费功能
-- 付费升级
-- 试用转化
+# Set up environment variables
+cp .env.example .env
+# Edit .env with your configuration
 ```
 
----
+### Running Locally
+```bash
+# Development server
+npm run dev
 
-## 项目想法
+# Or production build
+npm run build && npm start
+```
 
-- 自动化脚本
-- 模板工具
-- 小程序
-- 浏览器插件
-
----
-
-## 变现方式
-
-- 产品销售: $100-10000
-- 订阅: $10-100/月
-- 咨询: $50-500/时
+### First-Time Setup
+1. Step-by-step instructions for initial configuration
+2. How to seed the database (if applicable)
+3. How to verify the setup is working
 
 ---
 
-*Price: $19*
-*Category: Business*
-*Tags: side-project, freelance, income, mvp, solopreneur*
+## Project Structure
+
+```
+project-name/
+├── src/                    # Source code
+│   ├── components/         # UI components
+│   ├── lib/               # Utilities and helpers
+│   ├── api/               # API routes or services
+│   └── styles/            # CSS/SCSS files
+├── tests/                  # Test files
+├── docs/                   # Documentation
+├── public/                 # Static assets
+├── .env.example           # Environment template
+├── package.json           # Dependencies and scripts
+└"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
