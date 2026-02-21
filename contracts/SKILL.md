@@ -1,22 +1,49 @@
--e # Contracts
+-e {"id":"7be704d9-324a-44ce-9439-d3e8d4f09c69","object":"chat.completion","created":1771643099,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contracts
 
-{"id":"6c4172f2-8f17-4c94-8422-936329a3e18d","object":"chat.completion","created":1771595528,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Contracts
+## Metadata
+- **Category**: Legal & Business
+- **Subcategory**: Professional Skills
+- **Prerequisites**: Basic business understanding, clear communication skills
+- **Time to Proficiency**: 6-12 months (varies by complexity)
+- **Key Tools**: Contract management software (DocuSign, PandaDoc, ContractWorks), Microsoft Word/Google Docs, redlining tools, legal databases
+- **Related Skills**: Negotiation, Legal Research, Risk Assessment, Project Management
+
+## Overview
+Contract skills involve creating, reviewing, negotiating, and managing legally binding agreements between parties. This includes understanding legal terminology, identifying risks, ensuring compliance, and facilitating mutually beneficial arrangements. Professionals with contract skills bridge business objectives with legal protection.
 
 ## Core Competencies
 
-### 1. Contract Fundamentals
-- **Legal Structure**: Understanding of contract types (NDA, MSA, SOW, SLA, licensing agreements)
-- **Key Components**: Ability to identify and draft essential clauses (parties, term, payment, termination, liability, IP, confidentiality)
-- **Risk Assessment**: Identifying potential legal and business risks in contractual language
+### 1. Contract Creation
+- Drafting clear, unambiguous language that reflects business intent
+- Structuring agreements with proper sections (recitals, definitions, obligations, terms, termination, etc.)
+- Incorporating necessary legal clauses (confidentiality, indemnification, limitation of liability, force majeure)
+- Ensuring compliance with relevant laws and regulations
+- Using templates appropriately while customizing for specific needs
 
-### 2. Drafting & Review
-- **Clear Language**: Writing contracts in plain English while maintaining legal precision
-- **Redlining**: Using track changes effectively to propose and negotiate revisions
-- **Consistency**: Maintaining consistent terminology and formatting throughout documents
+### 2. Contract Review & Analysis
+- Identifying key terms and obligations for each party
+- Spotting ambiguous language, inconsistencies, and gaps
+- Assessing legal, financial, and operational risks
+- Evaluating compliance with company policies and regulatory requirements
+- Understanding the business context and strategic implications
 
-### 3. Negotiation Strategy
-- **Prioritization**: Distinguishing between must-have, nice-to-have, and flexible terms
-- **Business Alignment**: Ensuring contracts support business objectives and operational needs
-- **Relationship Management**: Negotiating while preserving positive business relationships
+### 3. Negotiation & Redlining
+- Proposing and negotiating changes to contract terms
+- Using redlining/track changes effectively
+- Prioritizing negotiation points (must-haves vs. nice-to-haves)
+- Finding creative solutions to impasses
+- Maintaining positive relationships while protecting interests
 
-### 4. Specialized"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 4. Contract Management
+- Maintaining organized contract repositories
+- Tracking key dates (renewals, termination notices, deliverables)
+- Managing amendments and addendums
+- Ensuring proper execution and distribution
+- Monitoring compliance with contract terms
+
+### 5. Risk Assessment & Mitigation
+- Identifying potential liabilities and exposures
+- Evaluating counterparty risk
+- Recommating insurance requirements
+- Developing contingency plans for potential breaches
+- Balancing risk with"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

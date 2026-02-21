@@ -1,22 +1,47 @@
--e # Intellectual Property
+-e {"id":"7f6bd215-8fbc-44db-8004-d4870dd1094f","object":"chat.completion","created":1771643109,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Intellectual Property
 
-{"id":"1c28b51b-ff0b-44ea-a17f-e308991de8c3","object":"chat.completion","created":1771565491,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Intellectual Property (IP) Briefing
+## Metadata
+- **Domain:** Law, Business, Technology, Creative Arts
+- **Complexity:** Intermediate to Advanced
+- **Key Concepts:** Copyright, Trademarks, Patents, Trade Secrets, Licensing, Fair Use, Infringement
+- **Prerequisites:** Basic understanding of business law and creative/technical processes
+- **Related Skills:** Contract Law, Business Strategy, Research & Development, Content Creation, Compliance
 
-## Core Competency
-The ability to rapidly synthesize and explain complex intellectual property concepts, frameworks, and strategic considerations in clear, accessible language for business and creative professionals.
+## Practical Framework
 
-## Key Capabilities
+### 1. Foundational Knowledge
+**Core IP Types:**
+- **Copyright:** Protects original works of authorship (books, music, software, art)
+  - Duration: Life of author + 70 years (varies by jurisdiction)
+  - Automatic upon creation (registration strengthens enforcement)
+- **Trademarks:** Protects brands, logos, slogans (® and ™ symbols)
+  - Requires distinctiveness and use in commerce
+  - Must be defended against genericide
+- **Patents:** Protects inventions and processes (utility, design, plant)
+  - Requires novelty, non-obviousness, and utility
+  - 20-year monopoly in exchange for public disclosure
+- **Trade Secrets:** Confidential business information (formulas, processes, lists)
+  - Protected indefinitely while secret
+  - Requires reasonable security measures
 
-### 1. **Concept Synthesis & Simplification**
-- Translate legal/technical IP terminology into business-relevant language
-- Identify the core principles from complex IP frameworks (patents, copyrights, trademarks, trade secrets)
-- Create analogies and examples that make abstract IP concepts tangible
+### 2. Practical Applications
 
-### 2. **Strategic IP Awareness**
-- Distinguish between different IP protection mechanisms and their appropriate applications
-- Explain the \"why\" behind IP decisions, not just the \"what\"
-- Connect IP strategy to business outcomes (competitive advantage, valuation, risk mitigation)
+**For Creators/Developers:**
+- Document creation process with dates (proves originality)
+- Use © notice: \"Copyright [Year] [Owner]. All rights reserved.\"
+- Register important works with national copyright office
+- Implement \"watermarking\" for digital assets
+- Use open-source licenses correctly (GPL, MIT, Creative Commons)
 
-### 3. **Audience-Specific Communication**
-- Adjust explanation depth based on audience (founders, creatives, investors, general public)
-- Highlight the most relevant aspects of"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**For Businesses:**
+- Conduct trademark searches before branding
+- File provisional patents for early protection
+- Implement trade secret protocols (NDAs, access controls, employee training)
+- Create IP assignment clauses in employment contracts
+- Regular IP audits to identify and protect assets
+
+**For Users/Consumers:**
+- Understand \"fair use\" factors: purpose, nature, amount, market effect
+- Recognize public domain works (expired copyright, government works)
+- Use royalty-free/stock resources appropriately
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":450,"total_tokens":468,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
