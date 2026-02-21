@@ -1,24 +1,54 @@
-# SKILL: Computer Vision
+-e {"id":"0d835ce2-8bdd-4a4d-a822-78a81a7d3745","object":"chat.completion","created":1771651960,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Computer Vision: SKILL.md
 
-## Core Definition
-Computer Vision (CV) is the field of artificial intelligence that enables machines to interpret, analyze, and understand visual information from the worldâprimarily from digital images, videos, and other visual inputs. It seeks to automate tasks that human visual systems can perform.
+## Metadata
+```yaml
+skill_name: Computer Vision
+category: Artificial Intelligence
+subcategory: Computer Vision & Image Processing
+prerequisites:
+  - Python programming
+  - Linear algebra
+  - Calculus
+  - Probability & statistics
+  - Basic machine learning
+difficulty: Intermediate to Advanced
+time_to_proficiency: 6-12 months
+version: 1.0
+last_updated: 2023-11-15
+```
 
-## Key Capabilities
+## Overview
+Computer Vision (CV) is a field of artificial intelligence that enables computers to interpret and understand visual information from the world. It combines techniques from image processing, pattern recognition, and machine learning to extract meaningful information from images and videos.
 
-### 1. **Image Classification**
-- Categorizing entire images into predefined classes
-- Example: Identifying whether an image contains a cat or dog
+## Core Concepts
 
-### 2. **Object Detection**
-- Locating and classifying multiple objects within an image
-- Outputs bounding boxes and labels
-- Example: Self-driving cars detecting pedestrians, cars, and traffic signs
+### 1. **Image Fundamentals**
+- **Digital Image Representation**: Pixels, color spaces (RGB, HSV, LAB), image formats
+- **Image Processing Operations**: Filtering, convolution, edge detection, morphological operations
+- **Image Transformations**: Geometric transformations, affine transformations, perspective transforms
+
+### 2. **Feature Detection & Description**
+- **Classical Methods**:
+  - Harris Corner Detection
+  - SIFT (Scale-Invariant Feature Transform)
+  - SURF (Speeded-Up Robust Features)
+  - ORB (Oriented FAST and Rotated BRIEF)
+- **Feature Matching**: Brute-force matching, FLANN, RANSAC for outlier rejection
 
 ### 3. **Image Segmentation**
-- **Semantic Segmentation**: Classifying each pixel into categories
-- **Instance Segmentation**: Identifying individual object instances
-- Example: Medical imaging for tumor identification
+- **Thresholding**: Global, adaptive, Otsu's method
+- **Region-based**: Region growing, watershed algorithm
+- **Edge-based**: Canny edge detection, active contours
+- **Clustering-based**: K-means, mean-shift, DBSCAN
+- **Deep Learning-based**: U-Net, Mask R-CNN, DeepLab
 
-### 4. **Facial Recognition**
-- Identifying or verifying individuals from facial features
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+### 4. **Object Detection**
+- **Traditional Methods**: Viola-Jones, HOG (Histogram of Oriented Gradients) + SVM
+- **Deep Learning Approaches**:
+  - Two-stage detectors: R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN
+  - One-stage detectors: YOLO series, SSD (Single Shot MultiBox Detector), RetinaNet
+  - Transformer-based: DETR, Vision Transformers
+
+### 5. **Image Classification**
+- **Traditional Methods**: Bag of Visual Words, Fisher Vectors
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
