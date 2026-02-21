@@ -1,26 +1,46 @@
--e # Logistics
+-e {"id":"fe1de9d6-396b-4ffa-9735-ec59b340b876","object":"chat.completion","created":1771642900,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Logistics
 
-{"id":"7a07ea53-be2b-49b6-acea-2d5abb0083b9","object":"chat.completion","created":1771561882,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Logistics Briefing
+## Metadata
+- **Domain:** Supply Chain & Operations
+- **Complexity:** Intermediate to Advanced
+- **Related Fields:** Procurement, Inventory Management, Transportation, Warehousing
+- **Key Applications:** Supply chain optimization, cost reduction, operational efficiency
+- **Prerequisites:** Basic understanding of business operations, analytical thinking
 
-## Purpose
-Generate concise, structured logistics briefs for operational planning, summarizing key details for efficient decision-making and execution.
+## Core Competencies
 
-## Core Capabilities
-- **Extract Key Logistics Elements** from complex operational plans
-- **Structure Information** into standardized brief formats
-- **Identify Critical Gaps** in logistics planning
-- **Prioritize Information** by operational importance
-- **Generate Actionable Summaries** for rapid comprehension
+### 1. Transportation Management
+- **Mode Selection:** Choosing between road, rail, air, sea, or multimodal transport
+- **Route Optimization:** Finding most efficient paths considering cost, time, and constraints
+- **Carrier Management:** Negotiating rates, managing relationships, performance monitoring
+- **Freight Audit & Payment:** Verifying invoices, managing payment processes
+- **Last-Mile Delivery:** Strategies for final delivery to end customers
 
-## Input Processing
-The skill accepts:
-- Operational plans and mission statements
-- Supply chain documentation
-- Transportation schedules
-- Resource allocation data
-- Manpower requirements
-- Time-sensitive constraints
-- Geographical and environmental factors
+### 2. Inventory Management
+- **Demand Forecasting:** Predicting future inventory needs using historical data and trends
+- **Stock Control:** Determining optimal reorder points and quantities
+- **Warehouse Slotting:** Optimizing product placement for efficient picking
+- **Cycle Counting:** Regular inventory audits without shutting down operations
+- **Safety Stock Calculation:** Determining buffer inventory to prevent stockouts
 
-## Output Structure
-Standard brief format includes:
+### 3. Warehouse Operations
+- **Layout Design:** Optimizing space utilization and workflow
+- **Material Handling:** Selecting appropriate equipment (forklifts, conveyors, AS/RS)
+- **Order Picking Strategies:** Wave, batch, zone, or discrete picking methods
+- **Cross-Docking:** Minimizing storage time by transferring goods directly
+- **Returns Processing:** Efficient reverse logistics management
+
+### 4. Supply Chain Technology
+- **WMS/TMS:** Warehouse and Transportation Management Systems
+- **RFID/Barcode:** Tracking technologies for inventory visibility
+- **IoT Sensors:** Real-time monitoring of conditions (temperature, humidity, location)
+- **ERP Integration:** Connecting logistics with broader business systems
+- **Data Analytics:** Using logistics data for continuous improvement
+
+## Practical Applications
+
+### Daily Operations
+1. **Shipment Planning:**
+   - Consolidate shipments to maximize load efficiency
+   - Schedule pickups and deliveries considering carrier capacity
+   - Prepare shipping documentation (BOL, customs forms"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,22 +1,56 @@
--e # Operations
+-e {"id":"38bf6876-3ed6-4b4d-bd0c-f8e370168dc1","object":"chat.completion","created":1771642871,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Operations SKILL Framework
 
-{"id":"c0dc4c5c-627b-421f-889c-830d59867a5c","object":"chat.completion","created":1771561892,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Operations
+## Metadata
+- **Category**: Execution & Management
+- **Level**: Foundational to Advanced
+- **Related Skills**: Project Management, Strategy, Leadership, Problem-Solving
+- **Key Mindsets**: Systems Thinking, Proactive Prevention, Continuous Improvement, Pragmatic Optimization
 
-## Core Competencies
+## What is Operations Skill?
+Operations skill is the ability to design, execute, and optimize systems and processes that deliver consistent value efficiently. It transforms strategy into repeatable execution, balancing quality, speed, and cost while maintaining reliability and adaptability.
 
-### Technical Operations
-- **Infrastructure Management**: AWS/Azure/GCP, Kubernetes, Docker, Terraform
-- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack, Datapog
-- **Incident Response**: On-call procedures, incident command, post-mortems
-- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, ArgoCD
-- **Security Operations**: IAM, security hardening, compliance frameworks
+## Core Components
 
-### Systems Administration
-- **Linux/Unix Systems**: Administration, performance tuning, troubleshooting
-- **Networking**: TCP/IP, DNS, load balancing, firewall configuration
-- **Database Operations**: PostgreSQL/MySQL administration, backups, replication
-- **Storage Systems**: Block/object storage, SAN/NAS, backup strategies
+### 1. **Process Design & Optimization**
+- **Mapping workflows** from end-to-end
+- **Identifying bottlenecks** and inefficiencies
+- **Standardizing procedures** for consistency
+- **Implementing improvements** (kaizen mindset)
+- **Measuring process effectiveness** with KPIs
 
-### Process & Reliability
-- **SRE Practices**: SLIs/SLOs/SLAs, error budgets, toil reduction
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Resource Management**
+- **Allocating people, time, and budget** effectively
+- **Capacity planning** for current and future needs
+- **Inventory/asset management** (physical or digital)
+- **Vendor/supplier coordination**
+- **Cross-functional resource sharing**
+
+### 3. **Quality Assurance**
+- **Establishing quality standards**
+- **Implementing checkpoints and controls**
+- **Root cause analysis** for issues
+- **Continuous monitoring** of outputs
+- **Feedback loops** for improvement
+
+### 4. **Risk Management & Contingency Planning**
+- **Identifying operational risks**
+- **Developing mitigation strategies**
+- **Creating backup plans** (Plan B, C)
+- **Crisis response protocols**
+- **Business continuity planning**
+
+### 5. **Performance Measurement**
+- **Defining relevant metrics** (KPIs, OKRs)
+- **Tracking and reporting** on performance
+- **Data-driven decision making**
+- **Benchmarking** against standards
+- **Translating data into actionable insights**
+
+## Practical Application
+
+### Daily Operations
+- **Morning review**: Check key metrics, address overnight issues
+- **Priority triage**: Assess and sequence daily tasks by impact
+- **Team coordination**: Align resources with daily objectives
+- **Progress tracking**: Monitor workflow against targets
+- **End-of-day"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

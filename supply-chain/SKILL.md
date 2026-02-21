@@ -1,15 +1,48 @@
--e # Supply Chain
+-e {"id":"1289461a-f628-4f3a-9dcd-e62b196b8c5c","object":"chat.completion","created":1771642890,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Supply Chain Management
 
-{"id":"d07d7526-13d4-4788-806d-e0561801d278","object":"chat.completion","created":1771561877,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Supply Chain
+## Metadata
+- **Domain**: Business Operations, Logistics, Procurement
+- **Complexity**: Intermediate to Advanced
+- **Key Functions**: Inventory optimization, demand forecasting, logistics coordination, supplier management, cost reduction
+- **Tools**: ERP systems (SAP, Oracle), TMS/WMS software, Excel/Google Sheets, data analytics platforms
+- **Related Skills**: Data analysis, negotiation, project management, risk assessment
 
-## Core Competencies
+## Practical Applications
 
-### 1. **Strategic Planning & Network Design**
-- **End-to-End Network Modeling**: Design optimal supply chain networks (plants, DCs, transportation lanes) considering cost, service, and risk.
-- **S&OP/IBP Process Facilitation**: Lead Sales & Operations Planning/Integrated Business Planning cycles to align demand, supply, and financial plans.
-- **Capacity & Scenario Planning**: Model capacity constraints and run \"what-if\" scenarios for growth, disruption, or new market entry.
-- **Make-vs-Buy Analysis**: Evaluate total cost of ownership for insourcing vs. outsourcing decisions.
+### 1. Inventory Management
+**What it is**: Balancing stock levels to meet demand without overstocking
+**How to practice**:
+- Calculate key metrics: 
+  - **Inventory Turnover** = Cost of Goods Sold ÷ Average Inventory
+  - **Days Inventory Outstanding** = (Average Inventory ÷ COGS) × 365
+- Use ABC analysis: Categorize items by value (A = high value, C = low)
+- Practice with spreadsheet simulations of stock levels vs. demand
 
-### 2. **Demand & Supply Planning**
-- **Statistical Forecasting**: Apply time-series models (e.g., ARIMA, exponential smoothing) and machine learning to predict demand.
-- **Demand Sensing & Shaping**: Use near-real-time data (POS, shipments) to adjust forecasts and collaborate with commercial teams"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Demand Forecasting
+**What it is**: Predicting future customer demand
+**How to practice**:
+- Start with historical sales data (use dummy data if needed)
+- Apply simple forecasting methods:
+  - **Moving average**: Average of last 3-6 months
+  - **Exponential smoothing**: Weighted average favoring recent data
+- Track forecast accuracy: (Actual - Forecast) ÷ Actual × 100
+
+### 3. Supplier Relationship Management
+**What it is**: Developing strategic partnerships with suppliers
+**How to practice**:
+- Create a supplier scorecard with criteria:
+  - Quality metrics (defect rates)
+  - Delivery performance (on-time %)
+  - Cost competitiveness
+  - Responsiveness
+- Practice negotiation scenarios using the BATNA framework (Best Alternative To Negotiated Agreement)
+
+### 4. Logistics Optimization
+**What it is**: Efficient movement of goods
+**How to practice**:
+- Map a simple supply chain from supplier to customer
+- Calculate total landed cost: Product cost + shipping + duties + insurance + handling
+- Compare transportation modes (air vs. sea vs. ground) using cost/time tradeoffs
+
+### 5. Risk Management
+**What it is**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":450,"total_tokens":468,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
