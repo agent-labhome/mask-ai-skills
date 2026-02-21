@@ -1,6 +1,4 @@
--e # AI Development
-
-{"id":"dd0f8478-dd23-44ef-9654-77b29d667ee8","object":"chat.completion","created":1771518759,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: AI Development
+# SKILL: AI Development
 
 **Core Competencies:**
 - **Machine Learning:** Model development, training, and evaluation (supervised/unsupervised/reinforcement learning).
@@ -14,4 +12,4 @@
 - **Libraries:** scikit-learn, pandas, NumPy, Hugging Face, LangChain
 - **Infrastructure:** Git, Docker, Kubernetes, cloud services
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,6 +1,4 @@
--e # ETFs
-
-{"id":"e66951c0-3132-4942-bee1-41fac05bc2b5","object":"chat.completion","created":1771534153,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: ETFs (Exchange-Traded Funds)
+# SKILL: ETFs (Exchange-Traded Funds)
 
 ## Core Concept
 ETFs are investment funds that trade on stock exchanges like individual stocks. They hold a basket of assets (stocks, bonds, commodities) and track an index or sector.
@@ -22,6 +20,6 @@ ETFs are investment funds that trade on stock exchanges like individual stocks. 
 ## Quick Comparison
 ```
 ETFs vs. Mutual Funds:
-• Trade: Real-time vs. End-of-day
-• Minimums: 1 share vs. Often $500+
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+â¢ Trade: Real-time vs. End-of-day
+â¢ Minimums: 1 share vs. Often $500+
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

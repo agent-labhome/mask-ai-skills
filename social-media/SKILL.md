@@ -1,7 +1,3 @@
--e # Social Media
-
-{"id":"8a034e19-f9c5-48b3-a2b7-a79e8016a79c","object":"chat.completion","created":1771585530,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Social Media Brief
-
 ## Core Competency
 Strategic social media planning and execution for brand growth, community engagement, and measurable business impact.
 

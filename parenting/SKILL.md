@@ -1,7 +1,3 @@
--e # Parenting
-
-{"id":"dcaac1a1-d2bf-43c8-9f7c-f8833d487f2a","object":"chat.completion","created":1771588193,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Parenting
-
 ## Core Competencies
 
 ### 1. **Safety & Well-being**

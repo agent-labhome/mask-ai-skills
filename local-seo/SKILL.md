@@ -1,6 +1,4 @@
--e # Local SEO
-
-{"id":"dc93f1ae-066c-4154-abc5-fe4ab9826fa3","object":"chat.completion","created":1771516347,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Local SEO
+# SKILL: Local SEO
 
 **Goal:** Increase visibility in local search results and drive foot traffic.
 
@@ -21,4 +19,4 @@
 ## Quick Wins
 1. Claim and fully complete your Google Business Profile.
 2. Solicit 3-5 reviews from happy customers.
-3."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+3."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

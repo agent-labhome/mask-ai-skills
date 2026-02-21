@@ -1,7 +1,3 @@
--e # Mathematics
-
-{"id":"6e237f99-6c6a-404c-8a62-fc16a2b1b027","object":"chat.completion","created":1771573956,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mathematics
-
 ## Core Competencies
 
 ### Foundational Proficiency

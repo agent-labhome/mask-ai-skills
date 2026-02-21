@@ -1,6 +1,4 @@
--e # Investing
-
-{"id":"162ca867-a805-432c-8f44-3ba77a9de2a1","object":"chat.completion","created":1771572220,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investing
+# SKILL: Investing
 
 ## Core Purpose
 To make informed decisions about allocating capital with the goal of generating future returns, balancing risk and reward to build wealth over time.
@@ -14,4 +12,4 @@ To make informed decisions about allocating capital with the goal of generating 
 *   **Market Psychology:** Understanding that investor sentiment and emotions can drive market fluctuations.
 
 ## Core Methodologies & Frameworks
-1.  **Asset Allocation:** Determining the mix of asset classes (e.g., 60% stocks"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+1.  **Asset Allocation:** Determining the mix of asset classes (e.g., 60% stocks"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

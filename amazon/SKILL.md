@@ -1,7 +1,3 @@
--e # Amazon
-
-{"id":"241b897d-ebe6-4d35-a334-e39f6a8038d8","object":"chat.completion","created":1771587101,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Amazon
-
 ## Purpose
 Enable voice-controlled shopping, package tracking, and account management via Alexa.
 

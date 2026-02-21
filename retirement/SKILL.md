@@ -1,7 +1,3 @@
--e # Retirement
-
-{"id":"56691d40-9beb-496b-8793-364915dc25c5","object":"chat.completion","created":1771590655,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Retirement Planning
-
 ## Purpose
 Help users understand and plan for retirement by providing clear, actionable guidance on savings strategies, timeline planning, and financial considerations.
 

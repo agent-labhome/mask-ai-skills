@@ -1,7 +1,3 @@
--e # Machine Learning
-
-{"id":"7bd4b284-6c6b-45e6-99ed-d516bb53b981","object":"chat.completion","created":1771537715,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Machine Learning
-
 ## Core Competencies
 - **Supervised Learning**: Regression, classification, ensemble methods
 - **Unsupervised Learning**: Clustering, dimensionality reduction

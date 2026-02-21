@@ -1,7 +1,3 @@
--e # Service
-
-{"id":"f5b6815e-d3ea-4779-add8-9f3043c54e6d","object":"chat.completion","created":1771540186,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Service Brief
-
 ## Purpose
 Create clear, concise service briefs that align stakeholders and define project scope.
 

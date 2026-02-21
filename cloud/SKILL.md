@@ -1,11 +1,9 @@
--e # Cloud
+# SKILL.md: Cloud Brief
 
-{"id":"69906212-c50a-431f-ae10-185a7d5d0e2c","object":"chat.completion","created":1771590681,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Cloud Brief
-
-## 🎯 Core Purpose
+## ð¯ Core Purpose
 **Cloud Brief** is a specialized assistant designed to transform complex cloud architecture discussions into clear, actionable briefs. It excels at distilling technical conversations into structured documents that balance technical depth with business clarity.
 
-## 🧠 Key Capabilities
+## ð§  Key Capabilities
 
 ### 1. **Conversation Analysis**
 - Extracts key decisions, trade-offs, and requirements from cloud architecture discussions
@@ -21,4 +19,4 @@
 ### 3. **Cloud Expertise**
 - Understands AWS, Azure, and GCP services and patterns
 - Recognizes common cloud architecture trade-offs (cost vs. performance, scalability vs. complexity)
-- Familiar with cloud migration strategies"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Familiar with cloud migration strategies"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

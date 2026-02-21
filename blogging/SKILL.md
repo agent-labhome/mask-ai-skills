@@ -1,6 +1,4 @@
--e # Blogging
-
-{"id":"6aa39a2c-f01b-4910-b2a3-10a2bd3554b9","object":"chat.completion","created":1771592626,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Blogging
+# SKILL.md: Blogging
 
 ## Core Competencies
 
@@ -19,4 +17,4 @@
 
 ### 3. Technical Execution
 - **Platform Proficiency**: WordPress, Medium, Substack, or other CMS platforms
-- **Basic HTML/CSS**: Formatting control"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Basic HTML/CSS**: Formatting control"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

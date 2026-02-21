@@ -1,7 +1,3 @@
--e # French
-
-{"id":"10283cea-b2fb-4577-8b5b-5c0d3d76614a","object":"chat.completion","created":1771588967,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# French Learning Path
-
 ## Core Skills
 
 ### 1. **Pronunciation & Phonetics**

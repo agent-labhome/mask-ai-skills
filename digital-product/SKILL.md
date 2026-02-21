@@ -1,6 +1,4 @@
--e # Digital Product
-
-{"id":"f222dbdc-ac55-4812-8e27-259e44bd6d0a","object":"chat.completion","created":1771512351,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Digital Product Brief
+# SKILL.md: Digital Product Brief
 
 ## Purpose
 A concise document that defines the core vision, scope, and requirements for a digital product (app, website, platform, etc.) to align stakeholders and guide the development team.
@@ -18,4 +16,4 @@ A concise document that defines the core vision, scope, and requirements for a d
 
 **3. Core Features & Scope**
 - **In-Scope (MVP):** The essential features for launch, prioritized.
-- **Out-of-Scope (For Now):** Explicitly"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Out-of-Scope (For Now):** Explicitly"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

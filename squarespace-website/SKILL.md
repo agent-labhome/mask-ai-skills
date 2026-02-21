@@ -1,7 +1,3 @@
--e # Squarespace Website
-
-{"id":"468e9469-8219-42ad-b547-564e837872f9","object":"chat.completion","created":1771559334,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Squarespace Website
-
 ## Core Capabilities
 - Squarespace site setup and configuration
 - Template selection and customization

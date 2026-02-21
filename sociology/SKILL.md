@@ -1,7 +1,3 @@
--e # Sociology
-
-{"id":"c7fed118-da60-454e-8564-fd3cbb9ea3a1","object":"chat.completion","created":1771588877,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Sociology: SKILL.md
-
 ## Core Competencies
 
 **Theoretical Literacy**

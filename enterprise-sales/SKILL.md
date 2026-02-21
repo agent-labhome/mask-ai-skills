@@ -1,6 +1,4 @@
--e # enterprise-sales
-
-{"id":"db043ae0-288a-4c74-8869-480cd3f26c2a","object":"chat.completion","created":1771561455,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Enterprise Sales
+# SKILL.md: Enterprise Sales
 
 ## Name
 **Enterprise Sales**
@@ -31,4 +29,4 @@ Enterprise Sales is a specialized skill designed to assist B2B sales teams, acco
    - ROI calculator development and justification
    - Financial modeling for multi-year enterprise agreements
 
-### 5. **Negotiation & Contract"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":24,"completion_tokens":300,"total_tokens":324,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":24},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 5. **Negotiation & Contract"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":24,"completion_tokens":300,"total_tokens":324,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":24},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

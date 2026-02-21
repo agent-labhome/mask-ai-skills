@@ -1,7 +1,3 @@
--e # Discord Community
-
-{"id":"0114f625-f9b8-4122-b1f6-ab4d5d424864","object":"chat.completion","created":1771563137,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Discord Community Management
-
 ## Core Purpose
 Manage and grow an engaged Discord community through strategic moderation, engagement initiatives, and member support.
 

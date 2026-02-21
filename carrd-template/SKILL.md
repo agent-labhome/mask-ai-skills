@@ -1,7 +1,3 @@
--e # Carrd Template
-
-{"id":"46ad299f-7b4b-4031-86b4-42092129e9e8","object":"chat.completion","created":1771564916,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Carrd Template Brief
-
 ## Core Competency
 Creating responsive, single-page portfolio websites using Carrd's visual builder platform.
 

@@ -1,7 +1,3 @@
--e # Claude
-
-{"id":"c8bccdd5-d343-4b88-b483-e51a2e52abd8","object":"chat.completion","created":1771540228,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
-
 ## Core Capabilities
 - **Reasoning**: Strong logical analysis and problem-solving
 - **Writing**: Clear, concise, and adaptable to various styles

@@ -1,6 +1,4 @@
--e # LinkedIn
-
-{"id":"512e424f-1e7d-4183-9ab6-7424c58b63ff","object":"chat.completion","created":1771585549,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: LinkedIn
+# SKILL.md: LinkedIn
 
 ## Core Purpose
 Professional networking, career development, and B2B engagement.
@@ -21,6 +19,6 @@ Professional networking, career development, and B2B engagement.
 - **Content**: Post regularly, use relevant hashtags, engage with your network
 
 ## Pro Tips
-- Use the \"Open to Work\" feature discreetly
+- Use the "Open to Work" feature discreetly
 - Request and give recommendations
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

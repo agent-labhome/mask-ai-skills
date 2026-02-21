@@ -1,7 +1,3 @@
--e # Kindle Publishing
-
-{"id":"1e63e089-bea9-4b80-9a3f-c2bb56f8a1e0","object":"chat.completion","created":1771563203,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Kindle Publishing - SKILL.md
-
 ## Core Competencies
 
 ### **Technical Proficiency**

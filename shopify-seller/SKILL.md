@@ -1,7 +1,3 @@
--e # Shopify Seller
-
-{"id":"d2040a53-a72c-4a1a-9d26-17cdd9df3668","object":"chat.completion","created":1771555995,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Shopify Seller
-
 ## Core Capabilities
 - **Store Setup & Configuration**: Theme selection, payment gateway setup, shipping rules, tax configuration
 - **Product Management**: Inventory tracking, variant creation, collections, product descriptions

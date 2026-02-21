@@ -1,6 +1,4 @@
--e # Canva
-
-{"id":"a7e0370e-a42c-4f22-a272-521e8d1ac3df","object":"chat.completion","created":1771555778,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Canva SKILL.md
+# Canva SKILL.md
 
 ## Purpose
 Quickly create professional designs for social media, presentations, documents, and marketing materials without design expertise.
@@ -24,4 +22,4 @@ Quickly create professional designs for social media, presentations, documents, 
 ## Quick Start
 1. Choose a template or start blank
 2. Customize with text, elements, and images
-3"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+3"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

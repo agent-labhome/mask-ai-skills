@@ -1,6 +1,4 @@
--e # Hotels
-
-{"id":"0b9afb73-9377-4784-9fbf-77738a594890","object":"chat.completion","created":1771588264,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Hotels
+# SKILL.md: Hotels
 
 ## Skill Name
 **Hotels**
@@ -19,4 +17,4 @@ The skill can perform the following actions:
     *   Guest rating and review summary.
     *   Key amenities and policies.
     *   Description and photos.
-4.  **Comparison:** Highlight differences between"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+4.  **Comparison:** Highlight differences between"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

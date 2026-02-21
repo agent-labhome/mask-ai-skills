@@ -1,7 +1,3 @@
--e # Shopify Website
-
-{"id":"2bce9a8c-d932-46d3-bd8c-391dce853d76","object":"chat.completion","created":1771559339,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Shopify Website Development
-
 ## Core Competencies
 
 **Shopify Platform Expertise**

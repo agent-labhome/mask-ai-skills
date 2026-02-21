@@ -1,6 +1,4 @@
--e # Community Building
-
-{"id":"f1db03cf-00e5-4662-bdc3-82fcb9dc40cc","object":"chat.completion","created":1771563127,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Community Building
+# SKILL.md: Community Building
 
 ## Core Competency
 Building, nurturing, and sustaining engaged communities around shared interests, values, or goals.
@@ -19,4 +17,4 @@ Building, nurturing, and sustaining engaged communities around shared interests,
 - **Content Programming**: Developing regular activities, discussions, and events
 - **Recognition Systems**: Implementing ways to acknowledge contributions
 - **Conversation Facilitation**: Guiding discussions and managing group dynamics
-- **Feedback Loops**: Creating channels for member input and co"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Feedback Loops**: Creating channels for member input and co"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

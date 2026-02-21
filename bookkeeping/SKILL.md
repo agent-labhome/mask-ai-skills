@@ -1,6 +1,4 @@
--e # Bookkeeping
-
-{"id":"01dfd589-ce47-4cba-8d43-b4996f619126","object":"chat.completion","created":1771580050,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Bookkeeping
+# SKILL.md: Bookkeeping
 
 ## Core Competencies
 
@@ -19,4 +17,4 @@
 ### 3. **Financial Reporting**
 - **Trial Balance**: Prepare and verify ledger accuracy before financial statements
 - **Basic Financial Statements**: Generate income statements and balance sheets
-- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,6 +1,4 @@
--e # Stock Market
-
-{"id":"70d6e80e-a61f-4126-94e1-1c59d210300f","object":"chat.completion","created":1771534140,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Stock Market Analysis
+# SKILL: Stock Market Analysis
 
 ## Core Competencies
 - **Fundamental Analysis**: Evaluating company financials, earnings reports, and economic indicators
@@ -24,4 +22,4 @@
 - Never invest more than you can afford to lose
 - Use stop-loss orders
 - Maintain diversified portfolio
-- Stay informed about market"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Stay informed about market"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,6 +1,4 @@
--e # Banking
-
-{"id":"2b1554f6-de41-4f22-b35c-87ac5e8f5d00","object":"chat.completion","created":1771595486,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Banking Domain: SKILL Reference
+# Banking Domain: SKILL Reference
 
 ## Core Concepts
 
@@ -20,4 +18,4 @@
 
 ### Payment Systems
 - **ACH (Automated Clearing House)**: Batch processing, direct deposits, bill payments
-- **Wire Transfers**: Real-time, domestic"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Wire Transfers**: Real-time, domestic"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

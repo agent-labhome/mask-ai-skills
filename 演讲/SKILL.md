@@ -1,6 +1,4 @@
--e # 演讲
-
-{"id":"5d31956e-e7ce-4eae-8816-bc50cfa8cedb","object":"chat.completion","created":1771519998,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Skill: Public Speaking
+# Skill: Public Speaking
 
 ## Core Principles
 - **Clarity**: Structure ideas logically; use simple, precise language.
@@ -19,4 +17,4 @@
 - [ ] Know your audience and core message.
 - [ ] Open strong; close with a clear call-to-action.
 - [ ] Practice aloud multiple times.
-- [ ]"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":200,"total_tokens":218,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- [ ]"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":200,"total_tokens":218,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

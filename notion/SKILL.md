@@ -1,7 +1,3 @@
--e # Notion
-
-{"id":"83ca61c7-7ddd-41a6-aafe-65869c6b5f73","object":"chat.completion","created":1771555720,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Notion SKILL.md
-
 ## Purpose
 Quickly capture, organize, and retrieve information in Notion.
 

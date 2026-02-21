@@ -1,6 +1,4 @@
--e # Partnerships
-
-{"id":"9c823859-d236-49cf-9a64-56d85790c9ac","object":"chat.completion","created":1771579873,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Partnerships
+# SKILL: Partnerships
 
 ## Overview
 The Partnerships skill enables the creation, management, and optimization of strategic alliances between organizations. This involves identifying potential partners, structuring mutually beneficial agreements, and maintaining productive long-term relationships to achieve shared objectives.
@@ -15,4 +13,4 @@ The Partnerships skill enables the creation, management, and optimization of str
 ### 2. Outreach & Relationship Initiation
 - **Targeted Prospecting:** Identify and contact key decision-makers within potential partner organizations.
 - **Initial Pitch & Framing:** Clearly communicate the partnership opportunity and its strategic value.
-- **Relationship Building:** Establish trust and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Relationship Building:** Establish trust and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # Product Hunt Launch
-
-{"id":"befa649f-4f20-4572-8981-a1dd13b393e8","object":"chat.completion","created":1771512400,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Product Hunt Launch SKILL
-
 ## Purpose
 Quickly generate a comprehensive Product Hunt launch strategy based on your product details.
 

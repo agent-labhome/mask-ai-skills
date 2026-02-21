@@ -1,7 +1,3 @@
--e # History
-
-{"id":"dc3feddc-f1ff-4c8b-b06e-52df003049ab","object":"chat.completion","created":1771588862,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: History
-
 ## Core Competencies
 
 **Historical Analysis & Interpretation**

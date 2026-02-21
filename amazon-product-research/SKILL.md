@@ -1,6 +1,4 @@
--e # Amazon Product Research
-
-{"id":"f89109c1-37a9-494a-b815-ce7f979326c0","object":"chat.completion","created":1771512134,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Amazon Product Research SKILL
+# Amazon Product Research SKILL
 
 ## Core Objectives
 - Identify profitable, low-competition products
@@ -22,4 +20,4 @@
 - [ ] Not fragile or perishable
 - [ ] No legal/regulatory issues
 - [ ] Room for improvement vs competitors
-- [ ] Not"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":200,"total_tokens":219,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- [ ] Not"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":200,"total_tokens":219,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

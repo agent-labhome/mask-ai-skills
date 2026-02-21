@@ -1,6 +1,4 @@
--e # Amazon Seller
-
-{"id":"255a1604-bad1-499d-be81-2f9a2660452d","object":"chat.completion","created":1771555990,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Amazon Seller
+# SKILL.md: Amazon Seller
 
 ## Core Competencies
 - **Product Sourcing & Selection**: Identifying profitable products, analyzing competition, and managing supplier relationships.
@@ -18,4 +16,4 @@
 
 ## Quick Tips
 - Always calculate your profit margin *after* all fees (FBA, storage, advertising).
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

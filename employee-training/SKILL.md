@@ -1,7 +1,3 @@
--e # Employee Training
-
-{"id":"92d74e97-5c93-46cb-9d90-a1361c286011","object":"chat.completion","created":1771512440,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Employee Training
-
 ## Purpose
 Enable employees to acquire knowledge and skills to perform their roles effectively and support organizational growth.
 

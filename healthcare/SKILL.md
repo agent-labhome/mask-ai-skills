@@ -1,6 +1,4 @@
--e # Healthcare
-
-{"id":"5213f494-8ac3-4fe8-b7bd-68398d497749","object":"chat.completion","created":1771565547,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Healthcare Briefing
+# SKILL.md: Healthcare Briefing
 
 ## Core Competencies
 
@@ -16,4 +14,4 @@
 - **Clinical Workflows**: Patient intake, triage, diagnosis, treatment planning, follow-up
 - **Medical Documentation**: SOAP notes, progress notes, discharge summaries
 - **Quality Metrics**: HEDIS, PQRS, value-based care indicators
-- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # Paid Ads
-
-{"id":"8d98689a-7673-425b-85be-d82d563a1945","object":"chat.completion","created":1771516378,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Paid Ads
-
 ## Core Competencies
 - **Platform Mastery**: Facebook/Instagram, Google Ads, LinkedIn, TikTok
 - **Campaign Strategy**: Objective setting, audience targeting, budget allocation

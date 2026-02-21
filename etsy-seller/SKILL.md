@@ -1,6 +1,4 @@
--e # Etsy Seller
-
-{"id":"30341d5b-8084-4754-927c-6c329682ac82","object":"chat.completion","created":1771556000,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Etsy Seller SKILL.md
+# Etsy Seller SKILL.md
 
 ## Core Skills
 - **Product Photography:** Clean, well-lit images with consistent styling.
@@ -21,5 +19,5 @@
 - **Analytics:** Regularly check Shop Stats to guide decisions.
 
 ## Mindset
-- Patience – growth is often gradual.
-- Adaptability – trends and algorithms change"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Patience â growth is often gradual.
+- Adaptability â trends and algorithms change"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

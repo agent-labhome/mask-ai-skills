@@ -1,18 +1,16 @@
--e # Product Marketing
+# SKILL.md: Product Marketing Brief
 
-{"id":"bf429765-14f2-4a70-9bf1-d814c79e07d7","object":"chat.completion","created":1771565353,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Marketing Brief
-
-## 📋 Overview
+## ð Overview
 A Product Marketing Brief is a strategic document that aligns cross-functional teams around a product launch or initiative. It synthesizes market insights, positioning, and go-to-market strategy into an actionable plan.
 
-## 🎯 Core Purpose
+## ð¯ Core Purpose
 To provide a single source of truth that:
 - Defines the product's value proposition and target audience
 - Aligns stakeholders on messaging and positioning
 - Outlines the launch strategy and success metrics
 - Serves as a reference for all customer-facing teams
 
-## 📊 Essential Components
+## ð Essential Components
 
 ### 1. **Strategic Foundation**
 - **Product Name & Version**: Clear identification
@@ -22,4 +20,4 @@ To provide a single source of truth that:
 
 ### 2. **Market Context**
 - **Problem Statement**: What customer pain point does this solve?
-- **Market Opportunity**: T"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Market Opportunity**: T"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

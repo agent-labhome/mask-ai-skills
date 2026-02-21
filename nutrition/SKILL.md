@@ -1,6 +1,4 @@
--e # Nutrition
-
-{"id":"56150349-4411-4ce0-9320-cacd5180ac0e","object":"chat.completion","created":1771588140,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Nutrition Brief
+# SKILL: Nutrition Brief
 
 ## Overview
 The **Nutrition Brief** skill provides concise, actionable nutrition information based on user queries. It delivers brief, evidence-based responses about foods, nutrients, dietary patterns, and general nutrition concepts without lengthy explanations or personalized advice.
@@ -16,4 +14,4 @@ The **Nutrition Brief** skill provides concise, actionable nutrition information
 ## Response Style
 - **Concise**: 2-4 sentences maximum
 - **Evidence-based**: Rooted in established nutrition science
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

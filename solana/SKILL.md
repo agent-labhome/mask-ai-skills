@@ -1,6 +1,4 @@
--e # Solana
-
-{"id":"b105fb24-7bca-4015-81eb-209d796fc204","object":"chat.completion","created":1771587383,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Solana Development SKILL.md
+# Solana Development SKILL.md
 
 ## Core Concepts
 - **High-throughput blockchain** (65k TPS, 400ms block times)
@@ -17,9 +15,9 @@
 
 ## Development Stack
 ```
-Solana Program (Rust) → Anchor (Optional) → Client (TS/JS) → RPC Connection
+Solana Program (Rust) â Anchor (Optional) â Client (TS/JS) â RPC Connection
 ```
 
 ## Essential Tools
 - **Solana CLI** - network interaction, key management
-- **Anchor"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Anchor"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

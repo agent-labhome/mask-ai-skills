@@ -1,7 +1,3 @@
--e # Cloud Computing
-
-{"id":"0476b91a-727a-4e25-8b9f-3c4f06f7f5f9","object":"chat.completion","created":1771518860,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Cloud Computing
-
 ## Core Competencies
 - **Infrastructure as a Service (IaaS)**: Virtual machines, storage, networking
 - **Platform as a Service (PaaS)**: Managed databases, app runtimes, serverless

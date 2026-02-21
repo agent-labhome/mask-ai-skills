@@ -1,6 +1,4 @@
--e # Data Science
-
-{"id":"7e61eaa1-6034-4962-986e-8f14a5b9baf1","object":"chat.completion","created":1771537710,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Data Science
+# SKILL: Data Science
 
 **Core Competencies:**
 
@@ -13,4 +11,4 @@
 
 **Key Deliverables:** Predictive models, data-driven reports, automated analysis pipelines, and interactive dashboards.
 
-**Mindset:** Curiosity-driven, hypothesis-testing, and focused on extracting meaningful patterns to solve business problems."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":194,"total_tokens":210,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Mindset:** Curiosity-driven, hypothesis-testing, and focused on extracting meaningful patterns to solve business problems."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":194,"total_tokens":210,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

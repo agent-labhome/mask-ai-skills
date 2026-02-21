@@ -1,6 +1,4 @@
--e # Basketball
-
-{"id":"691f180e-7d0e-4dd7-a9d8-aa50ea452d28","object":"chat.completion","created":1771589101,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Basketball
+# SKILL.md: Basketball
 
 ## Core Competencies
 
@@ -14,4 +12,4 @@
 *   **Range:** Layups (both hands), floaters, mid-range jump shots, three-pointers.
 *   **Situational:** Pull-up jumper, step-back, catch-and-shoot, off-the-dribble, free throws.
 
-### 3. Foot"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. Foot"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

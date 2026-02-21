@@ -1,6 +1,4 @@
--e # 沟通
-
-{"id":"82a13365-b947-492b-bb63-2f8a79a5a26f","object":"chat.completion","created":1771519993,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"**SKILL: Communication**
+**SKILL: Communication**
 
 **Core Definition:** The effective exchange of information, ideas, and intent between individuals or groups, ensuring clarity, understanding, and purpose.
 
@@ -21,4 +19,4 @@
 **Antipatterns:**
 *   Assuming instead of confirming.
 *   One-way information dumping.
-*"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":200,"total_tokens":218,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+*"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":200,"total_tokens":218,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

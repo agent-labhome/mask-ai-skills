@@ -1,7 +1,3 @@
--e # Webflow Website
-
-{"id":"6366faaf-c0cf-4a91-9e80-6e6f0fc7178f","object":"chat.completion","created":1771559329,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Webflow Website SKILL.md
-
 ## Purpose
 Build and manage responsive websites using Webflow's visual development platform.
 

@@ -1,6 +1,4 @@
--e # VR
-
-{"id":"9da3a69e-694a-49dd-b852-4bc898ece4ed","object":"chat.completion","created":1771588755,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: VR Brief Development
+# SKILL: VR Brief Development
 
 ## Overview
 The VR Brief Development skill enables users to create comprehensive, actionable briefs for virtual reality projects. This skill transforms initial VR concepts into structured documents that align stakeholder expectations, define technical requirements, and establish clear project parameters.
@@ -22,4 +20,4 @@ The VR Brief Development skill enables users to create comprehensive, actionable
 - Specifies software platforms (Unity, Unreal Engine, WebXR)
 - Outlines performance targets (frame rates, resolution, latency)
 
-### 4. **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 4. **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

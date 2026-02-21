@@ -1,7 +1,3 @@
--e # Ticketing
-
-{"id":"136ab424-0d3b-4c10-ad15-87447c0264e8","object":"chat.completion","created":1771570301,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Ticketing Brief
-
 ## Purpose
 This skill enables the creation of structured, actionable briefs for ticketing systems (Jira, GitHub Issues, Linear, etc.) from natural language descriptions.
 

@@ -1,6 +1,4 @@
--e # YouTube Shorts
-
-{"id":"dc9d2908-6408-4eee-acf8-c468628cdd71","object":"chat.completion","created":1771512292,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# YouTube Shorts SKILL.md
+# YouTube Shorts SKILL.md
 
 ## Core Principles
 - **Vertical video only** (9:16 aspect ratio)
@@ -18,6 +16,6 @@
 
 ## Content Strategy
 - **Trend-jacking:** Use trending audio/sounds
-- **Problem → Solution** structure
+- **Problem â Solution** structure
 - **Educational nuggets** (one clear takeaway)
-- **Visual storytelling** over talking heads"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Visual storytelling** over talking heads"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

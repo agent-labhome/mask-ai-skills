@@ -1,6 +1,4 @@
--e # Graphic
-
-{"id":"e34267ed-fc17-4682-9229-49fcebbe6e7d","object":"chat.completion","created":1771585496,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Graphic. Brief.
+# SKILL.md: Graphic. Brief.
 
 ## Core Competencies
 
@@ -20,4 +18,4 @@
 - **Adobe Creative Suite**: Photoshop, Illustrator, InDesign (expert level)
 - **UI/UX Tools**: Figma, Sketch, Adobe XD
 - **Motion Graphics**: After Effects, basic animation principles
-- **Prototyping**: Interactive"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Prototyping**: Interactive"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

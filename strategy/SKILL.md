@@ -1,6 +1,4 @@
--e # Strategy
-
-{"id":"9adb1472-c8bb-4ec2-9d4c-7767e9f5799c","object":"chat.completion","created":1771595409,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Strategy Brief Development
+# SKILL: Strategy Brief Development
 
 ## Purpose
 Develop concise, actionable strategy briefs that align stakeholders, define clear objectives, and establish measurable success criteria for strategic initiatives.
@@ -22,4 +20,4 @@ Develop concise, actionable strategy briefs that align stakeholders, define clea
 - **Success Criteria**: Define clear, quantifiable metrics for each objective
 - **Constraint Identification**: Explicitly state boundaries, limitations, and assumptions
 
-### "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

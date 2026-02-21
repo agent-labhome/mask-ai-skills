@@ -1,6 +1,4 @@
--e # Business
-
-{"id":"05058b39-6026-4fc5-8e37-7ce2fde467b7","object":"chat.completion","created":1771592567,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Brief
+# SKILL.md: Business Brief
 
 ## Purpose
 This skill enables the creation of concise, structured business briefs that clearly communicate objectives, strategies, and requirements for projects, initiatives, or decisions.
@@ -17,4 +15,4 @@ This skill enables the creation of concise, structured business briefs that clea
 3. **Objectives & Goals** - SMART criteria where applicable
 4. **Target Audience** - Who this affects/benefits
 5. **Key Messages** - Core communication points
-6. **Scope & Deliverables** - What's included/ex"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+6. **Scope & Deliverables** - What's included/ex"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

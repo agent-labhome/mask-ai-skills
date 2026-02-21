@@ -1,7 +1,3 @@
--e # Freelance
-
-{"id":"911579cb-2406-4c71-b116-732732ffdeb0","object":"chat.completion","created":1771587150,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Freelance Brief
-
 ## Purpose
 To effectively interpret, structure, and act upon project briefs from freelance clients, transforming vague requests into clear, actionable plans while managing expectations and scope.
 

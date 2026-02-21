@@ -1,7 +1,3 @@
--e # Design Systems
-
-{"id":"ed8b7c95-53a9-455d-8c32-dff19e942720","object":"chat.completion","created":1771566686,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Design Systems Brief
-
 ## Core Competency
 Creating comprehensive design system briefs that establish clear foundations, scope, and requirements for systematic design development.
 

@@ -1,6 +1,4 @@
--e # Networking
-
-{"id":"be107b55-5426-4d3f-8a49-a9e3f99e378b","object":"chat.completion","created":1771579868,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Networking - SKILL.md
+# Networking - SKILL.md
 
 ## Core Competencies
 
@@ -18,4 +16,4 @@
 ### Security & Management
 - **Security**: Firewall configuration, IDS/IPS, VPN setup, encryption
 - **Monitoring**: Packet analysis (Wireshark), SNMP, network performance tools
-- **Troubleshooting**: Connectivity issues,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Troubleshooting**: Connectivity issues,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

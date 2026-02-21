@@ -1,7 +1,3 @@
--e # Product Launch
-
-{"id":"16ca8da1-61b8-453d-9907-7833e02a8c46","object":"chat.completion","created":1771565348,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Launch Brief
-
 ## Purpose
 This skill enables users to create comprehensive, structured product launch briefs that align stakeholders, define success metrics, and outline execution plans for new product introductions.
 

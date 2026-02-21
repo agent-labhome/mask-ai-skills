@@ -1,7 +1,3 @@
--e # Payroll
-
-{"id":"c9c5f05b-f39c-40f3-a543-eac79bb00900","object":"chat.completion","created":1771580055,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Payroll System - SKILL.md
-
 ## Overview
 The Payroll skill enables users to manage employee payroll, calculate salaries, process payments, and handle payroll-related queries through natural language interactions.
 

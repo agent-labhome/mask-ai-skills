@@ -1,6 +1,4 @@
--e # Content Writing
-
-{"id":"e8a29029-a494-4016-800a-9b1e469aaa3f","object":"chat.completion","created":1771570128,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Content Writing
+# SKILL.md: Content Writing
 
 ## Core Competencies
 
@@ -20,4 +18,4 @@
 
 ### Strategic Thinking
 - **Purpose Alignment**: Writing to specific goals (educate, convert, entertain, etc.)
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

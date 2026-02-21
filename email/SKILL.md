@@ -1,7 +1,3 @@
--e # Email
-
-{"id":"3e9ec20b-78bd-43ec-8ff4-700060d478c0","object":"chat.completion","created":1771587189,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Email Brief
-
 ## Purpose
 Transform verbose email threads into concise, actionable summaries that capture key decisions, action items, and context.
 

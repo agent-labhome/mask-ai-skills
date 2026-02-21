@@ -1,7 +1,3 @@
--e # Webhook Setup
-
-{"id":"35c766cb-cdae-45e4-82aa-17cdd74e32c1","object":"chat.completion","created":1771512499,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Webhook Setup
-
 ## Overview
 Webhooks enable real-time notifications from external services to your application.
 

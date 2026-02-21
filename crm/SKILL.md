@@ -1,7 +1,3 @@
--e # CRM
-
-{"id":"ace59059-723d-49ce-a654-8983e86a5976","object":"chat.completion","created":1771570306,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: CRM Brief
-
 ## Overview
 The **CRM Brief** skill enables users to generate comprehensive, structured briefs for Customer Relationship Management (CRM) system implementations, enhancements, or strategy development. This skill transforms high-level CRM needs into detailed, actionable briefs suitable for stakeholders, vendors, or internal teams.
 

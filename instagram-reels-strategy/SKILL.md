@@ -1,6 +1,4 @@
--e # Instagram Reels Strategy
-
-{"id":"adf223b0-f210-4475-9724-65b90b5a7e88","object":"chat.completion","created":1771512067,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Instagram Reels Strategy
+# Instagram Reels Strategy
 
 ## 1. Content Pillars
 Focus on 3-4 consistent themes aligned with your brand. Examples: Educational (tips/tutorials), Entertaining (trends/humor), Behind-the-Scenes, User-Generated Content showcases. Mix value with virality.
@@ -9,7 +7,7 @@ Focus on 3-4 consistent themes aligned with your brand. Examples: Educational (t
 Grab attention in the first 2 seconds with text overlay, a question, or immediate action. Keep videos between 7-15 seconds for highest completion rates. Use trending audio and closed captions.
 
 ## 3. Optimization
-Use 3-5 relevant hashtags (mix niche and broad). Write engaging captions with a clear CTA (Comment, Save, Visit Link). Post during your audience’s peak hours (check Insights).
+Use 3-5 relevant hashtags (mix niche and broad). Write engaging captions with a clear CTA (Comment, Save, Visit Link). Post during your audienceâs peak hours (check Insights).
 
 ## 4. Engagement & Iteration
-Respond to all comments promptly to boost reach. Analyze performance weekly: watch time, shares, and saves. Double down on what works and quickly adapt to"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":200,"total_tokens":222,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+Respond to all comments promptly to boost reach. Analyze performance weekly: watch time, shares, and saves. Double down on what works and quickly adapt to"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":200,"total_tokens":222,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

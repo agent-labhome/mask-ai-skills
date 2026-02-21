@@ -1,7 +1,3 @@
--e # Analytics Marketing
-
-{"id":"c313bf4e-bfb4-4180-8f13-2d0d55227f6d","object":"chat.completion","created":1771537888,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Analytics Marketing SKILL.md
-
 ## Purpose
 Translate business questions into measurable data insights that drive marketing decisions and ROI.
 

@@ -1,6 +1,4 @@
--e # UX Research
-
-{"id":"c4557ae9-a7b7-4510-b2b3-267e5071956c","object":"chat.completion","created":1771534538,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: UX Research Brief
+# SKILL: UX Research Brief
 
 ## Purpose
 A UX Research Brief is a concise document that aligns stakeholders on research goals, scope, and logistics before a study begins. It ensures clarity, focus, and shared expectations.
@@ -18,9 +16,9 @@ A UX Research Brief is a concise document that aligns stakeholders on research g
 
 **3. Key Questions**
 - 5-8 focused questions the research should answer
-- Example: \"How do users currently complete [task]? Where do they struggle?\"
+- Example: "How do users currently complete [task]? Where do they struggle?"
 
 **4. Methodology & Logistics**
 - Method (e.g., moderated interviews, usability testing, survey)
 - Participant criteria (number, key characteristics)
-- Timeline (prep, fieldwork, analysis, read"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Timeline (prep, fieldwork, analysis, read"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

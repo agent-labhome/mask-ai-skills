@@ -1,6 +1,4 @@
--e # Online Workshop
-
-{"id":"0dc1a8f3-c33e-46a0-8dc2-db6ca0b24464","object":"chat.completion","created":1771563261,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Online Workshop Brief
+# SKILL.md for Online Workshop Brief
 
 ## Core Competencies
 
@@ -19,4 +17,4 @@
 - **Backup Planning**: Having contingency plans for technical failures
 
 ### 3. **Virtual Facilitation**
-- **Engagement Techniques**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Engagement Techniques**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

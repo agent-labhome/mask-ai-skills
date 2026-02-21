@@ -1,6 +1,4 @@
--e # Fashion
-
-{"id":"52d3dac2-bef6-400c-ac72-cca156f8ff3d","object":"chat.completion","created":1771589017,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Fashion Brief: SKILL.md
+# Fashion Brief: SKILL.md
 
 ## Overview
 **Fashion Brief** is a specialized skill that helps users create professional, detailed fashion briefs for designers, stylists, or production teams. It guides users through the essential components of a fashion project while maintaining a creative and collaborative tone.
@@ -20,4 +18,4 @@
 - **Timeline & Deliverables**: Key milestones and deadlines
 - **Budget Considerations**: Production costs, materials, margins
 
-### 3. **Creative"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Creative"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

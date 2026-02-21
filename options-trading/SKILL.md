@@ -1,7 +1,3 @@
--e # Options Trading
-
-{"id":"cf2edb21-e1d0-4078-b057-2c3bfd91050f","object":"chat.completion","created":1771562476,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Options Trading
-
 ## Purpose
 Execute and manage basic options trading strategies.
 

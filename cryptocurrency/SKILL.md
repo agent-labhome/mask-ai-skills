@@ -1,7 +1,3 @@
--e # Cryptocurrency
-
-{"id":"c02fb471-7608-4109-a5a6-a12f901e9e8c","object":"chat.completion","created":1771565241,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Cryptocurrency: A Brief Overview
-
 ## What is Cryptocurrency?
 Cryptocurrency is a digital or virtual form of currency that uses cryptography for security. Unlike traditional currencies issued by governments (fiat money), cryptocurrencies operate on decentralized networks based on blockchain technology—a distributed ledger enforced by a network of computers (nodes).
 

@@ -1,6 +1,4 @@
--e # Science
-
-{"id":"58a70c9d-ba0b-4b8f-976c-c15df4e41903","object":"chat.completion","created":1771588784,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Science Briefing
+# SKILL.md: Science Briefing
 
 ## Core Competencies
 
@@ -15,4 +13,4 @@
 - **Contextual Framing**: Place new findings within broader scientific context and historical development
 
 ### 3. Structural Precision
-- **Standardized Brief Format**: Consistently apply the \"Headline → Key Takeaways → Explanation → Implications → Sources"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Standardized Brief Format**: Consistently apply the "Headline â Key Takeaways â Explanation â Implications â Sources"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

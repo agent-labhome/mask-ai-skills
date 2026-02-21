@@ -1,7 +1,3 @@
--e # Habits Formation
-
-{"id":"3ed295da-da3e-474c-a2c0-506a05b2dba6","object":"chat.completion","created":1771513074,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Habits Formation
-
 ## Core Principle
 Habits form through consistent repetition in a specific context, creating automatic behaviors.
 

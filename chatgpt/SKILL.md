@@ -1,7 +1,3 @@
--e # ChatGPT
-
-{"id":"e738aec3-304c-4624-b243-f51fcd3f27ba","object":"chat.completion","created":1771540223,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# ChatGPT SKILL.md
-
 ## Core Capabilities
 - Conversational AI with natural language understanding
 - Context-aware dialogue (remembers conversation history)

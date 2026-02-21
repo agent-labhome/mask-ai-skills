@@ -1,6 +1,4 @@
--e # Service Business
-
-{"id":"131ad995-73c7-4a74-a88c-bca826670c4f","object":"chat.completion","created":1771518652,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Service Business
+# SKILL.md: Service Business
 
 ## Core Competencies
 - **Client Acquisition:** Lead generation, networking, proposal writing
@@ -23,4 +21,4 @@
 - Healthy profit margins and financial stability
 - Effective scaling without quality degradation
 
-*Focus on delivering consistent value while maintaining operational excellence.*"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":176,"total_tokens":192,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+*Focus on delivering consistent value while maintaining operational excellence.*"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":176,"total_tokens":192,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

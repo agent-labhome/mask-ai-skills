@@ -1,6 +1,4 @@
--e # User Interface
-
-{"id":"be1614de-7fe3-4c05-bf0e-ddc19a2a8de5","object":"chat.completion","created":1771566681,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: User Interface (UI) Brief
+# SKILL.md: User Interface (UI) Brief
 
 ## Core Competencies
 
@@ -18,4 +16,4 @@
 
 ### 3. **Prototyping & Wireframing**
 - **Low-Fidelity**: Paper sketches, basic wireframes, concept validation
-- **High-Fidelity**: Interactive prototypes, pixel-perfect mockups"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **High-Fidelity**: Interactive prototypes, pixel-perfect mockups"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

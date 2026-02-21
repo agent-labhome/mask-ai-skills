@@ -1,6 +1,4 @@
--e # Ebook Writing
-
-{"id":"4165b5e3-b867-4d5f-ac78-f8a95b1470d5","object":"chat.completion","created":1771563188,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Ebook Writing
+# SKILL: Ebook Writing
 
 ## Core Competencies
 
@@ -23,4 +21,4 @@
 - Understanding ebook publishing requirements for major platforms
 - Creating professional covers and interior layouts
 - Implementing proper front/back matter (copyright, TOC, about author)
-- Optimizing files for different devices"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Optimizing files for different devices"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

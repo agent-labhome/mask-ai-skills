@@ -1,7 +1,3 @@
--e # Frontend
-
-{"id":"c149aa7c-e77d-456b-ac22-1010a813b47e","object":"chat.completion","created":1771590949,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Frontend Development - SKILL.md
-
 ## Core Technologies
 
 ### **HTML5**

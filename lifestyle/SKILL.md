@@ -1,6 +1,4 @@
--e # Lifestyle
-
-{"id":"a41d7bd8-a07b-4688-b8d3-46c6d055e1e8","object":"chat.completion","created":1771589027,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Lifestyle Brief
+# SKILL.md: Lifestyle Brief
 
 ## Skill Purpose
 Lifestyle Brief is a concise, actionable lifestyle guidance system that provides clear, practical recommendations across key life domains. It transforms broad lifestyle goals into specific, manageable actions.
@@ -18,4 +16,4 @@ Lifestyle Brief is a concise, actionable lifestyle guidance system that provides
 4. **Sleep** - Sleep hygiene, rest quality, recovery
 5. **Productivity** - Time management, focus, work-life balance
 
-## Interaction Patterns"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Interaction Patterns"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

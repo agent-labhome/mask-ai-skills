@@ -1,6 +1,4 @@
--e # Communication Skills
-
-{"id":"25873318-ff0e-47df-8c12-0d3e2bac3354","object":"chat.completion","created":1771513279,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Communication Skills
+# Communication Skills
 
 **Core Principles**
 - **Clarity:** Be concise, specific, and jargon-free.
@@ -20,4 +18,4 @@
 - Choose the right channel (email, call, meeting).
 - Confirm understanding to avoid miscommunication.
 
-**Goal:** To exchange information, ideas, and meaning effectively and respectfully."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":180,"total_tokens":196,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Goal:** To exchange information, ideas, and meaning effectively and respectfully."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":180,"total_tokens":196,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

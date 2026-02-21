@@ -1,6 +1,4 @@
--e # Instagram Story
-
-{"id":"36782f67-51a7-40e1-8cae-0385a41f5225","object":"chat.completion","created":1771512298,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Instagram Story SKILL
+# Instagram Story SKILL
 
 ## Purpose
 Create engaging, on-brand Instagram Stories that drive interaction and maintain audience connection.
@@ -21,4 +19,4 @@ Create engaging, on-brand Instagram Stories that drive interaction and maintain 
 ## Technical Specs
 - Dimensions: 1080 x 1920 pixels
 - Max length: 15 seconds per slide
-- File type: MP4 (video) or JPG/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- File type: MP4 (video) or JPG/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

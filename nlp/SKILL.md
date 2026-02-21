@@ -1,6 +1,4 @@
--e # NLP
-
-{"id":"1cdd8257-0600-45db-b0c0-ed3c65a41097","object":"chat.completion","created":1771591023,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# NLP (Natural Language Processing) - Brief Overview
+# NLP (Natural Language Processing) - Brief Overview
 
 ## What is NLP?
 Natural Language Processing (NLP) is a subfield of artificial intelligence and linguistics focused on enabling computers to understand, interpret, and generate human language. It bridges the gap between human communication and computer understanding.
@@ -20,4 +18,4 @@ Natural Language Processing (NLP) is a subfield of artificial intelligence and l
 
 ### 3. **Common Tasks**
 - **Classification**: Sentiment analysis, spam detection
-- **Generation**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Generation**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

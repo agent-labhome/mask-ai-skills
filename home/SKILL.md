@@ -1,6 +1,4 @@
--e # Home
-
-{"id":"5b30296c-c17b-4def-81d3-46afbee66592","object":"chat.completion","created":1771589032,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
+# SKILL.md
 
 ## Core Competencies
 
@@ -19,4 +17,4 @@
 ### Communication
 - **Technical Documentation**: Clear writing for both technical and non-technical audiences
 - **Stakeholder Updates**: Translating technical progress into business value
-- **Knowledge Sharing**: Creating tutorials, guides, and documentation"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Knowledge Sharing**: Creating tutorials, guides, and documentation"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

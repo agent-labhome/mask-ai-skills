@@ -1,6 +1,4 @@
--e # Startup
-
-{"id":"a7cec1cf-695d-4e3b-a310-b174c282ef25","object":"chat.completion","created":1771587141,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Startup Briefs
+# SKILL.md for Startup Briefs
 
 ## Core Competencies
 
@@ -20,4 +18,4 @@
 
 ### 3. Lean Startup Methodology
 - **MVP Definition**: Minimum viable product scoping
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

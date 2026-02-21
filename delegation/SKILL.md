@@ -1,9 +1,7 @@
--e # Delegation
-
-{"id":"08ab50cb-daf0-4cbe-ae6f-4779c9f61897","object":"chat.completion","created":1771595648,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Delegation: A Brief Guide
+# Delegation: A Brief Guide
 
 ## What is Delegation?
-Delegation is the process of assigning responsibility and authority to others to complete specific tasks or make certain decisions. It's not just about offloading work—it's about empowering team members while freeing up your own time for higher-level responsibilities.
+Delegation is the process of assigning responsibility and authority to others to complete specific tasks or make certain decisions. It's not just about offloading workâit's about empowering team members while freeing up your own time for higher-level responsibilities.
 
 ## Why Delegate?
 - **Scale your impact** beyond your personal capacity
@@ -13,12 +11,12 @@ Delegation is the process of assigning responsibility and authority to others to
 - **Increase overall productivity** through parallel work streams
 
 ## What to Delegate
-✅ **Good candidates:**
+â **Good candidates:**
 - Repetitive tasks you've mastered
 - Tasks others can do 80% as well as you
 - Projects that develop team members' skills
 - Time-consuming but lower-priority work
 - Areas where team members have more expertise
 
-❌ **Keep for yourself:**
-- Performance reviews and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+â **Keep for yourself:**
+- Performance reviews and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

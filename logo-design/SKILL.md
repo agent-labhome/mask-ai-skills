@@ -1,7 +1,3 @@
--e # Logo Design
-
-{"id":"bd9de159-beb5-42d7-ab62-08ed2fced39c","object":"chat.completion","created":1771513338,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Logo Design Brief - SKILL.md
-
 ## 🎯 Purpose
 A logo design brief captures essential information to guide the creation of a visual identity that effectively represents a brand, communicates its values, and resonates with its target audience.
 

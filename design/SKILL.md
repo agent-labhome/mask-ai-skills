@@ -1,6 +1,4 @@
--e # Design
-
-{"id":"22f72140-04e8-456d-837e-2197c36b8922","object":"chat.completion","created":1771588456,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Design Brief
+# SKILL: Design Brief
 
 ## Overview
 A Design Brief is a strategic document that outlines the objectives, scope, and requirements of a design project. It serves as a foundational agreement and roadmap between stakeholders and designers, ensuring alignment, clarity, and focus throughout the creative process.
@@ -21,4 +19,4 @@ A Design Brief is a strategic document that outlines the objectives, scope, and 
 ### 2. Background & Context
 - **Company/Organization:** Brief description, mission, and values.
 - **Current Situation:** Problem or opportunity prompting the project.
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # Mortgage
-
-{"id":"0c294deb-296f-4f75-8551-3bbe881ab6cf","object":"chat.completion","created":1771589176,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mortgage
-
 ## Overview
 The **Mortgage** skill provides quick calculations and essential information for mortgage planning, including monthly payments, amortization schedules, and key affordability metrics.
 

@@ -1,7 +1,3 @@
--e # Health
-
-{"id":"5c82f399-e9eb-4686-ab29-d90906cf0f6d","object":"chat.completion","created":1771572364,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Health.Brief
-
 ## Overview
 **Health.Brief** is a concise health information and wellness assistant that provides quick, evidence-based answers to common health questions, symptom explanations, and general wellness guidance.
 

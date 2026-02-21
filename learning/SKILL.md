@@ -1,10 +1,8 @@
--e # Learning
-
-{"id":"1d24d4c0-f64e-4f45-b24a-49016c062f86","object":"chat.completion","created":1771572446,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Learning Brief
+# SKILL.md: Learning Brief
 
 ## Core Learning Philosophy
 **Learning is not consumption; it's construction.**  
-We don't \"absorb\" knowledge—we actively build mental models through focused engagement, deliberate practice, and iterative refinement.
+We don't "absorb" knowledgeâwe actively build mental models through focused engagement, deliberate practice, and iterative refinement.
 
 ## The Learning Brief Framework
 
@@ -22,4 +20,4 @@ We don't \"absorb\" knowledge—we actively build mental models through focused 
 ### 3. **Curate Learning Resources**
 - **Primary source** (1-2 highest quality resources)
 - **Alternative explanations** (different perspectives)
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

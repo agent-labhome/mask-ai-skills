@@ -1,6 +1,4 @@
--e # Motivation
-
-{"id":"7c33f758-5343-4db8-a68a-f2812a8ecf00","object":"chat.completion","created":1771581375,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Motivation Brief
+# SKILL: Motivation Brief
 
 ## Purpose
 A concise, structured framework for creating compelling motivation briefs that align teams, clarify purpose, and drive focused action.
@@ -16,10 +14,10 @@ A concise, structured framework for creating compelling motivation briefs that a
 
 ### 1. HEADLINE (The Hook)
 - Single compelling sentence
-- Answers \"Why should I care?\"
-- Example: \"Transform how our customers experience onboarding\"
+- Answers "Why should I care?"
+- Example: "Transform how our customers experience onboarding"
 
 ### 2. CONTEXT (The Why Now)
 - 2-3 bullet points maximum
 - Market shift, customer pain, competitive threat, or opportunity
-- Data point if available (e.g., \"30% of users drop off"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Data point if available (e.g., "30% of users drop off"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

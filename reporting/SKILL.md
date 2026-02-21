@@ -1,7 +1,3 @@
--e # Reporting
-
-{"id":"d639376f-b3db-4654-8b6e-0f1a1d3b91f8","object":"chat.completion","created":1771587259,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Reporting Brief
-
 ## Purpose
 To create concise, structured summaries of complex information for decision-makers, enabling rapid understanding and action.
 

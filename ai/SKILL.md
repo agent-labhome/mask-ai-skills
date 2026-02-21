@@ -1,6 +1,4 @@
--e # AI
-
-{"id":"c1d99767-449f-4709-b855-20f83f5912f7","object":"chat.completion","created":1771591009,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: AI Briefing
+# SKILL.md: AI Briefing
 
 ## Overview
 **AI Briefing** is the skill of creating clear, structured, and actionable briefs for AI systems. It involves translating human goals, constraints, and context into a format that maximizes an AI's effectiveness, efficiency, and alignment with the desired outcome.
@@ -15,4 +13,4 @@
 ### 2. Structure & Organization
 *   **Logical Flow:** Present information in an order that aids understanding (e.g., context -> goal -> requirements -> constraints).
 *   **Formatting:** Use headings, lists, bullet points, and whitespace to make the brief scannable for both humans and AI.
-*  "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+*  "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

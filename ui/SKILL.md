@@ -1,7 +1,3 @@
--e # UI
-
-{"id":"c539936f-1950-4951-aed2-13d8e86bb3d2","object":"chat.completion","created":1771585486,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# UI Brief - SKILL Framework
-
 ## **S - Situation & Scope**
 **Current Context:**
 - Need to create or refine a user interface for a digital product/feature

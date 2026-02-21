@@ -1,6 +1,4 @@
--e # Marketing
-
-{"id":"4f82d828-daba-428d-9e58-88450dab6402","object":"chat.completion","created":1771592552,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Marketing Briefs
+# SKILL.md: Marketing Briefs
 
 ## Core Competency
 Creating clear, actionable marketing briefs that align stakeholders, define objectives, and guide campaign execution.
@@ -20,4 +18,4 @@ Creating clear, actionable marketing briefs that align stakeholders, define obje
 - **Key Insight**: The compelling truth about audience behavior or market opportunity
 
 ### 2. Creative Direction
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

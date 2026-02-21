@@ -1,7 +1,3 @@
--e # Copywriting Framework
-
-{"id":"56b69d94-ddc7-4f63-919b-9b0eff3f6ffb","object":"chat.completion","created":1771512824,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Copywriting Framework Brief
-
 ## Purpose
 Quickly structure effective copywriting briefs using a proven framework.
 

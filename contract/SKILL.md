@@ -1,7 +1,3 @@
--e # Contract
-
-{"id":"3db5a9b3-5337-40c2-b6e0-f713ee494498","object":"chat.completion","created":1771540190,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contract Brief
-
 ## Purpose
 Create clear, concise legal contract summaries that capture essential terms and obligations for quick reference.
 

@@ -1,7 +1,3 @@
--e # Discord Server
-
-{"id":"ca6210fc-1dd8-4f8f-b8cf-d2086cdc383e","object":"chat.completion","created":1771512303,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
-
 ## Discord Server Management
 
 **Core Skills:**

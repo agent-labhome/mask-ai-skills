@@ -1,6 +1,4 @@
--e # Sysadmin
-
-{"id":"0d837e34-2b21-4849-a5e3-9b80a20df775","object":"chat.completion","created":1771590700,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Sysadmin SKILL.md
+# Sysadmin SKILL.md
 
 ## Core Competencies
 
@@ -18,4 +16,4 @@
 - **Monitoring**: Wireshark, tcpdump, netstat, ping/traceroute
 
 ### Storage & Backup
-- **Storage**: SAN/NAS, RAID, LVM, iSC"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Storage**: SAN/NAS, RAID, LVM, iSC"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

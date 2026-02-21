@@ -1,6 +1,4 @@
--e # Airtable Database
-
-{"id":"bf641b93-a022-4c5d-a847-2ff69e5bd2c5","object":"chat.completion","created":1771512194,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Airtable Database Skills
+# Airtable Database Skills
 
 ## Core Competencies
 - **Base Architecture**: Structuring tables, fields, and views for optimal data organization
@@ -18,4 +16,4 @@
 - **Collaboration**: Managing user roles, permissions, and shared bases
 
 ## Best Practices
-- Normalize"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":200,"total_tokens":218,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Normalize"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":200,"total_tokens":218,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

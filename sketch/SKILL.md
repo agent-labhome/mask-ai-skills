@@ -1,7 +1,3 @@
--e # Sketch
-
-{"id":"08d95cf1-608b-4f45-8442-973ed36faed7","object":"chat.completion","created":1771555768,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Sketch.Brief
-
 ## Purpose
 Quickly generate visual concepts from a brief description. Turns text into simple, clear sketches to communicate ideas visually.
 

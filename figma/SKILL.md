@@ -1,7 +1,3 @@
--e # Figma
-
-{"id":"b50409db-f642-4458-a1d6-c937a706e75f","object":"chat.completion","created":1771555764,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Figma Briefing SKILL
-
 ## Purpose
 Quickly generate structured Figma design briefs for projects, features, or components.
 

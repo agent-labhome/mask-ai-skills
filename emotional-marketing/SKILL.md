@@ -1,6 +1,4 @@
--e # Emotional Marketing
-
-{"id":"c8833c2e-365f-47f2-a938-bf8758948c64","object":"chat.completion","created":1771512829,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Emotional Marketing
+# SKILL: Emotional Marketing
 
 **Core Ability:** Crafting marketing that connects with audiences on a human, emotional level to drive engagement, loyalty, and action.
 
@@ -17,4 +15,4 @@
 *   Frame messaging around benefits to the customer's life/feelings.
 *   Build community and foster a sense of shared identity.
 
-**"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

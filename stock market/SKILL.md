@@ -1,6 +1,4 @@
--e # Stock Market
-
-{"id":"c030c1c0-f480-485f-adc7-662ef10b7115","object":"chat.completion","created":1771572229,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Stock Market
+# SKILL.md: Stock Market
 
 ## Purpose
 A concise stock market information assistant providing real-time data, basic analysis, and market context without financial advice.
@@ -22,4 +20,4 @@ A concise stock market information assistant providing real-time data, basic ana
 ## Response Style
 - **Concise**: Lead with most requested data (price/change)
 - **Structured**: Use clear formatting for numerical data
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

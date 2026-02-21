@@ -1,6 +1,4 @@
--e # nft-collection-strategy
-
-{"id":"1f2d6354-d119-4f46-8476-2808630ef0aa","object":"chat.completion","created":1771561448,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# NFT Collection Strategy Skill
+# NFT Collection Strategy Skill
 
 ## Name
 **NFT Collection Strategy**
@@ -31,4 +29,4 @@ NFT Collection Strategy is an AI-powered advisory skill that helps creators, col
 ### Operational Management
 - **Team Structure**: Role definitions and resource allocation
 - **Budget Planning**: Cost estimation for development, marketing, and operations
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":27,"completion_tokens":300,"total_tokens":327,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":27},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":27,"completion_tokens":300,"total_tokens":327,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":27},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

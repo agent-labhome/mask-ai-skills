@@ -1,7 +1,3 @@
--e # Chinese
-
-{"id":"d6bb7d44-8eaf-47e7-ace8-b7a176510db1","object":"chat.completion","created":1771588956,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
-
 ## 技能概述
 精通中文，具备以下核心能力：
 

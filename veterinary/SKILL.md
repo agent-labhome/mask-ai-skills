@@ -1,7 +1,3 @@
--e # Veterinary
-
-{"id":"2d757e80-3229-4d1c-bf1b-e11aa2fa8035","object":"chat.completion","created":1771588399,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Veterinary SKILL Framework
-
 ## **S - Situation**
 - Patient presentation (species, breed, age, sex, reproductive status)
 - Chief complaint and duration

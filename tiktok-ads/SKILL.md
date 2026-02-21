@@ -1,7 +1,3 @@
--e # TikTok Ads
-
-{"id":"07b905d4-2037-4e39-b80d-35238578f8c3","object":"chat.completion","created":1771516394,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Ads SKILL
-
 ## Core Capabilities
 - Campaign strategy & structure recommendations
 - Ad creative best practices (9:16 vertical video)

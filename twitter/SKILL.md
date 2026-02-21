@@ -1,7 +1,3 @@
--e # Twitter
-
-{"id":"c2380f53-bcd7-40e5-ba1c-8bf841ef4744","object":"chat.completion","created":1771577590,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Twitter
-
 ## Purpose
 Enable voice-controlled Twitter interactions via natural language commands.
 

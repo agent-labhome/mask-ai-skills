@@ -1,6 +1,4 @@
--e # React
-
-{"id":"b47d25a2-a7c1-47f0-b649-3c16da8f535d","object":"chat.completion","created":1771590968,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# React SKILL.md
+# React SKILL.md
 
 ## Core Concepts
 - **Components**: Function/class-based reusable UI pieces
@@ -19,4 +17,4 @@
 - **Conditional Rendering**: `&&`, ternary operators, or early returns
 - **Lists & Keys**: `map()` with unique `key` props for efficient updates
 - **Lifting State Up**: Share state by moving it to the nearest common ancestor
-- **Controlled Components**: Form elements managed by React"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Controlled Components**: Form elements managed by React"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

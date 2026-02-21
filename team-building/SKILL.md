@@ -1,6 +1,4 @@
--e # Team Building
-
-{"id":"58c690ec-217f-452c-b000-612566cc87fd","object":"chat.completion","created":1771595638,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Team Building
+# SKILL.md: Team Building
 
 ## Purpose
 This document outlines the core competencies, methodologies, and best practices for effective **Team Building**. It serves as a guide for leaders, managers, and facilitators to create, develop, and sustain high-performing, cohesive teams.
@@ -20,4 +18,4 @@ Team building is not a one-time event but a **continuous process** of aligning i
 A skilled team builder should develop proficiency in:
 
 *   **Diagnostic Assessment:** Ability to analyze team dynamics, identify strengths, weaknesses, communication patterns, and underlying tensions.
-*   **Psychological Safety Cultivation:** Creating an environment where team members feel safe to take risks,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+*   **Psychological Safety Cultivation:** Creating an environment where team members feel safe to take risks,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

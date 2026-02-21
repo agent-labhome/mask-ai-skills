@@ -1,6 +1,4 @@
--e # Wix Website
-
-{"id":"b4ea7d1f-238f-49f7-b267-ea18ae7ee3c9","object":"chat.completion","created":1771559344,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Wix Website Skills
+# Wix Website Skills
 
 ## Core Competencies
 - **Wix Editor** - Drag-and-drop interface, section management, mobile optimization
@@ -22,4 +20,4 @@
 - Regular content updates
 - SEO-friendly URL structures
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

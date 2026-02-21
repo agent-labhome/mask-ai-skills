@@ -1,6 +1,4 @@
--e # Football
-
-{"id":"a33d079d-9d27-4565-bc2d-60b607cfa9b6","object":"chat.completion","created":1771589097,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Football: A Brief Overview
+# Football: A Brief Overview
 
 ## What is Football?
 Football (known as soccer in some countries) is a team sport played between two teams of eleven players each, using a spherical ball. It is the world's most popular sport, played by over 250 million people in more than 200 countries.
@@ -12,4 +10,4 @@ The primary objective is to score more goals than the opposing team within the a
 - **Match Duration**: 90 minutes (two 45-minute halves) with added injury time
 - **Offside Rule**: A player is offside if nearer to the opponent's goal line than both the ball and the second-last opponent when the ball is played to them
 - **Fouls**: Result in free kicks or penalty kicks for serious offenses in the penalty area
-- **Yellow/Red Cards**: Cautions (yellow) and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Yellow/Red Cards**: Cautions (yellow) and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

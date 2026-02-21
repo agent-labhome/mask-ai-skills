@@ -1,6 +1,4 @@
--e # Excel Automation
-
-{"id":"51c2c64b-d75a-43b5-beb9-4bead77bb9a6","object":"chat.completion","created":1771512483,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Excel Automation SKILL.md
+# Excel Automation SKILL.md
 
 ## Core Capabilities
 - **Data Processing**: Clean, transform, and analyze spreadsheet data
@@ -24,4 +22,4 @@
 
 ## Best Practices
 - Always work on copies of original data
-- Document automation steps clearly"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Document automation steps clearly"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,6 +1,4 @@
--e # API
-
-{"id":"a69cbf68-8bbb-4ea0-98de-b4f5226058b7","object":"chat.completion","created":1771590744,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: API Briefing
+# SKILL: API Briefing
 
 ## Purpose
 Generate clear, structured API specifications from natural language requirements.
@@ -16,7 +14,7 @@ Generate clear, structured API specifications from natural language requirements
 
 ## Input Format
 Users typically provide:
-- Functional requirements (\"I need an API for user management\")
-- Specific features (\"endpoints for CRUD operations on products\")
-- Integration needs (\"connect to payment gateway\")
-- Technical constraints (\"must use J"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Functional requirements ("I need an API for user management")
+- Specific features ("endpoints for CRUD operations on products")
+- Integration needs ("connect to payment gateway")
+- Technical constraints ("must use J"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,6 +1,4 @@
--e # Backend
-
-{"id":"3377ced4-f152-4f22-8f3f-85be62284d74","object":"chat.completion","created":1771590954,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Backend Development - SKILL.md
+# Backend Development - SKILL.md
 
 ## Core Competencies
 
@@ -19,4 +17,4 @@
 - **Relational**: PostgreSQL, MySQL, MariaDB
 - **NoSQL**: MongoDB, Redis, Cassandra, Elasticsearch
 - **Database Design**: Schema design, indexing, query optimization
-- **Migrations**: Alembic"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Migrations**: Alembic"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

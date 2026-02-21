@@ -1,6 +1,4 @@
--e # Web Dev
-
-{"id":"21aaa790-bcf2-4192-873d-6193e2cf62da","object":"chat.completion","created":1771540276,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web Development Briefs
+# SKILL.md: Web Development Briefs
 
 ## Purpose
 A structured brief template to capture essential project requirements, ensuring clarity between stakeholders and developers.
@@ -22,4 +20,4 @@ A structured brief template to capture essential project requirements, ensuring 
 - **Reference Sites**: [URLs for inspiration]
 - **Brand Guidelines**: [Colors, fonts, logo usage]
 - **Content Source**: [Who provides text/images/video]
-- **Responsive Requirements**: [Mobile/tablet/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Responsive Requirements**: [Mobile/tablet/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # Writing
-
-{"id":"a2730cc6-fa11-4ef9-9047-8004903d604f","object":"chat.completion","created":1771592616,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Writing Brief Content
-
 ## Core Competency
 The ability to convey information clearly, concisely, and effectively in minimal space while maintaining impact and purpose.
 

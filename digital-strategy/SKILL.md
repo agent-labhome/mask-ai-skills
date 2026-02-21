@@ -1,6 +1,4 @@
--e # Digital Strategy
-
-{"id":"833e4915-6d38-49c0-96ae-65b872efed2e","object":"chat.completion","created":1771566624,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Digital Strategy Brief - SKILL Framework
+# Digital Strategy Brief - SKILL Framework
 
 ## **S - Situation Analysis**
 *Current digital landscape assessment:*
@@ -24,4 +22,4 @@
 *Strategic execution framework:*
 - **Channel Strategy:** Website, social media, email, mobile, emerging platforms
 - **Content Strategy:** Creation, distribution, and optimization approach
-- **Technology"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Technology"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

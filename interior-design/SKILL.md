@@ -1,6 +1,4 @@
--e # Interior Design
-
-{"id":"4b9b503f-63dc-4b08-88bd-5c57b085b989","object":"chat.completion","created":1771574095,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Interior Design Brief Development
+# SKILL.md: Interior Design Brief Development
 
 ## Core Competencies
 
@@ -17,4 +15,4 @@
 - **Light Comprehension**: Assess natural and artificial lighting conditions throughout daily cycles
 
 ### 3. Style Synthesis
-- **Visual Vocabulary**: Recognize and articulate design styles (Mid-Century Modern, Scandinavian"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Visual Vocabulary**: Recognize and articulate design styles (Mid-Century Modern, Scandinavian"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

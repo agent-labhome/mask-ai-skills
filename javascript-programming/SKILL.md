@@ -1,6 +1,4 @@
--e # JavaScript Programming
-
-{"id":"0e4e61e8-7c4d-4faa-93bc-5b72595a69b2","object":"chat.completion","created":1771559118,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# JavaScript Programming - SKILL.md
+# JavaScript Programming - SKILL.md
 
 ## Core Competencies
 - **Syntax & Fundamentals**: Variables, data types, operators, control flow
@@ -19,4 +17,4 @@
 - **Browser APIs**: localStorage, geolocation, canvas
 - **Node.js**: Runtime for server-side JavaScript
 - **Package Managers**: npm, yarn
-- **Build Tools**: Webpack"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Build Tools**: Webpack"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

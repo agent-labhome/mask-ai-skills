@@ -1,7 +1,3 @@
--e # Display Advertising
-
-{"id":"4173a2f0-5312-407d-8841-c2be64daf8dd","object":"chat.completion","created":1771562676,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Display Advertising Brief
-
 ## Core Competency
 Ability to create, interpret, and execute effective display advertising briefs that align business objectives with creative execution across digital display environments.
 

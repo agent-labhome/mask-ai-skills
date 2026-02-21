@@ -1,7 +1,3 @@
--e # Adobe
-
-{"id":"341c62d5-4525-4571-a508-bf7978adc3bf","object":"chat.completion","created":1771555773,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Adobe SKILL.md
-
 ## Core Adobe Suite
 - **Photoshop**: Image editing, compositing, digital painting
 - **Illustrator**: Vector graphics, logos, illustrations

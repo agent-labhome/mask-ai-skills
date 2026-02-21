@@ -1,6 +1,4 @@
--e # Communication
-
-{"id":"41faa156-f34e-4fba-b9d4-dae46748dcf6","object":"chat.completion","created":1771534423,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Communication (Brief)
+# SKILL: Communication (Brief)
 
 **Core Principle:** Convey information clearly, concisely, and with purpose, respecting the recipient's time and attention.
 
@@ -14,8 +12,8 @@
 
 ## Quick Checklist
 
-*   ✅ Is my core message in the first 1-2 sentences?
-*   ✅ Have I removed jargon or explained it?
-*   ✅ Is every sentence necessary?
-*   ✅ Is the requested action or next step clear?
-*   ✅ Is the format (email, message, talk) the"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+*   â Is my core message in the first 1-2 sentences?
+*   â Have I removed jargon or explained it?
+*   â Is every sentence necessary?
+*   â Is the requested action or next step clear?
+*   â Is the format (email, message, talk) the"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

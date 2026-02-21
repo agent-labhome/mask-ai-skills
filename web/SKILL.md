@@ -1,6 +1,4 @@
--e # Web
-
-{"id":"686b53a2-b5b0-4f8e-b060-2ae83a8998cd","object":"chat.completion","created":1771590963,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web Brief
+# SKILL.md: Web Brief
 
 ## Core Competency
 **Web Brief Interpretation & Execution** - The ability to understand, analyze, and implement web project requirements from client briefs, translating business objectives into actionable technical and creative solutions.
@@ -17,4 +15,4 @@
 - **Technology Selection**: Recommend appropriate frameworks, platforms, and tools based on brief requirements
 - **Information Architecture**: Design logical site structures and user flows
 - **Responsive Strategy**: Plan for multi-device compatibility and performance optimization
-- **Scalability Planning**: Anticipate future growth needs and technical"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Scalability Planning**: Anticipate future growth needs and technical"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,6 +1,4 @@
--e # Training
-
-{"id":"8e3e7235-b657-4271-81a1-f88fa37cdcf7","object":"chat.completion","created":1771574423,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Training Brief Development
+# SKILL.md: Training Brief Development
 
 ## Core Competency
 **Training Brief Development** - The ability to create clear, structured, and actionable training briefs that effectively communicate learning objectives, methodologies, and requirements to stakeholders and training teams.
@@ -10,14 +8,14 @@ Training Brief Development involves synthesizing training needs into comprehensi
 
 ## Proficiency Levels
 
-### 🟢 Foundational
+### ð¢ Foundational
 - Understands basic training brief components and templates
 - Can document straightforward training requirements with guidance
 - Follows established organizational templates and formats
 - Identifies basic training objectives and target audience
 - Lists required resources and basic timelines
 
-### 🔵 Intermediate
+### ðµ Intermediate
 - Structures comprehensive briefs independently for standard training needs
 - Aligns training objectives with business goals and performance gaps
-- Selects appropriate delivery methods based on audience and content"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Selects appropriate delivery methods based on audience and content"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

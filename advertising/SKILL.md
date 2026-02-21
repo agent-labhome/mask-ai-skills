@@ -1,23 +1,54 @@
--e # Advertising
+-e {"id":"e9bb7eca-ac2e-491b-bcf6-8aa0f17eb1a3","object":"chat.completion","created":1771648315,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Advertising
 
-{"id":"61e7c0e3-9695-4283-bbef-ab8bf2c213de","object":"chat.completion","created":1771577735,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Advertising Brief
+## Metadata
+- **Domain:** Marketing & Business
+- **Complexity:** Intermediate to Advanced
+- **Time to Basic Proficiency:** 3-6 months
+- **Key Tools:** Google Ads, Meta Ads Manager, LinkedIn Campaign Manager, Canva, Google Analytics, SEMrush
+- **Related Skills:** Copywriting, Data Analysis, Graphic Design, Consumer Psychology, SEO
+- **Prerequisites:** Basic digital literacy, understanding of business objectives
 
-## Purpose
-Create clear, actionable advertising briefs that align marketing objectives with creative execution. This skill transforms business goals into structured creative direction for advertising campaigns.
+---
 
-## Core Components
+## Overview
+Advertising is the practice of promoting products, services, or brands to a target audience through paid channels. Modern advertising blends creativity with data-driven strategy across digital and traditional media to achieve specific business objectives like awareness, consideration, or conversion.
 
-### 1. **Strategic Foundation**
-- **Business Objective**: Primary business goal (awareness, sales, retention)
-- **Marketing Objective**: Specific marketing outcome (increase consideration by X%)
-- **Target Audience**: Primary & secondary segments with psychographics
-- **Competitive Landscape**: Key competitors and market positioning
+## Core Principles
 
-### 2. **Creative Direction**
-- **Key Message**: Single most important idea to communicate
-- **Brand Voice/Tone**: How the brand should sound (authoritative, playful, etc.)
-- **Mandatory Elements**: Logos, taglines, legal requirements, brand guidelines
-- **Creative Considerations**: Mood, style references, visual direction
+### 1. **The Advertising Funnel**
+   - **Awareness:** Top of funnel (TOFU) - Broad reach, brand recognition
+   - **Consideration:** Middle of funnel (MOFU) - Engagement, interest
+   - **Conversion:** Bottom of funnel (BOFU) - Actions, purchases
+   - **Retention/Loyalty:** Post-purchase advocacy
 
-### 3. **Practical Specifications**
-- **Channels/Formats**: Where the ad will run (social,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Message-Offer-Audience Alignment**
+   Every effective ad aligns:
+   - **Message:** What you say (value proposition, pain points)
+   - **Offer:** What you give (discount, trial, content)
+   - **Audience:** Who you target (demographics, behaviors, intent)
+
+### 3. **Creative & Copy Best Practices**
+   - **Headlines:** Clear benefit or curiosity gap (4-8 words)
+   - **Visuals:** High-quality, relevant, brand-consistent
+   - **Body Copy:** Problem-agitate-solution structure
+   - **CTAs:** Action-oriented, urgent, specific (\"Start Free Trial\" vs. \"Click Here\")
+
+## Practical Implementation Guide
+
+### Phase 1: Foundation & Strategy (Week 1-2)
+
+#### 1.1 Define Objectives
+```
+SMART Framework:
+- Specific: \"Increase qualified leads\"
+- Measurable: \"by 30%\"
+- Achievable: Based on historical data
+- Relevant: To business growth goals
+- Time-bound: \"in Q3\"
+```
+
+#### 1.2 Audience Research
+- **Create Buyer Personas:**
+  - Demographics (age, location, job title)
+  - Psychographics (interests, values, challenges)
+  - Behavioral data"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

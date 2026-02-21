@@ -1,7 +1,3 @@
--e # SaaS
-
-{"id":"e02a899f-38c2-49c7-b125-67324ac3ec60","object":"chat.completion","created":1771587136,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for SaaS Briefs
-
 ## Core Competencies
 
 ### 1. **SaaS Business Model Understanding**

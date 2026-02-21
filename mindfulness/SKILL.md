@@ -1,7 +1,3 @@
--e # Mindfulness
-
-{"id":"3ab85145-89bb-48cc-90a1-0faba1cd100c","object":"chat.completion","created":1771595826,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Mindfulness
-
 ## What It Is
 A mental practice of bringing attention to the present moment without judgment.
 

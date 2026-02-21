@@ -1,6 +1,4 @@
--e # Commodities Trading
-
-{"id":"a75a279a-539f-4c87-a88e-7423840bd847","object":"chat.completion","created":1771562487,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Commodities Trading
+# SKILL.md: Commodities Trading
 
 ## Core Competencies
 
@@ -23,4 +21,4 @@
   - Futures/options execution on major exchanges (CME, ICE, LME)
   - Physical vs. paper trading understanding
   - Spread trading (calendar, inter-commodity, crack/crush spreads)
-  - Execution timing relative to market structure (contango"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+  - Execution timing relative to market structure (contango"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

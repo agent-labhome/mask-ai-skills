@@ -1,6 +1,4 @@
--e # Ads
-
-{"id":"81cc8fe1-af11-4109-ab97-d2575ab38e88","object":"chat.completion","created":1771555825,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Ads Brief
+# SKILL: Ads Brief
 
 ## Purpose
 Create clear, actionable advertising briefs that align creative teams with business objectives.
@@ -18,10 +16,10 @@ Create clear, actionable advertising briefs that align creative teams with busin
 - Be specific about what the audience should feel/do
 - Include competitive context
 - Keep it concise (1 page ideal)
-- Distinguish between \"must-have\" and \"nice-to-have\"
+- Distinguish between "must-have" and "nice-to-have"
 
 ## Common Pitfalls to Avoid
-- Vague objectives (\"increase awareness\")
+- Vague objectives ("increase awareness")
 - Overloading with multiple messages
 - Omitting measurement criteria
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,6 +1,4 @@
--e # Webhook
-
-{"id":"6f00e5aa-954c-4c39-91c3-cf929f8d31ca","object":"chat.completion","created":1771590749,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Webhook SKILL
+# Webhook SKILL
 
 ## Purpose
 Handle incoming webhook requests from external services and process them according to configured rules.
@@ -22,4 +20,4 @@ Handle incoming webhook requests from external services and process them accordi
 - Form submission processing
 - API synchronization triggers
 
-## Configuration Parameters"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Configuration Parameters"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # Blogging Writing
-
-{"id":"2aff74b7-a6be-483a-98c3-4080ab211e91","object":"chat.completion","created":1771541467,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Blogging
-
 ## Core Principles
 - **Clarity over cleverness** – Write for your reader, not for yourself
 - **Value-first** – Every post should solve a problem or answer a question

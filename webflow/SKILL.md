@@ -1,7 +1,3 @@
--e # Webflow
-
-{"id":"f5552778-11bf-4851-b8fa-b0ed55c5dac1","object":"chat.completion","created":1771516150,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Webflow SKILL.md
-
 ## Core Capabilities
 - Visual website builder with CMS
 - Responsive design without coding

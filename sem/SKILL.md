@@ -1,6 +1,4 @@
--e # SEM
-
-{"id":"67352688-af9b-4fe9-a0ce-935cff59c06f","object":"chat.completion","created":1771570188,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEM Brief - SKILL Documentation
+# SEM Brief - SKILL Documentation
 
 ## Overview
 SEM Brief is a structured framework for creating and analyzing SEM (Scanning Electron Microscope) experimental briefs. This skill helps researchers systematically document SEM parameters, sample information, and experimental objectives to ensure reproducibility and clarity in materials characterization.
@@ -20,4 +18,4 @@ SEM Brief is a structured framework for creating and analyzing SEM (Scanning Ele
   - Surface morphology analysis
   - Particle size distribution
   - Cross-sectional analysis
-  - Elemental composition (when combined with E"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+  - Elemental composition (when combined with E"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

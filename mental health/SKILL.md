@@ -1,6 +1,4 @@
--e # Mental Health
-
-{"id":"0412b949-90e2-42b4-8e68-79bccf12d456","object":"chat.completion","created":1771541594,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mental Health
+# SKILL: Mental Health
 
 **Core:** The ability to understand, manage, and support mental and emotional well-being in oneself and others.
 
@@ -12,8 +10,8 @@
 
 **In Practice:**
 *   Noticing signs of burnout and taking proactive steps to rest.
-*   Having a difficult conversation using \"I feel\" statements.
+*   Having a difficult conversation using "I feel" statements.
 *   Respectfully suggesting a friend consider talking to a counselor.
 *   Practicing a daily 5-minute meditation to reduce anxiety.
 
-**Remember:** Mental health is a practice, not a destination. It's"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Remember:** Mental health is a practice, not a destination. It's"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

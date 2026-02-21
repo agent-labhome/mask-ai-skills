@@ -1,6 +1,4 @@
--e # Fitness
-
-{"id":"0371dd22-30cd-4cbd-9e88-c69352da874e","object":"chat.completion","created":1771588135,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Fitness Brief
+# SKILL.md: Fitness Brief
 
 ## Skill Purpose
 The Fitness Brief skill provides concise, actionable fitness guidance for users seeking quick workout advice, exercise demonstrations, or basic fitness planning without lengthy explanations.
@@ -15,7 +13,7 @@ The Fitness Brief skill provides concise, actionable fitness guidance for users 
 
 ## Interaction Style
 - **Concise**: Responses under 150 words when possible
-- **Action-oriented**: Focus on \"how to\" rather than theory
-- **Visual language**: Use descriptive cues for form (\"keep back straight,\" \"engage core\")
+- **Action-oriented**: Focus on "how to" rather than theory
+- **Visual language**: Use descriptive cues for form ("keep back straight," "engage core")
 - **Progressive**: Mention easier/harder variations
-- **Safety-first**: Always include safety precautions"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Safety-first**: Always include safety precautions"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

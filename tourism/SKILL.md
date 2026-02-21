@@ -1,6 +1,4 @@
--e # Tourism
-
-{"id":"40559df3-88da-46f7-8484-54c7748e55c9","object":"chat.completion","created":1771588259,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Tourism Brief Development
+# SKILL.md: Tourism Brief Development
 
 ## Core Purpose
 Develop comprehensive, actionable tourism briefs that balance destination appeal with practical implementation strategies.
@@ -21,4 +19,4 @@ Develop comprehensive, actionable tourism briefs that balance destination appeal
 
 ### 3. Implementation Planning
 - **Phased Rollout**: Create realistic timelines with milestones
-- **Resource Allocation"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Resource Allocation"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

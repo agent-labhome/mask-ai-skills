@@ -1,7 +1,3 @@
--e # UX
-
-{"id":"ac43f808-c823-49d3-a143-a72af9992aa5","object":"chat.completion","created":1771585491,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: UX Brief Creation
-
 ## Purpose
 Create effective, actionable UX briefs that align stakeholders, define project scope, and establish clear success metrics for user experience initiatives.
 

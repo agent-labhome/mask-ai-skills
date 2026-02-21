@@ -1,7 +1,3 @@
--e # Angular
-
-{"id":"1ca5ae43-43d3-43c9-a30a-915bdba57587","object":"chat.completion","created":1771559164,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Angular SKILL.md
-
 ## Core Competencies
 - **Framework**: Angular (v2+), TypeScript
 - **Architecture**: Component-based, modules, services, dependency injection

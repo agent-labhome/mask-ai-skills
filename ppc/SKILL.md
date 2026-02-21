@@ -1,7 +1,3 @@
--e # PPC
-
-{"id":"3307ae31-7999-497c-97c6-a4ffbf7f29ea","object":"chat.completion","created":1771570193,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# PPC (Pay-Per-Click) Advertising - SKILL.md
-
 ## Core Competencies
 
 ### Platform Expertise

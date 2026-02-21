@@ -1,7 +1,3 @@
--e # Branding
-
-{"id":"44a254b8-a75a-48a5-b498-8a2f16b596f7","object":"chat.completion","created":1771577947,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Branding Brief
-
 ## Purpose
 This skill helps marketing professionals, business owners, and brand strategists create comprehensive branding briefs that align stakeholders, guide creative teams, and ensure consistent brand development.
 

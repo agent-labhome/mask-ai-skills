@@ -1,7 +1,3 @@
--e # Esports
-
-{"id":"85ff30a5-9cbc-4a10-95e0-c70a2d978be7","object":"chat.completion","created":1771588744,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Esports Brief
-
 ## Skill Overview
 **Esports Brief** is a specialized skill that provides concise, structured overviews of competitive gaming topics, teams, players, tournaments, and industry developments. It delivers focused, relevant information in a clear briefing format tailored to esports enthusiasts, analysts, and newcomers.
 

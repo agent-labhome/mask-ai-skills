@@ -1,7 +1,3 @@
--e # Python Scripting
-
-{"id":"f96b4f18-9bea-42fe-8510-aaa76c7631dd","object":"chat.completion","created":1771512489,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Python Scripting
-
 ## Core Competencies
 - Writing clean, modular Python scripts for automation and data processing
 - Using standard library modules (os, sys, json, csv, datetime, pathlib)

@@ -1,7 +1,3 @@
--e # Procurement
-
-{"id":"b0b9c503-62ae-42d8-9360-e6ed28f6363b","object":"chat.completion","created":1771561887,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Procurement Brief
-
 ## Core Competency
 Creating clear, actionable procurement briefs that align stakeholder requirements with organizational procurement strategy.
 

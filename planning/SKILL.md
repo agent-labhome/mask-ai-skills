@@ -1,7 +1,3 @@
--e # Planning
-
-{"id":"57245541-46a0-477d-b6e1-835ac83851ef","object":"chat.completion","created":1771534469,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Planning Briefs
-
 ## Purpose
 Transform ambiguous requests into clear, actionable plans by asking strategic questions that uncover hidden requirements and constraints.
 

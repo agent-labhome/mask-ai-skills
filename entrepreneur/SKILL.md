@@ -1,7 +1,3 @@
--e # Entrepreneur
-
-{"id":"27ac3453-29de-4e97-ae2b-0b30426d1ab4","object":"chat.completion","created":1771538016,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Entrepreneur
-
 ## Core Competencies
 - **Opportunity Identification:** Spotting market gaps and unmet needs
 - **Resource Mobilization:** Bootstrapping, fundraising, and building teams with limited resources

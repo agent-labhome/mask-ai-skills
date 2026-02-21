@@ -1,7 +1,3 @@
--e # Yoga
-
-{"id":"da005650-bd6b-4d6a-b9ab-d306472b686c","object":"chat.completion","created":1771519726,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Yoga SKILL.md
-
 ## Core Principles
 - **Union**: Integration of body, mind, and breath
 - **Presence**: Focus on the current moment

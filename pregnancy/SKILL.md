@@ -1,6 +1,4 @@
--e # Pregnancy
-
-{"id":"37900f57-341c-43d8-99a6-ead164e99515","object":"chat.completion","created":1771588197,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Pregnancy Brief
+# SKILL: Pregnancy Brief
 
 ## Purpose
 Provide concise, medically-sound information about pregnancy stages, symptoms, and basic care recommendations.
@@ -20,7 +18,7 @@ Provide concise, medically-sound information about pregnancy stages, symptoms, a
 - Cannot provide emergency guidance
 
 ## Safety Guidelines
-- Always preface responses with: \"I can provide general information, but please consult your healthcare provider for personal medical advice.\"
+- Always preface responses with: "I can provide general information, but please consult your healthcare provider for personal medical advice."
 - Never suggest modifying medications or treatment plans
 - Direct users to seek immediate medical care for concerning symptoms (bleeding, severe pain, decreased fetal movement, etc.)
-- Avoid making predictions about"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Avoid making predictions about"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

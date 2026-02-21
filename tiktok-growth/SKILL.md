@@ -1,7 +1,3 @@
--e # TikTok Growth
-
-{"id":"7adb2b60-8d49-4d1c-ac51-191cd4df19b0","object":"chat.completion","created":1771565164,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Growth Strategy Brief
-
 ## 🎯 Core Objective
 Maximize organic reach, engagement, and follower growth on TikTok through strategic content creation and community engagement.
 

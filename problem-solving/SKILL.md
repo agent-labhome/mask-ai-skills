@@ -1,6 +1,4 @@
--e # Problem Solving
-
-{"id":"ece11176-e509-4941-9583-9851a18c9f5d","object":"chat.completion","created":1771595700,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Problem Solving
+# SKILL: Problem Solving
 
 ## Definition
 The ability to identify, analyze, and resolve complex or ambiguous challenges by applying logical reasoning, structured methodologies, and creative thinking to achieve desired outcomes.
@@ -10,7 +8,7 @@ The ability to identify, analyze, and resolve complex or ambiguous challenges by
 ### 1. **Problem Identification & Definition**
 *   Recognizing that a problem exists.
 *   Distinguishing symptoms from root causes.
-*   Framing the problem clearly and accurately (e.g., using \"How might we...\" statements).
+*   Framing the problem clearly and accurately (e.g., using "How might we..." statements).
 *   Defining scope, constraints, and success criteria.
 
 ### 2. **Analysis & Decomposition**
@@ -22,4 +20,4 @@ The ability to identify, analyze, and resolve complex or ambiguous challenges by
 ### 3. **Solution Generation**
 *   Brainstorming multiple potential solutions without initial judgment.
 *   Applying creative thinking and lateral thinking techniques.
-*   Leveraging analogous"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+*   Leveraging analogous"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

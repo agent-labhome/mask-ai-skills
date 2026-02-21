@@ -1,7 +1,3 @@
--e # Google SEO
-
-{"id":"c0961ef3-14d6-45ea-9981-ce0fceebc4b1","object":"chat.completion","created":1771516342,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO SKILL.md
-
 ## Core Competencies
 - **Technical SEO:** Site structure, speed optimization, mobile-first indexing, structured data
 - **On-Page SEO:** Keyword research, content optimization, meta tags, internal linking

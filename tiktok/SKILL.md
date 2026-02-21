@@ -1,6 +1,4 @@
--e # TikTok
-
-{"id":"9cadae8c-42d6-49e8-96a3-838d6bec58b7","object":"chat.completion","created":1771585540,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok SKILL.md
+# TikTok SKILL.md
 
 ## Skill Overview
 **Skill Name:** TikTok  
@@ -21,4 +19,4 @@
 - **For You Page (FYP):** Personalized content feed powered by AI recommendation algorithm
 - **Trend Identification:** Real-time trend detection and participation
 - **Hashtag Challenges:** Community-driven content themes
-- **Sound Trends"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Sound Trends"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

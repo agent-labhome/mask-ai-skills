@@ -1,7 +1,3 @@
--e # Game Development
-
-{"id":"39227ab5-b6a1-485a-8e67-3197f72c2dd7","object":"chat.completion","created":1771573905,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Game Development
-
 ## Core Technical Skills
 
 ### **Programming Languages**

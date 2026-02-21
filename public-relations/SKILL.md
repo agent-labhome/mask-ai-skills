@@ -1,6 +1,4 @@
--e # Public Relations
-
-{"id":"0aa2568c-eec7-4efc-822e-281ad186ea60","object":"chat.completion","created":1771534418,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Public Relations (PR)
+# SKILL: Public Relations (PR)
 
 ## Core Competencies
 - **Media Relations:** Building and maintaining relationships with journalists, bloggers, and influencers. Pitching stories, managing inquiries, and securing coverage.
@@ -15,4 +13,4 @@
 - Press releases & media advisories
 - Media lists & pitch emails
 - Crisis communication plans
-- Key message"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Key message"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

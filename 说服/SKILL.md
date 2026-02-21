@@ -1,7 +1,3 @@
--e # 说服
-
-{"id":"e0573deb-40cc-4e00-b131-3e8ab01433eb","object":"chat.completion","created":1771519988,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Persuasion
-
 ## Core Principle
 Influence others' thoughts or actions through reasoned argument, not coercion.
 

@@ -1,7 +1,3 @@
--e # Teaching
-
-{"id":"6b4026db-f6d7-4511-bb82-ff32aebfb88d","object":"chat.completion","created":1771572441,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Teaching
-
 ## Core Competencies
 
 ### 1. **Instructional Design**

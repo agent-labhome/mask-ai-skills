@@ -1,7 +1,3 @@
--e # Stable Diffusion
-
-{"id":"7d414611-ea13-45b4-ad03-d4d884aaaf45","object":"chat.completion","created":1771540237,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Stable Diffusion
-
 ## What It Is
 A text-to-image AI model that generates detailed images from text descriptions.
 

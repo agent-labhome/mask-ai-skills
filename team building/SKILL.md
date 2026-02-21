@@ -1,6 +1,4 @@
--e # Team Building
-
-{"id":"92e7f263-f184-40a5-8ec4-87f6ff4c174e","object":"chat.completion","created":1771581365,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Team Building
+# SKILL.md: Team Building
 
 ## Overview
 Team Building is the intentional process of strengthening relationships, improving collaboration, and enhancing collective performance within a group. It involves creating environments and experiences that foster trust, communication, and shared purpose.
@@ -20,4 +18,4 @@ Team Building is the intentional process of strengthening relationships, improvi
 ## Key Components
 
 ### 1. Foundation Building
-- **Trust Development**: Activities and practices that build"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Trust Development**: Activities and practices that build"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

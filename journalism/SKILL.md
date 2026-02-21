@@ -1,6 +1,4 @@
--e # Journalism
-
-{"id":"93875a2d-d347-4972-9cae-a968feaa1cdf","object":"chat.completion","created":1771577885,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Journalism
+# SKILL: Journalism
 
 ## Core Purpose
 To systematically gather, verify, and communicate information of public interest in a clear, accurate, and compelling manner.
@@ -15,4 +13,4 @@ To systematically gather, verify, and communicate information of public interest
 ## Core Workflow
 
 ### 1. Pitching & Conceptualization
-*  "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+*  "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

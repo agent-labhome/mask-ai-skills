@@ -1,7 +1,3 @@
--e # Roadmap
-
-{"id":"b88db9c0-f9ec-4344-9261-d017bf22531b","object":"chat.completion","created":1771595414,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Roadmap Brief Creation
-
 ## Purpose
 Transform high-level project ideas into structured, actionable roadmap briefs that align stakeholders and provide clear direction.
 

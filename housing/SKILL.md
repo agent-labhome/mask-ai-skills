@@ -1,6 +1,4 @@
--e # Housing
-
-{"id":"b9c586d2-21be-45fe-a91d-7f24282f7173","object":"chat.completion","created":1771589171,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Housing Brief - SKILL Documentation
+# Housing Brief - SKILL Documentation
 
 ## Overview
 The **Housing Brief** skill enables users to generate comprehensive housing development briefs for specific locations. This tool synthesizes urban planning requirements, development parameters, and contextual analysis to create structured development frameworks.
@@ -19,4 +17,4 @@ The **Housing Brief** skill enables users to generate comprehensive housing deve
 
 ### 3. **Design Guidelines**
 - **Architectural Character**: Provides guidance on materials, scale, and contextual fit
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # Taxes
-
-{"id":"be2899f6-34f9-4837-b67f-52d2f791d7f5","object":"chat.completion","created":1771534101,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Taxes
-
 ## Purpose
 Quickly answer common personal and business tax questions.
 

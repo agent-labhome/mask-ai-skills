@@ -1,7 +1,3 @@
--e # YouTube
-
-{"id":"6f079dfa-dedc-4cfd-8a85-4904f782bc18","object":"chat.completion","created":1771585544,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: YouTube
-
 ## Core Functionality
 - Search and play YouTube videos directly in chat
 - Retrieve video details (title, duration, views, uploader)

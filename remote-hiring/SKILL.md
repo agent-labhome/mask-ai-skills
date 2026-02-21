@@ -1,7 +1,3 @@
--e # Remote Hiring
-
-{"id":"17ff6abb-9fed-4e58-bd7a-c25b6d64ec37","object":"chat.completion","created":1771512435,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Remote Hiring
-
 ## Core Competencies
 
 **Assessment Design**

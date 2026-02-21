@@ -1,7 +1,3 @@
--e # Influencer Partnership
-
-{"id":"b671edc3-9d9e-4e91-b055-d5cb88d9bb95","object":"chat.completion","created":1771512844,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Influencer Partnership Brief
-
 ## Purpose
 To create a clear, structured brief that aligns brand objectives with influencer collaboration, ensuring mutual value and campaign success.
 

@@ -1,7 +1,3 @@
--e # Onboarding
-
-{"id":"291afd30-e20b-4372-bc0d-eb5c7dc518af","object":"chat.completion","created":1771595589,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Onboarding Brief
-
 ## Purpose
 Create a concise, structured onboarding brief that accelerates new hire ramp-up by providing essential context, expectations, and resources in a single, accessible document.
 

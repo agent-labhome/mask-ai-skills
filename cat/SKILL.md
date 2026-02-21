@@ -1,6 +1,4 @@
--e # Cat
-
-{"id":"119a9ce1-9b34-4410-a274-ca953f39b124","object":"chat.completion","created":1771588394,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Cat. Brief. - SKILL Documentation
+# Cat. Brief. - SKILL Documentation
 
 ## Overview
 **Cat. Brief.** is a minimalist, high-speed note-taking application designed for capturing thoughts and ideas with maximum efficiency. The application prioritizes speed and simplicity over complex features, making it ideal for quick note capture without distractions.
@@ -22,4 +20,4 @@
 ### 1. Instant Launch
 - Single HTML file deployment
 - Zero initialization time
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

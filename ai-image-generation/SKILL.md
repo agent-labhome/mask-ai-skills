@@ -1,7 +1,3 @@
--e # AI Image Generation
-
-{"id":"d77b7890-ddb6-4ea3-8876-7c60b3f6e847","object":"chat.completion","created":1771512989,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: AI Image Generation
-
 ## Purpose
 Generate original images from text descriptions using AI models.
 

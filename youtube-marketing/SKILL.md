@@ -1,7 +1,3 @@
--e # YouTube Marketing
-
-{"id":"602b543b-8497-4592-9ca0-d5ac9f4920d5","object":"chat.completion","created":1771563008,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: YouTube Marketing
-
 ## Core Competency
 Strategic planning, creation, optimization, and promotion of video content on YouTube to achieve business objectives including brand awareness, audience growth, lead generation, and revenue.
 

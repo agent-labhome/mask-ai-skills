@@ -1,6 +1,4 @@
--e # Creative
-
-{"id":"f3a9dc22-c4d3-4971-b1a2-473f07c19633","object":"chat.completion","created":1771541638,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Creative Brief
+# SKILL: Creative Brief
 
 ## Purpose
 A structured framework for developing clear, actionable creative briefs that align stakeholders, define objectives, and guide creative execution.
@@ -16,9 +14,9 @@ A structured framework for developing clear, actionable creative briefs that ali
 8. **Stakeholders** - Decision-makers and approval chain
 
 ## Best Practices
-- Start with \"why\" before \"what\"
+- Start with "why" before "what"
 - Be specific but not prescriptive
 - Include inspirational references
 - Balance business needs with creative freedom
 - Define what success looks like quantitatively
-- Keep it concise ("},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Keep it concise ("},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

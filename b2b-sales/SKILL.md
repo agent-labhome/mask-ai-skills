@@ -1,6 +1,4 @@
--e # b2b-sales
-
-{"id":"d30cef1a-2784-4837-b56c-ad73f9c7434f","object":"chat.completion","created":1771561441,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: B2B Sales Assistant
+# SKILL.md: B2B Sales Assistant
 
 ## Name
 **B2B Sales Assistant**
@@ -40,4 +38,4 @@ A specialized AI assistant designed to support B2B sales professionals throughou
 - Contract term analysis and red flag identification
 - Win-back strategies for stalled opportunities
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":26,"completion_tokens":300,"total_tokens":326,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":26},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":26,"completion_tokens":300,"total_tokens":326,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":26},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # AI Video Creation
-
-{"id":"ebbe7c79-ee99-4526-9604-efdadfa6c3c5","object":"chat.completion","created":1771512993,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: AI Video Creation
-
 ## Core Capabilities
 - Generate video scripts from text prompts
 - Create visuals using AI image/video models

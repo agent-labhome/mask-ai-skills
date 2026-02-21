@@ -1,6 +1,4 @@
--e # Real Estate
-
-{"id":"1e07e49b-f5f4-4a45-826b-3f43b2c39a77","object":"chat.completion","created":1771574314,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Real Estate Brief
+# SKILL.md: Real Estate Brief
 
 ## Core Competencies
 
@@ -16,4 +14,4 @@
 - **Investment Analysis**: Calculation of ROI, cap rates, cash flow projections, and appreciation potential
 - **Environmental Factors**: Awareness of flood zones, soil conditions, and other environmental considerations
 
-### Transaction Management"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### Transaction Management"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

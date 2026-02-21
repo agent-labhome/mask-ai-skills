@@ -1,6 +1,4 @@
--e # crypto-portfolio-management
-
-{"id":"14e22212-150d-4d23-8225-56a15291e6a4","object":"chat.completion","created":1771561461,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Crypto Portfolio Management
+# SKILL.md: Crypto Portfolio Management
 
 ## Name
 **Crypto Portfolio Tracker**
@@ -27,4 +25,4 @@ A comprehensive cryptocurrency portfolio management tool that allows users to tr
 ### Risk Management
 - **Volatility Analysis**: Identify high-risk assets in your portfolio
 - **Correlation Matrix**: Understand how assets move relative to each other
-- **Diversification Score**: Get"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":25,"completion_tokens":300,"total_tokens":325,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":25},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Diversification Score**: Get"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":25,"completion_tokens":300,"total_tokens":325,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":25},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

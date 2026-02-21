@@ -1,7 +1,3 @@
--e # Mobile SEO
-
-{"id":"162099b4-7d44-4cba-8f98-5ec5c606707a","object":"chat.completion","created":1771516357,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Mobile SEO
-
 ## Core Focus
 Optimizing websites for mobile-first indexing, speed, and user experience.
 

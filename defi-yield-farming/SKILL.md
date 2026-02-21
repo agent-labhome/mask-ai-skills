@@ -1,6 +1,4 @@
--e # defi-yield-farming
-
-{"id":"0e351efd-7a50-4a25-b694-ac83e085581f","object":"chat.completion","created":1771561495,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# DeFi Yield Farming Skill
+# DeFi Yield Farming Skill
 
 ## Name
 **DeFi Yield Farming**
@@ -37,4 +35,4 @@ A comprehensive skill for analyzing, comparing, and optimizing yield farming opp
 - Optimal deposit/withdrawal strategies
 - Tax-efficient farming approaches
 
-### 5. **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":27,"completion_tokens":300,"total_tokens":327,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":27},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 5. **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":27,"completion_tokens":300,"total_tokens":327,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":27},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

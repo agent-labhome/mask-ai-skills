@@ -1,7 +1,3 @@
--e # Development
-
-{"id":"4cf79e6f-7d77-4c9c-b3b6-6a20abe7bba8","object":"chat.completion","created":1771540271,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Development Brief
-
 ## Purpose
 A concise development brief outlines project requirements, scope, and constraints to align stakeholders and guide development.
 

@@ -1,7 +1,3 @@
--e # Online Course
-
-{"id":"9ff7eb5f-c9e9-4caa-bc7c-5d3f0f6007d5","object":"chat.completion","created":1771541545,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Online Course Creation
-
 ## Core Competencies
 
 **Instructional Design**

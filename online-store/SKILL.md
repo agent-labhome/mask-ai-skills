@@ -1,7 +1,3 @@
--e # Online Store
-
-{"id":"10fb247b-12f9-4263-b7a7-b4bc92b9b6ee","object":"chat.completion","created":1771566873,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Online Store
-
 ## Core Purpose
 Build and manage a fully functional e-commerce platform with product listings, shopping cart, checkout, and order management.
 

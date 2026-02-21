@@ -1,6 +1,4 @@
--e # podcast-production
-
-{"id":"33773e67-c587-4bab-82d3-7386661468b7","object":"chat.completion","created":1771561488,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Podcast Production Skill
+# Podcast Production Skill
 
 ## Name
 Podcast Production
@@ -39,4 +37,4 @@ A comprehensive skill for planning, recording, editing, and publishing professio
 - Creating compelling episode titles and descriptions
 - Transcript generation and accessibility features
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":23,"completion_tokens":300,"total_tokens":323,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":23},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":23,"completion_tokens":300,"total_tokens":323,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":23},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

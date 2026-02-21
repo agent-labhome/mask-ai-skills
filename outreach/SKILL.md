@@ -1,7 +1,3 @@
--e # Outreach
-
-{"id":"11afbff3-8446-4ca7-bf87-29ab0f63d1da","object":"chat.completion","created":1771579878,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Outreach Brief
-
 ## Overview
 A structured framework for creating effective outreach briefs that align teams, clarify objectives, and ensure consistent execution across channels.
 

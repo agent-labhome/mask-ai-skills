@@ -1,6 +1,4 @@
--e # Pinterest Marketing
-
-{"id":"b25eecfc-cb9e-4cc3-a6cb-133c91c8d771","object":"chat.completion","created":1771512244,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Pinterest Marketing SKILL
+# Pinterest Marketing SKILL
 
 ## Core Purpose
 Drive traffic, brand awareness, and conversions through visual discovery.
@@ -22,4 +20,4 @@ Drive traffic, brand awareness, and conversions through visual discovery.
 - Monthly viewers
 - Outbound clicks
 - Saves (most important engagement metric)
-- Conversion events (via Pinterest"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Conversion events (via Pinterest"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

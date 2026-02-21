@@ -1,7 +1,3 @@
--e # Language
-
-{"id":"a881dedb-7f29-4ddf-a809-8093692c775d","object":"chat.completion","created":1771588947,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md
-
 ## Language
 **Brief**
 

@@ -1,7 +1,3 @@
--e # GCP
-
-{"id":"9154ae42-cbf6-46be-9724-695ca0b5ee71","object":"chat.completion","created":1771559287,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# GCP SKILLS
-
 ## Core Competencies
 
 ### Infrastructure

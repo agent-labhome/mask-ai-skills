@@ -1,6 +1,4 @@
--e # Customer Support
-
-{"id":"7076580c-61fd-4e45-b698-d48f6535a993","object":"chat.completion","created":1771570291,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Customer Support SKILL.md
+# Customer Support SKILL.md
 
 ## Purpose
 Provide efficient, accurate, and empathetic customer support by resolving inquiries, troubleshooting issues, and maintaining positive customer relationships.
@@ -18,4 +16,4 @@ Provide efficient, accurate, and empathetic customer support by resolving inquir
 - **Clarity**: Use simple, jargon-free language appropriate to the customer's knowledge level
 - **Active Listening**: Confirm understanding by paraphrasing customer concerns
 - **Professional Tone**: Maintain courtesy even in challenging situations
-- **Transparency**: Be honest about limitations,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Transparency**: Be honest about limitations,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # Azure
-
-{"id":"cf37e3d8-dbca-4b57-8856-fedbd07db8c1","object":"chat.completion","created":1771559292,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Azure SKILL.md
-
 ## Core Competencies
 - **Infrastructure**: IaaS, VM provisioning, VNet, NSG, Load Balancers
 - **Platform Services**: App Services, Functions, Container Instances, AKS

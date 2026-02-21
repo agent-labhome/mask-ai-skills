@@ -1,6 +1,4 @@
--e # Investment
-
-{"id":"8ecead52-2f84-48c3-a1e9-b594af61eff1","object":"chat.completion","created":1771595490,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Investment Brief Analysis
+# SKILL: Investment Brief Analysis
 
 ## Purpose
 To analyze, structure, and communicate investment opportunities through concise, well-structured briefs that enable informed decision-making.
@@ -21,4 +19,4 @@ To analyze, structure, and communicate investment opportunities through concise,
 - **Deal Structure**: Proposed terms, capital requirements, ownership
 - **Timeline**: Key milestones and decision points
 
-### 3. **Stake"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. **Stake"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

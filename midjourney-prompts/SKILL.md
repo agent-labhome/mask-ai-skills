@@ -1,6 +1,4 @@
--e # Midjourney Prompts
-
-{"id":"75266d4a-2b9b-45d0-8646-41e8ea91300c","object":"chat.completion","created":1771512984,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Midjourney Prompt Skills
+# Midjourney Prompt Skills
 
 ## Core Structure
 - **Subject**: Main focus (person, object, scene)
@@ -23,4 +21,4 @@
 - `--s` - Stylize value (0-1000)
 
 ## Example Formula
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":200,"total_tokens":219,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":200,"total_tokens":219,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,7 +1,3 @@
--e # Copywriting Writing
-
-{"id":"b851c177-a9d6-4246-b42c-30a18c576744","object":"chat.completion","created":1771541472,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Copywriting Brief Writing
-
 ## Purpose
 To translate business objectives into clear, actionable creative direction that enables effective copy development.
 

@@ -1,47 +1,44 @@
-# SKILL.md: Facebook Ads
+-e {"id":"9c47ad24-4234-49ba-9dfe-aa6cabc802bd","object":"chat.completion","created":1771648335,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Facebook Ads
 
 ## Metadata
-- **Domain**: Digital Marketing / Advertising
-- **Subdomain**: Social Media Advertising
-- **Primary Platform**: Meta Ads Manager
-- **Related Skills**: Audience Targeting, Conversion Tracking, Ad Creative, Budget Management, Analytics
-- **Experience Levels**: Beginner → Intermediate → Advanced
-- **Typical Roles**: Digital Marketer, Social Media Manager, PPC Specialist, Growth Marketer
+- **Skill Category**: Digital Marketing / Paid Advertising
+- **Complexity Level**: Intermediate to Advanced
+- **Time to Basic Proficiency**: 2-3 months
+- **Time to Advanced Proficiency**: 6-12 months
+- **Prerequisites**: Basic marketing understanding, budget allocation authority, analytical thinking
+- **Tools Required**: Facebook Business Manager, Meta Ads Manager, Facebook Pixel, Analytics platform
+- **Certifications**: Meta Blueprint Certified Digital Marketing Associate, Meta Blueprint Certified Media Planning Professional
 
-## Practical Overview
+## Overview
+Facebook Ads is a sophisticated advertising platform allowing businesses to target specific audiences across Facebook, Instagram, Messenger, and Audience Network. With over 2 billion daily active users, it offers unparalleled reach and targeting capabilities for businesses of all sizes.
 
-### Core Components
-1. **Campaign Structure**
-   - Campaign (Objective: Awareness, Consideration, Conversion)
-   - Ad Set (Audience, Placement, Budget, Schedule)
-   - Ad (Creative, Copy, Format)
+## Core Competencies
 
-2. **Key Objectives**
-   - Brand Awareness
-   - Traffic (Website, App)
-   - Engagement (Post, Page)
-   - Lead Generation
-   - Conversions (Purchases, Sign-ups)
-   - Catalog Sales
-   - Store Visits
+### 1. Platform Navigation & Structure
+- **Business Manager**: Central hub for managing assets, people, and permissions
+- **Ads Manager**: Campaign creation and management interface
+- **Audiences**: Custom, saved, and lookalike audience management
+- **Events Manager**: Conversion tracking and pixel management
+- **Billing Center**: Payment methods and spending limits
 
-### Essential Practical Skills
+### 2. Campaign Strategy & Planning
+- **Objective Selection**: Awareness, Consideration, Conversion
+- **Budget Strategy**: Daily vs. lifetime budgets, campaign vs. ad set budgeting
+- **Funnel Alignment**: Top-funnel (awareness), mid-funnel (consideration), bottom-funnel (conversion)
+- **Seasonal Planning**: Calendar alignment for promotions and holidays
 
-#### 1. **Audience Targeting**
-- **Custom Audiences**: Website visitors, customer lists, app users
-- **Lookalike Audiences**: 1-10% similarity based on source audience
-- **Detailed Targeting**: Demographics, interests, behaviors
-- **Location Targeting**: Radius, cities, countries
-- **Exclusion Audiences**: Remove existing customers or irrelevant users
+### 3. Audience Targeting Mastery
+- **Core Audiences**: Demographics, interests, behaviors
+- **Custom Audiences**: Customer lists, website visitors, app users, engagement audiences
+- **Lookalike Audiences**: 1-10% expansion based on seed audiences
+- **Detailed Targeting**: Layered interest and behavior combinations
+- **Exclusion Audiences**: Preventing ad waste by excluding existing customers or irrelevant users
 
-#### 2. **Budget & Bidding**
-- **Budget Types**: Daily vs. Lifetime
-- **Bidding Strategies**: Lowest cost, cost cap, bid cap, target cost
-- **Campaign Budget Optimization (CBO)**: Automatic budget distribution
-- **Ad Scheduling**: Dayparting for optimal times
+### 4. Creative Development
+- **Ad Formats**: Image, video, carousel, collection, instant experience, stories
+- **Specifications**: Aspect ratios, file sizes, text limits per format
+- **Creative Testing**: A/B testing methodologies, dynamic creative optimization
+- **Brand Consistency**: Maintaining visual and messaging alignment across campaigns
 
-#### 3. **Ad Formats & Creative**
-- **Image Ads**: Single image, carousel (2-10 images)
-- **Video Ads**: In-feed, stories, reels
-- **Collection Ads**: Mobile-focused product showcases
-- **Lead Ads**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":400,"total_tokens":418,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 5. Performance Analysis & Optimization
+- **Key Metrics**: CTR, CPC, CPM"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

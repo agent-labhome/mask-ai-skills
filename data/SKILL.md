@@ -1,6 +1,4 @@
--e # Data
-
-{"id":"9d5f23a2-66cd-4964-a605-d7f56840f0bc","object":"chat.completion","created":1771590822,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md for Data Brief
+# SKILL.md for Data Brief
 
 ## Core Competencies
 
@@ -21,4 +19,4 @@
 ### **Communication & Presentation**
 - **Executive Summarization**: Distilling complex findings into key takeaways
 - **Visual Communication**: Designing intuitive data presentations
-- **Audience Adaptation**: Tailoring data"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Audience Adaptation**: Tailoring data"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

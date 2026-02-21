@@ -1,7 +1,3 @@
--e # Mindset Success
-
-{"id":"342d9a2f-c45f-4413-8529-3dab48618de9","object":"chat.completion","created":1771513070,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Mindset Success - SKILL.md
-
 ## Core Principles
 - **Growth Mindset**: View challenges as opportunities to learn
 - **Resilience**: Bounce back from setbacks with purpose

@@ -1,6 +1,4 @@
--e # Tutoring
-
-{"id":"f1758c73-4d6f-4dc4-8c24-9743701b6b57","object":"chat.completion","created":1771565606,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Tutoring
+# SKILL.md: Tutoring
 
 ## Core Competencies
 
@@ -24,4 +22,4 @@
 - Non-verbal communication awareness (body language, tone)
 
 ### 4. Lesson Planning & Structure
-- Set clear learning objectives for"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- Set clear learning objectives for"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

@@ -1,6 +1,4 @@
--e # Push
-
-{"id":"b14ed126-12c8-4aa8-ba27-0eecb90898c4","object":"chat.completion","created":1771587204,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Push. Brief.
+# SKILL.md: Push. Brief.
 
 ## Core Definition
 **Push. Brief.** is the skill of delivering critical information in a concise, actionable format under time pressure, prioritizing clarity and decision-making over completeness.
@@ -20,4 +18,4 @@
 ### 3. **Tone & Delivery**
 - **Unemotional Clarity**: Fact-focused, neutral tone
 - **Confident Concision**: Eliminate hedging language
-- **Pause Points**: Intentional"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Pause Points**: Intentional"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

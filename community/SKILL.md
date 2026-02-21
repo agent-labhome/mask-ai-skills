@@ -1,6 +1,4 @@
--e # Community
-
-{"id":"6fc76c8a-5a47-418f-ab20-e5c01ecdab26","object":"chat.completion","created":1771579858,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Community Brief
+# SKILL.md: Community Brief
 
 ## Core Competency
 **Community Strategy & Management** - Designing, building, and nurturing engaged communities around products, brands, or movements.
@@ -24,4 +22,4 @@ The ability to:
 ### 2. Engagement Strategy
 - **Content Programming**: Planning regular activities, events, and discussions
 - **Conversation Design**: Facilitating meaningful dialogue and knowledge sharing
-- **Event Planning"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Event Planning"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

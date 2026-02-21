@@ -1,7 +1,3 @@
--e # Social Media
-
-{"id":"0959b812-f690-445b-88ad-b3450e94382c","object":"chat.completion","created":1771537833,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Social Media
-
 ## Core Purpose
 Effectively manage and grow social media presence across platforms.
 

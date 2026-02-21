@@ -1,6 +1,4 @@
--e # Editing
-
-{"id":"2e848d29-796c-4ef3-a7d1-3552e0875306","object":"chat.completion","created":1771592693,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Editing
+# SKILL.md: Editing
 
 ## Core Competencies
 
@@ -19,4 +17,4 @@
 ### 3. **Copy Editing**
 - **Grammar Mastery**: Expert knowledge of syntax, punctuation, and usage
 - **Consistency**: Ensuring style guide adherence (AP, Chicago, MLA, etc.)
-- **Fact-Checking**: Verifying names, dates, statistics, and references"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Fact-Checking**: Verifying names, dates, statistics, and references"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

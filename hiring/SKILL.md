@@ -1,7 +1,3 @@
--e # Hiring
-
-{"id":"387d26b9-46d1-4b40-83a9-321423e2e83b","object":"chat.completion","created":1771595578,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Hiring Brief SKILL
-
 ## Purpose
 This document outlines the structured approach for creating effective hiring briefs that align talent acquisition with business objectives.
 

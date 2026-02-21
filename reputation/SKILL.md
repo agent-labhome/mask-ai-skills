@@ -1,6 +1,4 @@
--e # Reputation
-
-{"id":"ab789072-97e4-4797-8942-98fe737b0d14","object":"chat.completion","created":1771519927,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Reputation Management SKILL
+# Reputation Management SKILL
 
 ## Purpose
 Track and manage reputation scores for users based on their actions and contributions.
@@ -23,4 +21,4 @@ Track and manage reputation scores for users based on their actions and contribu
 - Gamify participation and quality contributions
 - Identify trusted users and subject matter experts
 
-**Note**: Reputation systems work best when tied to meaningful actions and transparent criteria."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":169,"total_tokens":185,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Note**: Reputation systems work best when tied to meaningful actions and transparent criteria."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":16,"completion_tokens":169,"total_tokens":185,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

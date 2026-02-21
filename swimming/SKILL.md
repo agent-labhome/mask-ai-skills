@@ -1,7 +1,3 @@
--e # Swimming
-
-{"id":"82a18524-63a3-44a2-ad48-cca2baea0d34","object":"chat.completion","created":1771574141,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Swimming
-
 ## Core Competencies
 
 **Beginner (Level 1-2)**

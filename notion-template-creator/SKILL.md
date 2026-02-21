@@ -1,7 +1,3 @@
--e # Notion Template Creator
-
-{"id":"5c60deb2-cdad-4739-b735-df7e33f7a798","object":"chat.completion","created":1771512190,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Notion Template Creator - SKILL.md
-
 ## Purpose
 Quickly create and share reusable Notion templates from existing pages.
 

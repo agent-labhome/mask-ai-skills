@@ -1,6 +1,4 @@
--e # Success
-
-{"id":"bfdf8656-a47f-4008-ace7-cbd7523f1c63","object":"chat.completion","created":1771579920,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Success. Brief.
+# SKILL: Success. Brief.
 
 ## What It Is
 A communication and thinking framework that forces clarity by requiring every message, update, or idea to be expressed in **three sentences or fewer**.
@@ -16,6 +14,6 @@ If you can't explain it briefly, you don't understand it well enough. Brevity fo
    - **Third Sentence:** Specify the immediate next step or expected outcome.
 
 ### 2. **Before You Communicate**
-   - Ask: \"What is the ONE thing I need them to know/do?\"
+   - Ask: "What is the ONE thing I need them to know/do?"
    - Strip away background, justifications, and caveats unless absolutely critical.
-   - If it requires more than three sentences, you likely"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+   - If it requires more than three sentences, you likely"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache

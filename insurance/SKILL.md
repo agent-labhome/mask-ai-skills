@@ -1,7 +1,3 @@
--e # Insurance
-
-{"id":"e1f11ccf-db26-4e71-a547-9a31834bd2c6","object":"chat.completion","created":1771590639,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Insurance Brief
-
 ## Overview
 The **Insurance Brief** skill enables users to generate concise, structured summaries of insurance policies, claims, or coverage scenarios. It distills complex insurance documents and situations into clear, actionable briefs for quick understanding and decision-making.
 

@@ -1,7 +1,3 @@
--e # Critical Thinking
-
-{"id":"a3cdb0ca-f670-4f06-983d-4b732948d088","object":"chat.completion","created":1771534484,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Critical Thinking SKILL.md
-
 ## What It Is
 Systematically analyzing information to form reasoned judgments.
 

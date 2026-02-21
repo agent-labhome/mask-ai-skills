@@ -1,6 +1,4 @@
--e # Customer Success
-
-{"id":"8989a80d-f64e-46ab-8cc9-dd53f71ddd2a","object":"chat.completion","created":1771579910,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Customer Success
+# SKILL.md: Customer Success
 
 ## Core Competencies
 
@@ -17,4 +15,4 @@
 - **Best Practices**: Guide customers toward optimal usage patterns and configurations
 
 ### 3. Strategic Advisory
-- **Business Value Translation**: Connect product usage to measurable business outcomes (ROI, efficiency"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+- **Business Value Translation**: Connect product usage to measurable business outcomes (ROI, efficiency"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
