@@ -1,24 +1,75 @@
--e # Technical Writing
+-e {"id":"db59fa1a-fcc8-4df7-b1ff-2a0b6e7cab7a","object":"chat.completion","created":1771642199,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Technical Writing
 
-{"id":"b9519221-3f4c-4e46-9d7c-d43ea1df3018","object":"chat.completion","created":1771570133,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Technical Writing
+## Metadata
+- **Skill Domain:** Communication & Documentation
+- **Proficiency Levels:** Beginner → Intermediate → Advanced → Expert
+- **Related Skills:** Technical Communication, API Documentation, User Guides, Tutorials, Knowledge Base Management
+- **Tools:** Markdown, Git, Static Site Generators, API Documentation Tools, Diagram Tools
+- **Common Roles:** Technical Writer, Documentation Engineer, Developer Advocate, Product Manager
 
-## Purpose
-To communicate complex technical information clearly, accurately, and effectively for a specific audience.
+---
 
-## Core Principles
+## Practical Guide to Technical Writing
 
-*   **Audience-Centric:** Adapt content, tone, and depth to the reader's knowledge level and needs.
-*   **Clarity & Precision:** Use plain language, avoid ambiguity, and define jargon.
-*   **Conciseness:** Be direct and eliminate unnecessary words.
-*   **Accuracy:** Ensure all technical information is correct and verifiable.
-*   **Logical Structure:** Organize information in a predictable, scannable flow (e.g., problem-solution, chronological, task-based).
+### 1. Core Principles
 
-## Key Practices
+**Clarity Over Cleverness**
+- **Bad:** \"Leverage the synergistic potential of our multi-modal interface\"
+- **Good:** \"Use the dashboard to view all your data in one place\"
 
-1.  **Plan & Analyze:**
-    *   Define the document's goal and audience.
-    *   Determine the appropriate format (guide, API reference, report, etc.).
+**Audience Awareness**
+- **Novice Users:** Step-by-step instructions with screenshots
+- **Developers:** API references with code examples
+- **Administrators:** Configuration guides with troubleshooting
 
-2.  **Structure & Draft:**
-    *   Use informative headings and subheadings.
-    *   Employ lists (bul"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Accuracy First**
+- Always test procedures yourself
+- Document exact versions and system requirements
+- Include error messages and recovery steps
+
+### 2. Document Types & Structures
+
+**API Documentation**
+```markdown
+# createUser
+
+## Endpoint
+`POST /api/v1/users`
+
+## Parameters
+| Name | Type | Required | Description |
+|------|------|----------|-------------|
+| email | string | Yes | Valid email address |
+| role | enum | No | \"admin\" or \"user\" (default: \"user\") |
+
+## Example Request
+```json
+{
+  \"email\": \"user@example.com\",
+  \"role\": \"admin\"
+}
+```
+
+## Response
+**Success (201 Created)**
+```json
+{
+  \"id\": \"usr_123\",
+  \"email\": \"user@example.com\",
+  \"created_at\": \"2024-01-15T10:30:00Z\"
+}
+```
+
+**Error (400 Bad Request)**
+```json
+{
+  \"error\": \"Invalid email format\"
+}
+```
+```
+
+**Tutorial Structure**
+1. **Objective:** What the user will accomplish
+2. **Prerequisites:** Required knowledge and tools
+3. **Steps:** Numbered, testable actions
+4. **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":450,"total_tokens":472,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
