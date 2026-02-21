@@ -1,18 +1,37 @@
--e {"id":"3ae75c05-1397-4547-ab9d-86fa9bb61ae0","object":"chat.completion","created":1771597078,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
-# Revenue Operations
+-e {"id":"f1b15d4e-b0a1-45f2-94e5-bc5942d80bcf","object":"chat.completion","created":1771642762,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Revenue Operations (RevOps)
 
-**Name:** Revenue Operations (RevOps)  
-**Description:** A strategic function that aligns sales, marketing, and customer success operations, technology, and data to drive efficient, predictable, and scalable revenue growth.  
-**Triggers:** Revenue plateau, funnel misalignment, inconsistent customer experience, data silos between teams, inefficient tech stack, poor lead-to-cash process visibility, or scaling go-to-market motions.
+## Metadata
+- **Category**: Business Operations, Sales Enablement, Data Strategy
+- **Level**: Intermediate to Advanced
+- **Prerequisites**: Basic understanding of CRM systems, sales processes, and business metrics
+- **Related Skills**: Sales Operations, Marketing Operations, Customer Success, Data Analysis, Process Optimization
+- **Tools**: Salesforce, HubSpot, Marketo, Outreach, Clari, Gong, Excel/Sheets, SQL, BI Tools (Tableau, Looker)
 
-## Core Responsibilities
+## Overview
+Revenue Operations (RevOps) is a strategic function that aligns sales, marketing, and customer success operations around the shared goal of driving sustainable revenue growth. It breaks down departmental silos by creating unified processes, systems, and data governance across the entire customer lifecycle.
 
-*   **Process & Alignment:** Design, document, and enforce the integrated revenue process from lead to renewal. Break down silos between marketing, sales, and customer success.
-*   **Technology & Systems:** Own, administer, and optimize the revenue tech stack (CRM, MAP, CPQ, etc.). Ensure data flows seamlessly between systems.
-*   **Data & Insights:** Establish a single source of truth for revenue metrics. Provide analytics and reporting on pipeline health, forecasting accuracy, and funnel performance.
-*   **Enablement:** Equip revenue-generating teams with tools, training, and content to improve effectiveness.
-*   **Governance:** Maintain data hygiene, enforce process compliance, and manage system access and security.
+## Core Competencies
 
-## Key Metrics (KPIs)
+### 1. **Data Strategy & Governance**
+- **Data Hygiene**: Implement and maintain clean, standardized data across all systems
+- **Single Source of Truth**: Establish centralized data repositories and definitions
+- **Metrics Alignment**: Define and track shared KPIs across departments (e.g., CAC, LTV, pipeline velocity)
+- **Data Accessibility**: Ensure relevant stakeholders have appropriate access to insights
 
-*   Revenue"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":26,"completion_tokens":250,"total_tokens":276,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":26},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. **Technology Stack Management**
+- **System Integration**: Connect CRM, marketing automation, sales engagement, and customer success platforms
+- **Tool Evaluation**: Assess and select technology that supports the entire revenue cycle
+- **Automation**: Implement workflows that reduce manual work and improve efficiency
+- **User Adoption**: Drive tool utilization through training and change management
+
+### 3. **Process Optimization**
+- **Lead-to-Revenue Mapping**: Document and optimize the complete customer journey
+- **SLA Management**: Establish and monitor service level agreements between teams
+- **Forecasting**: Implement accurate, data-driven revenue forecasting models
+- **Territory & Quota Planning**: Design fair, motivating territory and compensation structures
+
+### 4. **Cross-Functional Alignment**
+- **Shared Goals**: Facilitate collaborative goal-setting across revenue teams
+- **Communication Frameworks**: Create regular syncs and reporting structures
+- **Conflict Resolution**: Mediate process disagreements with data-driven solutions
+- **Change Management**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":450,"total_tokens":468,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

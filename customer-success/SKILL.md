@@ -1,25 +1,48 @@
--e {"id":"8ee91f62-2fcf-4f25-83d4-d9ec7fbb845f","object":"chat.completion","created":1771597004,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
----
-name: Customer Success
-description: Proactively manage and nurture customer relationships to drive adoption, retention, and expansion. Focus on understanding customer goals, mitigating churn risk, and identifying growth opportunities.
-triggers:
-  - New customer onboarding
-  - Usage or engagement drop detected
-  - Renewal period approaching
-  - Support ticket volume increase
-  - Product feedback or feature request
-  - Customer health score changes
----
+-e {"id":"dc7346f8-5f25-45dc-b52b-dd5d764cc481","object":"chat.completion","created":1771642752,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Customer Success SKILL Framework
 
-## Core Responsibilities
-- **Onboarding & Adoption:** Guide new customers to initial value and ensure proper product setup and training.
-- **Relationship Management:** Serve as primary point of contact, building trusted partnerships and understanding business objectives.
-- **Health Monitoring:** Track usage metrics, satisfaction (CSAT/NPS), and risk indicators to proactively address issues.
-- **Renewal & Retention:** Drive renewal conversations, mitigate churn risks, and secure contract expansions.
-- **Advocacy & Growth:** Identify upsell/cross-sell opportunities and cultivate customer references and case studies.
+## 📋 Metadata
+- **Domain**: Customer Relations & Business Growth
+- **Core Purpose**: Maximize customer value, retention, and advocacy
+- **Key Stakeholders**: Customers, Sales, Product, Support, Marketing
+- **Success Metrics**: NPS, Retention Rate, Expansion Revenue, Product Adoption, Customer Health Score
+- **Mindset**: Proactive partnership, not reactive support
 
-## Key Actions
-- Conduct regular business reviews (QBRs/EBRs)
-- Create and execute success plans aligned to customer goals
-- Collaborate with Support, Product, and Sales teams on customer needs
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":26,"completion_tokens":250,"total_tokens":276,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":26},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## 🎯 Core Competencies
+
+### 1. **Customer Relationship Management**
+- **Onboarding**: Structured implementation plans, clear success criteria
+- **Quarterly Business Reviews (QBRs)**: Data-driven insights, value demonstration
+- **Stakeholder Mapping**: Identify champions, influencers, decision-makers
+- **Communication Cadence**: Regular check-ins, strategic touchpoints
+
+### 2. **Product Adoption & Value Realization**
+- **Usage Analysis**: Track feature adoption, identify gaps
+- **Success Planning**: Co-create goals tied to business outcomes
+- **Value Metrics**: Define and measure ROI specific to customer goals
+- **Training Enablement**: Just-in-time resources, best practice sharing
+
+### 3. **Risk Identification & Mitigation**
+- **Health Scoring**: Monitor engagement, sentiment, usage patterns
+- **Churn Signals**: Recognize red flags (reduced usage, support tickets, executive changes)
+- **Intervention Plans**: Escalation protocols, executive sponsorship activation
+- **Renewal Forecasting**: Pipeline management, risk assessment
+
+### 4. **Expansion & Advocacy**
+- **Upsell/Cross-sell**: Identify needs aligned with product roadmap
+- **Reference Program**: Cultivate case studies, testimonials, referrals
+- **Community Building**: Facilitate peer connections, user groups
+- **Feedback Loop**: Product insights, feature requests with business context
+
+## 🛠️ Practical Toolkit
+
+### Daily/Weekly Operations
+```
+📞 Customer Touchpoints:
+- New customer welcome call (Day 1)
+- 30/60/90 day check-ins
+- Weekly: Review health scores, flag risks
+- Monthly: Usage reports, adoption analysis
+
+📊 Systems Management:
+- CRM updates (interactions, next steps)
+- Health"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":450,"total_tokens":468,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

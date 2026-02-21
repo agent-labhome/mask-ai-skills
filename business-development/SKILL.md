@@ -1,21 +1,48 @@
--e # Business Development
+-e {"id":"99da4b58-f68b-4a48-89d5-3abedc70de01","object":"chat.completion","created":1771642733,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Development
 
-{"id":"58de45f8-edc3-4710-b652-7513cfff50d1","object":"chat.completion","created":1771565388,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Development
+## Metadata
+- **Category:** Business & Sales
+- **Experience Level:** Associate to Director
+- **Core Function:** Creating and capturing value through strategic partnerships, market expansion, and revenue growth
+- **Key Industries:** Technology, SaaS, Consulting, Manufacturing, Professional Services
+- **Related Roles:** Sales Manager, Partnership Manager, Growth Hacker, Strategic Account Executive
 
-## Core Competencies
+---
 
-### 1. Market & Industry Analysis
-- **Market Research:** Identifying new markets, customer segments, and industry trends.
-- **Competitive Intelligence:** Analyzing competitor strategies, strengths, and weaknesses.
-- **Opportunity Sizing:** Quantifying market potential and revenue opportunities.
-- **SWOT Analysis:** Assessing organizational position relative to market opportunities.
+## Practical Framework
 
-### 2. Strategic Partnerships & Alliances
-- **Partner Identification:** Sourcing and vetting potential strategic partners (channel, technology, co-marketing).
-- **Deal Structuring:** Negotiating terms, defining mutual value, and creating partnership frameworks.
-- **Relationship Management:** Nurturing long-term partner relationships for sustained growth.
-- **Ecosystem Development:** Building networks within an industry or vertical.
+### 1. Core Competencies
 
-### 3. Sales & Pipeline Development
-- **Lead Generation:** Prospecting and creating new business opportunities.
-- **Qualification:** Assessing fit, budget, authority, need"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+#### A. Market Intelligence & Analysis
+- **Market Sizing:** TAM/SAM/SOM analysis, growth rate projections
+- **Competitive Intelligence:** SWOT analysis, competitor positioning, pricing strategies
+- **Trend Spotting:** Industry shifts, emerging technologies, regulatory changes
+- **Customer Insights:** Pain points, buying behaviors, decision-making processes
+
+#### B. Strategic Planning
+- **Go-to-Market Strategy:** Entry approaches, channel selection, pricing models
+- **Partnership Development:** Identifying complementary businesses, structuring win-win agreements
+- **Pipeline Building:** Lead generation strategies, qualification frameworks, conversion pathways
+- **Resource Allocation:** Budget optimization, team deployment, tool investment
+
+#### C. Relationship Building
+- **Stakeholder Mapping:** Identifying decision-makers, influencers, and gatekeepers
+- **Networking Strategy:** Industry events, associations, digital platforms (LinkedIn)
+- **Trust Building:** Consistent follow-up, value-first approach, transparency
+- **Negotiation:** Win-win frameworks, contract structuring, long-term relationship focus
+
+#### D. Execution & Operations
+- **Deal Management:** Pipeline tracking, milestone management, CRM utilization
+- **Cross-functional Collaboration:** Working with marketing, product, legal, and finance teams
+- **Metrics & Reporting:** KPIs (MRR, CAC, LTV, conversion rates), dashboard creation
+- **Process Optimization:** Streamlining workflows, automating repetitive tasks
+
+---
+
+### 2. Practical Toolkit
+
+#### Essential Documents & Templates
+- **One-Pager:** Company/product overview for initial conversations
+- **Pitch Deck:** Modular presentation adaptable to different audiences
+- **Partnership Proposal Template:** Problem → Solution → Mutual Benefit structure
+- **Email Templates:** Cold outreach, follow-up sequences,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":450,"total_tokens":468,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
