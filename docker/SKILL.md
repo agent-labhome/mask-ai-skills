@@ -1,26 +1,44 @@
--e # Docker
+-e {"id":"f01ad220-9ca8-4797-9644-7b34e946af44","object":"chat.completion","created":1771636451,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Docker: Containerization Platform
 
-{"id":"a6426dfa-2ab7-4922-96f6-def67d073974","object":"chat.completion","created":1771559296,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Docker SKILL.md
+## Metadata
+- **Category**: DevOps / Containerization
+- **Complexity**: Intermediate
+- **Prerequisites**: Basic Linux/CLI, understanding of virtualization concepts
+- **Related Skills**: Kubernetes, CI/CD, Cloud Platforms, Infrastructure as Code
+- **Market Demand**: High (Essential for modern DevOps roles)
 
-## Core Commands
-- `docker run <image>` - Run container from image
-- `docker build -t <name> .` - Build image from Dockerfile
-- `docker ps` - List running containers
-- `docker ps -a` - List all containers
-- `docker images` - List images
-- `docker stop <container>` - Stop container
-- `docker rm <container>` - Remove container
-- `docker rmi <image>` - Remove image
+## Overview
+Docker is a platform for developing, shipping, and running applications in containers. Containers package an application with all its dependencies, ensuring consistency across environments.
 
-## Essential Concepts
-- **Image**: Read-only template with instructions
-- **Container**: Running instance of an image
-- **Dockerfile**: Recipe for building images
-- **Volume**: Persistent data storage
-- **Network**: Communication between containers
+## Core Concepts
 
-## Quick Workflow
-1. Write Dockerfile
-2. Build: `docker build -t myapp .`
-3. Run: `docker run -p 8080:80 myapp`
-4"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 1. **Container Fundamentals**
+- **Images**: Read-only templates with instructions for creating containers
+- **Containers**: Runnable instances of images
+- **Dockerfile**: Text document with commands to assemble an image
+- **Registry**: Repository for Docker images (Docker Hub, private registries)
+
+### 2. **Key Components**
+- Docker Engine (daemon + CLI)
+- Docker Compose (multi-container applications)
+- Docker Swarm (native clustering)
+- Docker Hub (public registry)
+
+## Practical Skills
+
+### Basic Operations
+```bash
+# Image management
+docker pull nginx:latest
+docker images
+docker rmi <image_id>
+
+# Container lifecycle
+docker run -d -p 8080:80 --name web nginx
+docker ps -a
+docker stop/start/restart <container>
+docker rm <container>
+
+# Interactive container
+docker run -it ubuntu bash
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":300,"total_tokens":317,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,23 +1,32 @@
--e # DevOps
+-e {"id":"babf44d1-adee-45cd-a57a-d90bbbcbe345","object":"chat.completion","created":1771636444,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: DevOps
 
-{"id":"a3ddcaf4-fecc-439c-a4be-64e5f37fa01e","object":"chat.completion","created":1771590686,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: DevOps
+## Metadata
+- **Category**: IT & Infrastructure
+- **Experience Level**: Associate to Expert
+- **Related Roles**: DevOps Engineer, Site Reliability Engineer (SRE), Cloud Engineer, Platform Engineer
+- **Key Tools**: Docker, Kubernetes, AWS/Azure/GCP, Terraform, Ansible, Jenkins, Git, Prometheus, Grafana
+- **Mindset**: Automation, Collaboration, Continuous Improvement, Systems Thinking
 
-## Core Philosophy
-DevOps is a cultural and technical movement emphasizing collaboration, automation, continuous improvement, and shared responsibility between development and operations teams to deliver software rapidly, reliably, and securely.
+## Practical Overview
 
----
+### Core Competencies
 
-## 1. Foundational Knowledge
+**1. Infrastructure as Code (IaC)**
+- Write declarative configuration files to provision and manage infrastructure
+- Tools: Terraform, CloudFormation, Pulumi, Ansible
+- Practice: Version control your infrastructure code alongside application code
 
-### Culture & Principles
-- **CALMS Framework**: Culture, Automation, Lean, Measurement, Sharing
-- **Collaboration & Communication**: Breaking down silos, blameless postmortems
-- **Infrastructure as Code (IaC)**: Treating infrastructure configuration as version-controlled code
-- **Continuous Everything**: Integration, Delivery, Deployment, Testing, Monitoring
-- **Shift-Left Security**: Integrating security early in the development lifecycle (DevSecOps)
+**2. Continuous Integration/Continuous Deployment (CI/CD)**
+- Automate build, test, and deployment pipelines
+- Tools: Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD
+- Practice: Implement blue-green deployments, canary releases, and rollback strategies
 
-### Core Concepts
-- **SDLC Integration**: Understanding full software development lifecycle
-- **Service Reliability**: SLOs, SLIs, SLAs, error budgets
-- **Cloud Native Principles**: 12-factor apps, microservices, containers
-- **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**3. Containerization & Orchestration**
+- Package applications with dependencies using containers
+- Orchestrate container deployment, scaling, and management
+- Tools: Docker, Kubernetes, Docker Swarm, ECS
+- Practice: Write Dockerfiles, Kubernetes manifests, and Helm charts
+
+**4. Cloud Platforms**
+- Deploy and manage applications on cloud providers
+- Services: Compute, storage, networking, databases, serverless"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":300,"total_tokens":317,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

@@ -1,27 +1,26 @@
--e # AWS
+-e {"id":"9fc5fa50-f4cf-4f87-88bb-91f204b9a676","object":"chat.completion","created":1771636463,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AWS (Amazon Web Services) - SKILL.md
 
-{"id":"22f61cab-986d-456d-ac96-874a39a8fb4e","object":"chat.completion","created":1771559282,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AWS SKILL.md
+## Metadata
+- **Category**: Cloud Computing & Infrastructure
+- **Proficiency Level**: Foundational to Expert (200+ services)
+- **Key Domains**: IaaS, PaaS, SaaS, Serverless, DevOps, Security, Data, AI/ML
+- **Common Roles**: Cloud Engineer, Solutions Architect, DevOps Engineer, SysOps Administrator, Security Specialist
+- **Learning Curve**: Moderate to Steep (varies by service complexity)
+- **Market Demand**: Extremely High (industry leader with 33% market share)
+- **Certification Path**: Cloud Practitioner → Associate → Professional → Specialty
 
-## Core Competencies
-- **Compute:** EC2, Lambda, ECS, Fargate
-- **Storage:** S3, EBS, EFS, Glacier
-- **Databases:** RDS, DynamoDB, Redshift
-- **Networking:** VPC, Route 53, CloudFront, API Gateway
-- **Security:** IAM, KMS, Secrets Manager, WAF
-- **Management:** CloudWatch, CloudFormation, AWS CLI, Cost Explorer
+## Core Service Categories
 
-## Key Practices
-- Infrastructure as Code (CloudFormation/Terraform)
-- High availability & fault tolerance design
-- Cost optimization & tagging strategies
-- Security-first architecture (least privilege)
-- Serverless & containerization patterns
+### 1. Compute Services
+- **EC2** (Elastic Compute Cloud): Virtual servers with multiple instance types
+- **Lambda**: Serverless compute (pay per execution)
+- **ECS/EKS**: Container management (Docker & Kubernetes)
+- **Lightsail**: Simplified VPS for smaller applications
+- **Batch**: Fully managed batch processing
 
-## Common Certifications
-- Solutions Architect Associate/Professional
-- Developer Associate
-- SysOps Administrator
-- Security Specialty
-
-## Quick Reference
-- `aws-cli` for terminal operations
+### 2. Storage Services
+- **S3** (Simple Storage Service): Object storage with 99.999999999% durability
+- **EBS** (Elastic Block Store): Block storage for EC2 instances
+- **EFS** (Elastic File System): Managed NFS for multiple EC2 instances
+- **FSx**: Managed file systems (Windows & Lustre)
+- **Storage Gateway**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":300,"total_tokens":317,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

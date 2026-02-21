@@ -1,27 +1,41 @@
--e # Kubernetes
+-e {"id":"d16a986b-23c5-4103-9021-38b8fa648840","object":"chat.completion","created":1771636457,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Kubernetes
 
-{"id":"407f79db-ed58-4472-b5b7-1327fd2f8525","object":"chat.completion","created":1771559301,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Kubernetes SKILL.md
+## Metadata
+- **Category**: DevOps & Infrastructure
+- **Subcategory**: Container Orchestration
+- **Prerequisites**: 
+  - Container fundamentals (Docker)
+  - Basic Linux command line
+  - YAML syntax
+  - Networking concepts
+- **Experience Level**: Intermediate to Advanced
+- **Common Roles**: DevOps Engineer, SRE, Platform Engineer, Cloud Engineer
+
+## Overview
+Kubernetes is an open-source container orchestration platform that automates deployment, scaling, and management of containerized applications. Originally developed by Google, it's now maintained by the Cloud Native Computing Foundation (CNCF).
 
 ## Core Concepts
-- **Cluster**: Set of nodes running containerized applications
-- **Pod**: Smallest deployable unit (one or more containers)
-- **Deployment**: Declarative way to manage Pods and ReplicaSets
-- **Service**: Network abstraction for accessing Pods
-- **Namespace**: Virtual cluster within a physical cluster
 
-## Essential Commands
-```bash
-kubectl get pods
-kubectl apply -f manifest.yaml
-kubectl describe pod <name>
-kubectl logs <pod-name>
-kubectl exec -it <pod> -- /bin/bash
-kubectl port-forward <pod> 8080:80
+### 1. **Cluster Architecture**
+- **Control Plane**: Manages the cluster (API Server, etcd, Scheduler, Controller Manager)
+- **Nodes**: Worker machines that run containers (kubelet, kube-proxy, container runtime)
+- **Pods**: Smallest deployable units (one or more containers sharing resources)
+- **Services**: Stable network endpoints for pods
+- **Ingress**: Manages external HTTP/S traffic to services
+
+### 2. **Key Objects**
+```yaml
+# Example Pod definition
+apiVersion: v1
+kind: Pod
+metadata:
+  name: myapp-pod
+spec:
+  containers:
+  - name: myapp-container
+    image: nginx:latest
+    ports:
+    - containerPort: 80
 ```
 
-## Common Patterns
-- Use Deployments for stateless applications
-- Use StatefulSets for stateful applications
-- Use ConfigMaps/Secrets for configuration
-- Use Ingress for HTTP routing
-- Use PersistentVolumes for storage
+###"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":300,"total_tokens":317,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
