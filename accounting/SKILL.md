@@ -1,19 +1,40 @@
--e # Accounting
+-e {"id":"370c47db-8b74-4583-90f7-0f3d34c1da6e","object":"chat.completion","created":1771642987,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Accounting
 
-{"id":"15806356-7c1c-4053-972a-34ddeefbf150","object":"chat.completion","created":1771595475,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Accounting
+## Metadata
+- **Domain:** Finance & Business
+- **Core Purpose:** Systematic recording, analysis, and reporting of financial transactions
+- **Key Paradigms:** Double-entry bookkeeping, accrual vs. cash accounting, financial reporting standards
+- **Common Tools:** QuickBooks, Xero, Excel, SAP, Oracle NetSuite, FreshBooks
+- **Related Skills:** Financial Analysis, Auditing, Tax Preparation, Budgeting, Compliance
 
-## Core Competencies
-- **Financial Reporting**: GAAP/IFRS compliance, balance sheets, income statements, cash flow statements
-- **Bookkeeping**: Double-entry accounting, ledger maintenance, transaction recording
-- **Reconciliation**: Bank statements, accounts payable/receivable, general ledger
-- **Tax Preparation**: Corporate/personal tax returns, tax planning, compliance
-- **Auditing**: Internal controls, financial statement audits, compliance reviews
-- **Cost Accounting**: Job costing, process costing, overhead allocation
-- **Budgeting & Forecasting**: Variance analysis, financial modeling, cash flow projections
+---
 
-## Technical Proficiencies
-- **Accounting Software**: QuickBooks, Sage, Xero, NetSuite
-- **ERP Systems**: SAP, Oracle Financials, Microsoft Dynamics
-- **Advanced Excel**: PivotTables, macros, financial functions
-- **Data Analysis**: SQL, Power BI, Tableau for financial insights
-- **Regulatory Knowledge**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Practical Guide
+
+### 1. Foundational Concepts
+- **Double-Entry Bookkeeping:** Every transaction affects at least two accounts (debit and credit)
+- **Accounting Equation:** Assets = Liabilities + Equity
+- **Financial Statements:**
+  - **Balance Sheet:** Snapshot of financial position at a point in time
+  - **Income Statement:** Performance over a period (revenue - expenses = profit/loss)
+  - **Cash Flow Statement:** Movement of cash through operating, investing, financing activities
+- **Accrual vs. Cash Basis:** Recognizing revenue/expenses when earned/incurred vs. when cash changes hands
+
+### 2. Core Workflows
+- **Transaction Recording:** Documenting invoices, receipts, payments, payroll
+- **Account Reconciliation:** Matching bank statements with ledger entries
+- **Month-End Close:** Temporary account closure, adjusting entries, financial statement preparation
+- **Financial Reporting:** Generating statements for management, investors, regulators
+- **Compliance:** Adhering to GAAP, IFRS, or tax regulations
+
+### 3. Common Tasks & How to Approach Them
+- **Accounts Payable:** Process vendor invoices, schedule payments, maintain vendor relationships
+- **Accounts Receivable:** Issue customer invoices, track collections, manage credit terms
+- **Payroll:** Calculate wages, withhold taxes, process payments, file payroll taxes
+- **Inventory Accounting:** Track cost of goods sold, manage inventory valuation methods (FIFO, LIFO, weighted average)
+- **Fixed Assets:** Record depreciation, track capital expenditures, manage asset disposals
+
+### 4. Technical Implementation Examples
+```excel
+// Basic Income Statement Formula in Excel
+Revenue: =SUM(B2:B"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

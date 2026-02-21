@@ -1,27 +1,43 @@
--e # Finance
+-e {"id":"e3c7aeda-cc9d-4971-895d-17d554af604e","object":"chat.completion","created":1771642978,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Finance
 
-{"id":"31b5b14b-c9a6-4f6a-b4f6-5b844969074a","object":"chat.completion","created":1771595470,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Finance Brief
+## Metadata
+- **Category**: Business & Economics
+- **Complexity**: Intermediate to Advanced
+- **Time to Basic Proficiency**: 3-6 months
+- **Key Applications**: Personal finance, corporate finance, investment analysis, financial planning, risk management
+- **Related Skills**: Accounting, Data Analysis, Economics, Excel/Spreadsheets, Critical Thinking
 
-## Purpose
-To synthesize complex financial information into concise, actionable briefs for decision-makers.
+## Overview
+Finance is the study and practice of managing money, assets, and investments. It encompasses personal financial planning, corporate financial management, and investment analysis. Mastering finance enables informed decision-making about saving, investing, borrowing, and risk management.
 
 ## Core Competencies
 
-### 1. **Information Synthesis**
-- Distill financial reports, market data, and economic indicators into key takeaways
-- Identify patterns, trends, and anomalies across multiple data sources
-- Separate signal from noise in financial information
+### 1. Financial Literacy
+- **Budgeting & Cash Flow Management**: Track income/expenses, create sustainable budgets
+- **Debt Management**: Understand interest, repayment strategies, good vs. bad debt
+- **Time Value of Money**: Present/future value calculations, discounting cash flows
+- **Financial Statements**: Read/interpret balance sheets, income statements, cash flow statements
 
-### 2. **Audience Adaptation**
-- Tailor financial language to executive, investor, or non-financial audiences
-- Adjust depth of detail based on decision-making needs
-- Present information in contextually relevant frameworks
+### 2. Investment Analysis
+- **Asset Classes**: Stocks, bonds, real estate, commodities, cryptocurrencies
+- **Risk-Return Tradeoff**: Higher potential returns typically involve higher risk
+- **Portfolio Theory**: Diversification, asset allocation, Modern Portfolio Theory
+- **Valuation Methods**: DCF analysis, comparable company analysis, precedent transactions
 
-### 3. **Strategic Framing**
-- Connect financial data to business objectives and strategic initiatives
-- Highlight implications, risks, and opportunities
-- Provide clear recommendations with supporting rationale
+### 3. Corporate Finance
+- **Capital Budgeting**: NPV, IRR, payback period for project evaluation
+- **Capital Structure**: Debt vs. equity financing decisions
+- **Working Capital Management**: Manage current assets/liabilities for operational efficiency
+- **Financial Modeling**: Build forecasts and scenario analyses
 
-### 4. **Visual Communication**
-- Create effective charts, graphs, and visual summaries
-- Design executive dashboards and one-page briefs
+### 4. Risk Management
+- **Identification**: Market, credit, operational, liquidity risks
+- **Measurement**: Value at Risk (VaR), stress testing, sensitivity analysis
+- **Mitigation**: Hedging strategies, insurance, diversification
+
+## Practical Applications
+
+### Personal Finance (Beginner)
+1. **Emergency Fund**: Save 3-6 months of expenses in liquid assets
+2. **Debt Snowball/Avalanche**: Systematically pay down high-interest debt
+3."},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
