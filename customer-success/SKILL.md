@@ -1,48 +1,61 @@
-# Customer Success SKILL Framework
+-e {"id":"cdd5c692-d1fc-4c6c-86a0-5f7f6e912b1c","object":"chat.completion","created":1771652313,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Customer Success
 
-## 📋 Metadata
-- **Domain**: Customer Relations & Business Growth
-- **Core Purpose**: Maximize customer value, retention, and advocacy
-- **Key Stakeholders**: Customers, Sales, Product, Support, Marketing
-- **Success Metrics**: NPS, Retention Rate, Expansion Revenue, Product Adoption, Customer Health Score
-- **Mindset**: Proactive partnership, not reactive support
+## Metadata
+- **Skill Category**: Business Operations / Client Relations
+- **Complexity Level**: Intermediate to Advanced
+- **Primary Users**: Customer Success Managers, Account Managers, Support Teams
+- **Key Outcomes**: Reduced churn, increased customer lifetime value, improved product adoption
+- **Related Skills**: Account Management, Technical Support, Data Analysis, Communication
 
-## 🎯 Core Competencies
+---
 
-### 1. **Customer Relationship Management**
-- **Onboarding**: Structured implementation plans, clear success criteria
-- **Quarterly Business Reviews (QBRs)**: Data-driven insights, value demonstration
-- **Stakeholder Mapping**: Identify champions, influencers, decision-makers
-- **Communication Cadence**: Regular check-ins, strategic touchpoints
+## Overview
+Customer Success is a proactive business methodology focused on ensuring customers achieve their desired outcomes while using your product or service. Unlike reactive customer support, Customer Success anticipates needs, drives adoption, and builds strategic partnerships to maximize customer value and retention.
 
-### 2. **Product Adoption & Value Realization**
-- **Usage Analysis**: Track feature adoption, identify gaps
-- **Success Planning**: Co-create goals tied to business outcomes
-- **Value Metrics**: Define and measure ROI specific to customer goals
-- **Training Enablement**: Just-in-time resources, best practice sharing
+## Core Principles
 
-### 3. **Risk Identification & Mitigation**
-- **Health Scoring**: Monitor engagement, sentiment, usage patterns
-- **Churn Signals**: Recognize red flags (reduced usage, support tickets, executive changes)
-- **Intervention Plans**: Escalation protocols, executive sponsorship activation
-- **Renewal Forecasting**: Pipeline management, risk assessment
+### 1. **Proactive Engagement**
+- Monitor customer health scores and usage metrics
+- Initiate contact before issues arise
+- Share relevant best practices and resources
 
-### 4. **Expansion & Advocacy**
-- **Upsell/Cross-sell**: Identify needs aligned with product roadmap
-- **Reference Program**: Cultivate case studies, testimonials, referrals
-- **Community Building**: Facilitate peer connections, user groups
-- **Feedback Loop**: Product insights, feature requests with business context
+### 2. **Outcome-Oriented Approach**
+- Understand customer business objectives
+- Align product usage with customer goals
+- Measure success by customer achievements, not just satisfaction
 
-## 🛠️ Practical Toolkit
+### 3. **Strategic Partnership**
+- Position as trusted advisor, not just vendor
+- Develop multi-level relationships within client organizations
+- Collaborate on roadmap and strategic planning
 
-### Daily/Weekly Operations
+## Implementation Framework
+
+### Phase 1: Foundation Setup
+**A. Customer Segmentation**
 ```
-📞 Customer Touchpoints:
-- New customer welcome call (Day 1)
-- 30/60/90 day check-ins
-- Weekly: Review health scores, flag risks
-- Monthly: Usage reports, adoption analysis
+Tier 1 (Strategic): >$100k ARR | Weekly check-ins | Dedicated CSM
+Tier 2 (Growth): $25-100k ARR | Bi-weekly touchpoints | Pooled CSM
+Tier 3 (Transactional): <$25k ARR | Automated engagement | Tech-touch
+```
 
-📊 Systems Management:
-- CRM updates (interactions, next steps)
-- Health"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":450,"total_tokens":468,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**B. Health Scoring System**
+- **Usage Metrics** (40%): Feature adoption, login frequency, data volume
+- **Support Metrics** (30%): Ticket volume, resolution time, escalation rate
+- **Business Metrics** (30%): ROI achieved, expansion potential, stakeholder engagement
+
+**C. Technology Stack**
+- CRM (Salesforce, HubSpot)
+- Customer Success Platform (Gainsight, Totango)
+- Analytics (Mixpanel, Amplitude)
+- Communication (Slack, Zoom, Email sequences)
+
+### Phase 2: Customer Journey Mapping
+
+**Onboarding (0-90 days)**
+- Success plan co-creation within first 30 days
+- Initial business value delivered within 60 days
+- First business review at 90 days
+
+**Adoption (3-12 months)**
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":500,"total_tokens":522,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
