@@ -1,27 +1,38 @@
--e # Pitch Deck
+-e {"id":"37f1b1df-4eb4-4448-9c1b-5e0fdbe5b605","object":"chat.completion","created":1771641214,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Pitch Deck
 
-{"id":"18aa91e0-f09c-4f07-ae1d-52af8df769ac","object":"chat.completion","created":1771512385,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Pitch Deck Brief
+## Metadata
+- **Skill Name:** Pitch Deck Creation & Presentation
+- **Category:** Business Development / Entrepreneurship / Fundraising
+- **Prerequisites:** Business model understanding, basic design sense, storytelling ability
+- **Time to Proficiency:** 3-6 months with regular practice
+- **Key Tools:** PowerPoint, Google Slides, Keynote, Figma, Canva, Pitch.com, Beautiful.ai
+- **Related Skills:** Storytelling, Financial Modeling, Public Speaking, Market Analysis
 
-## Purpose
-Transform complex business ideas into a clear, compelling pitch deck brief that aligns stakeholders and guides deck creation.
+## Core Competencies
 
-## Core Principles
-- **Audience-First**: Tailor every element to investor priorities and attention spans
-- **Story-Driven**: Frame as a narrative, not just data presentation
-- **Problem-Centric**: Start with the pain point, not the solution
-- **Visual Thinking**: Design for glanceability and emotional impact
+### 1. Strategic Storytelling
+- **Narrative Structure:** Master the 10-slide standard structure:
+  1. Title (Company name, tagline, contact)
+  2. Problem (The pain point, quantified)
+  3. Solution (Your product/service)
+  4. Market Size (TAM/SAM/SOM)
+  5. Product (Demo/screenshots, key features)
+  6. Business Model (How you make money)
+  7. Traction (Milestones, metrics, validation)
+  8. Competition (Competitive landscape, differentiation)
+  9. Team (Key members, relevant experience)
+  10. Ask & Use of Funds (What you need, how you'll use it)
 
-## Key Components
-1. **Problem Statement** (1-2 sentences)
-   - Whose pain? How acute? Current alternatives?
-   
-2. **Solution** (1 sentence + 3 bullet points)
-   - Core value proposition
-   - Key differentiators
+- **Audience Adaptation:**
+  - **Investors:** Focus on ROI, market opportunity, team, exit potential
+  - **Customers:** Focus on benefits, use cases, implementation
+  - **Partners:** Focus on mutual value, integration, shared goals
+  - **Employees:** Focus on vision, culture, growth opportunities
 
-3. **Market Opportunity** (TAM/SAM/SOM)
-   - Top-down and bottom-up validation
-   - Growth trajectory
-
-4. **Business Model**
-   - Revenue streams
+### 2. Visual Design Principles
+- **Slide Composition:**
+  - One idea per slide
+  - 6x6 rule (max 6 bullet points, 6 words per bullet)
+  - High-contrast text (dark on light or vice versa)
+  - Consistent color palette (brand colors + neutrals)
+  - Ample"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":400,"total_tokens":420,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
