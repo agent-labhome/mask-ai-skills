@@ -1,23 +1,31 @@
--e # Data Science
+-e {"id":"f11606e9-42f2-48d9-92d8-3241a7401add","object":"chat.completion","created":1771636369,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Science
 
-{"id":"a1d2eae7-2249-4a72-8e90-948cd5f4e774","object":"chat.completion","created":1771566740,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Science
+## Metadata
+- **Field**: Data Science
+- **Category**: Technical / Analytical
+- **Prerequisites**: Statistics, Programming, Domain Knowledge
+- **Learning Curve**: Steep
+- **Tools**: Python/R, SQL, Git, Cloud Platforms, ML Libraries
+- **Applications**: Business Intelligence, Predictive Analytics, AI Systems, Research
+- **Related Skills**: Machine Learning, Data Engineering, Business Analysis, Visualization
 
-## Core Technical Skills
+## Core Competency Framework
 
-### Programming & Tools
-- **Primary Languages**: Python (pandas, NumPy, scikit-learn), R (tidyverse)
-- **SQL**: Complex queries, optimization, window functions
-- **Version Control**: Git, GitHub/GitLab workflows
-- **Cloud Platforms**: AWS (SageMaker, Redshift), GCP, Azure ML
-- **Containerization**: Docker, Kubernetes basics
+### 1. Foundational Mathematics & Statistics
+**Practical Requirements:**
+- **Probability**: Distributions (normal, binomial, Poisson), Bayes' Theorem, conditional probability
+- **Statistics**: Descriptive stats, hypothesis testing (p-values, confidence intervals), A/B testing
+- **Linear Algebra**: Matrix operations, eigenvectors/values (for PCA, SVD)
+- **Calculus**: Derivatives, gradients (for optimization algorithms)
 
-### Statistics & Mathematics
-- **Statistical Inference**: Hypothesis testing, confidence intervals, p-values
-- **Probability**: Distributions, Bayesian statistics, stochastic processes
-- **Linear Algebra**: Matrix operations, eigenvalues, SVD
-- **Calculus**: Gradients, optimization, multivariate calculus
+**Complete Checklist:**
+- [ ] Calculate and interpret statistical measures (mean, median, variance, skewness)
+- [ ] Perform hypothesis tests (t-test, chi-square, ANOVA)
+- [ ] Understand Type I/II errors and statistical power
+- [ ] Apply probability distributions to real-world scenarios
+- [ ] Use linear algebra for dimensionality reduction techniques
 
-### Machine Learning
-- **Supervised Learning**: Regression, classification, ensemble methods
-- **Unsupervised Learning**: Clustering, dimensionality reduction
-- **Model Evaluation**: Cross-validation, metrics (AUC, F1,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 2. Programming & Data Manipulation
+**Practical Requirements:**
+- **Python Stack**: pandas, NumPy, scikit-learn, Jupyter notebooks
+- **R Alternative**: tidyverse,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":300,"total_tokens":320,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

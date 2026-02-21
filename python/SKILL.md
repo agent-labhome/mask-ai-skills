@@ -1,26 +1,29 @@
--e # Python
+-e {"id":"d5da3885-f44e-48a0-919a-98743cea3ade","object":"chat.completion","created":1771636382,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Python SKILL.md
 
-{"id":"84776dc7-3140-4903-9e45-413f39b96f60","object":"chat.completion","created":1771577976,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Python SKILL
+## Metadata
+- **Language**: Python
+- **Paradigms**: Multi-paradigm (Object-Oriented, Functional, Procedural, Imperative)
+- **Typing**: Dynamic, Strong, Duck Typing
+- **Primary Use Cases**: Web Development, Data Science, Machine Learning, Automation, Scripting, DevOps, Scientific Computing
+- **Release Year**: 1991
+- **Creator**: Guido van Rossum
+- **Current Version**: 3.12+ (as of 2024)
+- **Package Manager**: pip, Poetry, Conda
+- **Key Frameworks**: Django, Flask, FastAPI, NumPy, Pandas, TensorFlow, PyTorch
 
-## Core Strengths
-- **Versatility**: Web dev, data science, automation, AI/ML, scripting
-- **Readability**: Clean, English-like syntax with significant whitespace
-- **Ecosystem**: Massive library collection (NumPy, Pandas, Django, Flask)
-- **Community**: Extensive documentation and support
+## Core Concepts
 
-## Common Use Cases
-- **Web Development**: Django, Flask, FastAPI
-- **Data Science**: Pandas, NumPy, SciPy, Jupyter
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn
-- **Automation**: Scripting, DevOps tools, task automation
-- **APIs & Microservices**: REST APIs, GraphQL, async services
-
-## Key Paradigms
-- Multi-paradigm (OOP, functional, procedural)
-- Dynamic typing with optional type hints
-- Interpreted with bytecode compilation
-- Garbage collected
-
-## Quick Start
+### 1. Syntax Fundamentals
 ```python
-#"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+# Variables and Basic Types
+name = \"Python\"                    # String
+version = 3.12                     # Integer
+pi = 3.14159                       # Float
+is_awesome = True                  # Boolean
+nothing = None                     # NoneType
+
+# Collections
+fruits = [\"apple\", \"banana\", \"cherry\"]          # List (mutable)
+coordinates = (10, 20)                          # Tuple (immutable)
+unique_numbers = {1, 2, 3, 3, 2}                # Set (unique, mutable)
+person = {\"name\": \"Alice\", \"age\": 30}           # Dictionary"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":300,"total_tokens":319,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

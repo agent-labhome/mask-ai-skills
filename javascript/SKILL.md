@@ -1,24 +1,39 @@
--e # JavaScript
+-e {"id":"ec0a9f43-8e4a-417d-8a2c-5f393ce8163b","object":"chat.completion","created":1771636388,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: JavaScript
 
-{"id":"7172dbc1-7ec4-4464-85f8-e4d8f648a0b8","object":"chat.completion","created":1771547394,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# JavaScript SKILL.md
+## Metadata
+- **Category**: Programming Language
+- **Type**: Core Web Technology
+- **Prerequisites**: HTML basics, basic programming concepts
+- **Difficulty Levels**: 
+  - Beginner (3-6 months): Syntax, DOM manipulation, basic APIs
+  - Intermediate (1-2 years): Async programming, frameworks, tooling
+  - Advanced (3+ years): Performance optimization, architecture, advanced patterns
+- **Ecosystem**: Node.js (backend), Browser (frontend), React Native (mobile), Electron (desktop)
+- **Paradigms**: Multi-paradigm (procedural, object-oriented, functional)
 
 ## Core Concepts
-- **Variables**: `let`, `const`, `var`
-- **Data Types**: Primitives (string, number, boolean, null, undefined, symbol, bigint) and Objects
-- **Functions**: Declarations, expressions, arrow functions
-- **Control Flow**: `if/else`, `switch`, loops (`for`, `while`)
-- **Arrays & Objects**: Manipulation and iteration methods
 
-## DOM Manipulation
-- Select elements: `getElementById`, `querySelector`
-- Modify content: `textContent`, `innerHTML`
-- Event handling: `addEventListener`
-- Style manipulation: `style`, `classList`
+### 1. Fundamentals (Beginner)
+```javascript
+// Variables and Data Types
+let mutable = \"can change\";
+const immutable = \"cannot change\";
+var legacy = \"avoid in modern code\";
 
-## Modern Features
-- **ES6+**: Template literals, destructuring, spread/rest operators
-- **Async/Await**: Promise handling, `fetch` API
-- **Modules**: `import`/`export`
+// Primitive Types
+const str = \"string\";
+const num = 42;
+const bool = true;
+const nul = null;
+const undef = undefined;
+const sym = Symbol(\"unique\");
 
-## Key Tools
-- **Browser DevTools"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+// Reference Types
+const obj = { key: \"value\" };
+const arr = [1, 2, 3];
+const func = () => {};
+
+// Type Coercion
+console.log(5 + \"5\"); // \"55\" (string concatenation)
+console.log(\"5\" == 5); // true (loose equality)
+console.log(\"5\""},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":300,"total_tokens":319,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
