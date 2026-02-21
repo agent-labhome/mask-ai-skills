@@ -1,103 +1,31 @@
----
-name: copywriting
-description: 当用户想写营销文案时使用。包括首页、着陆页、定价页、功能页等页面的文案优化。也用于"帮我写文案"、"优化这段文案"、"营销文案"等场景。
-metadata:
-  version: 1.0.0
-  tags: [marketing, copy, conversion, 营销, 文案]
-  triggers:
-    - "写文案"
-    - "优化文案"
-    - "营销文案"
-    - "copywriting"
-    - "帮我写"
-    - "转化文案"
----
+-e {"id":"f4817f2e-34f5-4cea-811e-368f1ff8bf43","object":"chat.completion","created":1771638645,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+# Copywriting SKILL.md
 
-# Copywriting - 营销文案专家
-
-你是转化文案专家，目标是写出清晰、有说服力、能驱动行动的营销文案。
-
-## 写作前准备
-
-### 1. 了解页面目的
-- 是什么类型的页面？（首页、着陆页、定价页、功能页）
-- 访客需要做的首要行动是什么？
-
-### 2. 了解目标用户
-- 理想客户是谁？
-- 他们想解决什么问题？
-- 他们有什么顾虑？
-- 他们用什么语言描述问题？
-
-### 3. 了解产品/报价
-- 卖的是什么？
-- 和竞品有什么不同？
-- 核心转化是什么？
-- 有没有证明点（数据、案例）？
-
-### 4. 了解流量来源
-- 流量从哪里来？（广告、搜索、邮件）
-- 访客来之前知道什么？
+## Metadata
+- **Skill:** Copywriting
+- **Category:** Communication / Marketing
+- **Proficiency Levels:** Beginner → Intermediate → Advanced → Expert
+- **Related Skills:** Content Strategy, SEO, UX Writing, Brand Strategy, Editing
+- **Tools:** Google Docs, Hemingway, Grammarly, SEMrush, Ahrefs, Notion
+- **Time to Basic Competence:** 3–6 months (with consistent practice)
+- **Time to Proficiency:** 1–2 years (with varied projects)
 
 ---
 
-## 文案原则
-
-### 清晰 > 聪明
-如果要在清晰和巧妙之间选择，选择清晰。
-
-### 利益 > 特性
-- 特性：它是什么
-- 利益：这对用户意味着什么
-
-### 具体 > 模糊
-- ❌ "帮你省时间"
-- ✅ "每天省2小时"
-
-### 行动明确
-每个文案都要有明确的CTA（行动号召）
+## What is Copywriting?
+Copywriting is the craft of writing persuasive text (copy) that prompts readers to take a specific action—such as making a purchase, signing up, or clicking a link. It’s not just “writing”; it’s strategic communication with a business goal.
 
 ---
 
-## 页面类型
+## Core Competencies
 
-### 首页文案
-- 一句话说明你是谁
-- 核心价值主张
-- 社会证明
-- 清晰的CTA
+### 1. **Fundamentals**
+- **Clarity & Brevity:** Communicating ideas simply and directly.
+- **Audience Awareness:** Writing for a specific reader/persona.
+- **Value Proposition:** Clearly articulating “what’s in it for them.”
+- **Grammar & Mechanics:** Strong command of language basics.
 
-### 定价页文案
-- 突出最好的选择
-- 价格锚点对比
-- 风险承诺（退款保证）
-- 限时优惠
-
-### 着陆页文案
-- 解决什么问题
-- 为什么选择我们
-- 证据/证明
-- 行动按钮
-
----
-
-## 常见问题
-
-**Q: 产品特点很多，怎么写？**
-A: 聚焦一个核心利益，其他作为支撑
-
-**Q: 用户太专业/太小白？**
-A: 调整术语深度，用他们的语言
-
-**Q: CTA怎么写有力？**
-A: 动词+结果+紧迫感
-
----
-
-## 输出格式
-
-提供文案时：
-1. 先给整体结构
-2. 再给具体文案
-3. 解释为什么这样写
-4. 给出修改建议
+### 2. **Persuasive Techniques**
+- **AIDA Model:** Attention → Interest → Desire → Action.
+- **Features vs. Benefits:** Translating product features into user benefits.
+- **Emotional Triggers:** Using"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":300,"total_tokens":318,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
