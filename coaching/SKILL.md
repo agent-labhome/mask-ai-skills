@@ -1,27 +1,39 @@
--e # Coaching
+-e {"id":"04943ade-4910-4785-99de-f91e5d5b5336","object":"chat.completion","created":1771642615,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Coaching: A Practical Guide
 
-{"id":"f310e6a8-4e66-452b-9342-fe6772aeaf41","object":"chat.completion","created":1771572456,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Coaching Brief
+## Metadata
+- **Domain**: Personal & Professional Development
+- **Complexity**: Intermediate to Advanced
+- **Time to Basic Proficiency**: 3-6 months
+- **Time to Mastery**: 2-5 years
+- **Key Components**: Active Listening, Questioning, Feedback, Goal-Setting, Accountability
+- **Related Skills**: Mentoring, Leadership, Communication, Psychology, Conflict Resolution
 
-## Purpose
-A structured framework for delivering concise, actionable coaching that drives immediate performance improvement while building long-term capability.
+## What is Coaching?
+
+Coaching is a structured conversation process that empowers individuals or teams to maximize their personal and professional potential. Unlike mentoring (sharing experience) or consulting (providing expertise), coaching focuses on unlocking a person's own insights and resources through powerful questioning and active listening.
 
 ## Core Principles
 
-### 1. **Focus on Forward Motion**
-- Start with the desired outcome, not the problem
-- Frame challenges as opportunities for growth
-- Maintain momentum toward solutions
+1. **Client-Centered**: The coachee has the answers; the coach facilitates discovery
+2. **Solution-Focused**: Oriented toward future possibilities, not past problems
+3. **Action-Oriented**: Leads to concrete commitments and behavioral change
+4. **Confidential**: Creates a safe space for exploration
+5. **Non-Judgmental**: Accepts the client's perspective without evaluation
 
-### 2. **Ownership & Agency**
-- The coachee owns their development
-- Coach facilitates, doesn't prescribe
-- Build self-coaching capability
+## Fundamental Skills Framework
 
-### 3. **Specificity & Actionability**
-- Concrete examples over generalizations
-- Clear next steps with accountability
-- Measurable progress indicators
+### 1. Active Listening (Level 1)
+**What it is**: Hearing beyond words to understand meaning, emotion, and values
+**Practice exercises**:
+- **Paraphrasing practice**: Listen to podcasts and summarize each 2-minute segment in one sentence
+- **Emotion spotting**: In conversations, mentally note the primary emotion behind statements
+- **Silence discipline**: Practice allowing 3 seconds of silence before responding
+- **Distraction audit**: Identify your top 3 listening distractions and create mitigation strategies
 
-## The Brief Coaching Framework
-
-### **PREPARE** (Before the Conversation)
+### 2. Powerful Questioning (Level 2)
+**What it is**: Asking questions that provoke insight rather than gather information
+**Practice exercises**:
+- **Question journal**: Record 5 questions daily that start with \"What\" or \"How\" (avoid \"Why\")
+- **Scale questioning**: Practice using \"On a scale of 1-10...\" questions to measure progress
+- **Future-focus drill**: Convert 10 problem statements into possibility questions
+- **Question restriction**: Have a conversation using"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
