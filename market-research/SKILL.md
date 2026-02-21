@@ -1,25 +1,43 @@
--e # Market Research
+-e {"id":"de739c3b-47df-45de-8d2e-e0bf85e5faa5","object":"chat.completion","created":1771642798,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Market Research SKILL
 
-{"id":"b0c9182b-c5b8-4f55-8307-7480dda2ac03","object":"chat.completion","created":1771562938,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Market Research Brief
+## Metadata
+- **Category**: Business Intelligence / Strategy
+- **Complexity**: Intermediate
+- **Time Required**: 2-8 hours (depending on scope)
+- **Output Formats**: Report, Presentation, Dashboard, SWOT Analysis
+- **Key Tools**: Surveys, Interviews, Competitor Analysis, Industry Reports, Google Trends, Social Listening
+- **Best For**: Entrepreneurs, Product Managers, Marketers, Business Strategists
 
-## Purpose
-Create structured, actionable market research briefs that align business objectives with research needs, ensuring clarity for stakeholders and research teams.
+## Overview
+Market research is the systematic process of gathering, analyzing, and interpreting information about a market, including information about potential customers, competitors, and the industry. This skill enables data-driven decision making and reduces business risk.
 
-## Core Components
+## Practical Framework
 
-### 1. **Project Overview**
-- **Project Title**: Clear, descriptive name
-- **Date & Version**: Timestamp and revision tracking
-- **Prepared By**: Author/requester details
-- **Stakeholders**: Key decision-makers and contributors
+### Phase 1: Define Objectives & Scope
+**Time: 30-60 minutes**
 
-### 2. **Business Context & Objectives**
-- **Background**: Current situation, market conditions, or problem statement
-- **Business Objectives**: What the organization aims to achieve
-- **Research Purpose**: Specific reason for conducting this research
-- **Success Criteria**: How we'll know the research was successful
+**Questions to Answer:**
+- What specific decision will this research inform? (e.g., product launch, pricing, market entry)
+- What do we need to know? (e.g., customer pain points, competitor pricing, market size)
+- What is our research budget and timeline?
+- Who are the key stakeholders for this research?
 
-### 3. **Research Questions**
-- **Primary Question**: The central question this research must answer
-- **Secondary Questions**: Supporting questions that provide context
-- **Hypotheses**: Testable assumptions to validate/invalidate"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Output:** 1-page research brief with clear objectives, key questions, and constraints.
+
+### Phase 2: Choose Research Methods
+**Time: 1-2 hours**
+
+**Primary Research (Direct Data Collection):**
+- **Surveys**: Quantitative data from target audience (use Google Forms, Typeform, SurveyMonkey)
+- **Interviews**: Qualitative insights from 5-10 potential customers or industry experts
+- **Focus Groups**: Group discussions (6-8 participants) for deeper qualitative insights
+- **Observations**: Watching how people interact with products/services in natural settings
+
+**Secondary Research (Existing Data):**
+- **Industry Reports**: Statista, IBISWorld, MarketResearch.com
+- **Competitor Analysis**: Analyze websites, pricing, marketing, customer reviews
+- **Public Data**: Government statistics, trade associations, academic journals
+- **Social Listening**: Monitor social media conversations (Brandwatch, Mention, free tools)
+- **SEO/SEM Analysis**: Use SEMrush or Ahrefs to understand search behavior
+
+**Practical Tip:** Start with secondary research (che"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":450,"total_tokens":468,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
