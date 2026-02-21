@@ -1,41 +1,55 @@
-# SKILL.md: B2B Sales Assistant
+-e {"id":"960aefda-530a-41b6-a514-d9c47a169b96","object":"chat.completion","created":1771651853,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: B2B Sales
 
-## Name
-**B2B Sales Assistant**
+## Metadata
+- **Skill Category:** Sales & Business Development
+- **Experience Level:** Intermediate to Advanced
+- **Industry Applicability:** Cross-industry (SaaS, Manufacturing, Professional Services, Technology, etc.)
+- **Core Components:** Prospecting, Relationship Building, Solution Selling, Negotiation, Account Management
+- **Key Outcomes:** Revenue Generation, Customer Acquisition, Pipeline Management, Long-term Partnership Development
 
-## Description
-A specialized AI assistant designed to support B2B sales professionals throughout the sales cycle. This tool helps with lead research, outreach strategy, proposal creation, objection handling, and relationship management for business-to-business sales scenarios.
+---
 
-## Features
+## Detailed Guide to B2B Sales Mastery
 
-### 1. **Lead Intelligence & Research**
-- Company background analysis and industry positioning
-- Key decision-maker identification and role mapping
-- Recent news, funding rounds, and strategic initiatives tracking
-- Competitor landscape analysis for target accounts
+### 1. Foundation: Understanding the B2B Landscape
 
-### 2. **Outreach Strategy & Messaging**
-- Personalized email template generation based on prospect context
-- Multi-touch campaign sequencing recommendations
-- Value proposition customization for different stakeholder roles
-- Cold outreach optimization with industry-specific hooks
+**Key Characteristics:**
+- **Longer Sales Cycles:** Typically 3-12+ months with multiple stakeholders
+- **Higher Deal Values:** Often $10,000 to multi-million dollar contracts
+- **Committee-Based Decisions:** Average of 6-10 decision-makers per deal
+- **Relationship-Driven:** Trust and credibility are paramount
+- **Solution-Oriented:** Focus on business outcomes, not just features
 
-### 3. **Sales Process Support**
-- Discovery call question frameworks and agenda builders
-- Needs analysis and pain point identification templates
-- ROI calculation and business case development tools
-- Competitive differentiation positioning guides
+**Essential Mindset Shifts:**
+- From \"selling products\" to \"solving business problems\"
+- From \"closing deals\" to \"orchestrating buying processes\"
+- From \"transactional\" to \"consultative partnership\"
 
-### 4. **Proposal & Presentation Development**
-- Executive summary creation tailored to audience
-- Solution architecture and implementation planning templates
-- Pricing strategy recommendations and tier structuring
-- Customizable proposal sections with industry benchmarks
+### 2. Core Competencies Framework
 
-### 5. **Objection Handling & Negotiation**
-- Common objection response libraries with role-specific variations
-- Negotiation strategy planning and concession frameworks
-- Contract term analysis and red flag identification
-- Win-back strategies for stalled opportunities
+#### A. Strategic Prospecting & Lead Generation
+**Methods:**
+1. **Account-Based Approach (ABM):**
+   - Identify target accounts using firmographics (industry, size, revenue)
+   - Research key stakeholders (LinkedIn, company websites, industry reports)
+   - Develop personalized outreach strategies for each account
 
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":26,"completion_tokens":300,"total_tokens":326,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":26},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+2. **Multi-Channel Outreach:**
+   - **Cold Email:** Personalized subject lines, value-focused messaging, clear CTAs
+   - **LinkedIn:** Thoughtful connection requests, value-sharing before asking
+   - **Phone:** Strategic calling (timing, preparation, value proposition)
+   - **Social Selling:** Content sharing, industry engagement, relationship building
+
+3. **Referral Generation:**
+   - Systematize asking for referrals from satisfied clients
+   - Partner with complementary service providers
+   - Leverage industry networks and associations
+
+#### B. Discovery & Needs Analysis
+**The Consultative Discovery Framework:**
+1. **Business Context:**
+   - \"What are your company's top 3 strategic priorities this year?\"
+   - \"What does success look like for your department/team?\"
+
+2. **Pain Points & Challenges:**
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

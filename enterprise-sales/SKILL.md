@@ -1,32 +1,51 @@
-# SKILL.md: Enterprise Sales
+-e {"id":"55804b40-39bb-472b-bf01-8e4450557c63","object":"chat.completion","created":1771651863,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Enterprise Sales
 
-## Name
-**Enterprise Sales**
+## Metadata
+- **Skill Domain:** Business Development & Sales
+- **Experience Level:** Intermediate to Advanced
+- **Time to Proficiency:** 2-5 years (depending on industry)
+- **Key Prerequisites:** B2B sales experience, business acumen, relationship management
+- **Related Skills:** Negotiation, Strategic Planning, Account Management, Solution Selling, Financial Analysis
 
-## Description
-Enterprise Sales is a specialized skill designed to assist B2B sales teams, account executives, and revenue leaders in navigating the complex, high-stakes world of selling to large organizations. It provides strategic frameworks, tactical guidance, and actionable insights for managing long sales cycles, engaging multiple stakeholders, negotiating complex contracts, and driving revenue growth from enterprise clients.
+---
 
-## Features
+## Overview
+Enterprise Sales involves selling high-value products, services, or solutions to large organizations through complex, multi-stakeholder buying processes. Unlike transactional sales, enterprise deals typically involve longer sales cycles (6-24 months), higher price points ($100K+), and require alignment across technical, financial, and executive stakeholders.
 
-### 1. **Sales Methodology Guidance**
-   - **SPIN Selling**, **MEDDIC**, **Challenger Sale**, and **Solution Selling** frameworks
-   - Tailored advice on applying methodologies to specific deal stages
-   - Custom playbooks for complex, multi-threaded opportunities
+## Core Competencies Framework
 
-### 2. **Stakeholder Mapping & Management**
-   - Techniques for identifying economic buyers, influencers, and blockers
-   - Strategies for building consensus across departments (IT, Finance, Operations, Executive)
-   - Guidance on managing political dynamics within client organizations
+### 1. Strategic Prospecting & Account Planning
+**Objective:** Identify and qualify target accounts with high potential for enterprise solutions.
 
-### 3. **Deal Strategy & Execution**
-   - Qualification frameworks for enterprise opportunities
-   - Pipeline management and forecasting best practices
-   - Risk assessment and mitigation strategies for large deals
-   - Competitive displacement tactics
+**Key Practices:**
+- **Account Segmentation:** Classify accounts by industry, revenue, growth trajectory, and strategic fit
+- **ICP Development:** Create detailed Ideal Customer Profiles including:
+  - Firmographics (size, industry, revenue)
+  - Technographics (existing tech stack)
+  - Psychographics (innovation appetite, risk tolerance)
+- **Landscape Mapping:** Document organizational structure, key initiatives, and pain points
+- **Multi-Threading:** Establish connections across multiple departments and levels simultaneously
 
-### 4. **Value Selling & ROI Development**
-   - Methods for quantifying business value and building business cases
-   - ROI calculator development and justification
-   - Financial modeling for multi-year enterprise agreements
+**Tools & Templates:**
+- Account planning canvas (1-page strategic overview per account)
+- Stakeholder influence/power matrix
+- Business case development framework
 
-### 5. **Negotiation & Contract"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":24,"completion_tokens":300,"total_tokens":324,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":24},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+### 2. Stakeholder Management & Relationship Development
+**Objective:** Build consensus and advocacy across complex buying committees.
+
+**Buying Committee Roles to Identify:**
+- **Economic Buyer:** Controls budget (CFO, VP Finance)
+- **Technical Buyer:** Evaluates feasibility (CTO, IT Director)
+- **User Buyer:** Daily users (department heads)
+- **Champion:** Internal advocate (mid-senior level influencer)
+- **Decision Maker:** Final approval (C-level executive)
+
+**Relationship Development Strategy:**
+- **Executive Alignment:** Connect solution to strategic business objectives
+- **Technical Validation:** Address security, integration, and scalability concerns
+- **User Adoption:** Demonstrate day-to-day value and ease of use
+- **Coaching Champions:** Equip internal advocates with tools and messaging
+
+### 3. Solution Selling & Value Articulation
+**Objective:** Position your offering as a strategic investment,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
