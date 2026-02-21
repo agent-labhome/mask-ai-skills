@@ -1,20 +1,50 @@
--e # Instagram Growth
+-e {"id":"e136ec72-6311-4ead-8fc3-b0607134c89d","object":"chat.completion","created":1771641432,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Instagram Growth
 
-{"id":"c0c3465d-23cb-4e8f-9d7d-b03ec2af5f71","object":"chat.completion","created":1771565159,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Instagram Growth Strategy
+## Metadata
+- **Category**: Digital Marketing / Social Media
+- **Difficulty**: Intermediate
+- **Time Commitment**: 3-6 months for noticeable results
+- **Required Tools**: Instagram app, analytics tools (native or third-party), content creation apps
+- **Prerequisites**: Basic understanding of social media, smartphone with camera
 
-## Core Capability
-Develop and execute data-driven Instagram growth strategies that increase followers, engagement, and brand authority through organic and paid tactics.
+## Core Principles
 
-## Key Functions
+### 1. Profile Optimization
+- **Username**: Memorable and searchable (ideally matching other platforms)
+- **Name Field**: Include keywords (e.g., \"Jane Doe | Digital Artist\")
+- **Bio**: Clear value proposition + call-to-action + relevant emojis
+- **Profile Photo**: Recognizable (face or consistent logo)
+- **Link in Bio**: Use link aggregators (Linktree, Beacons) to drive traffic
+- **Category Selection**: Choose appropriate business/creator category
 
-### 1. Content Strategy Development
-- **Content Pillar Identification**: Define 3-5 core content themes aligned with target audience interests
-- **Format Optimization**: Mix of Reels, Carousel posts, Stories, and static images based on algorithm preferences
-- **Content Calendar Creation**: Weekly/monthly scheduling with optimal posting times
-- **Aesthetic Consistency**: Develop and maintain cohesive visual branding
+### 2. Content Strategy
+**Content Pillars (3-5 themes):**
+- Educational (tips, tutorials)
+- Entertainment (humor, trends)
+- Inspiration (quotes, stories)
+- Behind-the-scenes
+- User-generated content
 
-### 2. Audience Growth Tactics
-- **Hashtag Strategy**: Research and implement tiered hashtag systems (niche, community, broad)
-- **Engagement Pods**: Facilitate or participate in strategic engagement groups
-- **Collaboration Outreach**: Identify and connect with complementary accounts for shoutouts/features
-- **Follow/Unfollow Optimization**: Strategic following of target audience"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Post Mix:**
+- 50% value-driven content
+- 30% engagement-focused
+- 20% promotional
+
+**Visual Consistency:**
+- Establish color palette/filters
+- Consistent composition style
+- Brand elements (watermarks, fonts)
+
+### 3. Algorithm Understanding
+- **Priority Signals**: Engagement rate, shares, saves, watch time
+- **Timing**: Post when audience is most active (check Insights)
+- **Relevance**: Instagram favors content aligned with user interests
+- **Relationship**: Frequent interaction builds connection signals
+
+## Practical Implementation
+
+### Week 1-2: Foundation
+1. **Audit your profile** using competitor analysis
+2. **Define 3 content pillars** relevant to your niche
+3. **Create content calendar** (plan 2 weeks ahead)
+"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":400,"total_tokens":418,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

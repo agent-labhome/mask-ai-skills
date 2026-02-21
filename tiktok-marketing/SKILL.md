@@ -1,16 +1,50 @@
--e # TikTok Marketing
+-e {"id":"2bb25f44-1c18-42bd-b538-3f6bd49001e7","object":"chat.completion","created":1771641440,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Marketing: A Practical Guide
 
-{"id":"92b18e8c-aba0-4a7e-ae11-94e9aac4a302","object":"chat.completion","created":1771563013,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Marketing Brief
+## Metadata
+- **Primary Platform**: TikTok
+- **Skill Level**: Beginner to Advanced
+- **Time Investment**: 5-15 hours/week for consistent results
+- **Key Tools**: TikTok Creator Studio, CapCut, TikTok Analytics, Trend Discovery tools
+- **ROI Timeline**: 3-6 months for measurable business outcomes
+- **Related Skills**: Content Creation, Social Media Strategy, Video Editing, Community Management
 
-## Platform Overview
-**TikTok** is a short-form video hosting service owned by ByteDance. Content ranges from 3 seconds to 10 minutes, with a highly personalized \"For You Page\" (FYP) algorithm driving discovery. It's not just an app; it's a culture engine.
+## Core Principles
 
-## Core Audience & Mindset
-- **Primary Demographics**: Gen Z (16-24) and Millennials (25-34), rapidly expanding to Gen X and Boomers.
-- **Mindset**: Users are in **discovery mode**. They crave authenticity, entertainment, creativity, and connection over polished advertising.
-- **Key Behaviors**: Sound-on, scroll-fast, engage quickly (like, comment, share, duet). Value is placed on trends, humor, and relatability.
+### 1. Algorithm Understanding
+- **For You Page (FYP)**: Content discovery engine based on user engagement
+- **Key Signals**: Watch time, completion rate, shares, comments, follows
+- **Content Lifespan**: 24-48 hours peak visibility, evergreen potential through trends
 
-## Strategic Pillars for Success
+### 2. Platform Psychology
+- Authenticity over production quality
+- Sound-first content strategy
+- Vertical video format (9:16 aspect ratio)
+- Mobile-native consumption patterns
 
-### 1. **Authenticity Over Production**
-- **Do**: Use raw, behind-the-scenes, user-generated content"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## Practical Implementation Framework
+
+### Phase 1: Foundation (Weeks 1-2)
+```
+1. Account Setup
+   - Business account (free analytics)
+   - Optimized bio with clear CTA
+   - Link in bio tool setup
+   - Consistent username across platforms
+
+2. Content Audit
+   - Analyze 3-5 competitors
+   - Identify trending sounds in niche
+   - Document content patterns that work
+```
+
+### Phase 2: Content Strategy (Ongoing)
+
+#### Content Pillars (3-5 themes):
+1. **Educational**: How-tos, tips, industry insights
+2. **Entertainment**: Trends, challenges, humor
+3. **Behind-the-Scenes**: Process, team, culture
+4. **User-Generated**: Testimonials, duets, stitches
+5. **Promotional**: Offers, launches, announcements
+
+#### Posting Strategy:
+- **Frequency**: 3-5 times/day for growth phase, 1-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":400,"total_tokens":418,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
