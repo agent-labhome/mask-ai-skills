@@ -1,22 +1,65 @@
-# Analytics Brief - SKILL.md
+-e {"id":"bb3bded1-5fb5-423f-adf9-2d2cbf9de338","object":"chat.completion","created":1771648403,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Analytics SKILL
 
-## Purpose
-This document outlines the skill of creating effective analytics briefs - structured documents that define the scope, objectives, and requirements for data analysis projects.
+## Metadata
 
-## Core Components
+- **Category**: Data & Analysis
+- **Complexity**: Intermediate to Advanced
+- **Prerequisites**: Basic statistics, data literacy, familiarity with business operations
+- **Time to Proficiency**: 6-12 months
+- **Key Tools**: Excel/Google Sheets, SQL, BI tools (Tableau/Power BI/Looker), Python/R (optional)
+- **Related Skills**: Data Engineering, Statistics, Business Intelligence, Data Visualization
 
-### 1. **Project Context & Business Problem**
-- **Business Objective**: Clear statement of what the business wants to achieve
-- **Problem Statement**: Specific issue or opportunity being addressed
-- **Stakeholders**: Key decision-makers and their roles
-- **Current State**: Baseline metrics and existing understanding
+## Overview
 
-### 2. **Analytical Objectives**
-- **Primary Questions**: 2-3 key questions the analysis must answer
-- **Success Criteria**: How we'll know the analysis was successful
-- **Decision Points**: What decisions will be informed by this analysis
+Analytics is the systematic computational analysis of data to discover meaningful patterns, derive insights, and support decision-making. It transforms raw data into actionable intelligence that drives business strategy, optimizes operations, and creates competitive advantages.
 
-### 3. **Scope & Boundaries**
-- **In Scope**: What will be analyzed (specific metrics, timeframes, segments)
-- **Out of Scope**: What won't be analyzed (with justification)
-"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+## Core Competency Framework
+
+### Level 1: Foundational (0-3 months)
+- Understand basic data concepts and terminology
+- Perform descriptive analytics (what happened)
+- Create basic reports and dashboards
+- Use spreadsheet functions effectively
+
+### Level 2: Intermediate (3-9 months)
+- Execute diagnostic analytics (why it happened)
+- Design and implement tracking plans
+- Build automated reporting systems
+- Conduct basic statistical analysis
+
+### Level 3: Advanced (9-18 months)
+- Perform predictive analytics (what will happen)
+- Develop measurement frameworks
+- Design and analyze experiments (A/B testing)
+- Create data-driven recommendations
+
+### Level 4: Expert (18+ months)
+- Implement prescriptive analytics (what should we do)
+- Build advanced statistical models
+- Establish analytics governance
+- Drive organizational data strategy
+
+## Practical Learning Path
+
+### Phase 1: Foundation Building (Weeks 1-4)
+
+**Week 1-2: Data Literacy**
+- Learn data types (structured vs. unstructured)
+- Understand metrics vs. dimensions
+- Study common business metrics (KPI, OKR, North Star metrics)
+- Practice data cleaning in spreadsheets
+
+**Week 3-4: Basic Tools**
+- Master Excel/Google Sheets (PivotTables, VLOOKUP, SUMIFS)
+- Learn basic SQL (SELECT, WHERE, GROUP BY, JOIN)
+- Explore a BI tool interface
+- Complete: Build a sales report from sample data
+
+### Phase 2: Core Analytics (Months 2-3)
+
+**Month 2: Measurement & Reporting**
+- Design tracking plans
+- Create dashboards in BI tools
+- Learn data visualization principles
+- Implement automated reporting
+- Complete: Create a comprehensive"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
