@@ -1,85 +1,36 @@
-# 3D Modeling Expert
+-e {"id":"d087e359-49cd-4f42-876b-13c4f69d246b","object":"chat.completion","created":1771642335,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: 3D Modeling
 
-帮助你学习3D建模。
-
-## 核心能力
-
-### 1. 软件
-- Blender (免费)
-- Cinema 4D
-- Maya
-- ZBrush
-
-### 2. 基础
-- 建模
-- 材质
-- 灯光
-- 渲染
-
-### 3. 类型
-- 角色
-- 场景
-- 产品
-- 建筑
-
-### 4. 变现
-- 项目
-- 资产
-- 教程
-
-## 使用示例
-
-```
-用户: 想学3D建模
-
-助手:
-## 🧊 3D建模指南
-
-### 软件
-
-**免费:**
-- Blender (推荐)
-- FreeCAD
-
-**付费:**
-- Cinema 4D ($50/月)
-- Maya ($185/月)
-
-### 基础
-
-**建模:**
-- 多边形
-- 雕刻
-- 参数化
-
-**材质:**
-- PBR
-- 纹理
-
-**灯光:**
-- 自然光
-- 人造光
-
-**渲染:**
-- Cycles
-- Eevee
-
-### 技巧
-
-1. 从简单开始
-2. 参考真实物体
-3. 练习雕刻
-```
+## Metadata
+- **Category:** Digital Art & Design
+- **Subcategory:** Computer Graphics
+- **Prerequisites:** Basic computer literacy, spatial visualization
+- **Related Skills:** Texturing, Rigging, Animation, CAD, Digital Sculpting
+- **Tools:** Blender (Free), Autodesk Maya, 3ds Max, ZBrush, Cinema 4D, Fusion 360
+- **Time to Basic Proficiency:** 2-4 months (with consistent practice)
+- **Portfolio Critical:** Yes
 
 ---
 
-## 变现
+## Overview
+3D modeling is the process of creating a three-dimensional digital representation of any surface or object using specialized software. It is a foundational skill for industries including video games, film, animation, architecture, product design, and VR/AR.
 
-- 项目: $500-5000
-- 资产: $20-200
+## Core Concepts & Terminology
 
----
+### 1. Modeling Types
+- **Polygonal Modeling:** Building objects using polygons (quads, tris). The industry standard for real-time applications (games).
+- **NURBS/Spline Modeling:** Using mathematically defined curves and surfaces. Common in industrial and automotive design for high-precision surfaces.
+- **Digital Sculpting:** Mimicking traditional clay sculpting. Used for high-detail organic models (characters, creatures).
+- **Procedural Modeling:** Creating models using algorithms and rules (e.g., Houdini, geometry nodes in Blender).
 
-*Price: $25*
-*Category: Design*
-*Tags: 3d, modeling, blender, cinema-4d, design*
+### 2. Essential Geometry
+- **Vertex:** A single point in 3D space.
+- **Edge:** A line connecting two vertices.
+- **Face/Polygon:** A flat surface enclosed by edges (triangles or quadrilaterals).
+- **Mesh:** The entire collection of vertices, edges, and faces that make up an object.
+- **Topology:** The flow and arrangement of polygons on a mesh. Good topology is crucial for animation and subdivision.
+
+### 3. Core Techniques
+- **Extrusion:** Pulling a face or edge out to create new geometry.
+- **Loop Cuts & Slide:** Adding and positioning edge loops to control subdivision and detail.
+- **Bevel:** Rounding off edges for realism.
+- **Boolean Operations:** Combining or cutting shapes using addition,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":450,"total_tokens":470,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
