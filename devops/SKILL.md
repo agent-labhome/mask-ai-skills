@@ -1,32 +1,58 @@
-# SKILL.md: DevOps
+-e {"id":"26425dc7-dae1-4d68-8bda-e591bf1c3ff7","object":"chat.completion","created":1771652045,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: DevOps
 
 ## Metadata
-- **Category**: IT & Infrastructure
-- **Experience Level**: Associate to Expert
-- **Related Roles**: DevOps Engineer, Site Reliability Engineer (SRE), Cloud Engineer, Platform Engineer
-- **Key Tools**: Docker, Kubernetes, AWS/Azure/GCP, Terraform, Ansible, Jenkins, Git, Prometheus, Grafana
-- **Mindset**: Automation, Collaboration, Continuous Improvement, Systems Thinking
+- **Category**: Engineering & Operations
+- **Experience Level**: Intermediate to Advanced
+- **Prerequisites**: Basic Linux, Networking Fundamentals, Programming Basics
+- **Related Skills**: Cloud Computing, CI/CD, Infrastructure as Code, Monitoring, Security
+- **Time to Proficiency**: 6-18 months (depending on background)
 
-## Practical Overview
+## Overview
+DevOps is a cultural and technical movement that bridges software development (Dev) and IT operations (Ops). It emphasizes collaboration, automation, continuous improvement, and measurable outcomes to deliver high-quality software rapidly and reliably.
 
-### Core Competencies
+## Core Principles
+1. **Culture**: Collaboration, shared responsibility, blameless postmortems
+2. **Automation**: Eliminate manual toil through scripting and tooling
+3. **Measurement**: Monitor everything, use data for decisions
+4. **Sharing**: Knowledge sharing, open communication, reusable patterns
 
-**1. Infrastructure as Code (IaC)**
-- Write declarative configuration files to provision and manage infrastructure
-- Tools: Terraform, CloudFormation, Pulumi, Ansible
-- Practice: Version control your infrastructure code alongside application code
+## Learning Path
 
-**2. Continuous Integration/Continuous Deployment (CI/CD)**
-- Automate build, test, and deployment pipelines
-- Tools: Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD
-- Practice: Implement blue-green deployments, canary releases, and rollback strategies
+### Phase 1: Foundation (Months 1-3)
+**Linux/Unix Systems**
+- Command line proficiency (bash/zsh)
+- Process management, file systems, permissions
+- Package management (apt/yum)
+- Systemd services and logging
 
-**3. Containerization & Orchestration**
-- Package applications with dependencies using containers
-- Orchestrate container deployment, scaling, and management
-- Tools: Docker, Kubernetes, Docker Swarm, ECS
-- Practice: Write Dockerfiles, Kubernetes manifests, and Helm charts
+**Networking Fundamentals**
+- TCP/IP, DNS, HTTP/HTTPS
+- Firewalls, load balancers, proxies
+- Network troubleshooting tools (netstat, tcpdump, curl)
 
-**4. Cloud Platforms**
-- Deploy and manage applications on cloud providers
-- Services: Compute, storage, networking, databases, serverless"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":300,"total_tokens":317,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Scripting & Programming**
+- Bash scripting for automation
+- Python or Go for tooling (choose one)
+- Basic understanding of data formats (JSON, YAML, XML)
+
+**Version Control**
+- Git fundamentals (branching, merging, rebasing)
+- GitHub/GitLab workflows
+- Conventional commits and semantic versioning
+
+### Phase 2: Core DevOps Tools (Months 4-9)
+**Infrastructure as Code (IaC)**
+- **Terraform**: Declarative infrastructure provisioning
+- **Ansible**: Configuration management and automation
+- **CloudFormation/Pulumi**: Alternative IaC tools
+
+**Containerization**
+- **Docker**: Container creation, management, and best practices
+- **Docker Compose**: Multi-container applications
+- Container security scanning and optimization
+
+**CI/CD Pipelines**
+- **Jenkins**: Self-hosted automation server
+- **GitHub Actions/GitLab CI**: Cloud-native CI/CD
+- Pipeline design patterns and best practices
+- Artifact management (Nexus, Art"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
