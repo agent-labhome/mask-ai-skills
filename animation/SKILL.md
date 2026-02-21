@@ -1,19 +1,51 @@
--e # Animation
+-e {"id":"f6f7c8ab-462e-4fb1-b7ac-aa26e1ae78a9","object":"chat.completion","created":1771648002,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Animation SKILL
 
-{"id":"67eb0557-fa47-4f21-b62e-4d31715962cf","object":"chat.completion","created":1771588460,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Animation Brief - SKILL.md
+## Metadata
 
-## 🎬 Core Animation Principles
-- **12 Principles of Animation**: Squash & stretch, anticipation, staging, straight ahead vs pose-to-pose, follow through, slow in/out, arcs, secondary action, timing, exaggeration, solid drawing, appeal
-- **Motion Fundamentals**: Easing, timing, spacing, weight, physics
-- **Narrative Through Motion**: Using movement to tell stories and convey emotion
+- **Category**: Creative & Visual Arts
+- **Complexity**: Intermediate to Advanced
+- **Time Required**: 30+ hours for fundamentals, 1000+ hours for mastery
+- **Prerequisites**: Basic drawing skills, patience, visual storytelling sense
+- **Tools**: Pencil/paper, animation software (Blender, Adobe Animate, Toon Boom, etc.)
+- **Related Skills**: Drawing, Storyboarding, Character Design, Video Editing, Sound Design
 
-## 🛠 Technical Skills
-### 2D Animation
-- **Traditional**: Hand-drawn frame-by-frame animation
-- **Digital Tools**: Adobe Animate, Toon Boom Harmony, TVPaint, Procreate
-- **Vector Animation**: After Effects shape layers, Lottie animations
-- **Cut-out/Rigged**: Character rigging, puppet animation
+## Overview
 
-### 3D Animation
-- **Keyframe Animation**: Maya, Blender, Cinema 4D
-- **Character Animation**: Rigging, skin"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+Animation is the art of creating the illusion of movement through sequenced images. This SKILL guide provides a practical roadmap from foundational principles to specialized techniques across various animation styles.
+
+## Core Principles (The 12 Principles of Animation)
+
+### 1. Squash and Stretch
+- **Purpose**: Gives weight and flexibility to objects
+- **Practice**: Animate a bouncing ball with exaggerated squash on impact and stretch during fall
+- **Tip**: Maintain consistent volume throughout deformation
+
+### 2. Anticipation
+- **Purpose**: Prepares audience for an action
+- **Practice**: Animate a character winding up before throwing
+- **Tip**: Anticipation frames should be proportional to the following action
+
+### 3. Staging
+- **Purpose**: Clear presentation of ideas
+- **Practice**: Compose shots that direct attention to the main action
+- **Tip**: Use lighting, framing, and character positioning to guide the eye
+
+### 4. Straight Ahead vs. Pose to Pose
+- **Straight Ahead**: Drawing frame-by-frame sequentially (organic, spontaneous)
+- **Pose to Pose**: Creating key poses first, then inbetweens (controlled, planned)
+- **Practice**: Try both methods on the same simple action
+
+### 5. Follow Through and Overlapping Action
+- **Purpose**: Different parts stop at different times
+- **Practice**: Animate hair/clothing continuing after character stops
+- **Tip**: Secondary elements should have their own timing arcs
+
+### 6. Slow In and Slow Out
+- **Purpose**: More frames at beginning/end of movement
+- **Practice**: Animate a pendulum swing with eased acceleration/deceleration
+- **Tip**: Use spacing charts to plan easing
+
+### 7. Arcs
+- **Purpose**: Natural movement follows curved paths
+- **Practice**: Trace the head path of a character turning
+- **Tip**: Use arc guides in your"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
