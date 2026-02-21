@@ -1,4 +1,4 @@
--e {"id":"6b400644-9b39-4301-86c6-25492cd5bcbb","object":"chat.completion","created":1771597195,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Landing Page Skill
 
 ## Metadata

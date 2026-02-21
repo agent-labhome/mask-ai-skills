@@ -1,4 +1,4 @@
--e {"id":"176857c0-609a-4cf6-9d10-62e31e51cfa0","object":"chat.completion","created":1771597208,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Skill: Growth Hacking
 
 ## Metadata

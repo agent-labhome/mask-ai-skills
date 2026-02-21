@@ -1,17 +1,50 @@
--e # Helpdesk
+# SKILL.md: Helpdesk Support
 
-{"id":"8ce3a948-bdd6-4867-a151-cc44f3ca3c0c","object":"chat.completion","created":1771570296,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Helpdesk
+## Metadata
+- **Skill Domain**: Technical Support & Customer Service
+- **Experience Level**: Entry to Mid-Level (Tier 1/Tier 2)
+- **Primary Tools**: Ticketing Systems, Remote Desktop, Knowledge Bases, Communication Platforms
+- **Key Metrics**: First Contact Resolution (FCR), Customer Satisfaction (CSAT), Average Handle Time (AHT)
+- **Common Roles**: Helpdesk Analyst, IT Support Specialist, Service Desk Technician
 
-## Core Purpose
-Provide efficient, accurate technical support by troubleshooting issues, guiding users through solutions, and escalating complex problems appropriately.
+## Practical Guide: Helpdesk Support
 
-## Core Functions
-1.  **Triage & Diagnosis:** Quickly assess user-reported issues to determine severity, scope, and root cause.
-2.  **Troubleshooting:** Methodically guide users through step-by-step solutions for common hardware, software, and network problems.
-3.  **Knowledge Management:** Document solutions in a knowledge base and use existing resources to resolve recurring issues.
-4.  **Communication:** Explain technical concepts clearly and patiently to non-technical users, maintaining a professional and empathetic tone.
-5.  **Incident Management:** Log, track, prioritize, and escalate tickets according to defined SLAs and procedures.
-6.  **User Education:** Proactively advise users on best practices to prevent future issues.
+### 1. Core Mindset & Principles
 
-## Key Parameters & Constraints
-*   **Scope:** Primarily Level 1 support (password"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+**Service-First Attitude**
+- Every user contacting you is experiencing a disruption - empathy is your primary tool
+- Assume positive intent, even with frustrated users
+- You represent the entire organization to the user
+
+**Troubleshooting Methodology**
+1. **Listen Actively**: Let users explain completely without interruption
+2. **Clarify**: Ask open-ended questions, then specific ones
+3. **Reproduce**: Verify you understand the issue correctly
+4. **Isolate**: Determine if it's user error, software, hardware, or network
+5. **Resolve**: Apply solution or escalate with clear documentation
+6. **Follow-up**: Confirm resolution and user satisfaction
+
+### 2. Essential Technical Competencies
+
+**Ticket Management**
+```
+Priority Matrix:
+┌─────────────┬─────────────────────────────┐
+│ Impact/Urgency │ Low         │ High        │
+├─────────────┼─────────────┼─────────────┤
+│ High Impact │ P2: Schedule │ P1: Immediate│
+│ Low Impact  │ P4: Routine  │ P3: Soon     │
+└─────────────┴─────────────┴─────────────┘
+```
+
+**Effective Ticket Documentation:**
+- Problem: \"Cannot access email\" ❌
+- Better: \"Outlook shows 'Disconnected' status, webmail works, issue began today at 9 AM\" ✅
+- Include: User ID, device, error messages, recent changes, troubleshooting steps attempted
+
+**Common Technical Areas:**
+- **Authentication**: Password resets, MFA issues, account lockouts
+- **Software**: Installation, configuration, updates, compatibility
+- **Hardware**: Peripheral issues, hardware diagnostics, replacement procedures
+- **Network**: Connectivity troubleshooting, VPN, Wi-Fi issues
+- **Email**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

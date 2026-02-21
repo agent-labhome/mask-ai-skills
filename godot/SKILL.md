@@ -1,4 +1,4 @@
--e {"id":"164baa57-5464-4971-962c-8665f0a942d7","object":"chat.completion","created":1771642325,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Godot
+# SKILL.md: Godot
 
 ## Metadata
 - **Category**: Game Engine / Development

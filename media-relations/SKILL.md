@@ -1,4 +1,4 @@
--e {"id":"e1fef263-67be-4c58-81d1-420f69b3c569","object":"chat.completion","created":1771597486,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Media Relations
 category: Communication

@@ -1,4 +1,4 @@
--e {"id":"32ae1867-3184-4e3b-bf42-99727f280833","object":"chat.completion","created":1771597410,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: SKILL.md
 description: Guidelines for effective participation in our Telegram group

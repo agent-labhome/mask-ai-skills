@@ -1,4 +1,4 @@
--e {"id":"21858b33-e1da-422e-b8d3-ac45dea15c00","object":"chat.completion","created":1771642208,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Documentation
+# SKILL: Documentation
 
 ## Metadata
 - **Category**: Communication & Collaboration

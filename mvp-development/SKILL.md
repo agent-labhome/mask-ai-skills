@@ -1,4 +1,4 @@
--e {"id":"7941d9a6-2dfc-48d6-857a-d3fd62d83d98","object":"chat.completion","created":1771641240,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: MVP Development
+# SKILL.md: MVP Development
 
 ## Metadata
 - **Skill Name:** MVP Development

@@ -1,4 +1,4 @@
--e {"id":"babf44d1-adee-45cd-a57a-d90bbbcbe345","object":"chat.completion","created":1771636444,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: DevOps
+# SKILL.md: DevOps
 
 ## Metadata
 - **Category**: IT & Infrastructure

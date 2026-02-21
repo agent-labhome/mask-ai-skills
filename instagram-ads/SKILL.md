@@ -1,4 +1,4 @@
--e {"id":"07841805-e7b5-47e3-9958-ebf362aca8b0","object":"chat.completion","created":1771597369,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Instagram Ads Skill
 description: A comprehensive guide to planning, creating, optimizing, and measuring effective advertising campaigns on Instagram.

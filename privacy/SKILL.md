@@ -1,4 +1,4 @@
--e {"id":"e3317761-81d1-4604-b786-beae72b2cea0","object":"chat.completion","created":1771643120,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Privacy in Software Development
+# Privacy in Software Development
 
 ## Metadata
 - **Category**: Security & Compliance

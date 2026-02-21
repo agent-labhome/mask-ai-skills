@@ -1,4 +1,4 @@
--e {"id":"3e7b8ee3-3f38-4983-bd36-15aae8b7e0bd","object":"chat.completion","created":1771643007,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Financial Planning
+# Financial Planning
 
 ## Metadata
 - **Domain**: Personal Finance, Wealth Management

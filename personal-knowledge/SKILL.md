@@ -1,4 +1,4 @@
--e {"id":"dbd1bc7a-c5b7-4cca-8bdc-4467cae026ce","object":"chat.completion","created":1771639557,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Personal Knowledge Management (PKM)
+# Personal Knowledge Management (PKM)
 
 ## 📋 Metadata
 - **Category**: Productivity & Learning

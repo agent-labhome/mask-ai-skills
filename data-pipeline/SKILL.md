@@ -1,4 +1,4 @@
--e {"id":"f580e150-fc47-4bdc-a4b1-b1595e95c67f","object":"chat.completion","created":1771642477,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Data Pipeline
+# SKILL: Data Pipeline
 
 ## Metadata
 - **Category**: Data Engineering

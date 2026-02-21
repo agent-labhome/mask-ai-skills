@@ -1,4 +1,4 @@
--e {"id":"7bead5d8-42fb-4f44-9d4b-241e88181ba7","object":"chat.completion","created":1771598471,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Client Proposal Development
+# SKILL.md: Client Proposal Development
 
 ## Metadata
 - **Skill Type**: Business Development / Sales

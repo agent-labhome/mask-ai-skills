@@ -1,4 +1,4 @@
--e {"id":"00439d84-57ed-4def-8b03-f176459f2940","object":"chat.completion","created":1771648171,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Print on Demand (POD)
+# SKILL.md: Print on Demand (POD)
 
 ## Metadata
 - **Skill:** Print on Demand (POD) Business

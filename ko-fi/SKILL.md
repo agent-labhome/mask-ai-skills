@@ -1,4 +1,4 @@
--e {"id":"6adc2e85-424b-4cea-8741-43c91efa4dd1","object":"chat.completion","created":1771598517,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Ko-fi Skill Documentation
 description: Complete guide to using the Ko-fi skill for voice-controlled donations and creator interactions

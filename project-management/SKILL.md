@@ -1,4 +1,4 @@
--e {"id":"49d1b342-faa9-4766-b5b4-9e8b84084429","object":"chat.completion","created":1771642909,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Project Management
+# SKILL.md: Project Management
 
 ## Metadata
 - **Category:** Business & Leadership

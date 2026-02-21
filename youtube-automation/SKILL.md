@@ -1,4 +1,4 @@
--e {"id":"aef08e55-eaff-4011-812a-5b3d70060ce7","object":"chat.completion","created":1771636320,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# YouTube Automation: A Practical Guide
+# YouTube Automation: A Practical Guide
 
 ## 📋 Metadata
 - **Category**: Digital Content Creation

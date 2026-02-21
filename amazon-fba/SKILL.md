@@ -1,4 +1,4 @@
--e {"id":"ac2bfcaa-4542-482c-a8fe-75a4f0f0b7af","object":"chat.completion","created":1771648151,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Amazon FBA: A Comprehensive Practical Guide
+# Amazon FBA: A Comprehensive Practical Guide
 
 ## Metadata
 - **Topic**: Amazon FBA (Fulfillment by Amazon)

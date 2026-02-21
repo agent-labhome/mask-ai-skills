@@ -1,4 +1,4 @@
--e {"id":"95b48e99-080a-45b3-ab2d-8fd5e14e84a5","object":"chat.completion","created":1771597027,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 name: Affiliate Program
 description: Handles affiliate program inquiries, commission structures, and referral processes.

@@ -1,4 +1,4 @@
--e {"id":"f42fbd9e-085a-486b-91f4-34920cbf7f5f","object":"chat.completion","created":1771641152,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: LLM Fine-tuning
+# SKILL.md: LLM Fine-tuning
 
 ## Metadata
 - **Skill Level**: Intermediate to Advanced

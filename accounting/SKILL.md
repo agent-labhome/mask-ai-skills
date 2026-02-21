@@ -1,4 +1,4 @@
--e {"id":"370c47db-8b74-4583-90f7-0f3d34c1da6e","object":"chat.completion","created":1771642987,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Accounting
+# SKILL.md: Accounting
 
 ## Metadata
 - **Domain:** Finance & Business

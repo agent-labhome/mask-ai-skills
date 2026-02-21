@@ -1,4 +1,4 @@
--e {"id":"7a889986-825a-440f-b6de-dec7b43dff36","object":"chat.completion","created":1771641135,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Prompt Engineering Guide
+# Prompt Engineering Guide
 
 ## Metadata
 - **Domain**: Artificial Intelligence / Natural Language Processing

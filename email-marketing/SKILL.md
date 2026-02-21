@@ -1,4 +1,4 @@
--e {"id":"e76cf735-28fe-42c2-be66-a6044ef4c5c4","object":"chat.completion","created":1771597507,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Email Marketing
 category: Digital Marketing

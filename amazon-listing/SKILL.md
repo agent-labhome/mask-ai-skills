@@ -1,4 +1,4 @@
--e {"id":"2a8771a9-62bd-48cf-a44d-ae2d21b3a205","object":"chat.completion","created":1771598367,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Amazon Listing Optimization
+# SKILL: Amazon Listing Optimization
 
 ## Metadata
 - **Category**: E-commerce / Digital Marketing

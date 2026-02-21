@@ -1,4 +1,4 @@
--e {"id":"83184b66-6a50-49a3-a8fc-3c016dcc0c70","object":"chat.completion","created":1771597519,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Automated Email System
 version: 1.0.0

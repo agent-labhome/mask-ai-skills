@@ -1,4 +1,4 @@
--e {"id":"35b6491b-c4e0-492f-ad8c-3c539f41c761","object":"chat.completion","created":1771598465,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Freelance Rate Calculator & Strategy Guide
+# Freelance Rate Calculator & Strategy Guide
 
 ## Metadata
 - **Primary Use:** Determining and justifying freelance rates

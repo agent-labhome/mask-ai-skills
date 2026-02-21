@@ -1,4 +1,4 @@
--e {"id":"38bf6876-3ed6-4b4d-bd0c-f8e370168dc1","object":"chat.completion","created":1771642871,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Operations SKILL Framework
+# Operations SKILL Framework
 
 ## Metadata
 - **Category**: Execution & Management

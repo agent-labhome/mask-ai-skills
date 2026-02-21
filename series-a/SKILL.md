@@ -1,4 +1,4 @@
--e {"id":"507910bf-9d52-4f49-988c-922b80bafc72","object":"chat.completion","created":1771598226,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Series A Funding
 category: Venture Capital

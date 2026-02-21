@@ -1,4 +1,4 @@
--e {"id":"f104e5b7-1b56-4ed6-8100-d91ec36eea1f","object":"chat.completion","created":1771598505,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Medium Writing
 category: Writing & Content Creation

@@ -1,4 +1,4 @@
--e {"id":"aebba266-7c32-42d8-bd65-adf85e4f8554","object":"chat.completion","created":1771597085,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 name: Customer Onboarding
 description: Guides new customers through initial setup, account configuration, and first-use orientation.

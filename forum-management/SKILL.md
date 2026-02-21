@@ -1,4 +1,4 @@
--e {"id":"d69370eb-4d10-427e-8d0a-cddb9838c2c4","object":"chat.completion","created":1771597422,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Forum Management
 category: Community & Communication

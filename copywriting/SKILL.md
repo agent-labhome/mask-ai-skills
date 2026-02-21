@@ -1,4 +1,4 @@
--e {"id":"43eb1ecb-5cda-48cb-8391-b95be96269ac","object":"chat.completion","created":1771642237,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Copywriting
+# SKILL.md: Copywriting
 
 ## Metadata
 

@@ -1,4 +1,4 @@
--e {"id":"83c0ba7b-7064-4cf3-873d-6044ad7b98ff","object":"chat.completion","created":1771636589,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Android Development
+# SKILL.md: Android Development
 
 ## Metadata
 - **Category**: Software Development → Mobile Development

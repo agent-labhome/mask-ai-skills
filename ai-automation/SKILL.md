@@ -1,4 +1,4 @@
--e {"id":"37916b83-69af-4e15-a53e-0e7f8412d14b","object":"chat.completion","created":1771639603,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AI Automation: A Practical Guide
+# AI Automation: A Practical Guide
 
 ## 📋 Metadata
 - **Domain**: Artificial Intelligence, Process Automation, Business Operations

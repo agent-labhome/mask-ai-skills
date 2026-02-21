@@ -1,4 +1,4 @@
--e {"id":"de739c3b-47df-45de-8d2e-e0bf85e5faa5","object":"chat.completion","created":1771642798,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Market Research SKILL
+# Market Research SKILL
 
 ## Metadata
 - **Category**: Business Intelligence / Strategy

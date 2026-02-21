@@ -1,4 +1,4 @@
--e {"id":"a2712ebf-9aac-4669-892f-9c7e388b6079","object":"chat.completion","created":1771636375,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Machine Learning
+# SKILL.md: Machine Learning
 
 ## Metadata
 - **Category**: Data Science & Artificial Intelligence

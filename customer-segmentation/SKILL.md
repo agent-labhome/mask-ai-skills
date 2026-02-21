@@ -1,4 +1,4 @@
--e {"id":"240c6004-f7dd-4655-9114-d91d4844281e","object":"chat.completion","created":1771642827,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Customer Segmentation
+# Customer Segmentation
 
 ## Metadata
 - **Domain**: Marketing, Business Intelligence, Customer Relationship Management (CRM)

@@ -1,4 +1,4 @@
--e {"id":"3d9d7d1c-6981-443f-9065-1cd300dc0c07","object":"chat.completion","created":1771597015,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Upselling Skill
 
 ## Metadata

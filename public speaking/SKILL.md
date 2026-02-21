@@ -1,4 +1,4 @@
--e {"id":"1e3b43df-899a-41ff-9575-3161d17acebc","object":"chat.completion","created":1771638658,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Public Speaking
+# SKILL: Public Speaking
 
 ## Metadata
 - **Category:** Communication & Professional Development

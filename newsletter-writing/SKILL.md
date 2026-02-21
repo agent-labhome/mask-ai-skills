@@ -1,4 +1,4 @@
--e {"id":"677bc917-cf8e-4dfb-b562-e0f9e8e79e47","object":"chat.completion","created":1771598493,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Newsletter Writing
 category: Content Creation

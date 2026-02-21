@@ -1,4 +1,4 @@
--e {"id":"a3bae9b9-fff5-4fac-a41f-853c78185a38","object":"chat.completion","created":1771639485,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Etsy Shop Management: SKILL Framework
+# Etsy Shop Management: SKILL Framework
 
 ## Metadata
 - **Domain**: E-commerce / Handmade Marketplace

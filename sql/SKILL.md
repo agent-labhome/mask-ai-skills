@@ -1,4 +1,4 @@
--e {"id":"9e560a01-c4a9-4971-8b80-5c8b5cbdf6f1","object":"chat.completion","created":1771642486,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: SQL
+# SKILL: SQL
 
 ## Metadata
 - **Category**: Data & Databases

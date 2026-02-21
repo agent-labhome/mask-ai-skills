@@ -1,4 +1,4 @@
--e {"id":"dbaa7822-df9f-4f56-a892-d9338e0154d8","object":"chat.completion","created":1771638671,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Persuasion
+# Persuasion
 
 ## Metadata
 - **Category**: Social & Communication

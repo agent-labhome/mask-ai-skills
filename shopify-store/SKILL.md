@@ -1,4 +1,4 @@
--e {"id":"1a0b1591-3071-4a80-938e-314b56d93d2b","object":"chat.completion","created":1771648161,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Shopify Store Management
+# SKILL.md: Shopify Store Management
 
 ## Metadata
 - **Skill Category**: E-commerce & Digital Retail

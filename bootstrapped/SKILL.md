@@ -1,4 +1,4 @@
--e {"id":"3941ac5e-cb7b-4ba2-ab47-e58f214152e6","object":"chat.completion","created":1771598300,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Bootstrapped
 
 ## Project Overview

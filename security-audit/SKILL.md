@@ -1,4 +1,4 @@
--e {"id":"98e0cfe2-fb05-4b83-8906-a00e632cfaf8","object":"chat.completion","created":1771642421,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Security Audit SKILL
+# Security Audit SKILL
 
 ## Metadata
 - **Category**: Security & Compliance

@@ -1,4 +1,4 @@
--e {"id":"dc7346f8-5f25-45dc-b52b-dd5d764cc481","object":"chat.completion","created":1771642752,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Customer Success SKILL Framework
+# Customer Success SKILL Framework
 
 ## 📋 Metadata
 - **Domain**: Customer Relations & Business Growth

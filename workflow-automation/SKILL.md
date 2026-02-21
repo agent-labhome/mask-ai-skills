@@ -1,4 +1,4 @@
--e {"id":"11d2e1e2-df0c-46cf-8ee4-d51291c0477f","object":"chat.completion","created":1771639634,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Workflow Automation
+# Workflow Automation
 
 ## Overview
 Workflow automation is the design, execution, and automation of business processes where tasks, information, or documents are passed from one participant to another according to a defined set of rules. It replaces manual, repetitive tasks with automated systems to improve efficiency, accuracy, and scalability.

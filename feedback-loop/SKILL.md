@@ -1,4 +1,4 @@
--e {"id":"8fe94bf5-5253-448b-900d-1447c2005b07","object":"chat.completion","created":1771597151,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Feedback Loop
 
 ## Metadata

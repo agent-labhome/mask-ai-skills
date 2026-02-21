@@ -1,4 +1,4 @@
--e {"id":"663b4af1-7104-4dd9-9c6a-e8cea669e3e6","object":"chat.completion","created":1771642577,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Remote Work
+# SKILL: Remote Work
 
 ## Metadata
 - **Category:** Professional Development / Workplace Skills

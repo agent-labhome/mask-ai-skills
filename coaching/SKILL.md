@@ -1,4 +1,4 @@
--e {"id":"04943ade-4910-4785-99de-f91e5d5b5336","object":"chat.completion","created":1771642615,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Coaching: A Practical Guide
+# Coaching: A Practical Guide
 
 ## Metadata
 - **Domain**: Personal & Professional Development

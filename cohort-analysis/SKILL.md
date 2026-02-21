@@ -1,4 +1,4 @@
--e {"id":"290f7d37-430d-424a-8144-b5b048262f86","object":"chat.completion","created":1771597097,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Cohort Analysis
 
 ## Metadata

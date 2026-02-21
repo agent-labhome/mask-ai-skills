@@ -1,4 +1,4 @@
--e {"id":"dff936e3-fee3-4fa1-999d-d85c923d2aba","object":"chat.completion","created":1771648075,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Voice Over: A Practical Guide
+# Voice Over: A Practical Guide
 
 ## Metadata
 

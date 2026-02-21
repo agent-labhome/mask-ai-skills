@@ -1,4 +1,4 @@
--e {"id":"22ccf10a-ebfa-4744-bcc9-7c98111dc69d","object":"chat.completion","created":1771639626,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Zapier Templates
+# Zapier Templates
 
 ## Overview
 Zapier Templates are pre-built automation workflows that connect apps and services to perform common tasks without requiring users to build Zaps from scratch. They provide ready-to-use solutions for popular use cases across various business functions.

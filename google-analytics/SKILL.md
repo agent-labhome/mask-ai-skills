@@ -1,4 +1,4 @@
--e {"id":"e23fc461-304b-47c6-b226-6a43103bd3c5","object":"chat.completion","created":1771641357,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Google Analytics
+# SKILL.md: Google Analytics
 
 ## Metadata
 - **Skill Category**: Analytics & Data Visualization

@@ -1,4 +1,4 @@
--e {"id":"358bfa51-432e-4d31-a5f9-3f58f6d81a43","object":"chat.completion","created":1771597468,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Partnership Outreach
 department: Business Development / Partnerships

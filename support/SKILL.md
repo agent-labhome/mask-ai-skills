@@ -1,27 +1,51 @@
--e # Support
+# SKILL: Support
 
-{"id":"354570e1-f986-4352-b85e-f28ebbc4a729","object":"chat.completion","created":1771579914,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Support Brief
+## Metadata
+- **Category**: Social & Emotional Intelligence
+- **Complexity**: Intermediate
+- **Time to Develop**: 3-6 months of consistent practice
+- **Related Skills**: Active Listening, Empathy, Communication, Problem-Solving, Patience
+- **Prerequisites**: Basic emotional awareness, willingness to help others
 
-## Purpose
-To provide concise, actionable support that addresses core needs without unnecessary detail or elaboration.
+## Overview
+Support is the ability to provide emotional, practical, or informational assistance to others in ways that are genuinely helpful and empowering. Unlike simply \"being nice,\" effective support requires attunement to others' needs, appropriate boundary-setting, and the wisdom to know when to help versus when to encourage self-sufficiency.
 
-## Key Principles
+## Core Principles
 
-### 1. **Clarity Over Completeness**
-- Identify the essential need or problem
-- Strip away peripheral information
-- Present the core solution or next step
+### 1. **Presence Over Solutions**
+- Often people need to feel heard more than they need your advice
+- Your full attention is more valuable than quick fixes
+- Silence can be supportive when accompanied by genuine engagement
 
-### 2. **Action-Oriented**
-- Focus on what can be done now
-- Provide specific, executable steps
-- Avoid theoretical discussions unless immediately relevant
+### 2. **Empowerment Over Rescue**
+- Help people build their own capacity rather than creating dependency
+- Ask \"How can I support you in solving this?\" rather than \"Let me fix this for you\"
+- Recognize that struggling through challenges builds resilience
 
-### 3. **Minimalist Communication**
-- Use direct language
-- Eliminate filler words and qualifiers
-- One clear point per statement
+### 3. **Boundaried Compassion**
+- Support without depleting yourself
+- Recognize when professional help is needed versus what you can provide
+- Maintain emotional separation while remaining connected
 
-### 4. **Context-Aware**
-- Match the recipient's urgency and knowledge level
-- Adapt depth to situation (crisis vs. planning)
+## Practical Framework: The SUPPORT Method
+
+### **S** - Stop and Assess
+- Pause before responding
+- Ask yourself: \"What kind of support is needed here?\"
+- Consider: Emotional? Practical? Informational? Validation?
+
+### **U** - Understand First
+- Practice active listening without interruption
+- Reflect back what you're hearing: \"It sounds like...\"
+- Ask clarifying questions: \"Help me understand what part is most difficult\"
+
+### **P** - Provide Appropriate Response
+- **Emotional support**: \"That sounds really hard. I'm here with you.\"
+- **Practical support**: \"I can help with [specific task] on Tuesday.\"
+- **Informational support**: \"I know someone who went through something similar.\"
+- **Validating support**: \"Your feelings make complete sense given the situation.\"
+
+### **P** - Preserve Autonomy
+- Offer choices: \"Would it help if I... or would you prefer...\"
+- Check before acting: \"Would it be helpful if I...\"
+- Avoid taking over: \"What part feels manageable to you right"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}

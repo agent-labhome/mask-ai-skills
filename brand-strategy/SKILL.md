@@ -1,4 +1,4 @@
--e {"id":"03a814f7-4c25-4933-b806-7f4b69b7db20","object":"chat.completion","created":1771597293,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Brand Strategy
 category: Marketing & Business

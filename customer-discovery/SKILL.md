@@ -1,4 +1,4 @@
--e {"id":"75c43cfd-5aff-480e-90c4-b58c397a069e","object":"chat.completion","created":1771641282,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Customer Discovery
+# Customer Discovery
 
 ## Metadata
 - **Domain**: Entrepreneurship, Product Management, Market Research

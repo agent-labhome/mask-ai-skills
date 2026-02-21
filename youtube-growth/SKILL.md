@@ -1,4 +1,4 @@
--e {"id":"c3909530-14c3-43ff-83b2-baa92675a8f4","object":"chat.completion","created":1771641449,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: YouTube Growth
+# SKILL.md: YouTube Growth
 
 ## Metadata
 - **Skill Category:** Digital Marketing / Content Strategy

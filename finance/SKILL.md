@@ -1,4 +1,4 @@
--e {"id":"e3c7aeda-cc9d-4971-895d-17d554af604e","object":"chat.completion","created":1771642978,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Finance
+# SKILL: Finance
 
 ## Metadata
 - **Category**: Business & Economics

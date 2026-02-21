@@ -1,4 +1,4 @@
--e {"id":"be83d518-7799-4acf-a692-f76306859fd7","object":"chat.completion","created":1771598452,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Upwork Profile Optimization Guide
+# SKILL.md: Upwork Profile Optimization Guide
 
 ## Metadata
 - **Purpose**: Practical guide for freelancers to optimize Upwork profiles

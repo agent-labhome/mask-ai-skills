@@ -1,4 +1,4 @@
--e {"id":"308de99b-8c12-4b7b-9165-d7aef3dd7e40","object":"chat.completion","created":1771636596,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: React Native
+# SKILL.md: React Native
 
 ## Metadata
 - **Category**: Mobile Development

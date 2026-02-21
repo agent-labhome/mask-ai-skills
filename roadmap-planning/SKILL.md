@@ -1,4 +1,4 @@
--e {"id":"1d6b5d76-26e0-4e78-a8fc-0f448a51fd0c","object":"chat.completion","created":1771642669,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Roadmap Planning
+# SKILL: Roadmap Planning
 
 ## Metadata
 - **Skill ID:** roadmap-planning

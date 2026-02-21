@@ -1,4 +1,4 @@
--e {"id":"18d50383-3c80-4b6d-8377-5a69c32a4f6c","object":"chat.completion","created":1771647992,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Motion Graphics: A Practical Guide
+# Motion Graphics: A Practical Guide
 
 ## Metadata
 - **Field**: Digital Media & Animation

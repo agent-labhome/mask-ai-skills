@@ -1,4 +1,4 @@
--e {"id":"f11606e9-42f2-48d9-92d8-3241a7401add","object":"chat.completion","created":1771636369,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Science
+# SKILL.md: Data Science
 
 ## Metadata
 - **Field**: Data Science

@@ -1,4 +1,4 @@
--e {"id":"2e4a3749-4eb4-42ea-83d2-fe280e2803b1","object":"chat.completion","created":1771638737,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Productivity: A Practical Guide
+# Productivity: A Practical Guide
 
 ## Metadata
 - **Category**: Personal Development / Work Optimization

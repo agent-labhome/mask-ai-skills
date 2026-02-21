@@ -1,4 +1,4 @@
--e {"id":"99da4b58-f68b-4a48-89d5-3abedc70de01","object":"chat.completion","created":1771642733,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Development
+# SKILL.md: Business Development
 
 ## Metadata
 - **Category:** Business & Sales

@@ -1,4 +1,4 @@
--e {"id":"f93d039b-0dac-40ba-8728-afb9ac194fb6","object":"chat.completion","created":1771639534,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Obsidian
+# SKILL.md: Obsidian
 
 ## Metadata
 - **Category**: Knowledge Management / Note-Taking

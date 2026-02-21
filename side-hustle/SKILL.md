@@ -1,4 +1,4 @@
--e {"id":"addc6cb6-e834-4a6d-90ba-17113817116b","object":"chat.completion","created":1771638589,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Side Hustle SKILL Framework
+# Side Hustle SKILL Framework
 
 ## 🎯 Metadata
 - **Skill Category:** Entrepreneurship / Income Generation

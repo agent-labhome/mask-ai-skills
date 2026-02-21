@@ -1,4 +1,4 @@
--e {"id":"1e1fdc6a-d71f-4e16-b14c-533e46348d0d","object":"chat.completion","created":1771638582,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Freelance Business
+# SKILL.md: Freelance Business
 
 ## Metadata
 * **Skill Name:** Freelance Business Management

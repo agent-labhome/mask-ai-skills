@@ -1,4 +1,4 @@
--e {"id":"b5dcc68a-4640-4209-9dfe-b5bc9c92a5b5","object":"chat.completion","created":1771642296,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Game Development
+# SKILL.md: Game Development
 
 ## Metadata
 - **Category**: Technical & Creative

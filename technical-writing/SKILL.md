@@ -1,4 +1,4 @@
--e {"id":"db59fa1a-fcc8-4df7-b1ff-2a0b6e7cab7a","object":"chat.completion","created":1771642199,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Technical Writing
+# SKILL.md: Technical Writing
 
 ## Metadata
 - **Skill Domain:** Communication & Documentation

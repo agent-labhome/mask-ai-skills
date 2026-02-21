@@ -1,4 +1,4 @@
--e {"id":"656099a7-7aa8-4826-9e5b-1deae3d4d51b","object":"chat.completion","created":1771598458,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: LinkedIn Profile Optimization for Freelancers
+# SKILL.md: LinkedIn Profile Optimization for Freelancers
 
 ## Metadata
 - **Purpose**: A practical guide to optimizing LinkedIn for freelance success

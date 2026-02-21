@@ -1,4 +1,4 @@
--e {"id":"83e6a5df-6da2-4cc4-8081-b243e4f6a3e2","object":"chat.completion","created":1771636583,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: iOS Development
+# SKILL.md: iOS Development
 
 ## Metadata
 - **Category**: Mobile Development > Native iOS

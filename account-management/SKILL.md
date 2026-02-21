@@ -1,4 +1,4 @@
--e {"id":"417ebbe2-feab-4ae4-88d4-2d31401ea075","object":"chat.completion","created":1771642742,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Account Management
+# SKILL.md: Account Management
 
 ## Metadata
 - **Category**: Business Operations / Customer Success

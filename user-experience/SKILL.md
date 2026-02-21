@@ -1,4 +1,4 @@
--e {"id":"ff2d735a-9891-45da-9377-4959e9d5a243","object":"chat.completion","created":1771597245,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: User Experience (UX)
 category: Design & Product

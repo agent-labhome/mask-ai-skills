@@ -1,4 +1,4 @@
--e {"id":"35b6edc9-182b-4aa5-8b7c-c25ec19430fa","object":"chat.completion","created":1771642403,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Network Security - SKILL.md
+# Network Security - SKILL.md
 
 ## Metadata
 - **Category**: Cybersecurity & Infrastructure

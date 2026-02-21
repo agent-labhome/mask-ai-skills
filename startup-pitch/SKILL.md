@@ -1,4 +1,4 @@
--e {"id":"7afc50a7-ca75-4e5b-9721-8041156f6d1a","object":"chat.completion","created":1771598202,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Startup Pitch
 description: A comprehensive guide to creating and delivering compelling startup pitches for investors, accelerators, and stakeholders.

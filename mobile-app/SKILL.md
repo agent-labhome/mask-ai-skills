@@ -1,4 +1,4 @@
--e {"id":"002c8362-e046-46c7-9e6c-55ac5b3beeb1","object":"chat.completion","created":1771636576,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Mobile App Development
+# SKILL.md: Mobile App Development
 
 ## Metadata
 - **Skill Category**: Technical Development

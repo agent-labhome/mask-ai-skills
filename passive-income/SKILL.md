@@ -1,4 +1,4 @@
--e {"id":"a2780357-f075-4b66-92fe-d28b67d70bae","object":"chat.completion","created":1771638596,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Passive Income Generation
+# SKILL: Passive Income Generation
 
 ## Metadata
 - **Skill Domain:** Personal Finance / Entrepreneurship

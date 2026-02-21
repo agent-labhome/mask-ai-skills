@@ -1,4 +1,4 @@
--e {"id":"a26ffa1a-f63d-470b-a369-e0a4f3f8f409","object":"chat.completion","created":1771642495,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Database Design
+# SKILL: Database Design
 
 ## Metadata
 - **Category**: Data Engineering / Backend Development

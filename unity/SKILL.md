@@ -1,4 +1,4 @@
--e {"id":"d6a15c7a-4497-4f8e-9188-7bbd2d348880","object":"chat.completion","created":1771642306,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Unity
+# SKILL.md: Unity
 
 ## Metadata
 - **Category**: Game Development, Software Engineering

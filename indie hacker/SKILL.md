@@ -1,4 +1,4 @@
--e {"id":"ad960d2b-2d4d-4a6a-9aef-c199936a12ad","object":"chat.completion","created":1771598288,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: \"Indie Hacker\"
 description: \"A comprehensive guide to the mindset, skills, and strategies for building a profitable solo business or small-scale venture.\"

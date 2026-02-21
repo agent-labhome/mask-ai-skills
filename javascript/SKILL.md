@@ -1,4 +1,4 @@
--e {"id":"ec0a9f43-8e4a-417d-8a2c-5f393ce8163b","object":"chat.completion","created":1771636388,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: JavaScript
+# SKILL.md: JavaScript
 
 ## Metadata
 - **Category**: Programming Language

@@ -1,4 +1,4 @@
--e {"id":"eafa1029-27a1-4670-b1ba-424b4344c646","object":"chat.completion","created":1771638603,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Digital Products
+# SKILL.md: Digital Products
 
 ## Metadata
 - **Skill Name:** Digital Products

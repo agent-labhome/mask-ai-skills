@@ -1,4 +1,4 @@
--e {"id":"003eac2a-53da-47fb-9913-46d62324b0ea","object":"chat.completion","created":1771641222,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Investor Pitch
+# SKILL.md: Investor Pitch
 
 ## Metadata
 - **Skill Name:** Investor Pitch

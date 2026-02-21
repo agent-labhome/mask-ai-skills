@@ -1,4 +1,4 @@
--e {"id":"0adc2853-50d0-4d53-8a16-440034a57945","object":"chat.completion","created":1771640955,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bitcoin (BTC)
+# Bitcoin (BTC)
 
 ## Metadata
 - **Symbol**: BTC

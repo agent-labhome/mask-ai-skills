@@ -1,4 +1,4 @@
--e {"id":"2e71abf7-1f8e-4e74-80cf-857dac3ee43b","object":"chat.completion","created":1771647971,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Video Editing
+# SKILL.md: Video Editing
 
 ## Metadata
 - **Skill Domain:** Creative Production

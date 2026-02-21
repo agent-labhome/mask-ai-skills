@@ -1,4 +1,4 @@
--e {"id":"e51ac4e4-9611-4a5e-9246-0810e5840258","object":"chat.completion","created":1771597398,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: \"Community Management\"
 category: \"Community & Engagement\"

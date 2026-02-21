@@ -1,4 +1,4 @@
--e {"id":"0f26f4c6-fbd5-4bff-b3b4-68924b953226","object":"chat.completion","created":1771642458,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Engineering
+# SKILL.md: Data Engineering
 
 ## Metadata
 - **Category**: Technical / Engineering

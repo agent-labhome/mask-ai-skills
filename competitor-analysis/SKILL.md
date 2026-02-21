@@ -1,4 +1,4 @@
--e {"id":"0fd6e2e0-a2db-4c44-9b68-b6d8da2b72f5","object":"chat.completion","created":1771642807,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Competitor Analysis
+# Competitor Analysis
 
 ## Metadata
 *   **Primary Topic:** Market & Business Strategy

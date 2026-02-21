@@ -1,4 +1,4 @@
--e {"id":"817d3f35-311b-4924-a46e-95094ed06195","object":"chat.completion","created":1771597461,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Influencer Marketing
 category: Digital Marketing

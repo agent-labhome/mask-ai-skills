@@ -1,4 +1,4 @@
--e {"id":"55825cdf-e1d1-4452-9f06-5767677a0792","object":"chat.completion","created":1771597270,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Wireframing
 category: Design

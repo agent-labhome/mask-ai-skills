@@ -1,4 +1,4 @@
--e {"id":"7d781af9-07d9-44b4-b059-d8fde3cb22a2","object":"chat.completion","created":1771640962,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: DeFi (Decentralized Finance)
+# SKILL.md: DeFi (Decentralized Finance)
 
 ## 📊 Metadata
 - **Category**: Blockchain & FinTech

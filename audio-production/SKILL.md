@@ -1,4 +1,4 @@
--e {"id":"c09bee86-dd8e-4622-baea-c5511c801e61","object":"chat.completion","created":1771648065,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Audio Production
+# SKILL.md: Audio Production
 
 ## Metadata
 - **Skill Domain:** Creative Technology / Media Production

@@ -1,4 +1,4 @@
--e {"id":"52245a0c-b6cd-4b50-8c2d-f765d9b3c528","object":"chat.completion","created":1771642218,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: API Documentation
+# SKILL.md: API Documentation
 
 ## Metadata
 - **Skill Category**: Technical Writing / Developer Experience

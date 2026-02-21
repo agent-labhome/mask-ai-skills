@@ -1,4 +1,4 @@
--e {"id":"875af486-4e2c-4940-ac0c-5a06570e1ce3","object":"chat.completion","created":1771641374,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Dashboard Design
+# SKILL: Dashboard Design
 
 ## Metadata
 - **Category**: Data Visualization / UI/UX Design

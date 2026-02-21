@@ -1,4 +1,4 @@
--e {"id":"ae25679b-4da4-493d-b34c-51f77fd8a091","object":"chat.completion","created":1771642587,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Digital Nomad: A Practical Guide
+# Digital Nomad: A Practical Guide
 
 ## Metadata
 - **Category**: Lifestyle & Career

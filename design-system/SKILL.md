@@ -1,4 +1,4 @@
--e {"id":"21ed388b-2605-430a-a981-e3c85c1e2d85","object":"chat.completion","created":1771597263,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: SKILL.md - Design System Expertise
 version: 1.0.0

@@ -1,4 +1,4 @@
--e {"id":"fe1de9d6-396b-4ffa-9735-ec59b340b876","object":"chat.completion","created":1771642900,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Logistics
+# SKILL.md: Logistics
 
 ## Metadata
 - **Domain:** Supply Chain & Operations

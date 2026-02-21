@@ -1,4 +1,4 @@
--e {"id":"037bbc12-b423-46cd-bc69-c1e7d440037e","object":"chat.completion","created":1771597416,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: \"Online Community Management\"
 category: \"Digital Community\"

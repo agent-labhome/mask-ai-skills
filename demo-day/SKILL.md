@@ -1,4 +1,4 @@
--e {"id":"9333608e-7ac3-4ce3-9c80-6b099b927782","object":"chat.completion","created":1771598214,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Demo Day
 type: Skill

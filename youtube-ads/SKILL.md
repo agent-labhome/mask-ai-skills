@@ -1,4 +1,4 @@
--e {"id":"0f892091-f6c7-4804-81bd-44f600e45f59","object":"chat.completion","created":1771597357,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: YouTube Ads Skill
 description: Comprehensive guide to planning, creating, and optimizing YouTube advertising campaigns

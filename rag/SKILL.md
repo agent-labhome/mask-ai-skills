@@ -1,4 +1,4 @@
--e {"id":"7c556ce5-2d9e-4288-92cf-cab9052e08a7","object":"chat.completion","created":1771641160,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Retrieval-Augmented Generation (RAG)
+# Retrieval-Augmented Generation (RAG)
 *An architecture for enhancing LLMs with external knowledge*
 
 ## Metadata

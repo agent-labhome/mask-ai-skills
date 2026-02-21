@@ -1,4 +1,4 @@
--e {"id":"ab121aa6-d4c0-4385-aded-a431ef2dfa44","object":"chat.completion","created":1771639549,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Second Brain
+# SKILL.md: Second Brain
 
 ## Metadata
 - **Skill Name:** Second Brain

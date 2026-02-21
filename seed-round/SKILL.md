@@ -1,4 +1,4 @@
--e {"id":"6c01f759-a698-496b-abc3-dbacb0b5af68","object":"chat.completion","created":1771598220,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Seed Round
 stage: Early-Stage Financing

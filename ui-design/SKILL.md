@@ -1,4 +1,4 @@
--e {"id":"c98785a9-bb4a-4df9-a88f-c45402ae620c","object":"chat.completion","created":1771597252,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: UI Design Skill
 category: Design & Creative

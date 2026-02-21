@@ -1,4 +1,4 @@
--e {"id":"0c148c41-4e0e-498d-8ed6-a4a07dbf298d","object":"chat.completion","created":1771597513,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Newsletter Skill
 description: A skill for creating, managing, and sending newsletters.

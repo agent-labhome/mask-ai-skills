@@ -1,4 +1,4 @@
--e {"id":"4e2b4f7d-f7f6-40dc-a301-b3a2c16a7b3a","object":"chat.completion","created":1771642393,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Penetration Testing Methodology
+# Penetration Testing Methodology
 
 ## Metadata
 - **Category**: Offensive Security

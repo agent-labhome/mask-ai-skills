@@ -1,4 +1,4 @@
--e {"id":"f49b1259-193c-4645-bda6-9bcc0f406f21","object":"chat.completion","created":1771597157,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Skill: Net Promoter Score (NPS) Analysis
 
 ## Metadata

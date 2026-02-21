@@ -1,4 +1,4 @@
--e {"id":"5514957b-59b7-40de-a1b5-b8f20b873da7","object":"chat.completion","created":1771641169,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: AI Agents
+# SKILL.md: AI Agents
 
 ## Metadata
 

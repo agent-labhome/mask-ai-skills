@@ -1,4 +1,4 @@
--e {"id":"bc603436-9896-4a1e-87e0-fe9ece7b112b","object":"chat.completion","created":1771643130,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Compliance SKILL Framework
+# Compliance SKILL Framework
 
 ## Metadata
 - **Category**: Governance & Operations

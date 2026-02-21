@@ -1,4 +1,4 @@
--e {"id":"37f1b1df-4eb4-4448-9c1b-5e0fdbe5b605","object":"chat.completion","created":1771641214,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Pitch Deck
+# SKILL.md: Pitch Deck
 
 ## Metadata
 - **Skill Name:** Pitch Deck Creation & Presentation

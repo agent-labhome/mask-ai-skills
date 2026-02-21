@@ -1,4 +1,4 @@
--e {"id":"67ff313c-b647-4498-958c-37f60c0d7d1f","object":"chat.completion","created":1771598282,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: \"Product Hunt\"
 description: \"A community-driven platform for discovering and sharing new products, apps, and tech innovations.\"

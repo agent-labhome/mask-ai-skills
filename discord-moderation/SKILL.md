@@ -1,4 +1,4 @@
--e {"id":"c9872860-bbbc-4a69-871f-2f3fb5a7bc78","object":"chat.completion","created":1771597404,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Discord Moderation
 category: Community Management

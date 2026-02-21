@@ -1,4 +1,4 @@
--e {"id":"2bb25f44-1c18-42bd-b538-3f6bd49001e7","object":"chat.completion","created":1771641440,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Marketing: A Practical Guide
+# TikTok Marketing: A Practical Guide
 
 ## Metadata
 - **Primary Platform**: TikTok

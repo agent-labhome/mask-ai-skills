@@ -1,4 +1,4 @@
--e {"id":"4bdfc307-3522-4115-8eb3-c65b6f993d98","object":"chat.completion","created":1771638575,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: SaaS Pricing
+# SKILL.md: SaaS Pricing
 
 ## Metadata
 - **Skill Name:** SaaS Pricing Strategy

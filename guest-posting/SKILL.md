@@ -1,4 +1,4 @@
--e {"id":"87ddb9b1-a8e7-4efd-8067-eca2a4ddca55","object":"chat.completion","created":1771597474,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: \"Guest Posting Guide\"
 description: \"A comprehensive guide to effective guest posting for content marketing and SEO.\"

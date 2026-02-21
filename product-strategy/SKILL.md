@@ -1,4 +1,4 @@
--e {"id":"5100f6e5-c5ae-4325-bb3f-b11f0ca5f112","object":"chat.completion","created":1771642660,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Strategy
+# SKILL.md: Product Strategy
 
 ## Metadata
 - **Category:** Strategic Leadership

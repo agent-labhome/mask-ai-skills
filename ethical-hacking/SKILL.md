@@ -1,4 +1,4 @@
--e {"id":"011cb06f-463a-4825-a09d-1c1fff0ecc01","object":"chat.completion","created":1771642412,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Ethical Hacking: A Practical Guide
+# Ethical Hacking: A Practical Guide
 
 ## 📋 Metadata
 - **Category**: Cybersecurity / Offensive Security

@@ -1,4 +1,4 @@
--e {"id":"f4557fb9-e39f-4cdf-8dce-70e2e80b2c60","object":"chat.completion","created":1771640947,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Crypto Trading
+# SKILL: Crypto Trading
 
 ## Metadata
 - **Domain**: Finance & Technology

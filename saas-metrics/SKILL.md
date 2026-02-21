@@ -1,4 +1,4 @@
--e {"id":"00f0272b-4026-4b62-aa4a-a6a21fe9e8bd","object":"chat.completion","created":1771597072,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Skill: SaaS Metrics
 
 ## Metadata

@@ -1,4 +1,4 @@
--e {"id":"3edbf4e4-e348-401b-bbb5-ad459c19c852","object":"chat.completion","created":1771639618,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Make.com
+# SKILL: Make.com
 
 ## Metadata
 - **Platform**: Web-based automation platform (formerly Integromat)

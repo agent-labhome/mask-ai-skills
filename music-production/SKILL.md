@@ -1,4 +1,4 @@
--e {"id":"9eab80bf-7299-414c-984c-a08178967d06","object":"chat.completion","created":1771648086,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Music Production
+# SKILL.md: Music Production
 
 ## Metadata
 - **Skill Domain:** Creative Arts / Audio Engineering

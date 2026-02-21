@@ -1,4 +1,4 @@
--e {"id":"e136ec72-6311-4ead-8fc3-b0607134c89d","object":"chat.completion","created":1771641432,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Instagram Growth
+# SKILL: Instagram Growth
 
 ## Metadata
 - **Category**: Digital Marketing / Social Media

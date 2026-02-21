@@ -1,4 +1,4 @@
--e {"id":"9558c9ac-c9e5-4057-85dd-24a161268ccc","object":"chat.completion","created":1771642836,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Value Proposition
+# SKILL: Value Proposition
 
 ## Metadata
 - **Skill Type:** Strategic & Communication

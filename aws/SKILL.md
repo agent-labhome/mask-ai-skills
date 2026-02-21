@@ -1,4 +1,4 @@
--e {"id":"9fc5fa50-f4cf-4f87-88bb-91f204b9a676","object":"chat.completion","created":1771636463,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AWS (Amazon Web Services) - SKILL.md
+# AWS (Amazon Web Services) - SKILL.md
 
 ## Metadata
 - **Category**: Cloud Computing & Infrastructure

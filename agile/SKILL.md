@@ -1,4 +1,4 @@
--e {"id":"e769f7fd-421a-4418-ad3c-3c1c564d5e3b","object":"chat.completion","created":1771642689,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Agile Methodology: A Practical Guide
+# Agile Methodology: A Practical Guide
 
 ## Metadata
 - **Category**: Software Development Methodology

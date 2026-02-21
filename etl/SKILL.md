@@ -1,4 +1,4 @@
--e {"id":"c21abe4c-77c0-4a02-92ed-ff22aafbb230","object":"chat.completion","created":1771642467,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# ETL (Extract, Transform, Load) Skill
+# ETL (Extract, Transform, Load) Skill
 
 ## Metadata
 

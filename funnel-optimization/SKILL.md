@@ -1,4 +1,4 @@
--e {"id":"8d47cdd3-90fc-4cc2-bf5a-20634cd9d8fd","object":"chat.completion","created":1771597201,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Funnel Optimization Skill
 
 ## Metadata

@@ -1,4 +1,4 @@
--e {"id":"bf3c9b3e-f272-4f74-96ff-aa91a6aa7a25","object":"chat.completion","created":1771640969,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: NFT (Non-Fungible Token)
+# SKILL: NFT (Non-Fungible Token)
 
 ## Metadata
 - **Category**: Blockchain & Web3

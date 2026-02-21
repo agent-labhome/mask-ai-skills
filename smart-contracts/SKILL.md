@@ -1,4 +1,4 @@
--e {"id":"e954146c-2c64-4e9e-ab5e-385876fd7e07","object":"chat.completion","created":1771636517,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Smart Contract Development
+# SKILL: Smart Contract Development
 
 ## Metadata
 - **Category**: Blockchain Development

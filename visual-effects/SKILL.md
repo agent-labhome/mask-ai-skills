@@ -1,4 +1,4 @@
--e {"id":"18646960-3c1f-4532-a0aa-e4d61e3e120c","object":"chat.completion","created":1771648013,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Visual Effects (VFX)
+# SKILL.md: Visual Effects (VFX)
 
 ## Metadata
 - **Skill Domain:** Digital Art & Technology

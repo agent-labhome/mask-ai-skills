@@ -1,4 +1,4 @@
--e {"id":"2e594bd1-b090-460b-b0de-ca6f230783ad","object":"chat.completion","created":1771597145,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Customer Interview
 
 ## Metadata

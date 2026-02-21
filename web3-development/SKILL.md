@@ -1,4 +1,4 @@
--e {"id":"c7df093d-8728-4da5-b809-02e696e63304","object":"chat.completion","created":1771640977,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web3 Development
+# SKILL.md: Web3 Development
 
 ## Metadata
 - **Category**: Software Development / Blockchain

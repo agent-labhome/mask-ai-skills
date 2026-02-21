@@ -1,4 +1,4 @@
--e {"id":"32a2fb91-bc46-4f07-a073-9792f143642b","object":"chat.completion","created":1771643089,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Legal
+# SKILL.md: Legal
 
 ## Metadata
 - **Category:** Professional & Compliance

@@ -1,4 +1,4 @@
--e {"id":"7be704d9-324a-44ce-9439-d3e8d4f09c69","object":"chat.completion","created":1771643099,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Contracts
+# SKILL: Contracts
 
 ## Metadata
 - **Category**: Legal & Business

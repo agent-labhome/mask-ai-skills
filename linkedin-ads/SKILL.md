@@ -1,4 +1,4 @@
--e {"id":"bedce7b0-e302-454f-b010-caf2cdb5ed26","object":"chat.completion","created":1771597376,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: LinkedIn Ads Skill Guide
 description: Comprehensive guide to mastering LinkedIn Ads for B2B marketing, lead generation, and professional audience targeting.

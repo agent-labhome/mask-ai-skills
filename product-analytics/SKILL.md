@@ -1,4 +1,4 @@
--e {"id":"a1b95abd-f217-4c00-ba69-117af3dfb531","object":"chat.completion","created":1771597091,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Product Analytics
 
 ## Metadata

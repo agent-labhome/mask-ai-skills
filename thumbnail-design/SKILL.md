@@ -1,4 +1,4 @@
--e {"id":"dc4a57de-db89-4a56-a30c-a3620a1f10c3","object":"chat.completion","created":1771647982,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Thumbnail Design: A Practical Guide
+# Thumbnail Design: A Practical Guide
 
 ## Metadata
 - **Skill Level**: Beginner to Intermediate

@@ -1,4 +1,4 @@
--e {"id":"a6919669-b7ba-4d94-8a11-97952b0a2c0a","object":"chat.completion","created":1771642383,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Cybersecurity
+# SKILL.md: Cybersecurity
 
 ## Metadata
 - **Domain:** Information Technology / Security

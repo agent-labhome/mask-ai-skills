@@ -1,4 +1,4 @@
--e {"id":"27d148ac-37e2-422a-a37f-d7f1bb210829","object":"chat.completion","created":1771597163,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Churn Analysis Skill
 
 ## Metadata

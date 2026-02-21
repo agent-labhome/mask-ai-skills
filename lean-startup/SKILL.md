@@ -1,4 +1,4 @@
--e {"id":"63036cad-6a73-4b0d-8841-6cc5acb5f5f5","object":"chat.completion","created":1771641309,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Lean Startup Methodology
+# Lean Startup Methodology
 
 ## Metadata
 - **Primary Author**: Eric Ries

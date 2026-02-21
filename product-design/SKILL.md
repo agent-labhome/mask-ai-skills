@@ -1,4 +1,4 @@
--e {"id":"15d0a171-8390-4358-bf64-cf7e1c8f5c22","object":"chat.completion","created":1771597258,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Product Design Skill Framework
 category: Design & Creative

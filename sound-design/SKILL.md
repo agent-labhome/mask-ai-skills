@@ -1,4 +1,4 @@
--e {"id":"f01cb7b1-906b-4c7f-bbbc-8407b5a261e6","object":"chat.completion","created":1771648096,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Sound Design: A Practical Guide
+# Sound Design: A Practical Guide
 
 ## Metadata
 - **Field**: Audio Production, Media Arts

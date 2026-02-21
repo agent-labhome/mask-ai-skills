@@ -1,4 +1,4 @@
--e {"id":"6ce78d02-62e1-423a-b9ad-0e3ce254519d","object":"chat.completion","created":1771597317,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Brand Voice Guidelines
 version: 2.1

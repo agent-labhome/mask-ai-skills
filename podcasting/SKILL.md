@@ -1,4 +1,4 @@
--e {"id":"6532f426-159f-4e88-880a-d4b724e5c01d","object":"chat.completion","created":1771648055,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Podcasting: A Comprehensive Guide
+# Podcasting: A Comprehensive Guide
 
 ## Metadata
 - **Domain**: Audio Production, Digital Media, Content Creation

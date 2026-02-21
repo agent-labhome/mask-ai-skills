@@ -1,4 +1,4 @@
--e {"id":"5bfaf3c0-326b-461a-8fe4-4574b7f22e61","object":"chat.completion","created":1771636524,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Web3
+# SKILL.md: Web3
 
 ## Metadata
 - **Category:** Technology / Blockchain

@@ -1,4 +1,4 @@
--e {"id":"bd1e8453-3e00-42fe-8b59-d2c6d283aaeb","object":"chat.completion","created":1771598511,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Patreon SKILL Documentation
 version: 1.0

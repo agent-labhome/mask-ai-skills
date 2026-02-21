@@ -1,4 +1,4 @@
--e {"id":"65927f63-008e-4966-850c-2ed45b8f0516","object":"chat.completion","created":1771641205,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Startup Fundraising
+# SKILL.md: Startup Fundraising
 
 ## Metadata
 - **Skill Domain:** Entrepreneurship / Finance

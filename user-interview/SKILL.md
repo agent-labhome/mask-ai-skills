@@ -1,4 +1,4 @@
--e {"id":"c1248f0f-a547-4688-bbe0-768598f73bb2","object":"chat.completion","created":1771641273,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# User Interview Guide
+# User Interview Guide
 
 ## Metadata
 - **Type**: Qualitative Research Method

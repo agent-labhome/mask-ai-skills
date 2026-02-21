@@ -1,4 +1,4 @@
--e {"id":"f2b6f953-21ff-4585-b258-9fda35615c1e","object":"chat.completion","created":1771597531,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 skill_name: Drip Campaign
 category: Marketing Automation

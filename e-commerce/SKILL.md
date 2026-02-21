@@ -1,4 +1,4 @@
--e {"id":"6eacfdf3-19c8-4512-935d-78da903499cc","object":"chat.completion","created":1771648130,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# E-commerce Development: A Practical Guide
+# E-commerce Development: A Practical Guide
 
 ## Metadata
 - **Domain**: E-commerce

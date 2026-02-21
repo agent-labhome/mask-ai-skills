@@ -1,4 +1,4 @@
--e {"id":"ed1a1f3a-71f5-424c-afff-26f649692ba4","object":"chat.completion","created":1771597189,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 # Skill: Conversion Rate
 
 ## Metadata

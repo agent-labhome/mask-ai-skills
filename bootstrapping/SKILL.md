@@ -1,4 +1,4 @@
--e {"id":"af09c275-c8be-4fd0-bbdb-0253af8f6341","object":"chat.completion","created":1771641231,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Bootstrapping
+# Bootstrapping
 
 ## Metadata
 - **Category**: Startup Finance, Entrepreneurship

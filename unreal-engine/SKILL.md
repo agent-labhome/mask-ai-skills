@@ -1,4 +1,4 @@
--e {"id":"1435aacd-17ce-4518-afc9-d27a9faa91ce","object":"chat.completion","created":1771642316,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Unreal Engine SKILL.md
+# Unreal Engine SKILL.md
 
 ## Metadata
 - **Category**: Game Development / Real-time 3D Creation

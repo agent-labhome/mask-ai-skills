@@ -1,4 +1,4 @@
--e {"id":"9ca9ea4c-3078-4024-a505-70f161908ea4","object":"chat.completion","created":1771642597,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Freelancing
+# SKILL.md: Freelancing
 
 ## Metadata
 - **Category:** Professional & Business

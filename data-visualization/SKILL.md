@@ -1,4 +1,4 @@
--e {"id":"7c223985-9f29-45b2-b70e-53d02adad676","object":"chat.completion","created":1771641365,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Data Visualization
+# SKILL: Data Visualization
 
 ## Metadata
 - **Category**: Data Analysis & Communication

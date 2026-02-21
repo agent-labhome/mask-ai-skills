@@ -1,4 +1,4 @@
--e {"id":"56e961a3-99df-4838-b439-0ae2a8c5f435","object":"chat.completion","created":1771641466,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Facebook Ads
+# SKILL.md: Facebook Ads
 
 ## Metadata
 - **Domain**: Digital Marketing / Advertising

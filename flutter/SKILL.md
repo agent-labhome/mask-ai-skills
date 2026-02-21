@@ -1,4 +1,4 @@
--e {"id":"e3e5dd51-1122-4ee4-81f7-a8402f12d5f5","object":"chat.completion","created":1771636603,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Flutter
+# SKILL.md: Flutter
 
 ## Metadata
 - **Category**: Mobile & Cross-Platform Development

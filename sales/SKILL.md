@@ -1,4 +1,4 @@
--e {"id":"930681b1-5a38-4fd9-b1a6-39f9691d1b59","object":"chat.completion","created":1771642723,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Sales
+# SKILL.md: Sales
 
 ## Metadata
 - **Domain:** Business & Revenue Generation  

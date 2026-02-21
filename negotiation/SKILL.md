@@ -1,4 +1,4 @@
--e {"id":"86c0e2c9-65c7-4ed3-bb10-9d35a4d50536","object":"chat.completion","created":1771638665,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Negotiation
+# Negotiation
 
 ## Metadata
 - **Category**: Communication, Professional Skills, Leadership

@@ -1,4 +1,4 @@
--e {"id":"1289461a-f628-4f3a-9dcd-e62b196b8c5c","object":"chat.completion","created":1771642890,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Supply Chain Management
+# SKILL.md: Supply Chain Management
 
 ## Metadata
 - **Domain**: Business Operations, Logistics, Procurement

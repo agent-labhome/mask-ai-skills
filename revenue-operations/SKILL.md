@@ -1,4 +1,4 @@
--e {"id":"f1b15d4e-b0a1-45f2-94e5-bc5942d80bcf","object":"chat.completion","created":1771642762,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Revenue Operations (RevOps)
+# SKILL.md: Revenue Operations (RevOps)
 
 ## Metadata
 - **Category**: Business Operations, Sales Enablement, Data Strategy

@@ -1,4 +1,4 @@
--e {"id":"bc28fb1f-8b00-47bc-9b13-232d289d50c7","object":"chat.completion","created":1771597305,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Visual Identity
 category: Design & Branding

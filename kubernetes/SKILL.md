@@ -1,4 +1,4 @@
--e {"id":"d16a986b-23c5-4103-9021-38b8fa648840","object":"chat.completion","created":1771636457,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Kubernetes
+# SKILL: Kubernetes
 
 ## Metadata
 - **Category**: DevOps & Infrastructure

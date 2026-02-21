@@ -1,4 +1,4 @@
--e {"id":"1b8a321d-daaf-45ab-9977-21fea4702fa4","object":"chat.completion","created":1771643016,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Investment Analysis - SKILL Framework
+# Investment Analysis - SKILL Framework
 
 ## Metadata
 - **Domain**: Finance & Economics

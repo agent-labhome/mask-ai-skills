@@ -1,4 +1,4 @@
--e {"id":"1f8dccb2-cd76-407c-bc8d-7139197b0be2","object":"chat.completion","created":1771642606,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Consulting
+# SKILL: Consulting
 
 ## Metadata
 - **Category:** Professional Services

@@ -1,4 +1,4 @@
--e {"id":"01b4362d-e4ba-4813-b6f6-a90e29804639","object":"chat.completion","created":1771641391,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Conversion Optimization
+# SKILL: Conversion Optimization
 
 ## Metadata
 - **Category**: Digital Marketing / Growth

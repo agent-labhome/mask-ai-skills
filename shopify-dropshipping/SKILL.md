@@ -1,4 +1,4 @@
--e {"id":"391b9983-645b-4fc9-a299-97bc4eea6b85","object":"chat.completion","created":1771639469,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Shopify Dropshipping
+# SKILL.md: Shopify Dropshipping
 
 ## Metadata
 - **Domain**: E-commerce

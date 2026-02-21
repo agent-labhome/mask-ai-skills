@@ -1,4 +1,4 @@
--e {"id":"7490507d-49e1-4db9-9430-500257c8d420","object":"chat.completion","created":1771598499,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Substack Growth Strategy
 description: A comprehensive guide to growing your Substack newsletter from zero to sustainable readership

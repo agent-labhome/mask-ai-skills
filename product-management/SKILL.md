@@ -1,4 +1,4 @@
--e {"id":"0eae4538-a54f-4438-94b6-6a879d1cba90","object":"chat.completion","created":1771642650,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Product Management
+# SKILL.md: Product Management
 
 ## Metadata
 - **Domain:** Business & Technology

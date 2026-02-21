@@ -1,4 +1,4 @@
--e {"id":"4ff5d487-7dd3-4ebe-9e24-7b2ed8b01c1b","object":"chat.completion","created":1771639526,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Notion Setup Guide
+# Notion Setup Guide
 
 ## 📋 Metadata
 - **Category**: Productivity & Organization

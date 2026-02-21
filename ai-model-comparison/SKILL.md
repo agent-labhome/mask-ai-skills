@@ -1,4 +1,4 @@
--e {"id":"d629b40d-09d4-4f15-9bd8-97252e310480","object":"chat.completion","created":1771641144,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AI Model Comparison: A Practical Guide
+# AI Model Comparison: A Practical Guide
 
 ## Metadata
 

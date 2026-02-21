@@ -1,4 +1,4 @@
--e {"id":"1f3aee16-fa04-4833-99fb-8188e059af63","object":"chat.completion","created":1771597351,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Video Marketing
 description: A comprehensive guide to planning, creating, and distributing video content to achieve marketing and business goals.

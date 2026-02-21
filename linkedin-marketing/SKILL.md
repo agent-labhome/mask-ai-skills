@@ -1,4 +1,4 @@
--e {"id":"bd361b08-caaf-4454-a391-48e4a0cac63f","object":"chat.completion","created":1771641458,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: LinkedIn Marketing
+# SKILL.md: LinkedIn Marketing
 
 ## Metadata
 - **Domain:** Digital Marketing / Social Media Marketing

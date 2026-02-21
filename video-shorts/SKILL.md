@@ -1,4 +1,4 @@
--e {"id":"f0607b78-9fba-4a67-a03e-d7ab79783481","object":"chat.completion","created":1771636313,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Video Shorts
+# SKILL.md: Video Shorts
 
 ## Metadata
 

@@ -1,4 +1,4 @@
--e {"id":"c563f60a-3e7a-4230-9537-ad87e417b41f","object":"chat.completion","created":1771597480,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: PR Strategy
 category: Public Relations

@@ -1,4 +1,4 @@
--e {"id":"0e7ad768-f966-489d-a65c-464c1d5a1d6c","object":"chat.completion","created":1771642997,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Budgeting: A Practical Guide
+# Budgeting: A Practical Guide
 
 ## Metadata
 - **Category**: Personal Finance

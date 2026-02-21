@@ -1,4 +1,4 @@
--e {"id":"8cc50fbb-b3df-4a6e-9f48-e4cd3556ebab","object":"chat.completion","created":1771597311,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Brand Guidelines
 description: Comprehensive guide for consistent brand representation across all touchpoints

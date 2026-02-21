@@ -1,4 +1,4 @@
--e {"id":"27873e5c-1309-4a03-a062-b474a050ccbb","object":"chat.completion","created":1771636510,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Blockchain
+# SKILL.md: Blockchain
 
 ## Metadata
 - **Category**: Technology / Computer Science

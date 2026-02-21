@@ -1,4 +1,4 @@
--e {"id":"d2255b08-f228-42ec-9b29-bcff5a904660","object":"chat.completion","created":1771636326,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Podcast Editing
+# SKILL.md: Podcast Editing
 
 ## Metadata
 - **Skill Domain:** Audio Production & Content Creation

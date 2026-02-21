@@ -1,4 +1,4 @@
--e {"id":"b7e6dacc-8ead-452f-a91d-b89faf63b189","object":"chat.completion","created":1771597299,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Brand Identity
 category: Design & Branding

@@ -1,4 +1,4 @@
--e {"id":"e8767a39-c206-4695-a06a-83fb28b7c805","object":"chat.completion","created":1771639492,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: WooCommerce
+# SKILL.md: WooCommerce
 
 ## Metadata
 - **Name**: WooCommerce

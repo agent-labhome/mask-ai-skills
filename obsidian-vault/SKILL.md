@@ -1,4 +1,4 @@
--e {"id":"d4b1e2b7-84b4-4476-b79b-db4240e257aa","object":"chat.completion","created":1771639541,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Obsidian Vault SKILL Guide
+# Obsidian Vault SKILL Guide
 
 ## 📘 Overview
 **SKILL** (Systematic Knowledge Integration & Lifelong Learning) is a structured approach to managing knowledge in Obsidian that combines Zettelkasten principles with practical workflow integration.

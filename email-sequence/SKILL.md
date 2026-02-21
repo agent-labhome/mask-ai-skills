@@ -1,4 +1,4 @@
--e {"id":"b15ffcc0-e616-49fe-86ad-2109f3647576","object":"chat.completion","created":1771597525,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Email Sequence
 description: A structured series of automated emails designed to guide recipients through a specific journey, such as onboarding, education, or conversion.

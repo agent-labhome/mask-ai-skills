@@ -1,4 +1,4 @@
--e {"id":"4aa3f454-2bfa-4727-8a16-153e80f1e847","object":"chat.completion","created":1771597021,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 name: Referral Marketing
 description: Guidance on designing, implementing, and optimizing customer referral programs to drive growth.

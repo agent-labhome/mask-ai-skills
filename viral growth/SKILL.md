@@ -1,4 +1,4 @@
--e {"id":"3418e017-0360-4839-8c0e-a774bb7a0995","object":"chat.completion","created":1771598276,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"```markdown
+```markdown
 ---
 title: Viral Growth
 category: Growth & Marketing

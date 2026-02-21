@@ -1,4 +1,4 @@
--e {"id":"7f6bd215-8fbc-44db-8004-d4870dd1094f","object":"chat.completion","created":1771643109,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Intellectual Property
+# SKILL.md: Intellectual Property
 
 ## Metadata
 - **Domain:** Law, Business, Technology, Creative Arts
