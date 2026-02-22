@@ -1,52 +1,52 @@
-# SKILL.md: Print on Demand (POD)
+# Print on Demand SKILL
 
-## Metadata
-- **Skill:** Print on Demand (POD) Business
-- **Category:** E-commerce, Digital Entrepreneurship, Creative Business
-- **Difficulty:** Beginner to Intermediate
-- **Time to First Sale:** 2-8 weeks
-- **Initial Investment:** $50-$500
-- **Revenue Potential:** $100-$10,000+/month
-- **Key Platforms:** Shopify, Etsy, Amazon Merch, Redbubble, Printful, Printify
-- **Required Skills:** Basic design, market research, basic e-commerce understanding
+## 核心能力
 
-## Overview
-Print on Demand is a business model where you create custom designs that get printed on products (apparel, home goods, accessories) only when customers order them. You handle design and marketing, while POD partners handle printing, packaging, and shipping.
+### 1. 选品设计
+- 热门品类分析
+- 目标受众
+- 设计趋势
+-  2. 平台选择
+-版权规避
 
-## Phase 1: Foundation & Research (Week 1-2)
+### Redbubble
+- TeePublic
+- Merch by Amazon
+- Printful
 
-### 1.1 Niche Selection
-**Critical First Step:** Don't sell to \"everyone.\" Specific niches convert better.
+### 3. 产品优化
+- 产品类型选择
+- 颜色与尺寸
+- 描述优化
+- 标签策略
 
-**Profitable Niche Characteristics:**
-- **Passionate Audience:** Hobbies, fandoms, professions
-- **Clear Visual Identity:** Sports teams, music genres, lifestyle
-- **Problem-Solving:** Funny gifts for specific professions, relatable sentiments
-- **Evergreen Appeal:** Not just seasonal trends
+### 4. 营销推广
+- 社交媒体
+- Pinterest营销
+- SEO优化
+- 网红合作
 
-**Research Tools:**
-- **Google Trends:** Validate interest over time
-- **Amazon Best Sellers:** See what's already selling
-- **Pinterest/Instagram:** Visual trend spotting
-- **Reddit/Forums:** Community interests and inside jokes
+### 5. 运营优化
+- 定价策略
+- 促销活动
+- 数据分析
+- 扩展策略
 
-**Example Niches:**
-- \"Gardening Grandma\" humor
-- \"Software Developer\" inside jokes
-- \"Specific Dog Breed\" enthusiasts
-- \"Retro Gaming\" nostalgia
+## 触发词
+- "print on demand"
+- "POD"
+- "定制周边"
+- "印刷品"
+- "独立周边产品"
 
-### 1.2 Platform Selection
+##设计"
+- " 使用场景
+- 设计师变现
+- 副业创业
+- 被动收入
+- 创意产品
 
-**Integrated Platforms (Your store + fulfillment):**
-- **Shopify + Printful/Printify:** Most control, higher margins
-- **BigCommerce + POD app:** Similar to Shopify
-- **WooCommerce + POD plugin:** For WordPress users
-
-**Marketplace Platforms (Built-in audience):**
-- **Amazon Merch:** High traffic but competitive, requires approval
-- **Etsy:** Handmade aesthetic, strong gift market
-- **Redbubble/Teepublic:** Lower margins but massive audience
-- **Society6:** Art-focused, home decor
-
-**Recommendation:** Start"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## 价格定位
+- 基础版: $29 (入门指导)
+- 专业版: $129 (选品+设计)
+- 企业版: $399 (工作室方案)

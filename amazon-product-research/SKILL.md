@@ -1,23 +1,46 @@
 # Amazon Product Research SKILL
 
-## Core Objectives
-- Identify profitable, low-competition products
-- Validate market demand and seasonality
-- Analyze competition and barriers to entry
-- Estimate profit margins and ROI
+## 核心能力
 
-## Key Metrics to Evaluate
-- **Monthly Revenue**: $3K+ (aim for $8K+)
-- **Review Count**: <300 for established products
-- **Rating**: 4.0+ (indicates good product quality)
-- **Price Point**: $20-$70 (sweet spot)
-- **Search Volume**: 2K+ monthly searches
-- **Competition**: Low Best Seller Rank (BSR <5K in category)
+### 1. 市场分析
+- 竞品销量估算
+- 关键词热度分析
+- 市场饱和度评估
+- 利润空间计算
 
-## Quick Checklist
-- [ ] Solves a problem or fulfills desire
-- [ ] Lightweight/small (reduces shipping costs)
-- [ ] Not fragile or perishable
-- [ ] No legal/regulatory issues
-- [ ] Room for improvement vs competitors
-- [ ] Not"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":200,"total_tokens":219,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+### 2. 选品工具
+- 亚马逊BSR排名分析
+- 评论数量与增长率
+- 价格区间分析
+- 季节性判断
+
+### 3. 供应商分析
+- 1688/Alibaba供应商筛选
+- 工厂资质评估
+- 成本核算
+- 最小起订量MOQ优化
+
+### 4. 风险评估
+- 侵权风险检测
+- 平台政策合规
+- 竞争对手壁垒
+- 物流风险
+
+## 触发词
+- "amazon选品"
+- "亚马逊产品研究"
+- "amazon product research"
+- "亚马逊开店"
+- "跨境选品"
+- "product hunting"
+
+## 使用场景
+- 亚马逊FBA新店选品
+- 现有产品线扩展
+- 竞品监控分析
+- 利润优化
+
+## 价格定位
+- 基础版: $29 (选品报告)
+- 专业版: $99 (深度分析+供应商)
+- 企业版: $299 (全年顾问)
