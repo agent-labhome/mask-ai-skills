@@ -1,27 +1,51 @@
-# Skill: YouTube Shorts Script Generator
+---
+name: youtube-shorts-script
+description: YouTube Shorts脚本生成 - 快速产出病毒短视频
+auto-activate: true
+version: 1.0.0
+author: Mask
+price: $15
+categories:
+  - 视频内容
+  - 社交媒体
+platforms:
+  - YouTube
+  - TikTok
+  - Instagram
+---
 
-## 触发词
-- "YouTube Shorts脚本"
-- "短视频脚本"
-- "60秒脚本"
+# YouTube Shorts脚本
 
-## 功能描述
-为YouTube Shorts、抖音、TikTok等短视频平台生成病毒式传播脚本。包括：
-- 爆款标题生成
-- 3段式结构（Hook-Content-CTA）
-- 情绪调动技巧
-- 热门BGM建议
-- SEO关键词植入
+## 功能
+
+生成60秒内的短视频脚本，适合算法推荐。
 
 ## 使用场景
-- YouTube Shorts内容创作
-- 抖音短视频制作
-- TikTok运营
+
+### 1. 知识科普
+- 技巧分享
+- 冷知识
+- 快速教程
+
+### 2. 娱乐内容
+- 剧情反转
+- 日常Vlog
+- 热点评论
+
+### 3. 产品推广
+- 功能展示
+- 使用教程
+- 用户评价
+
+## 参数
+
+| 参数 | 类型 | 必填 | 说明 |
+|------|------|------|------|
+| topic | string | 是 | 视频主题 |
+| style | string | 是 | 风格 (教程/娱乐/种草/故事) |
+| duration | number | 否 | 时长(秒) 默认60 |
 
 ## 价格
-$39（单次）/ $79（无限次）
 
-## 目录
-- prompts/: 脚本生成模板
-- examples/: 爆款案例库
-- templates/: 各类目脚本框架
+- 个人版: $15
+- 专业版: $39 (批量生成)

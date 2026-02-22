@@ -1,28 +1,50 @@
-# Twitter Growth Hacker
+---
+name: twitter-growth-hacker
+description: Twitter增长黑客 - 快速涨粉策略
+auto-activate: true
+version: 1.0.0
+author: Mask
+price: $29
+categories:
+  - 社交媒体
+  - 增长
+  - 个人品牌
+platforms:
+  - Twitter/X
+---
 
-## 名称
-Twitter Growth Hacker - Twitter 增长黑客
+# Twitter增长黑客
 
-## 触发词
-- twitter增长
-- 涨粉
-- 粉丝增长
-- twitter growth
-- 增加曝光
+## 功能
 
-## 功能描述
-帮助用户在 Twitter 快速获取粉丝，包含内容策略、互动策略、病毒传播机制
+提供Twitter账号增长策略，快速提升粉丝。
 
 ## 使用场景
-- 想要在 Twitter 建立影响力
-- 需要流量导流
-- 推广产品/服务
-- 个人品牌建设
+
+### 1. 内容策略
+- 推文类型
+- 发布频率
+- 黄金时间
+
+### 2. 互动增长
+- 评论区策略
+- 转推交换
+- Spaces参与
+
+### 3. 变现路径
+- 粉丝变现
+- 品牌合作
+- 产品推广
+
+## 参数
+
+| 参数 | 类型 | 必填 | 说明 |
+|------|------|------|------|
+| current_followers | number | 是 | 当前粉丝数 |
+| target_followers | number | 是 | 目标粉丝数 |
+| niche | string | 是 | 领域 |
 
 ## 价格
-$99/$199
 
-## 核心问题解决
-Problems: Twitter 粉丝增长慢，没有曝光
-Goals: 快速获取目标粉丝
-Challenges: 不懂平台算法，不懂增长策略
+- 策略版: $29
+- 顾问版: $99 (1v1诊断)
