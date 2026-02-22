@@ -1,44 +1,28 @@
-# startup-pitch-deck
+# SKILL.md - Startup Pitch Deck
 
-Create compelling startup pitch decks for investors.
+## 名称
+Startup Pitch Deck - 创业路演 PPT 制作
 
-## What This Skill Does
+## 触发词
+- pitch deck
+- 商业计划书
+- 路演PPT
+- 融资PPT
+- 创业计划
 
-Generates professional startup pitch decks with slide-by-slide guidance, investor-ready content, and strategic positioning.
+## 功能描述
+帮助创业者制作投资人喜欢的路演 PPT，包含故事线、数据可视化、融资条款
 
-## Instructions
+## 使用场景
+- 寻求种子轮/A轮融资
+- 参加创业比赛
+- 对接天使投资人
+- 展示商业模式
 
-Use this skill when user needs to create a pitch deck for:
-- Seed round fundraising
-- Series A+ pitches
-- Demo day presentations
-- Angel investor meetings
-- VC pitch meetings
+## 价格
+$99/$199
 
-## Output Format
-
-Provide a complete pitch deck structure including:
-
-1. **Title Slide** - Company name, tagline, founder name
-2. **Problem** - The pain point you're solving
-3. **Solution** - Your product/service
-4. **Market Opportunity** - TAM/SAM/SOM analysis
-5. **Business Model** - How you make money
-6. **Traction** - Growth metrics, users, revenue
-7. **Competition** - Competitive landscape
-8. **Team** - Founders and key advisors
-9. **Financials** - Projections (3-5 years)
-10. **The Ask** - Funding amount and use of funds
-11. **Contact** - Next steps
-
-## Tips
-
-- Keep slides concise (max 10 words per slide)
-- Use data-backed claims
-- Tell a compelling story
-- Highlight unique differentiators
-- Show clear path to ROI for investors
-
----
-
-*Part of AI Skills Bundle - https://xalliance.gumroad.com/l/mcybyu*
+## 核心问题解决
+Problems: 不会做融资 PPT，不知道怎么展示
+Goals: 制作专业、有说服力的 pitch deck
+Challenges: 不懂投资人关注点，设计能力弱
