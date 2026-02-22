@@ -1,61 +1,25 @@
-# Amazon Fba
-
-## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
-
-## Metadata
-- **Topic**: Amazon FBA (Fulfillment by Amazon)
-- **Audience**: Entrepreneurs, e-commerce sellers, small business owners
-- **Skill Level**: Beginner to Intermediate
-- **Time Commitment**: 20-40 hours for initial setup, ongoing management
-- **Prerequisites**: Basic computer skills, business registration, startup capital ($500-$5,000+)
-- **Tools Required**: Amazon Seller Account, product research tools, inventory management software
-
-## Table of Contents
-1. [Understanding Amazon FBA](#understanding-amazon-fba)
-2. [Getting Started: Step-by-Step Setup](#getting-started-step-by-step-setup)
-3. [Product Research & Selection](#product-research--selection)
-4. [Sourcing & Inventory Management](#sourcing--inventory-management)
-5. [Listing Optimization & SEO](#listing-optimization--seo)
-6. [Shipping to Amazon FBA](#shipping-to-amazon-fba)
-7. [Launch Strategy & Marketing](#launch-strategy--marketing)
-8. [Ongoing Management & Scaling](#ongoing-management--scaling)
-9. [Common Pitfalls & Solutions](#common-pitfalls--solutions)
-10. [Advanced Strategies](#advanced-strategies)
-
----
-
-## Understanding Amazon FBA
-
-### What is Amazon FBA?
-Fulfillment by Amazon (FBA) is a service where Amazon stores your products in their fulfillment centers, handles packing, shipping, customer service, and returns for those products. You pay fees for storage and fulfillment.
-
-### Key Benefits
-- **Prime Eligibility**: Automatic Prime badge for faster shipping
-- **Scalability**: Handle large order volumes without infrastructure
-- **Customer Trust**: Amazon handles customer service and returns
-- **Multi-channel**: Can fulfill orders from other sales channels
-- **International**: Access to Amazon's global fulfillment network
-
-### Cost Structure
-- **Referral Fees**: 8-15% of item price (category dependent)
-- **FBA Fulfillment Fees**: Based on product size and weight
-- **Monthly Storage Fees**: Based on cubic feet ($0.83-$2.40 per cubic foot)
-- **Long-term Storage Fees**: Additional fees for inventory >365 days
-- **Optional Services**: Prep, labeling, returns processing
-
----
-
-## Getting Started: Step-by-Step Setup
-
-### Phase 1: Business Foundation"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
-
-
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+# Skill: 亚马逊FBA运营
 
 ## 触发词
-- /amazon-fba
-- Amazon Fba
+- "亚马逊FBA"
+- "亚马逊运营"
+- "亚马逊选品"
+- "跨境电商"
+
+## 功能描述
+亚马逊FBA完整运营：
+- 账号注册与设置
+- 选品方法论
+- Listing优化
+- PPC广告策略
+- 评价管理
+- 库存管理
+
+## 使用场景
+- 亚马逊卖家
+- 跨境电商创业
+- 品牌出海
+
+## 价格定位
+- 基础版：$149
+- 高级版：$299

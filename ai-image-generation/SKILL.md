@@ -1,34 +1,25 @@
-## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
-
-## Purpose
-Generate original images from text descriptions using AI models.
-
-## Capabilities
-- Create images from detailed prompts
-- Support various styles (realistic, artistic, abstract)
-- Generate multiple variations
-- Adjust aspect ratios and basic parameters
-
-## Usage
-Provide a clear text description of the desired image. Include details about:
-- Subject and composition
-- Style (photo, painting, digital art, etc.)
-- Mood and lighting
-- Color palette
-- Specific elements to include/exclude
-
-## Limitations
-- Cannot replicate copyrighted characters/artworks
-- May struggle with precise text rendering
-- Limited control over fine details
-- Generated images are original creations
-
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+# Skill: AI图像生成
 
 ## 触发词
-- /ai-image-generation
-- Ai Image Generation
+- "AI绘图"
+- "Midjourney"
+- "Stable Diffusion"
+- "AI图像"
+
+## 功能描述
+AI图像生成完整指南：
+- Midjourney使用技巧
+- Stable Diffusion部署
+- 提示词工程
+- 商业应用场景
+- 版权与商用
+- 效率提升方法
+
+## 使用场景
+- 社媒内容创作
+- 电商产品图
+- 设计素材
+
+## 价格定位
+- 基础版：$49
+- 高级版：$99
