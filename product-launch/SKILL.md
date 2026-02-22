@@ -1,13 +1,25 @@
-# product-launch
+# 产品发布策略
 
-_Professional product-launch skill for AI assistants._
+## 触发词
+- 产品发布
+- 产品上线
+- Launch
+- 预售
 
-## When to Use
+## 功能描述
+规划并执行成功的产品发布：
+- 发布前预热策略
+- Launch漏斗设计
+- 预售页面优化
+- 首日销售冲刺
+- 发布后跟进策略
 
-When you need help with product-launch tasks.
+## 使用场景
+- 数字产品正式发布
+- 课程招生Launch
+- SaaS产品上线
+- 会员制产品推出
+- 限时优惠活动
 
-## What It Does
-
-- Expert guidance on product-launch
-- Best practices and strategies
-- Step-by-step assistance
+## 价格
+$49/$99/$199

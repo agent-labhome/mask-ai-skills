@@ -1,13 +1,25 @@
-# ebook-creator
+# 电子书创作助手
 
-_Professional ebook-creator skill for AI assistants._
+## 触发词
+- ebook
+- 电子书
+- 写书
+- 出书
 
-## When to Use
+## 功能描述
+端到端电子书创作指导：
+- 主题选择和定位
+- 大纲结构设计
+- 内容写作指导
+- 排版和设计
+- 自出版平台选择
 
-When you need help with ebook-creator tasks.
+## 使用场景
+- 创建销售型电子书
+- 写作专业指南
+- 建立个人品牌书籍
+- 制作引流赠品
+- 知识付费产品
 
-## What It Does
-
-- Expert guidance on ebook-creator
-- Best practices and strategies
-- Step-by-step assistance
+## 价格
+$49/$99/$199

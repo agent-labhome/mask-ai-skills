@@ -1,42 +1,25 @@
-# SKILL: Conversion Optimization
+# 转化率优化CRO
 
-## Metadata
-- **Category**: Digital Marketing / Growth
-- **Experience Level**: Intermediate to Advanced
-- **Time to Proficiency**: 6-12 months of focused practice
-- **Related Skills**: UX Design, Analytics, Copywriting, A/B Testing, Psychology
-- **Tools**: Google Optimize, Optimizely, Hotjar, Google Analytics, VWO, Crazy Egg
+## 触发词
+- 转化率
+- CRO
+- 转化优化
+- 落地页优化
 
-## What is Conversion Optimization?
-Conversion optimization (CRO) is the systematic process of increasing the percentage of website visitors who complete desired actions (conversions) through data-driven improvements to user experience, messaging, and design. It combines analytics, user psychology, and experimentation to remove friction and enhance value perception.
+## 功能描述
+提升网站和营销转化率：
+- A/B测试策略
+- 落地页分析
+- 用户行为分析
+- CTA优化
+- 表单优化
 
-## Core Principles
+## 使用场景
+- 优化销售漏斗
+- 提升着陆页转化
+- 减少购物车放弃率
+- 优化注册流程
+- 提高CTA点击率
 
-### 1. **Data Over Opinion**
-- Start with quantitative (analytics) and qualitative (user feedback) data
-- Identify bottlenecks using funnel analysis and session recordings
-- Let data guide hypotheses, not personal preferences
-
-### 2. **User-Centric Mindset**
-- Understand user intent, objections, and emotional triggers
-- Map customer journeys to identify pain points
-- Prioritize user needs over internal assumptions
-
-### 3. **Continuous Experimentation**
-- CRO is iterative, not a one-time project
-- Build a testing roadmap based on potential impact and effort
-- Document learnings regardless of test outcome
-
-## Practical Framework: The CRO Process
-
-### Phase 1: Research & Analysis (40% of effort)
-**Tools & Methods:**
-- **Analytics Audit**: Identify drop-off points in conversion funnels
-- **Heatmaps & Recordings**: Visualize user behavior (clicks, scrolls, attention)
-- **Surveys & Polls**: Ask visitors about objections and intent
-- **Competitor Analysis**: Review competitor conversion paths
-- **Technical Audit**: Check page speed, mobile responsiveness, cross-browser compatibility
-
-**Key Questions:**
-- Where are users dropping off?
--"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":400,"total_tokens":418,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+## 价格
+$49/$99/$199
