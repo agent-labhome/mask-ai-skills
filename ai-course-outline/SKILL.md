@@ -1,4 +1,4 @@
-# SKILL.md - AI Course Outline
+# Ai Course Outline
 
 ## 名称
 AI Course Outline - AI 课程大纲生成器

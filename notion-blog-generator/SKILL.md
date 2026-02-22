@@ -71,3 +71,8 @@ platforms:
 ### v1.0.0 (2026-02-21)
 - 初始版本
 - 支持主题策划、内容创作、排版、发布管理
+
+
+## 触发词
+- /notion-blog-generator
+- Notion Blog Generator

@@ -1,6 +1,11 @@
 ```markdown
 # Funnel Optimization Skill
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Name**: Funnel Optimization
 - **Description**: Analyzes and improves conversion funnels across customer journeys to maximize conversion rates and revenue.
@@ -27,3 +32,11 @@ Funnel Optimization is the systematic process of analyzing, testing, and improvi
 
 ### 2. Quantitative Analysis
 "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":23,"completion_tokens":250,"total_tokens":273,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":23},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /funnel-optimization
+- Funnel Optimization

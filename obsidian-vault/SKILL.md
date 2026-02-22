@@ -1,4 +1,9 @@
-# Obsidian Vault SKILL Guide
+# Obsidian Vault
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 📘 Overview
 **SKILL** (Systematic Knowledge Integration & Lifelong Learning) is a structured approach to managing knowledge in Obsidian that combines Zettelkasten principles with practical workflow integration.
@@ -45,3 +50,11 @@ vault/
 ├── 01-Fleeting/       # Raw ideas
 ├── 02-Literature/     # Source notes
 ├── 03-Permanent/      # Process"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":350,"total_tokens":370,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /obsidian-vault
+- Obsidian Vault

@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Transform high-level project ideas into structured, actionable roadmap briefs that align stakeholders and provide clear direction.
 
@@ -20,3 +25,10 @@ Transform high-level project ideas into structured, actionable roadmap briefs th
 - Map critical dependencies (internal/external)
 - Define contingency plans for high-risk items
 - Establish monitoring and adjustment mechanisms
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /roadmap
+- Roadmap

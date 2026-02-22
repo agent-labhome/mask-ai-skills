@@ -1,4 +1,9 @@
-# SKILL.md - Ecommerce Product Research
+# Ecommerce Product Research
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Skill Description
 跨境电商产品研究助手 - 帮助进行市场分析、竞品研究、选品决策支持。
@@ -24,3 +29,11 @@
 - 基于公开数据分析
 - 不保证销量预测准确性
 - 建议结合实际市场测试
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /ecommerce-product-research
+- Ecommerce Product Research

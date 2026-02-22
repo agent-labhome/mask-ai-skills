@@ -1,5 +1,10 @@
 -e {"id":"4723207c-5182-4ff9-b489-408fb31676c8","object":"chat.completion","created":1771652593,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Quality Control
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill ID:** QC-001
 - **Version:** 2.1
@@ -42,3 +47,18 @@ Quality Control (QC) is a systematic process ensuring products or services meet 
 - **Corrective Actions:** Implement and verify effectiveness of solutions
 
 ### 5. Statistical Process Control (SPC"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":500,"total_tokens":522,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /quality-control
+- Quality Control
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

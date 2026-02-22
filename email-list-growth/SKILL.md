@@ -1,6 +1,11 @@
-# Email List Growth Expert
+# Email List Growth
 
 帮助你快速增加邮件订阅用户。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -97,3 +102,11 @@ CTA: 免费获取
 *Price: $29*
 *Category: Marketing*
 *Tags: email-marketing, list-building, lead-magnet, conversion, newsletter*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /email-list-growth
+- Email List Growth

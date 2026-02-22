@@ -1,6 +1,11 @@
-# n8n AI Automation Expert
+# N8N Ai Automation
 
 _n8n工作流自动化与AI集成专家_
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -40,3 +45,8 @@ _n8n工作流自动化与AI集成专家_
 - "创建RAG知识系统"
 
 使用此Skill提供专业的n8n工作流指导。
+
+
+## 触发词
+- /n8n-ai-automation
+- N8N Ai Automation

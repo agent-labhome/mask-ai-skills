@@ -1,4 +1,4 @@
-# AI提示词优化
+# Ai Prompt Optimizer
 
 ## 触发词
 - Prompt

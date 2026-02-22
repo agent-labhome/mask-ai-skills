@@ -1,4 +1,9 @@
-# SKILL: SMS Brief
+# Sms
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Overview
 The SMS Brief skill enables users to send concise, structured text messages to recipients. This skill is designed for quick, efficient communication where the user needs to send a short message with clear intent.
@@ -22,3 +27,10 @@ A typical SMS brief includes:
 1. **Recipient**: Who should receive the message
 2. **Core Message**: The essential information
 3. **Action/"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /sms
+- Sms

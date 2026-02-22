@@ -1,5 +1,10 @@
 -e {"id":"fc82f88e-e30c-4f8e-8e90-09271b9c8801","object":"chat.completion","created":1771671536,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Subscription Billing
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Domain**: E-commerce / SaaS / Digital Services
 - **Complexity**: Intermediate to Advanced
@@ -69,3 +74,11 @@
 // Example proration logic
 if (upgradeMidCycle) {
  "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /subscription-billing
+- Subscription Billing

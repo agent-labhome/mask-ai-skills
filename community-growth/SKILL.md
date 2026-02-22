@@ -1,6 +1,11 @@
-# Community Growth Expert
+# Community Growth
 
 帮助你增长社区成员，从0到1万。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -110,3 +115,11 @@
 *Price: $39*
 *Category: Community*
 *Tags: community, growth, membership, engagement, social*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /community-growth
+- Community Growth

@@ -1,5 +1,10 @@
 -e {"id":"5ef0aa24-477d-4843-a878-8f17c1594558","object":"chat.completion","created":1771671732,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Twitter Growth
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Twitter Growth
 - **Category:** Digital Marketing / Social Media
@@ -59,3 +64,11 @@ Develop 3-5 content themes aligned with your niche:
 - Create comprehensive threads (5-15 tweets)
 - Include visuals every 3-4 tweets
 - Start with hook, provide value,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /twitter-growth
+- Twitter Growth

@@ -1,4 +1,4 @@
-# SKILL: Health & Fitness
+# Health Fitness
 
 **Purpose:** Provide actionable, science-backed health and fitness guidance.
 
@@ -19,3 +19,10 @@
 **Response Style:** Clear, concise, and motivational. Use bullet points for plans, emphasize consistency, and encourage consulting healthcare professionals when appropriate.
 
 **Example Prompt:** *"Create a 3-day full-body beginner workout plan."* or *"How can"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /health-fitness
+- Health Fitness

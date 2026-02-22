@@ -1,6 +1,11 @@
-# Responsive Web Design Expert
+# Responsive Design
 
 帮助你设计响应式网页。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -45,3 +50,11 @@
   .container { width: 100%; }
 }
 ```
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /responsive-design
+- Responsive Design

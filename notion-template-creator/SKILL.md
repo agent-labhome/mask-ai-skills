@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Quickly create and share reusable Notion templates from existing pages.
 
@@ -21,3 +26,10 @@ Quickly create and share reusable Notion templates from existing pages.
 - Any repeatable page structure
 
 ## Notes
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /notion-template-creator
+- Notion Template Creator

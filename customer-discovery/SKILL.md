@@ -1,5 +1,10 @@
 # Customer Discovery
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Domain**: Entrepreneurship, Product Management, Market Research
 - **Key Concepts**: Problem-Solution Fit, Market Validation, User Interviews, Lean Startup
@@ -39,3 +44,11 @@ Customer discovery is the systematic process of validating that a problem exists
 - 5-7 open-ended questions maximum
 - Start with broad context questions
 "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":400,"total_tokens":418,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /customer-discovery
+- Customer Discovery

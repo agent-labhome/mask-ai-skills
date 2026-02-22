@@ -1,5 +1,10 @@
 -e {"id":"75ea8e9c-d303-46ee-8b98-7b94357b83f6","object":"chat.completion","created":1771649767,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SEO (Search Engine Optimization) - Complete Guide
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Category**: Digital Marketing
 - **Complexity**: Intermediate to Advanced
@@ -45,3 +50,11 @@ SEO is the practice of optimizing websites to rank higher in search engine resul
 - **Content Depth**: Comprehensive coverage of topics (pillar pages, cluster content)
 - **Content Freshness**: Regular updates, evergreen content maintenance
 - **User Experience**: Readability, engagement"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /seo
+- Seo

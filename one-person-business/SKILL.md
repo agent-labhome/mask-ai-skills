@@ -1,4 +1,4 @@
-# SKILL.md - One Person Business
+# One Person Business
 
 ## 名称
 One Person Business - 一人公司创业助手

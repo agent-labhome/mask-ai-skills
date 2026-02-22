@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Core Competency
 Creating clear, actionable procurement briefs that align stakeholder requirements with organizational procurement strategy.
 
@@ -21,3 +26,10 @@ Creating clear, actionable procurement briefs that align stakeholder requirement
 - Commercial requirements and terms
 - Evaluation criteria and scoring methodology
 - Timeline and delivery requirements
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /procurement
+- Procurement

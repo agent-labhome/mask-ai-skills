@@ -1,4 +1,4 @@
-# Instagram账号运营助手
+# Instagram Manager
 
 帮助你管理Instagram账号，提升粉丝互动，创建吸引人的内容。
 
@@ -56,3 +56,8 @@
 - 最佳发帖时间
 - 热门内容类型
 - 改进建议
+
+
+## 触发词
+- /instagram-manager
+- Instagram Manager

@@ -1,6 +1,11 @@
-# Faceless YouTube Content Generator
+# Faceless Youtube
 
 创建无脸YouTube内容 - 适合不想露脸的创作者。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 使用场景
 
@@ -26,3 +31,8 @@
 ---
 
 *Created: 2026-02-20 (Auto-generated)*
+
+
+## 触发词
+- /faceless-youtube
+- Faceless Youtube

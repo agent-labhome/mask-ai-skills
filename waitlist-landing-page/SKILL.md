@@ -1,4 +1,4 @@
-# SKILL.md - Waitlist Landing Page
+# Waitlist Landing Page
 
 ## 名称
 Waitlist Landing Page - 等待名单落地页生成器

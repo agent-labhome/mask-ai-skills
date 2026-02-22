@@ -1,6 +1,11 @@
-# WhatsApp Group Manager
+# Whatsapp Group
 
 帮助你管理WhatsApp群组，从建立到变现。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -95,3 +100,11 @@
 *Price: $29*
 *Category: Community*
 *Tags: whatsapp, group, community, membership, social*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /whatsapp-group
+- Whatsapp Group

@@ -1,5 +1,10 @@
 -e {"id":"f52259d7-7d16-4dd9-8cdf-596455c92f4d","object":"chat.completion","created":1771671568,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Churn Recovery SKILL
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Churn Recovery
 - **Category:** Customer Success / Retention
@@ -40,3 +45,11 @@ Churn recovery is the strategic process of identifying at-risk customers and imp
 - **Success Planning:** Co-create revised success plans with recovered customers
 - **Monitoring:** Establish checkpoints to ensure recovery measures are effective
 - **Feedback Integration:** Channel insights to"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /churn-recovery
+- Churn Recovery

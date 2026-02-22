@@ -1,4 +1,4 @@
-# SKILL.md - SaaS Pricing Strategy
+# Saas Pricing Strategy
 
 ## 名称
 SaaS Pricing Strategy - SaaS 定价策略顾问

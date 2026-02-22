@@ -1,5 +1,10 @@
 -e {"id":"a74b0474-8572-42b3-b17b-d3a0f8b6801f","object":"chat.completion","created":1771648325,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Google Ads
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Domain**: Digital Marketing / Paid Advertising
 - **Primary Platform**: Google Ads (ads.google.com)
@@ -50,3 +55,11 @@ Google Account
 - **Setup Checklist**:
   - [ ] Use managed placements for control
   - ["},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /google-ads
+- Google Ads

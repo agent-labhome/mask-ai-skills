@@ -1,6 +1,11 @@
-# Cursor Rules Expert
+# Cursor Rules
 
 _Cursor AI代码编辑器的规则配置与项目优化专家_
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -41,3 +46,8 @@ _Cursor AI代码编辑器的规则配置与项目优化专家_
 - "Cursor .cursorrules教程"
 
 使用此Skill提供专业的Cursor配置指导。
+
+
+## 触发词
+- /cursor-rules
+- Cursor Rules

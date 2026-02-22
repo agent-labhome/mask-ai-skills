@@ -15,6 +15,11 @@ status: \"Active\"
 
 # Brand Identity
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Overview
 Brand Identity is the collection of all elements that a company creates to portray the right image to its consumer. It's the tangible expression of a brand, including its name, logo, tone, tagline, typeface, and design. A strong brand identity is cohesive across platforms and applications, distinguishes the brand from competitors, and builds brand recognition and loyalty.
 
@@ -26,3 +31,11 @@ Brand Identity is the collection of all elements that a company creates to portr
 - **Brand Mission:** What the brand does to achieve its vision
 - **Brand Values:** Core principles guiding behavior and decisions
 - **Target Audience:** Detailed understanding"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /brand-identity
+- Brand Identity

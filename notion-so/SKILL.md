@@ -16,3 +16,8 @@
 帮我设计一个[项目管理]Notion模板，需要包含[任务列表、进度追踪、日历视图]功能。
 
 *Tags: notion, productivity, knowledge management, project management*
+
+
+## 触发词
+- /notion-so
+- Notion So

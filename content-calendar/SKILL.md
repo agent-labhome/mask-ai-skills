@@ -1,6 +1,11 @@
-# Content Calendar Manager
+# Content Calendar
 
 帮助你规划和管理内容日历。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -100,3 +105,11 @@
 *Price: $19*
 *Category: Productivity*
 *Tags: content, calendar, planning, schedule, organization*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /content-calendar
+- Content Calendar

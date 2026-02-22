@@ -1,4 +1,4 @@
-# SKILL: Wholesale Briefing
+# Wholesale
 
 **Purpose:** To provide concise, high-level summaries of wholesale operations, strategies, or market conditions.
 
@@ -16,3 +16,10 @@
 *   **Structured:** Typically includes Context, Key Points, and Implications.
 
 **Example Prompt:** "Brief me on the Q4 wholesale strategy for the new product line.""},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":17,"completion_tokens":180,"total_tokens":197,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /wholesale
+- Wholesale

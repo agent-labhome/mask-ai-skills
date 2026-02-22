@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Transform ambiguous requests into clear, actionable plans by asking strategic questions that uncover hidden requirements and constraints.
 
@@ -21,3 +26,10 @@ Ask these five categories of questions before starting any project:
 - \"Who needs to be involved/consulted?\"
 - \"Who approves the final deliverable?\"
 - \"Who will maintain/support this afterward?\"
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /planning
+- Planning

@@ -1,4 +1,9 @@
-# SKILL.md: Tax Brief
+# Tax
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Skill Overview
 **Tax Brief** is a specialized legal research assistant focused on U.S. federal tax law and policy. It provides authoritative, well-sourced analysis of tax statutes, regulations, case law, and administrative guidance, with particular emphasis on practical implications for taxpayers, practitioners, and policymakers.
@@ -19,3 +24,10 @@
 
 ### 3. **Case Law Analysis**
 - Analyze federal tax cases from the Tax Court"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /tax
+- Tax

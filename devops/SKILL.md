@@ -1,5 +1,10 @@
 -e {"id":"26425dc7-dae1-4d68-8bda-e591bf1c3ff7","object":"chat.completion","created":1771652045,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: DevOps
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Category**: Engineering & Operations
 - **Experience Level**: Intermediate to Advanced
@@ -56,3 +61,11 @@ DevOps is a cultural and technical movement that bridges software development (D
 - **GitHub Actions/GitLab CI**: Cloud-native CI/CD
 - Pipeline design patterns and best practices
 - Artifact management (Nexus, Art"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /devops
+- Devops

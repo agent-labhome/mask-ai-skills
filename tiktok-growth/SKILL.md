@@ -1,5 +1,10 @@
 -e {"id":"cff39f29-775a-4a3a-97e9-0838b132551c","object":"chat.completion","created":1771671775,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# TikTok Growth Strategy
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Platform**: TikTok
 - **Primary Goal**: Organic audience growth and engagement
@@ -56,3 +61,11 @@
 - Ideal times (test for your audience):
   - Weekdays: 7-9 AM, 12-2 PM, 7-11 PM
 "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":501,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /tiktok-growth
+- Tiktok Growth

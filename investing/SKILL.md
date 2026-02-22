@@ -1,5 +1,10 @@
 -e {"id":"d4618e03-2110-4482-8f07-31922d5f64f9","object":"chat.completion","created":1771649888,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Investing: A Comprehensive Guide
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Category**: Personal Finance & Wealth Building
 - **Difficulty Level**: Beginner to Advanced
@@ -51,3 +56,11 @@ Investing is the process of allocating resources (usually money) with the expect
 - Earnings generate their own earnings over time
 - **The Rule of 72**: Divide 72 by your annual return to estimate doubling time
 - Example: 8% return = money doubles every 9 years (72"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /investing
+- Investing

@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Quickly structure effective copywriting briefs using a proven framework.
 
@@ -21,3 +26,10 @@ Quickly structure effective copywriting briefs using a proven framework.
 
 ### 4. ACTION (Clear CTA)
 - Single, specific next step
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /copywriting-framework
+- Copywriting Framework

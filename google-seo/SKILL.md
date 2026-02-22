@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Core Competencies
 - **Technical SEO:** Site structure, speed optimization, mobile-first indexing, structured data
 - **On-Page SEO:** Keyword research, content optimization, meta tags, internal linking
@@ -21,3 +26,10 @@
 - SEO audits and recommendations
 - Keyword strategies
 - Performance reports with actionable insights
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /google-seo
+- Google Seo

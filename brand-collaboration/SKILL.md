@@ -1,6 +1,11 @@
-# Brand Collaboration Manager
+# Brand Collaboration
 
 帮助你管理品牌合作和KOL营销。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -101,3 +106,11 @@ Hi [名字],
 *Price: $29*
 *Category: Marketing*
 *Tags: kol, influencer, brand-deal, collaboration, marketing*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /brand-collaboration
+- Brand Collaboration

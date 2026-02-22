@@ -1,6 +1,11 @@
-# AI Course Creator
+# Ai Course Creation
 
 帮助你用AI创建在线课程，从构思到发布。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -85,3 +90,11 @@ Week 8: 项目实战
 *Price: $39*
 *Category: Education*
 *Tags: course, teaching, online-course, education, elearning*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /ai-course-creation
+- Ai Course Creation

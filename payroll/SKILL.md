@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Overview
 The Payroll skill enables users to manage employee payroll, calculate salaries, process payments, and handle payroll-related queries through natural language interactions.
 
@@ -20,3 +25,10 @@ The Payroll skill enables users to manage employee payroll, calculate salaries, 
 - Process overtime calculations
 - Manage bonuses and incentives
 - Track paid time off (PTO) accruals and usage
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /payroll
+- Payroll

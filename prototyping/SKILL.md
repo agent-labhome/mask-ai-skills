@@ -1,5 +1,10 @@
 -e {"id":"56b212bb-e12a-49e5-b3c6-b4007c503a1b","object":"chat.completion","created":1771650641,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Prototyping - SKILL.md
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 
 **Skill Name:** Prototyping  
@@ -53,3 +58,11 @@ Prototyping is the process of creating interactive models of digital products to
 **Practical Exercises:**
 1. **Interactive Flow:** Build a complete user flow (8-10 screens) with multiple navigation paths
 2. **Animation Practice:** Implement 5 different transition types (fade, slide, push, scale, overlay"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /prototyping
+- Prototyping

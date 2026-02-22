@@ -1,5 +1,10 @@
 -e {"id":"3740ea9d-67d1-4659-affc-709f0f18cd1e","object":"chat.completion","created":1771650331,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Blogging
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Blogging
 - **Category:** Writing & Content Creation
@@ -43,3 +48,11 @@ Blogging is the practice of creating and maintaining a website with regular writ
 - **Audience Persona:** Create detailed profiles of ideal readers
 - **Content Pillars:** Identify 3-5 main topic categories
 - **Editorial Calendar:** Plan 1-3 months of content"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /blogging
+- Blogging

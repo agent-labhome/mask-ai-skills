@@ -1,5 +1,10 @@
 -e {"id":"10a39116-728a-41a6-8b69-0fe2b106655d","object":"chat.completion","created":1771671831,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Backlink Building
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Backlink Building
 - **Category:** SEO / Digital Marketing
@@ -52,3 +57,11 @@ Tier 3: Directory listings, local citations (for local SEO)
 ### Phase 2: Outreach Strategies (Ongoing)
 
 **A. The Broken Link Building"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /backlink-building
+- Backlink Building

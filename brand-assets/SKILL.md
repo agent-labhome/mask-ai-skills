@@ -1,6 +1,11 @@
-# Brand Assets Manager
+# Brand Assets
 
 帮助你创建和管理品牌资产。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -101,3 +106,11 @@
 *Price: $29*
 *Category: Design*
 *Tags: brand, identity, assets, logo, guidelines*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /brand-assets
+- Brand Assets

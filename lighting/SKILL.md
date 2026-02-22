@@ -1,5 +1,10 @@
 -e {"id":"bdc45ceb-afba-43e5-b995-0aafe9f09102","object":"chat.completion","created":1771650264,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Lighting
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill ID:** `lighting`
 - **Category:** Environment & Atmosphere
@@ -31,3 +36,11 @@ The classic starting point for illuminating a subject clearly and dimensionally.
 ### 3. **Light Direction & Emotional Language**
 The angle of light tells a subconscious story.
 - **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /lighting
+- Lighting

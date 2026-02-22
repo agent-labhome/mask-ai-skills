@@ -1,5 +1,10 @@
 # Bitcoin Savings Plan
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Name
 **Bitcoin Savings Plan** â A systematic, disciplined approach to accumulating Bitcoin over time.
 
@@ -15,3 +20,10 @@ The Bitcoin Savings Plan is a strategy for regularly purchasing Bitcoin regardle
 - **Low Time Commitment**: âSet and forgetâ â requires minimal ongoing attention.
 - **Self-Custody Integration**: Option to automatically transfer purchases to a private wallet (hardware, mobile, or desktop).
 - **Progress Tracking**: View total Bitcoin accumulated, average cost basis, and growth over"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":26,"completion_tokens":300,"total_tokens":326,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":26},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /bitcoin-savings-plan
+- Bitcoin Savings Plan

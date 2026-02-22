@@ -1,4 +1,4 @@
-# SKILL.md - Product Hunt Launcher
+# Product Hunt Launcher
 
 ## 名称
 Product Hunt Launcher - Product Hunt 发布助手

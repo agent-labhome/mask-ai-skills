@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Core Capabilities
 - **Reasoning**: Strong logical analysis and problem-solving
 - **Writing**: Clear, concise, and adaptable to various styles
@@ -20,3 +25,10 @@
 - No real-time web search (unless enabled)
 - Knowledge cutoff: August 2023
 - Cannot execute code or access external systems
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /claude
+- Claude

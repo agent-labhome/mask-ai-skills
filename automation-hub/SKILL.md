@@ -16,3 +16,11 @@
 我需要自动化[邮件处理]流程，每天收到[100+邮件]，请帮我设计自动化方案。
 
 *Tags: automation, workflow, productivity, efficiency*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /automation-hub
+- Automation Hub

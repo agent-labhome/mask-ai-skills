@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Core Principles
 - **Growth Mindset**: View challenges as opportunities to learn
 - **Resilience**: Bounce back from setbacks with purpose
@@ -21,3 +26,10 @@
 - Problems → Puzzles
 - Fixed ability → Developable skills
 - Comparison → Personal progress
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /mindset-success
+- Mindset Success

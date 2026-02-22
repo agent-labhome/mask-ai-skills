@@ -1,5 +1,10 @@
 -e {"id":"07a91bd7-9568-4b1c-bd87-1d68da1af791","object":"chat.completion","created":1771649618,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Career Development
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Domain:** Professional Development
 - **Complexity Level:** Intermediate to Advanced
@@ -45,3 +50,11 @@ Focus on developing skills and experiences that solve meaningful problems for or
 - **Identify your dominant anchors:** Technical/Functional, Managerial, Autonomy, Security, Entrepreneurial, Service, Pure Challenge, Lifestyle
 
 ### Phase 2: Exploration"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /career-development
+- Career Development

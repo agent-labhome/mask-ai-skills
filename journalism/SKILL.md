@@ -1,5 +1,10 @@
 -e {"id":"f298f6f1-ddaf-4b71-b985-fca3b6f18b1b","object":"chat.completion","created":1771650342,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Journalism
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Domain**: Communications, Media, Information
 - **Core Purpose**: To gather, verify, analyze, and present news and information to the public in a fair, accurate, and engaging manner.
@@ -34,3 +39,11 @@ Journalism is built on a social contract with the public. Before mastering techn
 - **The Pitch:** Articulate the story's core, its relevance (the \"so what?\"), key questions, potential sources, and unique angle. Specify the intended format (news brief, feature, investigation).
 
 #### **Phase 2: Research &"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /journalism
+- Journalism

@@ -1,4 +1,4 @@
-# SKILL.md - AI Competitor Analysis
+# Ai Competitor Analysis
 
 ## 名称
 AI Competitor Analysis - AI 竞品分析助手

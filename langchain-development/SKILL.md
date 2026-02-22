@@ -1,6 +1,11 @@
-# LangChain Development Expert
+# Langchain Development
 
 帮助你用LangChain开发AI应用。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -113,3 +118,11 @@ memory.chat_memory.add_ai_message("有什么可以帮你的？")
 *Price: $39*
 *Category: Development*
 *Tags: langchain, ai, python, llm, development*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /langchain-development
+- Langchain Development

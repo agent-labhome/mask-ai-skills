@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Help users understand and plan for retirement by providing clear, actionable guidance on savings strategies, timeline planning, and financial considerations.
 
@@ -20,3 +25,10 @@ Help users understand and plan for retirement by providing clear, actionable gui
 - Discuss risk tolerance changes with age
 - Cover target-date funds and other retirement-focused investments
 - Address inflation protection strategies
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /retirement
+- Retirement

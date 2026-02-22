@@ -1,4 +1,4 @@
-# SKILL.md - AI Ebook Generator
+# Ai Ebook Generator
 
 ## 名称
 AI Ebook Generator - AI 电子书生成助手
@@ -26,3 +26,7 @@ $49/$99
 Problems: 想出书但不会写，不知道怎么组织内容
 Goals: 快速生成完整电子书
 Challenges: 写作能力弱，不懂出版格式
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。

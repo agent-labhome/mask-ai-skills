@@ -1,5 +1,10 @@
 -e {"id":"ce3d9ac8-22d5-4e78-8e8a-bb69ff3971d1","object":"chat.completion","created":1771649983,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Nutrition
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 
 - **Skill Name:** Nutrition
@@ -45,3 +50,11 @@ Nutrition is the science of how food affects the body, encompassing the study of
 1. **Study Fundamentals:**
    - Read \"How Not to Die\" by Michael Greger or \"The Obesity Code\" by Jason Fung
    - Complete free online courses (Cours"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /nutrition
+- Nutrition

@@ -1,4 +1,4 @@
-# SKILL.md - Indie SaaS Validator
+# Indie Saas Validator
 
 ## 名称
 Indie SaaS Validator - Indie SaaS 验证工具

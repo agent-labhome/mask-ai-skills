@@ -1,4 +1,4 @@
-# Telegram Bot Developer
+# Telegram Bot
 
 帮助你开发Telegram机器人，从功能到部署。
 
@@ -90,3 +90,11 @@ app.run_polling()
 *Price: $39*
 *Category: Development*
 *Tags: telegram, bot, python, automation, messenger*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /telegram-bot
+- Telegram Bot

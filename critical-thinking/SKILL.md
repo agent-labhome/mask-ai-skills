@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## What It Is
 Systematically analyzing information to form reasoned judgments.
 
@@ -21,3 +26,10 @@ Be intellectually humble. Seek truth, not confirmation.
 ## Anti-Patterns
 - Jumping to conclusions
 - Confusing correlation with causation
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /critical-thinking
+- Critical Thinking

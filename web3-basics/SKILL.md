@@ -1,6 +1,11 @@
-# Web3 Basics Guide
+# Web3 Basics
 
 帮助你了解Web3基础知识。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -104,3 +109,11 @@
 *Price: $29*
 *Category: Technology*
 *Tags: web3, blockchain, defi, nft, crypto*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /web3-basics
+- Web3 Basics

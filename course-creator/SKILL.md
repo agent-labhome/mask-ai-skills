@@ -7,6 +7,11 @@ description: 在线课程创建助手 - 课程规划、内容创作、视频脚�
 
 帮助你从零开始创建、发布和销售在线课程。
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 课程创建流程
 
 ### 1. 定位与选题
@@ -123,3 +128,8 @@ mkdir -p course-name/{scripts,videos,assets,references}
 - 音频：Audacity、Adobe Podcast
 - 托管：Teachable、Kajabi、Thinkific
 - 支付：Stripe、Gumroad、Paddle
+
+
+## 触发词
+- /course-creator
+- Course Creator

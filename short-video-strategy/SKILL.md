@@ -2,6 +2,11 @@
 
 帮助你制定短视频策略，从平台选择到内容规划。
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 核心能力
 
 ### 1. 平台选择
@@ -98,3 +103,11 @@
 *Price: $29*
 *Category: Marketing*
 *Tags: short-video, tiktok, shorts, strategy, content*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /short-video-strategy
+- Short Video Strategy

@@ -26,3 +26,11 @@ Supply: 1,000,000,000
 Tax: 0/0
 Network: Solana
 ```
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /memecoin-launcher
+- Memecoin Launcher

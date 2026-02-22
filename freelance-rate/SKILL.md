@@ -1,4 +1,9 @@
-# Freelance Rate Calculator & Strategy Guide
+# Freelance Rate
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Metadata
 - **Primary Use:** Determining and justifying freelance rates
@@ -31,3 +36,11 @@
 ### Step 1: Calculate Your Baseline
 ```plaintext
 Annual Personal Expenses: $"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":25,"completion_tokens":250,"total_tokens":275,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":25},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /freelance-rate
+- Freelance Rate

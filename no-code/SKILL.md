@@ -1,5 +1,10 @@
 -e {"id":"febed1be-787a-472c-b733-282b3f482e6b","object":"chat.completion","created":1771671621,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: No-Code Development
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Category**: Software Development, Business Tools
 - **Difficulty**: Beginner to Intermediate
@@ -66,3 +71,11 @@ No-code development involves creating software applications, websites, and autom
 - **Bubble**: For full web applications
 - **Glide**: For mobile apps from spreadsheets
 - **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /no-code
+- No Code

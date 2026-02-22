@@ -14,6 +14,11 @@ version: 1.0
 
 # UI Design Skill
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Overview
 UI (User Interface) Design is the practice of designing the visual and interactive elements of digital products—websites, applications, and software—with a focus on aesthetics, usability, and user satisfaction. It bridges the gap between user needs (UX) and technical implementation, creating interfaces that are both beautiful and functional.
 
@@ -23,3 +28,11 @@ UI (User Interface) Design is the practice of designing the visual and interacti
 - **Layout & Composition:** Creating balanced, hierarchical, and scannable layouts using grids, spacing, and alignment.
 - **Color Theory:** Selecting and applying color palettes that enhance usability, convey meaning, and align with brand identity.
 - **Typography:** Choosing and pairing typefaces for optimal readability and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /ui-design
+- Ui Design

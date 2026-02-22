@@ -1,5 +1,10 @@
 -e {"id":"7db5b63f-360f-4147-912b-8ddde202f469","object":"chat.completion","created":1771649608,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Personal Branding
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Area:** Professional Development & Career Strategy  
 - **Complexity:** Intermediate to Advanced  
@@ -45,3 +50,11 @@ Personal branding is the intentional, strategic practice of defining and communi
 **A. Craft Your Core Messaging**
 - **Elevator pitch:** A 30-second summary of who you are, what you do, and why it matters.
 - **Professional bio:** Write three versions (short: 1–2 sentences; medium: paragraph; long"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /personal-branding
+- Personal Branding

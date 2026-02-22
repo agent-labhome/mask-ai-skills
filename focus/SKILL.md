@@ -1,5 +1,10 @@
 # Focus
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Category**: Productivity & Mental Discipline
 - **Difficulty**: Intermediate (requires consistent practice)
@@ -22,3 +27,11 @@ Focus is the ability to direct and sustain your attention on a single task or ob
 - **Define the Task**: Clearly articulate what you intend to accomplish. \"Work on project\" is vague; \"Draft the introduction section\" is actionable.
 - **Gather Resources**: Have everything you need (tools, documents, information) ready before you start to avoid mid-flow interruptions.
 - **Set"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":300,"total_tokens":317,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /focus
+- Focus

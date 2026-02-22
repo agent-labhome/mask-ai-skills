@@ -1,6 +1,11 @@
-# YouTube Keyword Research Expert
+# Youtube Keyword
 
 帮助你做YouTube关键词研究。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -95,3 +100,15 @@
 *Price: $19*
 *Category: Media*
 *Tags: youtube, keyword, seo, research, optimization*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /youtube-keyword
+- Youtube Keyword
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

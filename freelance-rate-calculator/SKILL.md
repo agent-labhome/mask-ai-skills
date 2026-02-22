@@ -1,4 +1,4 @@
-# SKILL.md - Freelance Rate Calculator
+# Freelance Rate Calculator
 
 ## 名称
 Freelance Rate Calculator - 自由职业定价计算器

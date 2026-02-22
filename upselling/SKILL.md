@@ -1,5 +1,10 @@
 -e {"id":"fde43f73-4628-44c7-974d-82183fde9227","object":"chat.completion","created":1771652346,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Upselling
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Upselling
 - **Category:** Sales & Revenue Optimization
@@ -50,3 +55,11 @@ Upselling is a sales technique where customers are encouraged to purchase a high
 #### 2.1 Upselling Archetypes
 1. **Feature-Based Upselling:** Adding premium features to core products
    - Example: \"Would"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":500,"total_tokens":522,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /upselling
+- Upselling

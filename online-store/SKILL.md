@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Core Purpose
 Build and manage a fully functional e-commerce platform with product listings, shopping cart, checkout, and order management.
 
@@ -21,3 +26,10 @@ Build and manage a fully functional e-commerce platform with product listings, s
 - Multi-step checkout process
 - Collect shipping and billing information
 - Integrate payment gateways (Stripe, PayPal, etc.)
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /online-store
+- Online Store

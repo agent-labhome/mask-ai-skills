@@ -1,6 +1,11 @@
-# YouTube CTA Expert
+# Youtube Cta
 
 帮助你优化YouTube行动号召。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -99,3 +104,11 @@
 *Price: $9*
 *Category: Media*
 *Tags: youtube, cta, engagement, optimization*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /youtube-cta
+- Youtube Cta

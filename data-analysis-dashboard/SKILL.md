@@ -1,4 +1,4 @@
-# 数据分析仪表盘
+# Data Analysis Dashboard
 
 ## 触发词
 - 数据分析

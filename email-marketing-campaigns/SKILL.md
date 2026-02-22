@@ -1,6 +1,11 @@
-# Skill: Email Marketing Campaigns
+# Email Marketing Campaigns
 
 _创建专业邮件营销活动_
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 描述
 帮助用户创建有效的邮件营销活动，包括主题行优化、预览文本、邮件文案、CTA设计等。
@@ -57,3 +62,11 @@ _创建专业邮件营销活动_
 
 **标签**: email, marketing, campaigns, copy
 **价格层级**: $49 / $99 / $199
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /email-marketing-campaigns
+- Email Marketing Campaigns

@@ -1,5 +1,10 @@
 -e {"id":"b6f9ffd3-35df-418c-843d-c8e68bf52472","object":"chat.completion","created":1771648413,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Data Analysis
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Category:** Technical / Analytical
 - **Complexity Level:** Intermediate to Advanced
@@ -48,3 +53,11 @@
 - \"Why did conversion rates drop 15% last quarter?\"
 - \"Which user segments are most affected?\"
 - \"What interventions might improve conversions"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /data-analysis
+- Data Analysis

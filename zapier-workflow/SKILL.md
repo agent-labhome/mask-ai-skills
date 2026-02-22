@@ -16,3 +16,11 @@ Zapier自动化工作流设计助手。
 帮我设计一个Zapier工作流：当[Google Sheets新增一行]时，自动[发送Slack通知]。
 
 *Tags: zapier, automation, workflow, integration*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /zapier-workflow
+- Zapier Workflow

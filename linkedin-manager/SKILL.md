@@ -50,3 +50,8 @@ LinkedIn运营工具。
 
 ### v1.0.0 (2026-02-19)
 - 初始版本
+
+
+## 触发词
+- /linkedin-manager
+- Linkedin Manager

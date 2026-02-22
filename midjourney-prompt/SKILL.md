@@ -1,6 +1,11 @@
-# Midjourney Prompt Generator
+# Midjourney Prompt
 
 帮助你生成高质量Midjourney提示词，从摄影到设计全领域。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -77,3 +82,11 @@ futuristic city night skyline, cyberpunk neon lights, tall skyscrapers, flying c
 *Price: $29*
 *Category: Design*
 *Tags: midjourney, ai-art, prompt, image-generation, design*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /midjourney-prompt
+- Midjourney Prompt

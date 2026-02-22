@@ -1,5 +1,10 @@
 -e {"id":"04b78659-bbd4-4474-86c4-b7cefde8e5a4","object":"chat.completion","created":1771671632,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Low-Code Development
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 
 - **Category**: Software Development
@@ -68,3 +73,11 @@ Low-code is a visual development approach that enables faster application delive
 - Enterprise architecture on low-code platforms
 - Scalability planning and implementation
 - Complex"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /low-code
+- Low Code

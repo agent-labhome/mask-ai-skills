@@ -1,4 +1,4 @@
-# 联盟营销活动管理
+# Affiliate Campaign Manager
 
 ## 触发词
 - 联盟营销

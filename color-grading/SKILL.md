@@ -1,5 +1,10 @@
 -e {"id":"610763f6-8c3e-4b3b-893f-828e1db5691c","object":"chat.completion","created":1771650253,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Color Grading
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name**: Color Grading
 - **Category**: Visual Arts / Post-Production
@@ -50,3 +55,11 @@ Color grading is the process of enhancing and altering the color of visual media
    - Temperature and tint
 
 3. **Practice Reading Sc"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /color-grading
+- Color Grading

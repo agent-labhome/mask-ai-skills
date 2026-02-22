@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## CORE PRINCIPLE
 **Move fast, cut deep, act decisively.**  
 Firing is not failure—it’s strategic pruning. When someone is a poor fit, keeping them hurts the team, the company, and the individual.
@@ -21,3 +26,10 @@ Firing is not failure—it’s strategic pruning. When someone is a poor fit, ke
    - Explain logistics only.
 
 3. **After**
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /firing
+- Firing

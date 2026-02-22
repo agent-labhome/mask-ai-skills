@@ -1,6 +1,11 @@
-# content-repurposer
+# Content Repurposer
 
 将一篇内容改编成多个平台适配版本，最大化内容价值。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 适用场景
 - "把这篇博客改成Twitter thread"
@@ -31,3 +36,11 @@
 2. 针对每个平台调整格式和风格
 3. 优化平台特定元素
 4. 提供发布时间建议
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /content-repurposer
+- Content Repurposer

@@ -55,3 +55,8 @@ AI副业顾问，根据用户的技能、时间和资源生成可执行的副业
 
 ### v1.0.0 (2026-02-20)
 - 初始版本
+
+
+## 触发词
+- /side-hustle-generator
+- Side Hustle Generator

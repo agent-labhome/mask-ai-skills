@@ -1,5 +1,10 @@
 -e {"id":"758deb9e-4a20-4dd7-91a4-2421ffb02f55","object":"chat.completion","created":1771652573,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Lean Manufacturing
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Lean Manufacturing
 - **Category:** Operations & Process Improvement
@@ -44,3 +49,11 @@ Lean Manufacturing is a systematic approach to identifying and eliminating waste
 
 ### 1. Defects
 - **Examples:** R"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":500,"total_tokens":522,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /lean-manufacturing
+- Lean Manufacturing

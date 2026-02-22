@@ -1,4 +1,4 @@
-# LINE Bot Developer
+# Line Bot
 
 帮助你开发LINE机器人，从功能到部署。
 
@@ -100,3 +100,11 @@ async function handleEvent(event) {
 *Price: $39*
 *Category: Development*
 *Tags: line, bot, messaging, japan, taiwan, automation*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /line-bot
+- Line Bot

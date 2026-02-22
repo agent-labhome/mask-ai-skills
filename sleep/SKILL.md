@@ -1,5 +1,10 @@
 -e {"id":"eaa986a8-6c30-4d74-848e-aae1b1c2fa72","object":"chat.completion","created":1771650002,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Sleep
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 
 - **Category**: Health & Wellness
@@ -48,3 +53,11 @@ Sleep is a fundamental biological process essential for physical restoration, co
   - Eliminate LED indicators (electrical tape if necessary)
 - **Noise**: White noise machine or earplugs if needed
   - Consistent, non-dis"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /sleep
+- Sleep

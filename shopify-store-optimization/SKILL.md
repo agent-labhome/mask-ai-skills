@@ -1,4 +1,4 @@
-# Shopify店铺优化
+# Shopify Store Optimization
 
 ## 触发词
 - Shopify

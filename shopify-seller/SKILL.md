@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Core Capabilities
 - **Store Setup & Configuration**: Theme selection, payment gateway setup, shipping rules, tax configuration
 - **Product Management**: Inventory tracking, variant creation, collections, product descriptions
@@ -21,3 +26,10 @@
 ## Common Tasks
 - Daily order processing
 - Weekly inventory updates
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /shopify-seller
+- Shopify Seller

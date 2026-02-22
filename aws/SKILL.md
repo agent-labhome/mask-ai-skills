@@ -1,5 +1,10 @@
 -e {"id":"df04d03f-0084-4aa0-a933-16fdad15c7f0","object":"chat.completion","created":1771652015,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# AWS SKILL Guide
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Category**: Cloud Computing & Infrastructure
 - **Difficulty**: Beginner to Expert (Multi-tiered)
@@ -60,3 +65,11 @@ Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted 
 - Secrets Manager
 - WAF & Shield
 - Compliance programs (SOC, PCI,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /aws
+- Aws

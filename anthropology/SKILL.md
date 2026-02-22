@@ -1,4 +1,9 @@
-# Anthropology: A Brief Overview
+# Anthropology
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## What is Anthropology?
 Anthropology is the holistic study of humanity across time and space. It examines the biological, cultural, linguistic, and archaeological dimensions of human existence, seeking to understand both the diversity and universality of human experience.
@@ -19,3 +24,10 @@ Anthropology is the holistic study of humanity across time and space. It examine
 - Examines human biological evolution and variation.
 - Methods: Osteology, primatology, genetics, and forensics.
 - Focus: Human origins, adaptation, and primatology"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /anthropology
+- Anthropology

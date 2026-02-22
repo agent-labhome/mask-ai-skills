@@ -1,4 +1,9 @@
-# remote-work-consultant Skill
+# Remote Work Consultant
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 描述
 远程工作顾问 - 帮助用户优化远程工作环境、提升生产力、管理工作与生活平衡。
@@ -55,3 +60,11 @@
 ## 限制
 - 不提供法律或税务建议
 - 不替代专业心理健康咨询
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /remote-work-consultant
+- Remote Work Consultant

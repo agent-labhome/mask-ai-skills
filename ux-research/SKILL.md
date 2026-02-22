@@ -1,5 +1,10 @@
 -e {"id":"85ac1436-3934-4430-8687-7e1b92447588","object":"chat.completion","created":1771650620,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: UX Research
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Domain:** User Experience (UX) / Human-Computer Interaction (HCI)
 - **Proficiency Levels:** Beginner → Intermediate → Advanced → Expert
@@ -45,3 +50,11 @@ UX Research exists to bridge the gap between what organizations *think* users ne
 - **A/B Testing:** Comparing two versions to see which performs better
 - **Card Sorting:** Understanding how users categorize information
 - **Tree Testing:** Evaluating findability in"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /ux-research
+- Ux Research

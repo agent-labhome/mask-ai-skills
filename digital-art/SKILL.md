@@ -1,6 +1,11 @@
-# Digital Art Expert
+# Digital Art
 
 帮助你创作数字艺术。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -81,3 +86,11 @@
 *Price: $19*
 *Category: Design*
 *Tags: digital-art, illustration, drawing, painting, design*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /digital-art
+- Digital Art

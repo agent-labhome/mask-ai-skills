@@ -1,6 +1,11 @@
-# YouTube End Screen Expert
+# Youtube End Screen
 
 帮助你优化YouTube结尾画面。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -93,3 +98,11 @@
 *Price: $9*
 *Category: Media*
 *Tags: youtube, end-screen, cta, optimization*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /youtube-end-screen
+- Youtube End Screen

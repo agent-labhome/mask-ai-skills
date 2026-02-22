@@ -64,3 +64,8 @@ platforms:
 
 ### v1.0.0 (2026-02-20)
 - 初始版本
+
+
+## 触发词
+- /meeting-summarizer
+- Meeting Summarizer

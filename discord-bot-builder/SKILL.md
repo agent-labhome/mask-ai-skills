@@ -1,4 +1,4 @@
-# Discord Bot Builder Skill
+# Discord Bot Builder
 
 创建功能强大的Discord机器人。
 
@@ -38,3 +38,8 @@
 ```
 创建一个Discord等级系统，用户通过聊天获得经验值，达到一定等级获得角色奖励。
 ```
+
+
+## 触发词
+- /discord-bot-builder
+- Discord Bot Builder

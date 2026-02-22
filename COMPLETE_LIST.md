@@ -75,8 +75,23 @@
 | 69 | discord-manager | Discord | $39 |
 | 70 | gumroad-seller | Gumroad | $29 |
 | 71 | notion-template | Notion | $29 |
+| 72 | ai-video-dubbing | 视频配音 | $49 |
+| 73 | automated-content-pipeline | 内容流水线 | $79 |
+| 74 | xiaohongshu-viral-generator | 小红书爆款 | $39 |
+| 75 | crypto-quant-strategy | 量化策略 | $99 |
+| 76 | cursor-ai-coding | Cursor编程 | $59 |
+| 77 | ai-meeting-notes | 会议纪要 | $29 |
+| 78 | notion-second-brain-setup | 第二大脑 | $69 |
+| 79 | tiktok-short-script | TikTok脚本 | $35 |
+| 80 | landing-page-template | 落地页模板 | $49 |
+| 81 | gumroad-product-optimization | Gumroad优化 | $59 |
+| 82 | ai-audiobook-creation | 有声书制作 | $49 |
+| 83 | whatsapp-marketing-automation | WhatsApp营销 | $79 |
+| 84 | automated-lead-generation | 获客系统 | $99 |
+| 85 | affiliate-marketing-toolkit | 联盟工具包 | $69 |
+| 86 | twitter-growth-hacking | Twitter增长 | $79 |
 
-**Total Skills: 71**
+**Total Skills: 86**
 **Total Potential Revenue: $1,420/year**
 
 ---

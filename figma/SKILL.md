@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Quickly generate structured Figma design briefs for projects, features, or components.
 
@@ -21,3 +26,10 @@ Quickly generate structured Figma design briefs for projects, features, or compo
 - \"Figma brief: e-commerce product card component\"
 
 ## Tips
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /figma
+- Figma

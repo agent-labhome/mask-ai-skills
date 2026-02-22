@@ -1,6 +1,11 @@
-# TikTok Automation
+# Tiktok Automation
 
 帮助你自动化TikTok运营。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -18,3 +23,11 @@
 - 算法
 - 标签
 - 互动
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /tiktok-automation
+- Tiktok Automation

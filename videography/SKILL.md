@@ -1,5 +1,10 @@
 -e {"id":"53d27cda-bfa9-4390-a27b-8bbb510ed650","object":"chat.completion","created":1771650233,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Videography
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Domain:** Creative Production / Digital Media
 - **Complexity Level:** Intermediate to Advanced
@@ -48,3 +53,11 @@ Primary Camera Types:
 #### Planning Phase
 - **Concept Development:** Brainstorming, mood boards, references
 - **Scriptwriting:** Dialogue, action descriptions, timing"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /videography
+- Videography

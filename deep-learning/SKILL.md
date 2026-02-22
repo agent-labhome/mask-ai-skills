@@ -1,5 +1,10 @@
 -e {"id":"46a3310b-72aa-48d7-91f8-a593b7fa6cd0","object":"chat.completion","created":1771651950,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Deep Learning SKILL.md
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 
 **Skill Name:** Deep Learning  
@@ -67,3 +72,11 @@
 
 **Generative Models:**
 - Variational"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /deep-learning
+- Deep Learning

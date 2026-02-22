@@ -1,4 +1,4 @@
-# SKILL.md - Twitter Thread Writer
+# Twitter Thread Writer
 
 ## 名称
 Twitter Thread Writer - Twitter长文写作助手
@@ -26,3 +26,6 @@ $49/$99
 Problems: 写推特没思路，不知道怎么写才火
 Goals: 写出高互动、高转化的推特内容
 Challenges: 英语表达不地道，不懂平台算法
+
+## 使用示例
+请提供具体需求，我将为你生成结果。

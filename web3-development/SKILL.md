@@ -1,4 +1,9 @@
-# SKILL.md: Web3 Development
+# Web3 Development
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Metadata
 - **Category**: Software Development / Blockchain
@@ -35,3 +40,11 @@
 ### 2. Frontend Integration
 **Practical Implementation:**
 - **Wallet Connection**: Implement Web3Modal or RainbowKit for multi-wallet support"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":350,"total_tokens":369,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /web3-development
+- Web3 Development

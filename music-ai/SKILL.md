@@ -1,6 +1,11 @@
-# AI Music Generation Expert
+# Music Ai
 
 帮助你用AI生成音乐。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -99,3 +104,11 @@ lofi hip hop, relaxing, chill, soft piano, 80bpm
 *Price: $19*
 *Category: Design*
 *Tags: ai-music, suno, audio, generation, copyright*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /music-ai
+- Music Ai

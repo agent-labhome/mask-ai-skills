@@ -1,4 +1,4 @@
-# SKILL.md - Twitter Growth Hacker
+# Twitter Growth Hacker
 
 ## 名称
 Twitter Growth Hacker - Twitter 增长黑客

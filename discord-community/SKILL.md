@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Core Purpose
 Manage and grow an engaged Discord community through strategic moderation, engagement initiatives, and member support.
 
@@ -21,3 +26,10 @@ Manage and grow an engaged Discord community through strategic moderation, engag
 - Keep channel topics organized and relevant
 - Pin important announcements and resources
 - Curate helpful resources in dedicated channels
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /discord-community
+- Discord Community

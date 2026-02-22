@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 🎯 Purpose
 A logo design brief captures essential information to guide the creation of a visual identity that effectively represents a brand, communicates its values, and resonates with its target audience.
 
@@ -21,3 +26,10 @@ A logo design brief captures essential information to guide the creation of a vi
 - Design preferences (icon-based, wordmark, combination)
 - Symbolism or concepts to incorporate
 - Visual references or mood boards
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /logo-design
+- Logo Design

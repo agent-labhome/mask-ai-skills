@@ -1,4 +1,4 @@
-# Video Editor Skill
+# Video Editor
 
 帮助你完成视频编辑任务的AI助手。
 
@@ -12,3 +12,8 @@
 - 短视频剪辑
 - YouTube视频
 - 社媒内容制作
+
+
+## 触发词
+- /video-editor
+- Video Editor

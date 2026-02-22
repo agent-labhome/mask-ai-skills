@@ -1,4 +1,4 @@
-# SKILL.md - Viral LinkedIn Post
+# Viral Linkedin Post
 
 ## 名称
 Viral LinkedIn Post - 病毒式 LinkedIn 帖子

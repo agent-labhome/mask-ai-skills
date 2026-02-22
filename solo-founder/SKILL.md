@@ -1,5 +1,10 @@
 -e {"id":"423fa37a-ffd9-490c-82fc-beffc8729ce3","object":"chat.completion","created":1771671692,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Solo Founder's SKILL Framework
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Framework**: SKILL (Strategy, Knowledge, Implementation, Leverage, Longevity)
 - **Target**: Solo founders, indie hackers, solopreneurs
@@ -59,3 +64,11 @@
 2. **Micro-Progress Tracking**
    - Break projects into 2-hour tasks max
    - Use public accountability (build in"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /solo-founder
+- Solo Founder

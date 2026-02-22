@@ -1,4 +1,4 @@
-# Bolt.new
+# Bolt New
 
 Bolt.new AI全栈应用生成器 - 快速构建Web应用。
 
@@ -18,3 +18,11 @@ Bolt.new AI全栈应用生成器 - 快速构建Web应用。
 用Bolt.new创建一个[AI聊天助手]，支持[多模型切换、会话历史、代码高亮]。
 
 *Tags: bolt.new, AI coding, web app, fullstack*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /bolt-new
+- Bolt New

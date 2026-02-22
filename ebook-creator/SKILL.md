@@ -1,4 +1,4 @@
-# 电子书创作助手
+# Ebook Creator
 
 ## 触发词
 - ebook

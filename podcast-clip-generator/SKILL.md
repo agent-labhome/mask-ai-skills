@@ -1,4 +1,9 @@
-# SKILL.md - Podcast Clip Generator
+# Podcast Clip Generator
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Skill Description
 播客片段生成器 - 将长播客音频转换为适合社交媒体传播的短视频片段。支持多平台输出（TikTok、Instagram Reels、YouTube Shorts）。
@@ -38,3 +43,11 @@
 - 字幕样式可定制
 - 支持多语言
 - 可添加品牌水印
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /podcast-clip-generator
+- Podcast Clip Generator

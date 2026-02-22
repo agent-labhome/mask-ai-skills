@@ -1,6 +1,11 @@
-# Auto Agent System Builder
+# Auto Agent System
 
 帮助你搭建自动运行的AI Agent系统。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -96,3 +101,11 @@ CREATE TABLE ops_policy (
 *Price: $49*
 *Category: Technology*
 *Tags: ai-agent, automation, supabase, nextjs, autonomous*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /auto-agent-system
+- Auto Agent System

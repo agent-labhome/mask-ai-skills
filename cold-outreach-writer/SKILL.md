@@ -1,4 +1,4 @@
-# SKILL.md - Cold Outreach Writer
+# Cold Outreach Writer
 
 ## 名称
 Cold Outreach Writer - 冷外展邮件/消息写作

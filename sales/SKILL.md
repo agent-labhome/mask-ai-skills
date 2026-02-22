@@ -1,4 +1,9 @@
-# SKILL.md: Sales
+# Sales
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Metadata
 - **Domain:** Business & Revenue Generation  
@@ -38,3 +43,11 @@ Sales is the process of identifying, engaging, and converting potential buyers i
 5. **Closing**  
    - Asking for the sale clearly and confidently.  
    - Methods: Assumptive close (“Shall we start with the annual plan?”), Urgency"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":450,"total_tokens":467,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /sales
+- Sales

@@ -1,6 +1,11 @@
-# Influencer Outreach Manager
+# Influencer Outreach
 
 帮助你联系和合作网红。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -113,3 +118,11 @@ Hi [名字],
 *Price: $29*
 *Category: Marketing*
 *Tags: influencer, outreach, collaboration, kol, partnership*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /influencer-outreach
+- Influencer Outreach

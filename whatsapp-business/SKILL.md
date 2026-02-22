@@ -7,6 +7,11 @@ description: WhatsApp Business运营助手 - 客户沟通、自动回复、群�
 
 帮助管理WhatsApp Business账号，提升客户沟通效率和营销效果。
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 核心功能
 
 ### 1. 自动回复设置
@@ -48,3 +53,11 @@ description: WhatsApp Business运营助手 - 客户沟通、自动回复、群�
 - 订单状态更新
 - 售后服务跟进
 - 客户反馈收集
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /whatsapp-business
+- Whatsapp Business

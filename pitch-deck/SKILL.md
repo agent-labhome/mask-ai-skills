@@ -1,4 +1,9 @@
-# SKILL.md: Pitch Deck
+# Pitch Deck
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Metadata
 - **Skill Name:** Pitch Deck Creation & Presentation
@@ -36,3 +41,18 @@
   - High-contrast text (dark on light or vice versa)
   - Consistent color palette (brand colors + neutrals)
   - Ample"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":400,"total_tokens":420,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /pitch-deck
+- Pitch Deck
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

@@ -21,6 +21,11 @@ updated: 2024-11-20
 
 # Discord Moderation
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Overview
 Discord moderation involves managing and maintaining a safe, welcoming, and functional environment within Discord servers. This includes enforcing rules, managing conflicts, organizing content, and fostering positive community engagement.
 
@@ -31,3 +36,11 @@ Discord moderation involves managing and maintaining a safe, welcoming, and func
 - **Consistent Application**: Apply rules uniformly across all members regardless of status
 - **Policy Updates**: Regularly review and update rules based on community needs and incidents
 - **Transparency**:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":250,"total_tokens":267,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /discord-moderation
+- Discord Moderation

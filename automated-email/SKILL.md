@@ -12,6 +12,11 @@ author: Productivity Team
 
 # Automated Email System
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Overview
 A skill for creating, scheduling, and managing automated email workflows to streamline communication and improve productivity.
 
@@ -39,3 +44,11 @@ A skill for creating, scheduling, and managing automated email workflows to stre
 - Dynamic content based on recipient data
 - Conditional content blocks
 - A/B testing capabilities"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /automated-email
+- Automated Email

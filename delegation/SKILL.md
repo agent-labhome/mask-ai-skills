@@ -1,4 +1,9 @@
-# Delegation: A Brief Guide
+# Delegation
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## What is Delegation?
 Delegation is the process of assigning responsibility and authority to others to complete specific tasks or make certain decisions. It's not just about offloading workâit's about empowering team members while freeing up your own time for higher-level responsibilities.
@@ -20,3 +25,10 @@ Delegation is the process of assigning responsibility and authority to others to
 
 â **Keep for yourself:**
 - Performance reviews and"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":15,"completion_tokens":200,"total_tokens":215,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":15},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /delegation
+- Delegation

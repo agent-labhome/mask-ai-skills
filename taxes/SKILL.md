@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Quickly answer common personal and business tax questions.
 
@@ -20,3 +25,10 @@ Quickly answer common personal and business tax questions.
 - Cite current tax year when relevant
 - Flag when information may vary by location/individual
 - Emphasize the need for professional consultation
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /taxes
+- Taxes

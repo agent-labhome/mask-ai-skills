@@ -1,5 +1,10 @@
 -e {"id":"0d855aca-8013-46aa-b598-7af3321c72a2","object":"chat.completion","created":1771652398,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Business Development
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Domain:** Business Growth & Strategy
 - **Primary Function:** Market Expansion, Partnership Development, Revenue Growth
@@ -43,3 +48,11 @@ Input → Research → Initial Contact → Qualification → Pipeline Entry
 - **Multi-threaded Engagement:** Connect with 3-5 contacts per target organization
 
 **Phase 3: Solution Design ("},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":22,"completion_tokens":500,"total_tokens":522,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":22},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /business-development
+- Business Development

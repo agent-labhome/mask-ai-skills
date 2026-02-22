@@ -1,5 +1,10 @@
 -e {"id":"4eb0c4d2-3511-4c42-9fd2-a9f94394242c","object":"chat.completion","created":1771652357,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Renewal Management
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name**: Renewal Management
 - **Category**: Customer Success / Revenue Operations
@@ -44,3 +49,18 @@ Day 0: Process renewal → Celebrate success → Begin next cycle planning
 **Data Infrastructure:**
 - Configure CRM renewal fields: Renewal Date, Contract Value, Health Score, Decision Maker, Renewal Stage
 - Set up automated renewal alerts (90, 60"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":23,"completion_tokens":500,"total_tokens":523,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":23},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /renewal-management
+- Renewal Management
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

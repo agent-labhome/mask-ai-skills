@@ -1,4 +1,4 @@
-# 邮件营销自动化
+# Email Marketing Automation
 
 ## 触发词
 - email营销

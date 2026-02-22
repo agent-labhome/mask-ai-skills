@@ -1,5 +1,10 @@
 -e {"id":"2b2dabbc-1b85-4422-a0fe-3a6d98a17fb1","object":"chat.completion","created":1771650411,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Teaching
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Teaching
 - **Category:** Education & Communication
@@ -44,3 +49,11 @@ Teaching is the art and science of facilitating learning through deliberate meth
    - Example: \"By the end of this session, learners will be able to solve quadratic equations using three different methods\"
    
 2. **Backward Design"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /teaching
+- Teaching

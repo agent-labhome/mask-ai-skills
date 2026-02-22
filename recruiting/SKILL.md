@@ -1,5 +1,10 @@
 -e {"id":"6afcf8fe-045e-43ba-980c-81c754b216f7","object":"chat.completion","created":1771650518,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Recruiting
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Recruiting
 - **Category:** Human Resources / Talent Acquisition
@@ -44,3 +49,11 @@ Recruiting is the strategic process of identifying, attracting, evaluating, and 
 ## Detailed Process Guide
 
 ### Phase 1: Planning"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /recruiting
+- Recruiting

@@ -1,6 +1,11 @@
-# Twitter/X Strategy Expert
+# Twitter Strategy
 
 帮助你制定Twitter增长和变现策略。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -107,3 +112,11 @@
 *Price: $29*
 *Category: Social Media*
 *Tags: twitter, x, personal-brand, growth, monetization*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /twitter-strategy
+- Twitter Strategy

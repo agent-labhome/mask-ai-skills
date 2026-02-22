@@ -1,5 +1,10 @@
 -e {"id":"9072df3c-88ad-42b9-a38c-06ae7beaa1a6","object":"chat.completion","created":1771652035,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Google Cloud
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Domain**: Cloud Computing & Infrastructure
 - **Complexity**: Intermediate to Advanced
@@ -54,3 +59,11 @@ Google Cloud Platform (GCP) is a suite of cloud computing services that runs on 
 - **Data Services:**
   - BigQuery (data warehousing, queries, partitioning)
  "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /google cloud
+- Google Cloud

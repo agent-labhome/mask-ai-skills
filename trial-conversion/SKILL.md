@@ -1,5 +1,10 @@
 -e {"id":"9979ac57-4fcd-4010-85d9-2dc5f1c04f62","object":"chat.completion","created":1771671557,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Trial Conversion
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill ID**: `trial-conversion`
 - **Category**: Growth & Analytics
@@ -65,3 +70,11 @@ Trial Conversion is the systematic process of turning free trial users into payi
 ```markdown
 Day 1-2: First Value Delivery
 ✓"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /trial-conversion
+- Trial Conversion

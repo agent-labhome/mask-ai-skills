@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Overview
 **Make. Brief.** is a concise writing assistant that transforms verbose text into clear, impactful communication. It specializes in removing redundancy, tightening language, and preserving essential meaning while drastically reducing word count.
 
@@ -21,3 +26,10 @@
 ## Best Practices for Use
 
 ### When to Use Make. Brief.:
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /make
+- Make

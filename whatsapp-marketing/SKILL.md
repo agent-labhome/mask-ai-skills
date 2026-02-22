@@ -1,42 +1,47 @@
-# WhatsApp Marketing Expert
+## Whatsapp Marketing
 
 帮助你用WhatsApp做营销和客户运营。
 
-## 核心能力
+### 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
-### 1. 账号设置
+### 核心能力
+
+#### 1. 账号设置
 - Business账号
 - 资料完善
 - 自动回复
 - 标签管理
 
-### 2. 营销策略
+#### 2. 营销策略
 - 广播消息
 - 群发营销
 - 促销序列
 - 个性化推荐
 
-### 3. 客服运营
+#### 3. 客服运营
 - 常见问题
 - 订单处理
 - 投诉解决
 - 满意度跟进
 
-### 4. 工具自动化
+#### 4. 工具自动化
 - WhatsApp Business API
 - Chat API
 - 聊天机器人
 - CRM集成
 
-## 使用示例
+### 使用示例
 
 ```
 用户: 我想用WhatsApp做营销
 
 助手:
-## 📱 WhatsApp营销指南
+### 📱 WhatsApp营销指南
 
-### 广播 vs 群发
+#### 广播 vs 群发
 
 **广播 (Broadcast):**
 - 最多256人
@@ -48,7 +53,7 @@
 - 可大量发送
 - 需要认证
 
-### 消息模板
+#### 消息模板
 
 **新品发布:**
 ```
@@ -90,11 +95,11 @@ Hi [名字]! 👋
 祝您使用愉快！
 ```
 
-### 发送时间
+#### 发送时间
 - 最佳: 9-11点, 19-21点
 - 避免: 22点-8点
 
-### 增长技巧
+#### 增长技巧
 - 网站WhatsApp按钮
 - WhatsApp分享插件
 - 线下二维码
@@ -103,7 +108,7 @@ Hi [名字]! 👋
 
 ---
 
-## 工具推荐
+### 工具推荐
 
 - WhatsApp Business
 - WhatsApp Business API
@@ -112,7 +117,7 @@ Hi [名字]! 👋
 
 ---
 
-## 变现方式
+### 变现方式
 
 - 代运营: $300-2000/月
 - 培训: $199-999
@@ -123,3 +128,11 @@ Hi [名字]! 👋
 *Price: $29*
 *Category: Marketing*
 *Tags: whatsapp, marketing, messaging, customer-service, automation*
+
+
+### 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+### 触发词
+- /whatsapp-marketing
+- Whatsapp Marketing

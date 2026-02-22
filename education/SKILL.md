@@ -1,5 +1,10 @@
 -e {"id":"eec9f0ae-ae2a-4af4-951d-dc4f8a38ee76","object":"chat.completion","created":1771650421,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Education
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 
 - **Skill ID:** `education`
@@ -63,3 +68,11 @@ Education is the systematic process of facilitating learning, knowledge acquisit
 - Designs coherent lesson sequences
 - Differentiates instruction for diverse learners
 - Uses multiple assessment strategies"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":500,"total_tokens":518,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /education
+- Education

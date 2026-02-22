@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Core Principle
 Habits form through consistent repetition in a specific context, creating automatic behaviors.
 
@@ -21,3 +26,10 @@ Habits form through consistent repetition in a specific context, creating automa
 
 ## Maintenance
 - Expect occasional failures (don't break the chain twice)
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /habits-formation
+- Habits Formation

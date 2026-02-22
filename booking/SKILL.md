@@ -1,4 +1,9 @@
-# SKILL: Booking
+# Booking
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Overview
 The Booking skill enables users to schedule appointments, make reservations, or book services through natural language requests. This skill parses temporal information, identifies booking intent, and extracts key details to facilitate scheduling actions.
@@ -18,3 +23,10 @@ The skill recognizes these common booking request patterns:
 - Specific dates: "next Tuesday", "March 15th", "tomorrow"
 - Time ranges: "from 2 to 4 PM", "between 10am and noon"
 - Duration:"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":14,"completion_tokens":200,"total_tokens":214,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":14},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /booking
+- Booking

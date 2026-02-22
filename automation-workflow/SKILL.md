@@ -1,6 +1,11 @@
-# Automation Workflow Designer
+# Automation Workflow
 
 帮助你设计自动化工作流，提高效率。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -88,3 +93,11 @@
 *Price: $29*
 *Category: Productivity*
 *Tags: automation, workflow, zapier, make, efficiency*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /automation-workflow
+- Automation Workflow

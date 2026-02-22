@@ -1,4 +1,4 @@
-# 社交媒体自动化
+# Social Media Automation
 
 ## 触发词
 - 社交媒体自动化

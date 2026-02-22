@@ -17,3 +17,11 @@ Anthropic Claude代码助手 - AI编程伴侣。
 用[Python]写一个[图片水印工具]，支持[批量处理、自定义位置]。
 
 *Tags: claude, anthropic, coding, programming, AI*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /claude-code
+- Claude Code

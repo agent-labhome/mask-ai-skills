@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 To create a clear, structured brief that aligns brand objectives with influencer collaboration, ensuring mutual value and campaign success.
 
@@ -21,3 +26,10 @@ To create a clear, structured brief that aligns brand objectives with influencer
 **4. Compensation & Logistics**
 - Payment/Fee Structure (Flat, Commission, Product Exchange)
 - Product/Service Provision Timeline
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /influencer-partnership
+- Influencer Partnership

@@ -1,4 +1,4 @@
-# Notion模板设计
+# Notion Templates
 
 ## 触发词
 - Notion模板

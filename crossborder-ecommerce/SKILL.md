@@ -5,6 +5,11 @@ description: 跨境电商运营助手 - 帮你选品、写文案、处理客服�
 
 # 跨境电商运营助手
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 概述
 
 本技能帮助运营跨境电商业务，覆盖选品、Listing优化、物流、客服等全流程。
@@ -159,3 +164,11 @@ Best regards,
 - TikTok短视频
 - Deals网站 (Slickdeals, Dealsplus)
 - Influencer合作
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /crossborder-ecommerce
+- Crossborder Ecommerce

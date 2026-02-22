@@ -1,4 +1,4 @@
-# AI写作助手
+# Ai Writing Assistant
 
 ## 触发词
 - AI写作

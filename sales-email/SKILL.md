@@ -1,6 +1,11 @@
-# Sales Email Writer
+# Sales Email
 
 帮助你撰写高转化销售邮件，从开发信到成交跟进。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -86,3 +91,11 @@ Day 30: 重新激活
 *Price: $29*
 *Category: Sales*
 *Tags: sales, email, outreach, b2b, crm*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /sales-email
+- Sales Email

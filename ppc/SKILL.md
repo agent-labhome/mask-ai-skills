@@ -1,5 +1,10 @@
 -e {"id":"0a0fddac-44a9-447f-b4b9-4482e1687683","object":"chat.completion","created":1771649788,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# PPC (Pay-Per-Click) Advertising Skill
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Category**: Digital Marketing
 - **Subcategory**: Performance Marketing
@@ -57,3 +62,11 @@ PPC is a digital advertising model where advertisers pay each time a user clicks
    - Placement exclusions and optimizations
 
 3"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /ppc
+- Ppc

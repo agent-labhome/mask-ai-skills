@@ -1,4 +1,4 @@
-# SKILL.md - Audience Researcher
+# Audience Researcher
 
 ## 名称
 Audience Researcher - 受众/用户研究助手

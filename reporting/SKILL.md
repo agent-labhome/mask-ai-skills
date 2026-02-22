@@ -1,5 +1,10 @@
 -e {"id":"a2d719b4-f5aa-4a6e-85ef-fe94ca371a46","object":"chat.completion","created":1771648433,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL: Reporting
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Category**: Communication & Documentation
 - **Complexity**: Intermediate
@@ -52,3 +57,11 @@ Where appropriate, include clear recommendations, next steps, or calls to action
 - **Informational**: Status updates, meeting minutes, progress reports
 - **Analytical**: Data analysis, root cause investigation, market research
 - **Recommendation**: Proposal, business case, strategic plan"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /reporting
+- Reporting

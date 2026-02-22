@@ -1,6 +1,11 @@
-# Lovable AI App Developer
+# Lovable Ai
 
 _Lovable AI全栈应用构建专家_
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -43,3 +48,8 @@ _Lovable AI全栈应用构建专家_
 - "Lovable vs v0对比"
 
 使用此Skill提供专业的Lovable开发指导。
+
+
+## 触发词
+- /lovable-ai
+- Lovable Ai

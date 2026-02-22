@@ -1,5 +1,10 @@
 -e {"id":"a495a2be-5a87-4d83-9700-46cc8b3d2ebc","object":"chat.completion","created":1771648355,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Native Advertising
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Native Advertising
 - **Domain:** Digital Marketing / Content Strategy
@@ -61,3 +66,11 @@ KPIs to Track:
 |----------|----------|-----------------|----------------|
 | **Outbrain/Taboola** | Content discovery | Recommended content widgets | $0.20-$0.80 |
 | **Facebook/Instagram** | Social engagement | In-feed"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":20,"completion_tokens":500,"total_tokens":520,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /native-advertising
+- Native Advertising

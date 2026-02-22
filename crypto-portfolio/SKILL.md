@@ -1,6 +1,11 @@
-# Crypto Portfolio Manager
+# Crypto Portfolio
 
 帮助你管理加密货币组合，从入门到专业。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -83,3 +88,11 @@ BNB/SOL: 15% ($1500)
 *Price: $39*
 *Category: Finance*
 *Tags: crypto, bitcoin, ethereum, defi, portfolio*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /crypto-portfolio
+- Crypto Portfolio

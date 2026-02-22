@@ -1,6 +1,11 @@
-# n8n Automation Expert
+# N8N Automation
 
 帮助你用n8n实现工作流自动化。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -107,3 +112,11 @@ docker run -d --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n n8nio/n8n
 *Price: $29*
 *Category: Automation*
 *Tags: n8n, automation, workflow, self-hosted, nodecode*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /n8n-automation
+- N8N Automation

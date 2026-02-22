@@ -1,4 +1,4 @@
-# SKILL.md - AI Video Script
+# Ai Video Script
 
 ## 名称
 AI Video Script - AI 视频脚本创作

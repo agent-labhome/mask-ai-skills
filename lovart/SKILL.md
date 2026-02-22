@@ -17,3 +17,11 @@ Lovart AI设计工具 - 智能UI/UX设计助手。
 帮我优化这个[登录页面]的UI，需要[更现代、更易用、更符合品牌]。
 
 *Tags: lovable, AI design, UI/UX, design*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /lovart
+- Lovart

@@ -1,4 +1,4 @@
-# SKILL.md - Gumroad Product Optimizer
+# Gumroad Product Optimizer
 
 ## 名称
 Gumroad Product Optimizer - Gumroad 产品优化助手

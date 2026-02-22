@@ -1,6 +1,11 @@
-# B2B Lead Generation
+# Lead Generation
 
 帮助你获取B2B客户线索，从定位到成交。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -95,3 +100,11 @@ Hi [名字],
 *Price: $39*
 *Category: Sales*
 *Tags: b2b, lead-generation, sales, crm, outreach*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /lead-generation
+- Lead Generation

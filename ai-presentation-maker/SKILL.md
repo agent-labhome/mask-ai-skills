@@ -1,4 +1,4 @@
-# SKILL.md - AI Presentation Maker
+# Ai Presentation Maker
 
 ## 名称
 AI Presentation Maker - AI演示文稿制作助手

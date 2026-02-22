@@ -56,3 +56,8 @@ platforms:
 
 ### v1.0.0 (2026-02-22)
 - 初始版本
+
+
+## 触发词
+- /podcast-host
+- Podcast Host

@@ -57,3 +57,8 @@ platforms:
 
 ### v1.0.0 (2026-02-19)
 - 初始版本
+
+
+## 触发词
+- /notepad
+- Notepad

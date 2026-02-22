@@ -1,5 +1,10 @@
 -e {"id":"3606619f-e414-4eb3-907d-ec84e07587c9","object":"chat.completion","created":1771671852,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Local SEO
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Local SEO (Search Engine Optimization)
 - **Category:** Digital Marketing / Business Operations
@@ -47,3 +52,11 @@ Citations are online mentions of your business name, address, and phone number.
 6. Industry-specific directories (e.g., Houzz for home services)
 7. Local chamber of commerce
 8. Data aggregators (Infogroup"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /local-seo
+- Local Seo

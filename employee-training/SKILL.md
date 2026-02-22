@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Enable employees to acquire knowledge and skills to perform their roles effectively and support organizational growth.
 
@@ -21,3 +26,10 @@ Enable employees to acquire knowledge and skills to perform their roles effectiv
 - Gather and incorporate participant feedback for continuous improvement
 
 **5. Compliance & Documentation**
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /employee-training
+- Employee Training

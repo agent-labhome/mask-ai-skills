@@ -1,6 +1,11 @@
-# YouTube Thumbnail Designer
+# Youtube Thumbnail
 
 帮助你设计高点击率YouTube缩略图。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -105,3 +110,11 @@
 *Price: $19*
 *Category: Design*
 *Tags: thumbnail, youtube, design, ctr, video*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /youtube-thumbnail
+- Youtube Thumbnail

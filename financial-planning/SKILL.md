@@ -1,5 +1,10 @@
 # Financial Planning
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Domain**: Personal Finance, Wealth Management
 - **Complexity**: Intermediate to Advanced
@@ -45,3 +50,11 @@ Tools needed: Bank statements, bills, investment accounts, loan documents
    - Calculate savings rate: (Income - Expenses) / Income
 
 #### **Step 2"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":18,"completion_tokens":450,"total_tokens":468,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":18},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /financial-planning
+- Financial Planning

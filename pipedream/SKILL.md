@@ -16,3 +16,11 @@ Pipedream自动化平台助手 - 事件驱动架构。
 设计一个Pipedream工作流：当[Github有新的PR]时，自动[发送Discord通知并创建Linear工单]。
 
 *Tags: pipedream, automation, workflow, event-driven*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /pipedream
+- Pipedream

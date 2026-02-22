@@ -1,4 +1,4 @@
-# 在线研讨会漏斗
+# Webinar Funnel
 
 ## 触发词
 - Webinar

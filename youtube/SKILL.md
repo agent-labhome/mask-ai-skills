@@ -1,5 +1,10 @@
 -e {"id":"f2fd24bc-a6b0-4529-bef6-8b012aed2cd5","object":"chat.completion","created":1771649691,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: YouTube Social Media Marketing
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 
 **Skill Name:** YouTube Social Media Marketing  
@@ -53,3 +58,11 @@
 ### 3. Publishing & Promotion Strategy
 
 #### **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /youtube
+- Youtube

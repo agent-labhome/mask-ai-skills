@@ -1,5 +1,10 @@
 -e {"id":"fc4f6676-e3e8-4f6a-9eb4-5d851c8ed230","object":"chat.completion","created":1771652408,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Strategic Alliances: A Comprehensive Guide for Business Growth
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Document Type**: Business Strategy Guide  
 - **Primary Audience**: Business Leaders, Strategy Managers, Partnership Directors  
@@ -45,3 +50,11 @@ A strategic alliance is a collaborative agreement between two or more organizati
 **Objective**: Determine if an alliance aligns with corporate strategy
 
 "},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":23,"completion_tokens":500,"total_tokens":523,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":23},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /strategic-alliances
+- Strategic Alliances

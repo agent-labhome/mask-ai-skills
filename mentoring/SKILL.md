@@ -1,5 +1,10 @@
 -e {"id":"81fe4c58-c934-44e3-a8e8-e1e16eb4f6fc","object":"chat.completion","created":1771650454,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# Mentoring Program Guide
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Program Name:** Mentoring Program
 - **Type:** Professional Development & Knowledge Transfer
@@ -61,3 +66,18 @@ Mentoring is a structured professional development relationship where an experie
 **Mentee Responsibilities:**
 1. Drive the relationship and agenda
 2. Come prepared"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /mentoring
+- Mentoring
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

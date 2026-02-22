@@ -1,4 +1,4 @@
-# SKILL.md - Micro SaaS Ideator
+# Micro Saas Ideator
 
 ## 名称
 Micro SaaS Ideator - 小型SaaS点子生成器

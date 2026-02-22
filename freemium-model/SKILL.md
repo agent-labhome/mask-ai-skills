@@ -1,5 +1,10 @@
 -e {"id":"850eba65-6454-40f6-a319-44c88049f1ad","object":"chat.completion","created":1771671547,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Freemium Model
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill:** Freemium Model Implementation
 - **Domain:** Business Strategy, Product Management, Marketing
@@ -62,3 +67,11 @@ Common Premium Triggers:
 ├── Advanced Features (analytics, automation)
 ├── Productivity Tools (collaboration, integrations)
 ├── Professional Needs (support,"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":500,"total_tokens":521,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /freemium-model
+- Freemium Model

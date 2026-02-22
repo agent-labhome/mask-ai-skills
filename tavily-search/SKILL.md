@@ -9,6 +9,11 @@ metadata: {"clawdbot":{"emoji":"🔍","requires":{"bins":["node"],"env":["TAVILY
 
 AI-optimized web search using Tavily API. Designed for AI agents - returns clean, relevant content.
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Search
 
 ```bash
@@ -36,3 +41,11 @@ Notes:
 - Tavily is optimized for AI - returns clean, relevant snippets
 - Use `--deep` for complex research questions
 - Use `--topic news` for current events
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /tavily-search
+- Tavily Search

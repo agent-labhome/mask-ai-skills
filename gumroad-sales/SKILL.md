@@ -1,4 +1,4 @@
-# Gumroad销售助手
+# Gumroad Sales
 
 ## 触发词
 - gumroad

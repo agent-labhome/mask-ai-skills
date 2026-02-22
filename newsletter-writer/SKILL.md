@@ -1,4 +1,4 @@
-# SKILL.md - Newsletter Writer
+# Newsletter Writer
 
 ## 名称
 Newsletter Writer - 新闻通讯写作助手

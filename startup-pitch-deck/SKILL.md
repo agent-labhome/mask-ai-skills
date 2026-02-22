@@ -1,4 +1,4 @@
-# SKILL.md - Startup Pitch Deck
+# Startup Pitch Deck
 
 ## 名称
 Startup Pitch Deck - 创业路演 PPT 制作

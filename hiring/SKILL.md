@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 This document outlines the structured approach for creating effective hiring briefs that align talent acquisition with business objectives.
 
@@ -21,3 +26,10 @@ This document outlines the structured approach for creating effective hiring bri
 ## Essential Components
 
 ### **Role Context**
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /hiring
+- Hiring

@@ -1,5 +1,10 @@
 -e {"id":"f3d86d9b-7dd5-4df3-a212-baebe5b27f09","object":"chat.completion","created":1771649992,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# SKILL.md: Mental Wellness
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Metadata
 - **Skill Name:** Mental Wellness
 - **Category:** Health & Well-being
@@ -50,3 +55,11 @@ Mental wellness is the practice of maintaining and improving psychological healt
 
 2. **Stress Response Mapping**
    - Track 3 stressful"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":19,"completion_tokens":500,"total_tokens":519,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":19},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /mental-wellness
+- Mental Wellness

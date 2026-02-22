@@ -1,6 +1,11 @@
-# LinkedIn Outreach Pro
+# Linkedin Outreach Pro
 
 帮助你用LinkedIn开发客户和建立人脉。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心能力
 
@@ -99,3 +104,11 @@ Day 14: 邀请电话/会议
 *Price: $29*
 *Category: Sales*
 *Tags: linkedin, outreach, networking, b2b, sales*
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /linkedin-outreach-pro
+- Linkedin Outreach Pro

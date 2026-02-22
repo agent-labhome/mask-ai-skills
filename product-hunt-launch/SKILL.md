@@ -1,3 +1,8 @@
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Purpose
 Quickly generate a comprehensive Product Hunt launch strategy based on your product details.
 
@@ -21,3 +26,10 @@ Quickly generate a comprehensive Product Hunt launch strategy based on your prod
 - **Post-Launch**: Comment management, momentum maintenance, next steps
 
 ## Best Results
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /product-hunt-launch
+- Product Hunt Launch
