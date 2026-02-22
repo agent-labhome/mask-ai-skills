@@ -1,35 +1,60 @@
-# Pinterest Marketing
+---
+name: pinterest-marketing
+description: Pinterest营销专家 - 跨境电商引流、品牌曝光、爆款pin设计
+auto-activate: true
+version: 1.0.0
+---
+
+# Pinterest Marketing SKILL
 
 ## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
+- Pinterest账号定位与设置
+- Pin设计模板
+- SEO优化策略
+- 广告投放优化
 
-## Core Purpose
-Drive traffic, brand awareness, and conversions through visual discovery.
+## 核心能力
 
-## Key Actions
-- Create **Pins** (Idea Pins, Standard Pins, Video Pins)
-- Build **Boards** with keyword-rich titles/descriptions
-- Run **Pinterest Ads** (Awareness, Consideration, Conversion)
-- Analyze **Pinterest Analytics**
+### 1. 账号设置
+- 业务账户开通
+- 个人资料优化
+- 板块创建
+- 网站关联
 
-## Quick Guidelines
-- **Visuals First:** High-quality vertical images (2:3 ratio, 1000x1500px)
-- **SEO is Critical:** Use keywords in titles, descriptions, alt text, board names
-- **Link Everything:** Every Pin should drive to a relevant URL
-- **Be Useful:** Focus on inspiration, tutorials, problem-solving
-- **Consistency:** Regular pinning (use scheduling tools)
+### 2. Pin设计
+- 爆款模板库
+- 尺寸规格指南
+- 品牌风格统一
+- AI生成设计提示
 
-## Success Metrics
-- Monthly viewers
-- Outbound clicks
-- Saves (most important engagement metric)
-- Conversion events (via Pinterest"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":200,"total_tokens":216,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+### 3. 内容策略
+- Pin类型选择
+- 关键词布局
+- 定期发布计划
+- 轮播Pin技巧
 
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+### 4. SEO优化
+- 搜索排名因素
+- 关键词研究
+- 描述优化
+- Rich Pin设置
+
+### 5. 广告投放
+- Pinterest Ads设置
+- 受众定位
+- 创意优化
+- 数据分析
 
 ## 触发词
-- /pinterest-marketing
-- Pinterest Marketing
+- "pinterest marketing"
+- "Pinterest引流"
+- "pinterest ads"
+- "跨境Pinterest"
+
+## 使用场景
+跨境电商卖家、博客主、品牌营销
+
+## 定价参考
+- 基础版: $19
+- 专业版: $59
+- 企业版: $149
