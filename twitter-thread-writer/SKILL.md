@@ -1,31 +1,25 @@
-# Twitter Thread Writer
-
-## 名称
-Twitter Thread Writer - Twitter长文写作助手
+# Twitter Thread Writer - 爆款推文线程
 
 ## 触发词
-- 推特thread
-- twitter长文
-- 写推特
-- thread写作
-- viral推特
+- "写一个Twitter thread"
+- "帮我写推文串"
+- "推特爆款文案"
+- "thread写作"
 
 ## 功能描述
-帮助用户创作高 engagement 的 Twitter 线程，包含开头钩子、内容结构、行动号召
+创建高互动Twitter线程，提升曝光和粉丝增长。
 
 ## 使用场景
-- 想要在 Twitter 获取流量
-- 需要推广产品/服务
-- 建立个人品牌
-- 分享知识建立影响力
+1. 产品发布公告
+2. 教程/知识分享
+3. 个人品牌建设
+4. 故事叙述
 
 ## 价格
-$49/$99
+$19
 
-## 核心问题解决
-Problems: 写推特没思路，不知道怎么写才火
-Goals: 写出高互动、高转化的推特内容
-Challenges: 英语表达不地道，不懂平台算法
-
-## 使用示例
-请提供具体需求，我将为你生成结果。
+## 核心能力
+- 开头钩子设计
+- 内容节奏把控
+- 互动引导技巧
+- 病毒传播结构

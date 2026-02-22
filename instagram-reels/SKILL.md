@@ -1,27 +1,25 @@
-# Skill: Instagram Reels Creator
+# Instagram Reels - IG短视频内容
 
 ## 触发词
-- "Instagram Reels"
-- "IG短视频"
-- "Reels脚本"
+- "写IG Reels脚本"
+- "Instagram短视频"
+- "IG内容创意"
+- "Reels文案"
 
 ## 功能描述
-为 Instagram Reels 创建病毒式内容。包括：
-- 热门趋势分析
-- Hook 技巧
-- 字幕设计
-- CTA 优化
-- Hashtag 策略
+为Instagram Reels创建吸引人的短视频内容和脚本。
 
 ## 使用场景
-- 个人品牌
-- 电商引流
-- 网红合作
+1. 产品展示
+2. 日常Vlog
+3. 教程内容
+4. 品牌故事
 
 ## 价格
-$39（单次）/ $79（包月）
+$19
 
-## 目录
-- prompts/: 各类Reels模板
-- trends/: 热门趋势分析
-- hooks/: 100+爆款Hook
+## 核心能力
+- Reels热门趋势
+- 字幕设计
+- 音乐建议
+- CTA设计
