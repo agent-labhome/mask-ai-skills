@@ -1,27 +1,25 @@
-# Gumroad Launch
+# Skill: Gumroad产品Launch助手
 
 ## 触发词
 - "Gumroad发布"
-- "数字产品上线"
-- "产品发布"
+- "数字产品"
+- "产品变现"
+- "Gumroad launch"
 
 ## 功能描述
-帮助创建和优化 Gumroad 产品页面。包括：
-- 产品定位与定价
-- Landing Page 优化
-- 描述文案撰写
-- 捆绑销售策略
-- Launch 序列
+指导从0到1发布Gumroad数字产品，包含定价、页面优化、Launch策略、流量获取。
 
 ## 使用场景
-- 数字产品发布
-- 模板/工具销售
-- 课程销售
+1. 首次变现
+2. 数字产品发布
+3. 知识付费
+4. 模板/工具销售
 
-## 价格
-$79（Launch包）
+## 价格定位
+$29 (咨询) / $89 (全程)
 
-## 目录
-- prompts/: 产品页面模板
-- pricing/: 定价策略
-- sequences/: Launch序列
+## 核心能力
+- Landing Page优化
+- 定价策略
+- Launch邮件序列
+- 流量渠道
