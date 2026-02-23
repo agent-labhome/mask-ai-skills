@@ -1,4 +1,4 @@
-# Skill: 跨境电商选品神器
+# Crossborder Product Research
 
 ## 触发词
 - "选品分析"

@@ -1,4 +1,4 @@
-# Skill: Amazon Listing SEO优化助手
+# Amazon Listing Seo
 
 ## 触发词
 - "亚马逊SEO"

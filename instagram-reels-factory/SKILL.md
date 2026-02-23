@@ -1,4 +1,4 @@
-# Skill: Instagram Reels创意工厂
+# Instagram Reels Factory
 
 ## 触发词
 - "Instagram"

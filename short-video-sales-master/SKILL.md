@@ -1,4 +1,4 @@
-# Skill: 短视频带货脚本专家
+# Short Video Sales Master
 
 ## 触发词
 - "带货脚本"

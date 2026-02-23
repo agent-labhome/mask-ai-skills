@@ -1,4 +1,4 @@
-# Skill: Twitter Space Host
+# Twitter Space Host
 
 ## 名称
 Twitter Space主持人助手 (Twitter Space Host Assistant)

@@ -1,4 +1,4 @@
-# Skill: Community Course Launch
+# Community Course Launch
 
 ## 名称
 社区课程发布助手 (Community Course Launch Assistant)

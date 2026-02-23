@@ -1,4 +1,4 @@
-# Skill: Pinterest营销
+# Pinterest Marketing
 
 ## 名称
 Pinterest营销增长助手

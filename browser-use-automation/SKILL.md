@@ -1,4 +1,4 @@
-# Skill: Browser Use Automation
+# Browser Use Automation
 
 ## 名称
 Browser Use自动化助手 (Browser Use Automation Assistant)

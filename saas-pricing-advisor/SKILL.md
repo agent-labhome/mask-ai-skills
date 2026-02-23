@@ -1,4 +1,4 @@
-# Skill: SaaS定价策略顾问
+# Saas Pricing Advisor
 
 ## 触发词
 - "SaaS定价"

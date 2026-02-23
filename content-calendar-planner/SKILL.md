@@ -1,4 +1,4 @@
-# Skill: 内容日历规划师
+# Content Calendar Planner
 
 ## 触发词
 - "内容日历"

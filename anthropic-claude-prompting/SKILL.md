@@ -1,4 +1,4 @@
-# Skill: Anthropic Claude Prompting
+# Anthropic Claude Prompting
 
 ## 名称
 Anthropic Claude提示词工程助手 (Claude Prompt Engineering Assistant)

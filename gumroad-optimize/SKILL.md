@@ -1,4 +1,4 @@
-# Skill: Gumroad销售页优化
+# Gumroad Optimize
 
 ## 名称
 Gumroad产品页优化助手

@@ -1,4 +1,4 @@
-# Skill: AI Voice Cloning
+# Ai Voice Cloning
 
 ## 名称
 AI语音克隆助手 (AI Voice Cloning Assistant)

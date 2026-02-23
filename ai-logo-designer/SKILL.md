@@ -1,4 +1,4 @@
-# Skill: AI Logo Designer
+# Ai Logo Designer
 
 ## 名称
 AI标志设计助手 (AI Logo Design Assistant)

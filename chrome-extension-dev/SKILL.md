@@ -1,4 +1,4 @@
-# Skill: Chrome扩展开发助手
+# Chrome Extension Dev
 
 ## 触发词
 - "Chrome扩展"

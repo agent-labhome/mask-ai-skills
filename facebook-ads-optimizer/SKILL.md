@@ -1,4 +1,4 @@
-# Skill: Facebook广告优化
+# Facebook Ads Optimizer
 
 ## 名称
 Facebook广告优化助手

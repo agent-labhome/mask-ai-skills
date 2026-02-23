@@ -1,4 +1,4 @@
-# Skill: 邮件营销序列
+# Email Sequence
 
 ## 名称
 邮件自动化序列生成器

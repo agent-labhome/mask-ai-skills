@@ -1,4 +1,4 @@
-# Skill: DePIN Development
+# De Pin Development
 
 ## 名称
 DePIN去中心化物理基础设施助手 (DePIN Development Assistant)

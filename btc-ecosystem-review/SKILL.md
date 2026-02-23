@@ -1,4 +1,4 @@
-# Skill: BTC生态项目评测
+# Btc Ecosystem Review
 
 ## 触发词
 - "BTC生态"

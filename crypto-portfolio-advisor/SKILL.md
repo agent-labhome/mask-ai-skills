@@ -1,4 +1,4 @@
-# Skill: 加密货币组合分析
+# Crypto Portfolio Advisor
 
 ## 名称
 加密货币投资组合分析

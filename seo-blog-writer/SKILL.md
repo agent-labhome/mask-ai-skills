@@ -1,4 +1,4 @@
-# Skill: SEO长文写作
+# Seo Blog Writer
 
 ## 名称
 SEO博客文章写作

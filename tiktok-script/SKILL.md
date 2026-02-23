@@ -1,4 +1,4 @@
-# Skill: TikTok脚本生成
+# Tiktok Script
 
 ## 名称
 TikTok脚本生成

@@ -1,4 +1,4 @@
-# Skill: Skool Community Building
+# Skool Community Building
 
 ## 名称
 Skool社区建设助手 (Skool Community Building Assistant)

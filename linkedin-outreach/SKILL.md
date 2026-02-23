@@ -1,4 +1,4 @@
-# Skill: LinkedIn开发信
+# Linkedin Outreach
 
 ## 名称
 LinkedIn开发信生成器

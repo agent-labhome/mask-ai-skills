@@ -1,4 +1,4 @@
-# Skill: YouTube Shorts脚本
+# Youtube Shorts Script
 
 ## 名称
 YouTube Shorts脚本生成器

@@ -1,4 +1,4 @@
-# Skill: 小红书爆款笔记
+# Xiaohongshu Viral
 
 ## 名称
 小红书爆款笔记生成器

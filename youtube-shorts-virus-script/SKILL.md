@@ -1,4 +1,4 @@
-# Skill: YouTube Shorts病毒脚本
+# Youtube Shorts Virus Script
 
 ## 触发词
 - "YouTube Shorts"

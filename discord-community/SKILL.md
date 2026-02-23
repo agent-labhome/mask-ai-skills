@@ -1,4 +1,4 @@
-# Skill: Discord社区运营
+# Discord Community
 
 ## 名称
 Discord社区运营助手

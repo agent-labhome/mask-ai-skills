@@ -1,4 +1,4 @@
-# Skill: 冷邮件Campaign
+# Cold Email Campaign
 
 ## 名称
 B2B冷邮件营销序列

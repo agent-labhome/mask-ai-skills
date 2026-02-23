@@ -1,4 +1,4 @@
-# Skill: Twitter/X病毒线程写手
+# Twitter Thread Master
 
 ## 触发词
 - "Twitter线程"

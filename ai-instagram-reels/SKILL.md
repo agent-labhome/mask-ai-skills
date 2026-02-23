@@ -1,4 +1,4 @@
-# Skill: AI Instagram Reels
+# Ai Instagram Reels
 
 ## 名称
 AI Instagram Reels创作助手 (AI Reels Creation Assistant)

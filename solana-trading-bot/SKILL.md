@@ -1,4 +1,4 @@
-# Skill: Solana Trading Bot
+# Solana Trading Bot
 
 ## 名称
 Solana链上交易机器人助手 (Solana Trading Bot Assistant)

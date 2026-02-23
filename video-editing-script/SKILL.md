@@ -1,4 +1,4 @@
-# Skill: 视频剪辑脚本
+# Video Editing Script
 
 ## 名称
 视频剪辑脚本生成器

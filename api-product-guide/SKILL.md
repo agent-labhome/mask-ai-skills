@@ -1,4 +1,4 @@
-# Skill: API产品开发指南
+# Api Product Guide
 
 ## 触发词
 - "API产品"

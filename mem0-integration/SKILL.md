@@ -1,4 +1,4 @@
-# Skill: Mem0 Integration
+# Mem0 Integration
 
 ## 名称
 Mem0记忆系统集成助手 (Mem0 Integration Assistant)

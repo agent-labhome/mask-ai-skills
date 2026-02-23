@@ -1,4 +1,4 @@
-# Skill: AI Press Release
+# Ai Press Release
 
 ## 名称
 AI新闻稿撰写助手 (AI Press Release Writer)

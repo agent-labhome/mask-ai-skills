@@ -1,4 +1,4 @@
-# Skill: Gumroad Affiliate Marketing
+# Gumroad Affiliate Marketing
 
 ## 名称
 Gumroad联盟营销助手 (Gumroad Affiliate Marketing Assistant)

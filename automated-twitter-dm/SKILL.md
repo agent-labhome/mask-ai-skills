@@ -1,4 +1,4 @@
-# Skill: Automated Twitter DM
+# Automated Twitter Dm
 
 ## 名称
 Twitter自动私信助手 (Automated Twitter DM Assistant)

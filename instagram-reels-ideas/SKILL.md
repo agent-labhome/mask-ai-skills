@@ -1,4 +1,4 @@
-# Skill: Instagram Reels创意
+# Instagram Reels Ideas
 
 ## 名称
 Instagram Reels创意库

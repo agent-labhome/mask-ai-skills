@@ -1,4 +1,4 @@
-# Skill: Notion模板设计师
+# Notion Template Designer
 
 ## 触发词
 - "Notion模板"

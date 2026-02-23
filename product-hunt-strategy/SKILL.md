@@ -1,4 +1,4 @@
-# Skill: Product Hunt Strategy
+# Product Hunt Strategy
 
 ## 名称
 Product Hunt发布策略助手 (Product Hunt Launch Strategy)

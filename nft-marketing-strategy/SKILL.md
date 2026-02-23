@@ -1,4 +1,4 @@
-# Skill: NFT Marketing Strategy
+# Nft Marketing Strategy
 
 ## 名称
 NFT营销策略助手 (NFT Marketing Strategy Assistant)

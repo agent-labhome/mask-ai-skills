@@ -1,4 +1,4 @@
-# Skill: Shopify店铺诊断专家
+# Shopify Store Diagnosis
 
 ## 触发词
 - "Shopify诊断"

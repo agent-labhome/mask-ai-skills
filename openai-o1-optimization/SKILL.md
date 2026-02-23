@@ -1,4 +1,4 @@
-# Skill: OpenAI O1 Optimization
+# Openai O1 Optimization
 
 ## 名称
 OpenAI O1模型优化助手 (O1 Model Optimization Assistant)

@@ -1,4 +1,4 @@
-# Skill: 跨境电商选品
+# Ecommerce Product Selection
 
 ## 名称
 跨境电商选品分析助手

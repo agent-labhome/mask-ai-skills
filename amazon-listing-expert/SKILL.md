@@ -1,4 +1,4 @@
-# Skill: 亚马逊Listing优化
+# Amazon Listing Expert
 
 ## 名称
 亚马逊Listing优化专家

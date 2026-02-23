@@ -1,4 +1,4 @@
-# Skill: 冷邮件开发信助手
+# Cold Email Assistant
 
 ## 触发词
 - "冷邮件"

@@ -1,4 +1,4 @@
-# Skill: AI SaaS Pricing Strategy
+# Ai Saas Pricing Strategy
 
 ## 名称
 AI SaaS定价策略顾问 (AI SaaS Pricing Strategy Consultant)

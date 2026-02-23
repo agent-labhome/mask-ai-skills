@@ -1,4 +1,4 @@
-# Skill: 区块链数据分析师
+# Blockchain Analyst
 
 ## 触发词
 - "链上数据"
