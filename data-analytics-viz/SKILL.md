@@ -1,4 +1,4 @@
-# Skill: 数据分析可视化
+# Data Analytics Viz
 
 ## 触发词
 - "数据分析"

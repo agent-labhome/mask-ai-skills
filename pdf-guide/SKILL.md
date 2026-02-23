@@ -1,4 +1,4 @@
-# PDF Guide Creator - PDF指南制作
+# Pdf Guide
 
 ## 触发词
 - "PDF指南"

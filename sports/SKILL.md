@@ -36,3 +36,5 @@ The **Sports Brief** skill provides concise, up-to-date summaries of recent spor
 ## 定价参考
 - 基础版: $19
 - 专业版: $49
+
+立即使用，请告诉我你的具体需求。

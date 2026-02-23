@@ -1,4 +1,4 @@
-# Skill: Podcast Show Notes
+# Podcast Show Notes
 
 ## 触发词
 - "播客节目笔记"

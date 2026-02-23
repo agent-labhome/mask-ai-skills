@@ -1,4 +1,4 @@
-# Skill: 独立开发者助手
+# Indie Hacker
 
 ## 触发词
 - "独立开发"

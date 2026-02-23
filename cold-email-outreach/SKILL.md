@@ -1,4 +1,4 @@
-# Skill: Cold Email Outreach Pro
+# Cold Email Outreach
 
 ## 触发词
 - "开发信"

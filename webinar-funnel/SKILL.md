@@ -1,4 +1,4 @@
-# Skill: Webinar Funnel Builder
+# Webinar Funnel
 
 ## 触发词
 - "Webinar"

@@ -1,4 +1,4 @@
-# SKILL.md - 播客制作全流程
+# Podcast Production Guide
 
 ## 名称
 播客制作全流程

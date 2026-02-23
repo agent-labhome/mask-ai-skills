@@ -48,3 +48,8 @@ platforms:
 
 - 基础版: $15
 - 高级版: $39 (含脚本)
+
+
+## 触发词
+- /instagram-reel-idea
+- Instagram Reel Idea

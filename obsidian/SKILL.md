@@ -43,3 +43,10 @@ Obsidian is a powerful knowledge base and note-taking application that works on 
 ## 触发词
 - /obsidian
 - Obsidian
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

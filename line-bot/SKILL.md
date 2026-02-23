@@ -108,3 +108,7 @@ async function handleEvent(event) {
 ## 触发词
 - /line-bot
 - Line Bot
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

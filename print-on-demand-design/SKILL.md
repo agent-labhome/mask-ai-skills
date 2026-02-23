@@ -1,4 +1,4 @@
-# SKILL.md - Print on Demand设计
+# Print On Demand Design
 
 ## 名称
 Print on Demand设计

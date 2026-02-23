@@ -31,3 +31,5 @@ Quickly capture essential details before a consulting call to ensure productive,
 ## 触发词
 - /consulting-call
 - Consulting Call
+
+立即使用，请告诉我你的具体需求。

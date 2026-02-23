@@ -43,3 +43,10 @@
 ## 触发词
 - /passive-income-streams
 - Passive Income Streams
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

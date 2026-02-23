@@ -1,4 +1,4 @@
-# Competitor Research - 竞品研究
+# Competitor Research
 
 ## 触发词
 - "竞品分析"

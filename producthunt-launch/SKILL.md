@@ -1,4 +1,4 @@
-# Skill: Product Hunt Launch
+# Producthunt Launch
 
 ## 触发词
 - "Product Hunt"

@@ -63,3 +63,6 @@
 ## 触发词
 - /sales-closer
 - Sales Closer
+
+## 使用示例
+请提供具体需求，我将为你生成结果。

@@ -1,4 +1,4 @@
-# Skill: Facebook Ad Copy
+# Facebook Ad Copy
 
 ## 触发词
 - "Facebook广告"

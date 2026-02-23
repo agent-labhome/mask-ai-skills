@@ -1,4 +1,4 @@
-# SKILL.md - 联盟营销漏斗
+# Affiliate Marketing Funnel
 
 ## 名称
 联盟营销漏斗

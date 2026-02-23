@@ -112,3 +112,7 @@ Day 14: 邀请电话/会议
 ## 触发词
 - /linkedin-outreach-pro
 - Linkedin Outreach Pro
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

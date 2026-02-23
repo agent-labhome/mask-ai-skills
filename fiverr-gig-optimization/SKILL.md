@@ -1,4 +1,4 @@
-# Fiverr Gig Optimization SKILL
+# Fiverr Gig Optimization
 
 ## 功能
 - 自动执行任务

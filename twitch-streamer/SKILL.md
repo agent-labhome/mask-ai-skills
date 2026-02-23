@@ -1,4 +1,4 @@
-# Twitch Streaming SKILL
+# Twitch Streamer
 
 ## 功能
 - 自动执行任务

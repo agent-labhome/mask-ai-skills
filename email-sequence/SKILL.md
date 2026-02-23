@@ -1,4 +1,4 @@
-# Email Sequence - 邮件自动化序列
+# Email Sequence
 
 ## 触发词
 - "邮件序列"

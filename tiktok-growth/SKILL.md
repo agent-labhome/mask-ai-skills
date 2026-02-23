@@ -1,4 +1,4 @@
-# Skill: TikTok运营专家
+# Tiktok Growth
 
 ## 触发词
 - "TikTok运营"

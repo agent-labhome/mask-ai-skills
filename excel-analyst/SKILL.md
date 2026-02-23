@@ -125,3 +125,7 @@
 ## 触发词
 - /excel-analyst
 - Excel Analyst
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

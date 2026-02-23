@@ -124,3 +124,7 @@
 ## 触发词
 - /twitter-threads
 - Twitter Threads
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

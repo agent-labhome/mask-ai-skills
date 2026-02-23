@@ -1,4 +1,4 @@
-# SKILL.md - Notion模板设计师
+# Notion Template Designer
 
 ## 名称
 Notion模板设计师

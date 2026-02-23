@@ -1,35 +1,27 @@
-## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
+# Skill: product-hunt-launch
 
-## Purpose
-Quickly generate a comprehensive Product Hunt launch strategy based on your product details.
-
-## How to Use
-1. **Provide your product details** including:
-   - Product name and category
-   - Target audience
-   - Key features
-   - Launch date (if known)
-
-2. **Receive a complete launch plan** covering:
-   - Pre-launch checklist (2-4 weeks before)
-   - Launch day strategy
-   - Post-launch follow-up
-   - Timeline recommendations
-   - Best practices for maximizing visibility
-
-## What You'll Get
-- **Pre-Launch**: Community building, asset creation, outreach templates
-- **Launch Day**: Post optimization, engagement tactics, timing tips
-- **Post-Launch**: Comment management, momentum maintenance, next steps
-
-## Best Results
-
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+## 名称
+Product Hunt发布助手
 
 ## 触发词
-- /product-hunt-launch
-- Product Hunt Launch
+"product hunt"、"产品发布"、"PH Launch"、"首发"
+
+## 功能描述
+Product Hunt最佳发布策略：
+- 发布时间优化
+- 素材准备清单
+- 互动策略
+- 增长黑客技巧
+- 后续传播计划
+
+## 使用场景
+- SaaS产品首发
+- 工具类产品推广
+- 独立开发者变现
+- 产品猎人预热
+
+## 价格
+$25
+
+## 触发示例
+"帮我规划Product Hunt发布策略"

@@ -1,4 +1,4 @@
-# Skill: Course Outline Designer
+# Course Outline
 
 ## 触发词
 - "课程大纲"

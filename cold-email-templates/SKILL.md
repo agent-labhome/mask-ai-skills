@@ -1,4 +1,4 @@
-# SKILL.md - 冷邮件外展模板
+# Cold Email Templates
 
 ## 名称
 冷邮件外展模板

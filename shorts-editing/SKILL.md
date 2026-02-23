@@ -103,3 +103,7 @@
 ## 触发词
 - /shorts-editing
 - Shorts Editing
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

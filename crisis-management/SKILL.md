@@ -111,3 +111,7 @@
 ## 触发词
 - /crisis-management
 - Crisis Management
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

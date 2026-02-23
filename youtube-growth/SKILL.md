@@ -1,4 +1,4 @@
-# Skill: YouTube内容策略
+# Youtube Growth
 
 ## 触发词
 - "YouTube运营"

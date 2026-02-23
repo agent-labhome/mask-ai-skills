@@ -1,4 +1,4 @@
-# Web3 Marketing SKILL
+# Web3 Marketing
 
 ## 功能
 - 自动执行任务

@@ -71,3 +71,12 @@ LinkedIn marketing is the strategic use of LinkedIn's platform to achieve busine
 ## 触发词
 - /linkedin
 - Linkedin
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49
+
+立即使用，请告诉我你的具体需求。

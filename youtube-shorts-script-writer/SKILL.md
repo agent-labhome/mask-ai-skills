@@ -1,4 +1,4 @@
-# SKILL.md - YouTube Shorts脚本创作
+# Youtube Shorts Script Writer
 
 ## 名称
 YouTube Shorts脚本创作

@@ -1,28 +1,27 @@
-# Startup Pitch Deck
+# Skill: startup-pitch-deck
 
 ## 名称
-Startup Pitch Deck - 创业路演 PPT 制作
+融资Pitch Deck
 
 ## 触发词
-- pitch deck
-- 商业计划书
-- 路演PPT
-- 融资PPT
-- 创业计划
+"pitch deck"、"商业计划"、"融资"、"startup"
 
 ## 功能描述
-帮助创业者制作投资人喜欢的路演 PPT，包含故事线、数据可视化、融资条款
+投资人青睐的Pitch Deck：
+- 故事结构
+- 数据可视化
+- 财务预测
+- 团队介绍
+- 退出策略
 
 ## 使用场景
-- 寻求种子轮/A轮融资
-- 参加创业比赛
-- 对接天使投资人
-- 展示商业模式
+- 种子轮融资
+- 天使投资
+- 加速器申请
+- 路演准备
 
 ## 价格
-$99/$199
+$39
 
-## 核心问题解决
-Problems: 不会做融资 PPT，不知道怎么展示
-Goals: 制作专业、有说服力的 pitch deck
-Challenges: 不懂投资人关注点，设计能力弱
+## 触发示例
+"帮我制作一个AI SaaS的pitch deck"

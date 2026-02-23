@@ -110,3 +110,7 @@
 ## 触发词
 - /marketplace-seller
 - Marketplace Seller
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

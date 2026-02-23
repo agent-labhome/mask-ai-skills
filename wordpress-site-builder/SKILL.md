@@ -1,4 +1,4 @@
-# SKILL.md - WordPress建站大师
+# Wordpress Site Builder
 
 ## 名称
 WordPress建站大师

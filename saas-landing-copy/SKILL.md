@@ -1,4 +1,4 @@
-# Skill: SaaS Landing Page Copy
+# Saas Landing Copy
 
 ## 触发词
 - "Landing Page文案"

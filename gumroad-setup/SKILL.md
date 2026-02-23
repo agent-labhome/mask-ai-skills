@@ -1,4 +1,4 @@
-# Gumroad Setup - Gumroad上架
+# Gumroad Setup
 
 ## 触发词
 - "Gumroad上架"

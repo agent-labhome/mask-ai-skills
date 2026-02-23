@@ -1,4 +1,4 @@
-# SKILL.md - Facebook群组营销
+# Facebook Group Marketing
 
 ## 名称
 Facebook群组营销

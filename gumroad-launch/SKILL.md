@@ -1,4 +1,4 @@
-# Skill: Gumroad Product Launch
+# Gumroad Launch
 
 ## 触发词
 - "Gumroad发布"

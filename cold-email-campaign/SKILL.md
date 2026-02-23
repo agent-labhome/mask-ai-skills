@@ -48,3 +48,8 @@ platforms:
 
 - 标准版: $29
 - 专业版: $69 (含A/B测试)
+
+
+## 触发词
+- /cold-email-campaign
+- Cold Email Campaign

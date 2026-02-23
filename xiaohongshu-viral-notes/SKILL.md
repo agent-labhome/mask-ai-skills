@@ -1,4 +1,4 @@
-# SKILL.md - 小红书爆款笔记
+# Xiaohongshu Viral Notes
 
 ## 名称
 小红书爆款笔记

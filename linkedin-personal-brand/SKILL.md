@@ -1,4 +1,4 @@
-# SKILL.md - LinkedIn个人品牌
+# Linkedin Personal Brand
 
 ## 名称
 LinkedIn个人品牌

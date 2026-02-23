@@ -33,3 +33,9 @@ Effectively manage and grow social media presence across platforms.
 ## 触发词
 - /social media
 - Social Media
+
+## 使用示例
+请告诉我你的具体需求，例如：
+- 输入: [你的需求描述]
+- 输出: [期望的结果格式]
+我将根据你的输入生成定制化结果。

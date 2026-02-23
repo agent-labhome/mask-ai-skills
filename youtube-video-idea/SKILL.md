@@ -48,3 +48,8 @@ platforms:
 
 - 个人版: $19
 - 包月版: $49 (50个选题)
+
+
+## 触发词
+- /youtube-video-idea
+- Youtube Video Idea

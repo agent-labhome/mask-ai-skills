@@ -1,4 +1,4 @@
-# Skill: LinkedIn Newsletter Writer
+# Linkedin Newsletter
 
 ## 触发词
 - "LinkedIn Newsletter"

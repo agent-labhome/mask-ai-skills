@@ -1,4 +1,4 @@
-# SKILL.md - Pinterest流量获取
+# Pinterest Traffic
 
 ## 名称
 Pinterest流量获取

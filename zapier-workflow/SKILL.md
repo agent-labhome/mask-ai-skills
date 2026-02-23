@@ -1,26 +1,26 @@
 # Zapier Workflow
 
-Zapier自动化工作流设计助手。
-
-## 功能
-- Zapier场景推荐
-- Trigger/Action设置
-- 多步骤工作流设计
-
-## 常见集成
-- Gmail + Slack
-- Google Sheets + CRM
-- Webhook + 通知
-
-## 提示词模板
-帮我设计一个Zapier工作流：当[Google Sheets新增一行]时，自动[发送Slack通知]。
-
-*Tags: zapier, automation, workflow, integration*
-
-
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+## 名称
+Zapier自动化工作流
 
 ## 触发词
-- /zapier-workflow
-- Zapier Workflow
+Zapier自动化、工作流自动化、效率提升、无代码自动化
+
+## 功能描述
+提供Zapier自动化工作流模板库，包含社交媒体同步、邮件自动化、数据收集、CRM集成。
+
+## 使用场景
+- 社交媒体运营
+- 邮件营销
+- 数据同步
+- 效率提升
+
+## 价格
+$49/$99/$199
+
+## 包含内容
+1. 热门工作流模板
+2. 社交媒体同步
+3. 邮件自动化
+4. CRM集成方案
+5. 效率工具串联

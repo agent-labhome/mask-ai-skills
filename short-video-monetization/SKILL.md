@@ -1,4 +1,4 @@
-# Short Video Monetization SKILL
+# Short Video Monetization
 
 ## 功能
 - 自动执行任务

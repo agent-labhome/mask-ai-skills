@@ -122,3 +122,6 @@ platforms:
 - 初始版本
 - 支持4大平台
 - 多种语气风格
+
+## 触发词
+- /content_writer_cn

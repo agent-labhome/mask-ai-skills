@@ -1,4 +1,4 @@
-# SKILL.md - AI提示词交易
+# Ai Prompt Trading
 
 ## 名称
 AI提示词交易

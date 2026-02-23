@@ -50,3 +50,8 @@ platforms:
 
 - 单篇版: $29
 - 包月版: $99 (20篇)
+
+
+## 触发词
+- /seo-blog-writer
+- Seo Blog Writer

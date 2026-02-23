@@ -1,4 +1,4 @@
-# SKILL.md - Instagram Reels涨粉攻略
+# Instagram Reels Growth
 
 ## 名称
 Instagram Reels涨粉攻略

@@ -1,4 +1,4 @@
-# Skill: SEO实战专家
+# Seo Expert
 
 ## 触发词
 - "SEO优化"

@@ -1,4 +1,4 @@
-# Skill: 社交媒体运营大师
+# Social Media Manager V2
 
 ## 触发词
 - "社媒运营"

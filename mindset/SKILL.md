@@ -25,3 +25,10 @@ A concise, structured approach to framing any situation or problem before taking
 ## 触发词
 - /mindset
 - Mindset
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

@@ -1,4 +1,4 @@
-# Skill: AI视频剪辑助手
+# Ai Video Editor
 
 ## 触发词
 - "AI视频剪辑"

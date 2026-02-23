@@ -1,4 +1,4 @@
-# Skill: Notion Dashboard Builder
+# Notion Dashboard
 
 ## 触发词
 - "Notion仪表盘"

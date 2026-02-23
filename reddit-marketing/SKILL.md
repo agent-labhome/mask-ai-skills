@@ -1,4 +1,4 @@
-# Skill: Reddit Marketing
+# Reddit Marketing
 
 ## 触发词
 - "Reddit推广"

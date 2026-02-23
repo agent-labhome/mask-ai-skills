@@ -1,4 +1,4 @@
-# Skill: SaaS定价策略
+# Saas Pricing
 
 ## 触发词
 - "定价策略"

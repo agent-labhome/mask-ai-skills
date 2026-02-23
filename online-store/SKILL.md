@@ -33,3 +33,16 @@ Build and manage a fully functional e-commerce platform with product listings, s
 ## 触发词
 - /online-store
 - Online Store
+
+## 使用示例
+请告诉我你的具体需求，例如：
+- 输入: [你的需求描述]
+- 输出: [期望的结果格式]
+我将根据你的输入生成定制化结果。
+## 定价参考
+- 基础版: $19
+- 专业版: $49
+- 企业版: $99
+## 定价参考
+- 基础版: $19
+- 专业版: $49

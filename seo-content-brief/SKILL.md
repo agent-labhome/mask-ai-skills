@@ -1,4 +1,4 @@
-# Skill: SEO Content Brief Generator
+# Seo Content Brief
 
 ## 触发词
 - "SEO内容 brief"

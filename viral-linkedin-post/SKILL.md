@@ -26,3 +26,6 @@ $49/$99
 Problems: LinkedIn 发帖没人看，没有影响力
 Goals: 写出爆款 LinkedIn 帖子
 Challenges: 不懂平台算法，不懂职场内容套路
+
+## 使用示例
+请提供具体需求，我将为你生成结果。

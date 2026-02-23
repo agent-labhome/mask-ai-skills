@@ -51,3 +51,11 @@ platforms:
 
 - 基础版: $19
 - 专业版: $49 (含100+模板)
+
+
+## 触发词
+- /ai-prompt-generator
+- Ai Prompt Generator
+
+## 使用示例
+请提供具体需求，我将为你生成结果。

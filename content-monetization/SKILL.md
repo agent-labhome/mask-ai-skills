@@ -1,4 +1,4 @@
-# Skill: 内容变现策略
+# Content Monetization
 
 ## 触发词
 - "内容变现"

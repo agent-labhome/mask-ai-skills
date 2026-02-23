@@ -1,4 +1,4 @@
-# Skill: ChatGPT提示词工程
+# Chatgpt Prompt Engineering
 
 ## 触发词
 - "提示词"

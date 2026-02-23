@@ -109,3 +109,7 @@ CREATE TABLE ops_policy (
 ## 触发词
 - /auto-agent-system
 - Auto Agent System
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

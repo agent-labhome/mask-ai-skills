@@ -1,4 +1,4 @@
-# SEO Audit Tool - SEO审计
+# Seo Audit Tool
 
 ## 触发词
 - "SEO审计"

@@ -1,4 +1,4 @@
-# Remote Job Resume SKILL
+# Remote Job Resume
 
 ## 功能
 - 自动执行任务

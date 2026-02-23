@@ -1,4 +1,4 @@
-# SKILL.md - 电动工具产品研究
+# Power Tools Research
 
 ## 名称
 电动工具产品研究

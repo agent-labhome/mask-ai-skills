@@ -48,3 +48,8 @@ platforms:
 
 - 标准版: $29
 - 专业版: $69 (含原型图)
+
+
+## 触发词
+- /product-requirements-doc
+- Product Requirements Doc

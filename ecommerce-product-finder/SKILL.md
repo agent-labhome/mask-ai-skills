@@ -1,4 +1,4 @@
-# Skill: 电商选品专家
+# Ecommerce Product Finder
 
 ## 触发词
 - "电商选品"

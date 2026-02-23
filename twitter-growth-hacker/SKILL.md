@@ -48,3 +48,8 @@ platforms:
 
 - 策略版: $29
 - 顾问版: $99 (1v1诊断)
+
+
+## 触发词
+- /twitter-growth-hacker
+- Twitter Growth Hacker

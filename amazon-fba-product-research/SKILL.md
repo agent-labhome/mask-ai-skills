@@ -1,4 +1,4 @@
-# SKILL.md - Amazon FBA产品研究助手
+# Amazon Fba Product Research
 
 ## 名称
 Amazon FBA产品研究助手

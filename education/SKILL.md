@@ -76,3 +76,9 @@ Education is the systematic process of facilitating learning, knowledge acquisit
 ## 触发词
 - /education
 - Education
+
+## 使用示例
+请告诉我你的具体需求，例如：
+- 输入: [你的需求描述]
+- 输出: [期望的结果格式]
+我将根据你的输入生成定制化结果。

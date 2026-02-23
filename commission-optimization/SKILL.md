@@ -1,4 +1,4 @@
-# SKILL.md - 佣金优化策略
+# Commission Optimization
 
 ## 名称
 佣金优化策略

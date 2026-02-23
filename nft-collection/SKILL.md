@@ -1,4 +1,4 @@
-# NFT Collection Launch SKILL
+# Nft Collection
 
 ## 功能
 - 自动执行任务

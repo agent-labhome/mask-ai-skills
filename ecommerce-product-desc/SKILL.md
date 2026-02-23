@@ -51,3 +51,8 @@ platforms:
 
 - 单品版: $19
 - 批量版: $49 (50个产品)
+
+
+## 触发词
+- /ecommerce-product-desc
+- Ecommerce Product Desc

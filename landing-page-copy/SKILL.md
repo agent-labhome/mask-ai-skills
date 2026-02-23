@@ -1,4 +1,4 @@
-# Landing Page Copy - 高转化落地页
+# Landing Page Copy
 
 ## 触发词
 - "落地页文案"

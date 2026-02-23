@@ -1,4 +1,4 @@
-# Skill: Email Newsletter Generator
+# Email Newsletter
 
 ## 触发词
 - "邮件Newsletter"

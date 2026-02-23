@@ -9,7 +9,7 @@ metadata: {"clawdbot":{"emoji":"🔍","requires":{"bins":["node"],"env":["TAVILY
 
 AI-optimized web search using Tavily API. Designed for AI agents - returns clean, relevant content.
 
-## 功能
+## 核心功能
 - 自动执行任务
 - 提供专业建议
 - 生成优化方案

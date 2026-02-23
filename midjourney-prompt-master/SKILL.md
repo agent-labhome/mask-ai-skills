@@ -49,3 +49,8 @@ platforms:
 
 - 个人版: $19
 - 专业版: $49 (含100+风格)
+
+
+## 触发词
+- /midjourney-prompt-master
+- Midjourney Prompt Master

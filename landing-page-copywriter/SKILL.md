@@ -48,3 +48,8 @@ platforms:
 
 - 单页版: $29
 - 套餐版: $79 (5页)
+
+
+## 触发词
+- /landing-page-copywriter
+- Landing Page Copywriter

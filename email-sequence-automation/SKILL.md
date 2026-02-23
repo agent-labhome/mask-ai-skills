@@ -50,3 +50,8 @@ platforms:
 
 - 标准版: $39
 - 企业版: $89 (无限序列)
+
+
+## 触发词
+- /email-sequence-automation
+- Email Sequence Automation

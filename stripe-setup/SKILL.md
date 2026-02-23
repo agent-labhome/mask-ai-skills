@@ -1,4 +1,4 @@
-# Stripe Setup - Stripe支付
+# Stripe Setup
 
 ## 触发词
 - "Stripe设置"

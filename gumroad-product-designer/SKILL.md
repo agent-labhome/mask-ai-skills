@@ -1,4 +1,4 @@
-# SKILL.md - Gumroad产品设计大师
+# Gumroad Product Designer
 
 ## 名称
 Gumroad产品设计大师

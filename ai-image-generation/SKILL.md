@@ -1,4 +1,4 @@
-# Skill: AI图像生成
+# Ai Image Generation
 
 ## 触发词
 - "AI绘图"

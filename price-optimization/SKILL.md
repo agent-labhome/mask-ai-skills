@@ -1,4 +1,4 @@
-# Price Optimization - 定价优化
+# Price Optimization
 
 ## 触发词
 - "定价策略"

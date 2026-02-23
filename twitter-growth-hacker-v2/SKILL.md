@@ -1,4 +1,4 @@
-# SKILL.md - Twitter增长黑客
+# Twitter Growth Hacker V2
 
 ## 名称
 Twitter增长黑客

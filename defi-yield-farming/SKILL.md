@@ -1,4 +1,4 @@
-# DeFi Yield Farming SKILL
+# Defi Yield Farming
 
 ## 功能
 - 自动执行任务

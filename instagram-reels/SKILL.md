@@ -1,4 +1,4 @@
-# Instagram Reels - IG短视频内容
+# Instagram Reels
 
 ## 触发词
 - "写IG Reels脚本"

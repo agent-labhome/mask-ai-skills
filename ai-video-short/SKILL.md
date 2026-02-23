@@ -1,4 +1,4 @@
-# AI Video Short - 短视频脚本助手
+# Ai Video Short
 
 ## 触发词
 - "写一个TikTok脚本"

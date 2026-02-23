@@ -1,4 +1,4 @@
-# Upwork Proposal SKILL
+# Upwork Proposal
 
 ## 功能
 - 自动执行任务

@@ -106,3 +106,7 @@
 ## 触发词
 - /youtube-end-screen
 - Youtube End Screen
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

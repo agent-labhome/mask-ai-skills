@@ -1,4 +1,4 @@
-# Etsy Shop SKILL
+# Etsy Shop
 
 ## 功能
 - 自动执行任务

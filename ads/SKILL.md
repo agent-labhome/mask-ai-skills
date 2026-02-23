@@ -35,3 +35,10 @@ Create clear, actionable advertising briefs that align creative teams with busin
 ## 触发词
 - /ads
 - Ads
+
+## 使用示例
+请提供具体需求，我将为你生成结果。
+
+## 定价参考
+- 基础版: $19
+- 专业版: $49

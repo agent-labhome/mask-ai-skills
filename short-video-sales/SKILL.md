@@ -50,3 +50,8 @@ platforms:
 
 - 单条版: $19
 - 月套餐: $49 (30条)
+
+
+## 触发词
+- /short-video-sales
+- Short Video Sales

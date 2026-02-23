@@ -1,4 +1,4 @@
-# YouTube Shorts - 油管短视频
+# Youtube Shorts
 
 ## 触发词
 - "YouTube Shorts脚本"
@@ -23,3 +23,5 @@ $19
 - 标题和描述
 - 标签策略
 - 缩略图建议
+
+立即使用，请告诉我你的具体需求。

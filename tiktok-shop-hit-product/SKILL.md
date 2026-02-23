@@ -1,4 +1,4 @@
-# SKILL.md - TikTok Shop爆款打造
+# Tiktok Shop Hit Product
 
 ## 名称
 TikTok Shop爆款打造

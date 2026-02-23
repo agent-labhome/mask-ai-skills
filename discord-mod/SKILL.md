@@ -1,4 +1,4 @@
-# Discord Moderator - Discord管理
+# Discord Mod
 
 ## 触发词
 - "Discord管理"

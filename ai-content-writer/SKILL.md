@@ -1,4 +1,4 @@
-# Skill: AI内容写作助手
+# Ai Content Writer
 
 ## 触发词
 - "内容写作"
