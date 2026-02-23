@@ -1,26 +1,28 @@
-# Skill: linkedin-outreach
+# Skill: LinkedIn开发信
 
 ## 名称
-LinkedIn开发信生成
+LinkedIn开发信生成器
 
 ## 触发词
-"LinkedIn开发"、"linkedin message"、"领英拓客"、"B2B获客"
+- /linkedin-outreach
+- LinkedIn开发信
+- B2B开发
+- 冷联系
 
 ## 功能描述
-LinkedIn自动化获客：
-- 个性化连接请求
-- 跟进消息模板
-- 冷消息序列
-- 个人品牌塑造
+生成高回复率的LinkedIn冷联系消息，适用于：B2B销售、招聘、合作邀请。包含个性化开场、价值主张、行动号召。
 
 ## 使用场景
-- B2B销售获客
-- 招聘引流
-- 商务合作
-- 个人品牌建设
+1. B2B产品销售
+2. 人才招聘
+3. 商务合作
+4. 投资人联系
 
 ## 价格
 $19
 
-## 触发示例
-"生成一系列LinkedIn消息，开发AI领域的CTO"
+## 包含内容
+- 5种开场模板
+- 价值主张写法
+- 跟进邮件序列
+- 个性化技巧

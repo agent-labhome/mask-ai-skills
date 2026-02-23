@@ -1,26 +1,29 @@
-# Skill: youtube-shorts-script
+# Skill: YouTube Shorts脚本
 
 ## 名称
-YouTube Shorts脚本生成
+YouTube Shorts脚本生成器
 
 ## 触发词
-"youtube shorts"、"短视频脚本"、"TikTok脚本"、"病毒视频"
+- /shorts-script
+- YouTube Shorts
+- 短视频脚本
+- 油管Shorts
 
 ## 功能描述
-生成病毒式传播的短视频脚本：
-- 3种爆款结构（悬念、冲突、解答）
-- 开头黄金3秒设计
-- 结尾强烈CTA
-- 热门话题关联
+生成适合YouTube Shorts平台的短视频脚本，包含：开头hook、内容节奏、结尾CTA。优化算法推荐和完播率。
 
 ## 使用场景
-- YouTube/TikTok内容创作
-- 品牌短视频营销
-- 个人IP打造
-- 产品推广
+1. 产品演示
+2. 知识科普
+3. 娱乐内容
+4. 教程速成
 
 ## 价格
-$15
+$19
 
-## 触发示例
-"生成一个关于AI工具的60秒 shorts脚本"
+## 包含内容
+- 3种脚本模板
+- 开头3秒技巧
+- 内容节奏指南
+- 热门话题标签
+- CTA最佳实践
