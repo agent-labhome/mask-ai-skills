@@ -1,60 +1,26 @@
----
-name: discord-community-manager
-description: Discord社区运营 - 服务器搭建、频道设计、Bot自动化、增长黑客
-auto-activate: true
-version: 1.0.0
----
+# Discord Community Manager
 
-# Discord Community Manager SKILL
+## 概述
+帮你搭建和运营Discord服务器。设计社区增长策略、自动化机器人和盈利模式。
 
 ## 功能
-- Discord服务器搭建
-- 社区运营策略
-- Bot开发配置
-- 用户增长
-
-## 核心能力
-
-### 1. 服务器搭建
-- 服务器创建
-- 权限设置
-- 频道结构
-- 角色系统
-
-### 2. 频道设计
-- 公告频道
-- 讨论频道
-- 资源频道
-- 活动频道
-
-### 3. Bot配置
-- MEE6设置
-- Carl-bot
-- 角色管理
-- 自动moderation
-
-### 4. 增长策略
-- 邀请裂变
-- 跨平台引流
-- 活动运营
-- KOL合作
-
-### 5. 商业变现
-- 付费社群
-- 会员订阅
-- 赞助合作
-- 周边销售
-
-## 触发词
-- "discord"
-- "Discord运营"
-- "社区运营"
-- "discord bot"
+- 服务器架构设计
+- 频道和权限设置
+- Bot自动化配置
+- 社区增长策略
+- 会员变现模式
 
 ## 使用场景
-Web3项目、游戏社区、创作者、在线教育
+1. "怎么搭建Discord社区"
+2. "帮我设置Discord机器人"
+3. "Discord怎么赚钱"
 
-## 定价参考
-- 基础版: $29
-- 专业版: $79
-- 企业版: $199
+## 触发词
+- Discord运营
+- 社区管理
+- Discord机器人
+- 服务器搭建
+- 会员社区
+
+## 价格
+$49/$99/$199

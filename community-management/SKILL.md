@@ -1,39 +1,61 @@
-```markdown
 ---
-title: \"Community Management\"
-category: \"Community & Engagement\"
-version: \"1.0\"
-last_updated: \"2023-11-15\"
-prerequisites: [\"Communication\", \"Empathy\", \"Basic Digital Literacy\"]
-proficiency_level: \"Intermediate\"
-related_skills: [\"Content Creation\", \"Social Media Management\", \"Conflict Resolution\", \"Event Planning\"]
+name: community-management
+description: 社区运营助手 - Discord/Telegram群组、付费社群、成员增长
+auto-activate: true
+version: 1.0.0
 ---
 
-# Community Management
+# Community Management SKILL
 
 ## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
+创建和管理成功的在线社区
 
-## Overview
-Community Management is the practice of building, nurturing, and sustaining a community around a brand, product, cause, or shared interest. It involves fostering meaningful connections, facilitating conversations, and creating an environment where members feel valued and engaged. This skill blends strategic planning with interpersonal engagement across digital and physical spaces.
+## 核心能力
 
-## Core Competencies
+### 1. 社区定位
+- 目标受众
+- 核心价值
+- 入群门槛
+- 社区规范
 
-### 1. Strategic Foundation
-- **Community Strategy Development:** Define purpose, goals, target audience, and success metrics.
-- **Platform Selection & Management:** Choose and maintain appropriate platforms (forums, social media, Discord, Slack, etc.).
-- **Guideline Creation & Enforcement:** Establish clear community guidelines and moderation policies.
-- **Onboarding Design:** Create welcoming processes for new members.
+### 2. 平台选择
+- Discord设置
+- Telegram群组
+- Slack工作区
+- 私人论坛
 
-### 2. Engagement & Facilitation
-- **Conversation Sparking:** Init"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":16,"completion_tokens":250,"total_tokens":266,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":16},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
+### 3. 内容运营
+- 日常话题
+- 活动策划
+- 嘉宾分享
+- 成员展示
 
+### 4. 增长策略
+- 邀请机制
+- 推荐奖励
+- 公开引流
+- 跨界合作
 
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+### 5. 变现模式
+- 付费会员
+- 高级社群
+- 1v1服务
+- 产品销售
 
 ## 触发词
-- /community-management
-- Community Management
+- "community"
+- "社区运营"
+- "discord"
+- "付费社群"
+- "telegram group"
+
+## 使用场景
+- 社区创建
+- 成员增长
+- 活动运营
+- 社群变现
+
+## 定价参考
+- 基础版: $29
+- 专业版: $69
+- 高级版: $149

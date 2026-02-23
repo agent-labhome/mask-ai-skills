@@ -1,57 +1,53 @@
 ---
 name: email-sequence-automation
-description: 自动化邮件序列 - 搭建从引流到成交的邮件漏斗
+description: 邮件自动化序列 - 欢迎邮件、促销序列、客户培育
 auto-activate: true
 version: 1.0.0
-author: Mask
-price: $39
-categories:
-  - 营销
-  - 自动化
-  - 电商
-platforms:
-  - Mailchimp
-  - ConvertKit
-  - Ghost
 ---
 
-# 自动化邮件序列
+# Email Sequence Automation SKILL
 
 ## 功能
+- 邮件营销自动化
+- 序列搭建与优化
+- 提升打开率和转化
 
-创建高效的邮件自动化序列，提升转化率。
+## 核心能力
 
-## 使用场景
+### 1. 欢迎序列
+- 新订阅欢迎系列
+- 自我介绍模板
+- 价值传递策略
 
-### 1. 新订阅欢迎序列
-- 欢迎邮件
-- 价值传递
-- 首次优惠
+### 2. 促销序列
+- 产品Launch序列
+- 促销倒计时
+- 限时优惠
 
-### 2. 销售漏斗
-- 线索培育
-- 促销通知
-- 弃购召回
+### 3. 客户培育
+- 内容教育序列
+- 行为触发邮件
+- 复购引导
 
-### 3. 会员维护
-- 定期简报
-- 产品更新
-- 忠诚度奖励
-
-## 参数
-
-| 参数 | 类型 | 必填 | 说明 |
-|------|------|------|------|
-| sequence_type | string | 是 | 序列类型 (welcome/sales/retention) |
-| emails | number | 是 | 邮件数量 |
-| goal | string | 是 | 目标 (conversion/engagement/retention) |
-
-## 价格
-
-- 标准版: $39
-- 企业版: $89 (无限序列)
-
+### 4. 技术设置
+- Mailchimp/Klaviyo配置
+- 自动化触发
+- A/B测试
 
 ## 触发词
-- /email-sequence-automation
-- Email Sequence Automation
+- "邮件营销"
+- "email automation"
+- "邮件序列"
+- "klaviyo"
+- "mailchimp"
+
+## 使用场景
+- 邮件打开率低
+- 不会设置自动化
+- 促销活动效果差
+- 客户复购率低
+
+## 定价参考
+- 基础版: $29
+- 专业版: $79
+- 企业版: $199

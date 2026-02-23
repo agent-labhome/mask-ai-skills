@@ -1,57 +1,61 @@
 ---
 name: seo-blog-writer
-description: SEO博客文章 - 谷歌友好长文写作
+description: SEO博客写作 - 谷歌友好长文、关键词布局、内容优化
 auto-activate: true
 version: 1.0.0
-author: Mask
-price: $29
-categories:
-  - SEO
-  - 内容营销
-  - 博客
-platforms:
-  - WordPress
-  - Ghost
-  - 全平台
 ---
 
-# SEO博客写手
+# SEO Blog Writer SKILL
 
 ## 功能
+创作Google友好的SEO博客文章，提升有机搜索排名
 
-生成SEO友好的长文博客，提升谷歌排名。
+## 核心能力
 
-## 使用场景
+### 1. 关键词研究
+- 主关键词选择
+- 长尾关键词
+- 关键词难度分析
+- 搜索意图理解
 
-### 1. 教程文章
-- 操作指南
-- 步骤详解
-- 常见问题
+### 2. 内容规划
+- SEO内容大纲
+- 段落结构
+- 标题层级
+- 内链策略
 
-### 2. 行业分析
-- 市场趋势
-- 竞品对比
-- 数据报告
+### 3. 写作优化
+- 关键词密度
+- 可读性优化
+- 段落长度
+- 格式规范
 
-### 3. 产品评测
-- 深度测评
-- 对比横评
-- 购买指南
+### 4. 技术SEO
+- Meta优化
+- 图片Alt文本
+- URL结构
+- 页面速度
 
-## 参数
-
-| 参数 | 类型 | 必填 | 说明 |
-|------|------|------|------|
-| keyword | string | 是 | 目标关键词 |
-| article_type | string | 是 | 文章类型 (tutorial/review/analysis) |
-| length | string | 否 | 长度 (short/medium/long) |
-
-## 价格
-
-- 单篇版: $29
-- 包月版: $99 (20篇)
-
+### 5. 链接建设
+- 外链获取策略
+- 客座博客
+- 资源页面
+-  Broken link building
 
 ## 触发词
-- /seo-blog-writer
-- Seo Blog Writer
+- "seo blog"
+- "SEO博客"
+- "seo写作"
+- "google ranking"
+- "内容SEO"
+
+## 使用场景
+- 博客SEO优化
+- 新文章写作
+- 排名提升
+- 内容营销
+
+## 定价参考
+- 基础版: $29
+- 专业版: $69
+- 高级版: $149

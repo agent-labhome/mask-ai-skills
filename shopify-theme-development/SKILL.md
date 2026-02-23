@@ -1,40 +1,53 @@
-# Shopify Theme Development
-
-## 技能描述
-
-开发定制化Shopify主题和应用。从设计到开发，帮助品牌打造独特的高转化店铺。
-
-## 触发词
-
-- "Shopify开发"
-- "主题定制"
-- "shopify theme"
-- "店铺装修"
-- "Liquid开发"
-- "Shopify App"
-
-## 功能说明
-
-1. **主题定制** - 修改现有主题或全新开发
-2. **Liquid开发** - Shopify模板语言深度定制
-3. **应用开发** - 自定义功能应用开发
-4. **性能优化** - 页面加载速度优化
-5. **转化优化** - 结账流程优化
-6. **移动端优化** - 响应式设计
-
-## 使用场景
-
-- 品牌电商独立站
-- 精品 Shopify 店铺
-- 应用插件开发
-- 主题模板销售
-
-## 价格
-
-- 基础版($79): 主题修改
-- 专业版($149): 完整主题开发
-- 企业版($299): 应用开发 + 维护
-
+---
+name: shopify-theme-development
+description: Shopify主题开发助手 - Liquid模板、主题定制、速度优化
+auto-activate: true
+version: 1.0.0
 ---
 
-**标签**: #Shopify #开发 #电商 #主题 #定制
+# Shopify Theme Development SKILL
+
+## 功能
+- Shopify主题开发与定制
+- Liquid模板代码编写
+- 主题性能优化
+
+## 核心能力
+
+### 1. 主题开发
+- 从零创建Shopify主题
+- 基于OS 2.0主题定制
+- Section/Schema开发
+
+### 2. Liquid模板
+- 动态模板开发
+- 对象/过滤器使用
+- 条件逻辑与循环
+
+### 3. 功能集成
+- 自定义App嵌入
+- 第三方API集成
+- Webhook配置
+
+### 4. 性能优化
+- 页面加载速度优化
+- 图片懒加载实现
+- 代码分割与压缩
+
+## 触发词
+- "shopify theme"
+- "Shopify开发"
+- "liquid模板"
+- "shopify customization"
+- "Dawn主题定制"
+
+## 使用场景
+- 需要定制化Shopify店铺
+- 主题开发外包
+- 店铺速度优化
+- 功能扩展需求
+
+## 定价参考
+- 基础版: $39
+- 专业版: $99
+- 企业版: $249
