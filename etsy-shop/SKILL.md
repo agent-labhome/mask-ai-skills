@@ -1,50 +1,54 @@
-# Etsy Shop
+# Etsy Shop SKILL
 
 ## 功能
 - 自动执行任务
 - 提供专业建议
 - 生成优化方案
 
-## Metadata
-- **Domain**: E-commerce / Handmade Marketplace
-- **Complexity Level**: Intermediate to Advanced
-- **Time Investment**: 3-6 months for proficiency
-- **Tools Required**: Etsy platform, photography equipment, inventory management system, shipping supplies
-- **Prerequisites**: Creative skill/product, basic computer literacy, startup capital ($100-500)
+## 核心能力
 
-## Stage 1: S - Start (Foundation Building)
+### 1. 店铺设置与定位
+- Etsy 店铺类型选择
+- 品牌定位与 niche 选择
+- 店铺装修与 Banner 设计
+- 政策设置
 
-### 1.1 Market Research & Niche Selection
-- **Competitor Analysis**: Study 10-15 successful shops in your potential niche
-- **Keyword Research**: Use Etsy's search bar, eRank, or Marmalead to identify high-demand, low-competition keywords
-- **Profit Margin Calculation**: 
-  ```
-  (Selling Price - [Materials + Fees + Shipping]) / Selling Price × 100
-  ```
-  Target 40-60% margin minimum
+### 2. 产品上架优化
+- 标题关键词策略
+- 标签优化（13个标签）
+- 产品描述写作
+- 图片优化（10张图）
+- 价格策略
 
-### 1.2 Legal & Setup Essentials
-- **Business Structure**: Decide between sole proprietorship vs. LLC
-- **Tax Preparation**: Obtain EIN, understand sales tax requirements
-- **Shop Policies**: Create clear policies for shipping, returns, and custom orders
-- **Bank Account**: Open separate business checking account
+### 3. SEO 与流量
+- Etsy SEO 算法
+- 搜索排名优化
+- 站内流量获取
+- 外部流量驱动
 
-### 1.3 Initial Inventory Creation
-- **Minimum Viable Product**: Create 10-15 listing-ready items
-- **Photography Setup**: 
-  - Use natural light or softbox lighting
-  - White/neutral background
-  - Multiple angles (product, detail, in-use, packaging)
-  - Consistent style across all listings
+### 4. 客户服务
+- 消息回复模板
+- 差评预防
+- 退换货处理
+- 客户维护
 
-## Stage 2: K - Knowledge (Platform Mastery)
-
-###"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":350,"total_tokens":371,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
-
-
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+### 5. 数据分析
+- 店铺数据分析
+- 热销产品分析
+- 广告投放优化
 
 ## 触发词
-- /etsy-shop
-- Etsy Shop
+- "etsy"
+- "etsy shop"
+- "etsy开店"
+- "etsy运营"
+- "手工艺电商"
+- "手工市集"
+
+## 使用场景
+跨境电商、手工艺人变现、DIY产品销售
+
+## 定价参考
+- 基础版: $29
+- 专业版: $79
+- 企业版: $149
