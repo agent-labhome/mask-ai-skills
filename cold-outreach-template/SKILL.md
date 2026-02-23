@@ -1,4 +1,4 @@
-# Skill: cold-outreach-template
+# Cold Outreach Template
 
 ## 名称
 冷开发信模板

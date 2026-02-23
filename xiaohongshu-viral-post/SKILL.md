@@ -1,4 +1,4 @@
-# Skill: xiaohongshu-viral-post
+# Xiaohongshu Viral Post
 
 ## 名称
 小红书爆款笔记助手

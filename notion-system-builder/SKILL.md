@@ -1,4 +1,4 @@
-# Skill: notion-system-builder
+# Notion System Builder
 
 ## 名称
 Notion系统搭建

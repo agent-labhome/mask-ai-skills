@@ -1,55 +1,25 @@
----
-name: instagram-reel-idea
-description: Instagram Reels创意 - 病毒式 reels想法库
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $15
-categories:
-  - 社交媒体
-  - 内容创作
-  - 短视频
-platforms:
-  - Instagram
-  - TikTok
----
-
-# Instagram Reels创意
-
-## 功能
-
-提供可执行的Reels创意，快速产出内容。
-
-## 使用场景
-
-### 1. 教育类
-- 技巧分享
-- 冷知识
-- 教程展示
-
-### 2. 娱乐类
-- 日常Vlog
-- 剧情短片
-- 热点跟随
-
-### 3. 商业类
-- 产品展示
-- 客户评价
-- 品牌故事
-
-## 参数
-
-| 参数 | 类型 | 必填 | 说明 |
-|------|------|------|------|
-| niche | string | 是 | 领域 |
-| content_type | string | 是 | 内容类型 (educational/entertainment/business) |
-
-## 价格
-
-- 基础版: $15
-- 高级版: $39 (含脚本)
-
+# Instagram Reel Idea
 
 ## 触发词
-- /instagram-reel-idea
-- Instagram Reel Idea
+- "instagram reel"
+- "reel idea"
+- "ins创意"
+- "reel viral"
+
+## 功能描述
+提供Instagram Reels病毒式内容创意库，包含热门话题、脚本模板和制作技巧。
+
+## 使用场景
+1. 内容创意枯竭
+2. 账号增长策略
+3. 品牌曝光
+4. 带货脚本
+
+## 价格
+$49/$99/$199
+
+## 核心内容
+- 100+创意模板
+- 热门话题库
+- 制作技巧
+- 增长案例

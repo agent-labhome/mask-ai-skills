@@ -1,29 +1,25 @@
-# Youtube Shorts Script
-
-## 名称
-YouTube Shorts脚本生成器
+# YouTube Shorts Script
 
 ## 触发词
-- /shorts-script
-- YouTube Shorts
-- 短视频脚本
-- 油管Shorts
+- "youtube shorts script"
+- "shorts content"
+- "短视频脚本"
+- "youtube short idea"
 
 ## 功能描述
-生成适合YouTube Shorts平台的短视频脚本，包含：开头hook、内容节奏、结尾CTA。优化算法推荐和完播率。
+提供YouTube Shorts病毒式内容脚本模板，包含开场hook、内容结构、结尾CTA和SEO优化。
 
 ## 使用场景
-1. 产品演示
-2. 知识科普
-3. 娱乐内容
-4. 教程速成
+1. Shorts内容创作
+2. 频道增长策略
+3. 病毒内容策划
+4. 变现路径设计
 
 ## 价格
-$19
+$49/$99/$199
 
-## 包含内容
-- 3种脚本模板
-- 开头3秒技巧
-- 内容节奏指南
-- 热门话题标签
-- CTA最佳实践
+## 核心内容
+- 100+脚本模板
+- Hook公式库
+- SEO关键词模板
+- 增长案例分析

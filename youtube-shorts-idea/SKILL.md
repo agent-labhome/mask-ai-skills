@@ -1,4 +1,4 @@
-# Skill: youtube-shorts-idea
+# Youtube Shorts Idea
 
 ## 名称
 YouTube Shorts创意库

@@ -1,4 +1,4 @@
-# Skill: ai-code-review
+# Ai Code Review
 
 ## 名称
 AI代码审查助手

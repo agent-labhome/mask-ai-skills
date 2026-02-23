@@ -1,4 +1,4 @@
-# Skill: gumroad-product-launch
+# Gumroad Product Launch
 
 ## 名称
 Gumroad产品发布

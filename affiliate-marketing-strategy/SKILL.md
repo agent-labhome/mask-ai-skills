@@ -1,4 +1,4 @@
-# Skill: affiliate-marketing-strategy
+# Affiliate Marketing Strategy
 
 ## 名称
 联盟营销策略

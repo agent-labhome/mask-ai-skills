@@ -1,4 +1,4 @@
-# Skill: chrome-extension-dev
+# Chrome Extension Dev
 
 ## 名称
 Chrome扩展开发

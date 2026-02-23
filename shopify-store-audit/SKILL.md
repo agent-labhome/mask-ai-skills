@@ -1,4 +1,4 @@
-# Skill: shopify-store-audit
+# Shopify Store Audit
 
 ## 名称
 Shopify店铺诊断助手

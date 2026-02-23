@@ -1,4 +1,4 @@
-# Skill: twitter-thread-generator
+# Twitter Thread Generator
 
 ## 名称
 Twitter病毒线程

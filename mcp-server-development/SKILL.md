@@ -1,4 +1,4 @@
-# Skill: mcp-server-development
+# Mcp Server Development
 
 ## 名称
 MCP服务器开发助手

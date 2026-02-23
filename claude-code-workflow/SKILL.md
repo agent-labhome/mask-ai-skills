@@ -1,4 +1,4 @@
-# Skill: claude-code-workflow
+# Claude Code Workflow
 
 ## 名称
 Claude Code工作流

@@ -1,4 +1,4 @@
-# Skill: tiktok-short-video-script
+# Tiktok Short Video Script
 
 ## 名称
 TikTok短视频脚本

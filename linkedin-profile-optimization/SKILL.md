@@ -1,4 +1,4 @@
-# Skill: linkedin-profile-optimization
+# Linkedin Profile Optimization
 
 ## 名称
 LinkedIn个人品牌

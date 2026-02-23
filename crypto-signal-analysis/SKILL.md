@@ -1,4 +1,4 @@
-# Skill: crypto-signal-analysis
+# Crypto Signal Analysis
 
 ## 名称
 加密货币信号分析

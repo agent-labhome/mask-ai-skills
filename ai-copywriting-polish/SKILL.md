@@ -1,4 +1,4 @@
-# Skill: ai-copywriting-polish
+# Ai Copywriting Polish
 
 ## 名称
 AI文案润色助手

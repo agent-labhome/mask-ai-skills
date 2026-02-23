@@ -1,28 +1,25 @@
-# Skill: etsy-seo-optimization
-
-## 名称
-Etsy SEO优化专家
+# Etsy SEO Optimization
 
 ## 触发词
-- /etsy-seo-optimization
-- Etsy SEO
-- Etsy排名优化
+- "etsy seo"
+- "etsy ranking"
+- "etsy keywords"
+- "etsy visibility"
 
 ## 功能描述
-优化Etsy listings的标题、标签、描述和图片，提升搜索排名和曝光率，增加自然流量。
+提供Etsy店铺和Listing的SEO优化方案，包含关键词研究、标题优化、标签策略和排名提升。
 
 ## 使用场景
-1. 产品曝光率低
-2. 搜索排名靠后
-3. 想要优化现有listings
-4. 新建产品listing
+1. 新店铺冷启动
+2. Listing优化
+3. 关键词排名提升
+4. 搜索流量获取
 
 ## 价格
 $49/$99/$199
 
-## 核心功能
-- 关键词研究
-- 标题优化
-- 标签建议（13个标签）
-- 描述SEO优化
-- 图片优化建议
+## 核心内容
+- 关键词研究工具
+- 标题模板库
+- 标签策略指南
+- 排名追踪表
