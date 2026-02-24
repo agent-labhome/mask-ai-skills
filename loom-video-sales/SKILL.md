@@ -1,4 +1,4 @@
-# Loom销售视频助手
+# Loom Video Sales
 
 ## 触发词
 - Loom销售

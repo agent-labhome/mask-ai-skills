@@ -1,6 +1,49 @@
 # 自动创建 Skills 记录
 
-## 2026-02-23 批次V3（21个）
+## 2026-02-25 批次V4（20个）
+
+### 开发工具类
+1. **mcp-server-development** - MCP服务器开发 ($39/$89/$199)
+2. **claude-code-projects** - Claude Code项目模板 ($39/$89/$199)
+3. **cursor-rules-creation** - Cursor规则创建 ($19/$49/$99)
+
+### 自动化/工作流
+4. **n8n-automation-workflow** - n8n自动化工作流 ($29/$69/$149)
+5. **make-com-automation** - Make.com自动化 ($29/$69/$149)
+6. **webhook-automation** - Webhook自动化 ($29/$69/$149)
+7. **cron-job-setup** - Cron定时任务 ($19/$49/$99)
+
+### 机器人开发
+8. **slack-bot-development** - Slack机器人开发 ($39/$89/$149)
+9. **discord-bot-development** - Discord机器人开发 ($39/$89/$149)
+10. **telegram-bot-development** - Telegram机器人开发 ($39/$89/$149)
+
+### 数据/集成
+11. **notion-api-automation** - Notion API自动化 ($29/$69/$149)
+12. **supabase-projects** - Supabase项目模板 ($39/$89/$149)
+13. **api-gateway-setup** - API网关配置 ($49/$99/$199)
+14. **data-pipeline** - 数据管道构建 ($49/$99/$199)
+
+### AI/语音
+15. **voice-ai-assistant** - 语音AI助手开发 ($49/$99/$199)
+16. **ai-app-clone-scripts** - AI应用克隆脚本 ($79/$149/$299)
+
+### 移动应用
+17. **flutter-mobile-app** - Flutter移动应用 ($79/$149/$299)
+18. **react-native-app** - React Native应用 ($79/$149/$299)
+
+### 采集/自动化
+19. **browser-automation-scripts** - 浏览器自动化脚本 ($29/$69/$149)
+20. **pro-web-scraping** - 专业网页抓取 ($39/$89/$199)
+
+### 新兴市场
+21. **ai-prompt-marketplace** - AI提示词市场 ($19/$49/$99)
+
+### 状态
+- [x] 创建完成
+- [ ] Git push
+
+---
 
 ### AI/工具类
 1. **ai-podcast-production** - AI播客制作助手 ($29/$79/$199)
@@ -150,3 +193,37 @@
 ### 状态
 - [x] 创建完成
 - [ ] Git push
+
+---
+
+## 2026-02-25 创建的20个Skills (第十一轮) - AI Agent开发工具
+
+### AI IDE/编程环境
+1. **claude-desktop-setup** - Claude Desktop配置 ($49/$99/$199)
+2. **cursor-workspace-setup** - Cursor工作区设置 ($49/$99/$199)
+3. **replit-agent-setup** - Replit Agent配置 ($49/$99/$199)
+
+### 无代码/低代码AI构建
+4. **lovable-ai-integration** - Lovable AI集成 ($49/$99/$199)
+5. **v0-nextjs-project** - v0 Next.js项目 ($49/$99/$199)
+6. **bolt-new-project** - Bolt.new项目创建 ($49/$99/$199)
+
+### 自动化工作流
+7. **n8n-ai-agent** - n8n AI Agent工作流 ($49/$99/$199)
+8. **make-ai-automation** - Make.com AI自动化 ($49/$99/$199)
+9. **pipedream-ai** - Pipedream AI工作流 ($49/$99/$199)
+
+### AI基础设施
+10. **mem0-memory-setup** - Mem0记忆系统 ($49/$99/$199)
+11. **browser-use-setup** - Browser Use自动化 ($49/$99/$199)
+12. **anthropic-api-integration** - Anthropic API集成 ($49/$99/$199)
+13. **openai-api-gateway** - OpenAI API网关 ($49/$99/$199)
+14. **supabase-ai-storage** - Supabase AI存储 ($49/$99/$199)
+15. **cloudflare-workers-ai** - Cloudflare Workers AI ($49/$99/$199)
+
+### AI内容创作
+16. **notebooklm-podcast** - NotebookLM播客生成 ($29/$79/$149)
+17. **perplexity-research** - Perplexity研究助手 ($29/$79/$149)
+18. **gamma-presentation** - Gamma AI演示文稿 ($29/$79/$149)
+19. **tome-storytelling** - Tome AI故事叙述 ($29/$79/$149)
+20. **elevenlabs-voice** - ElevenLabs语音合成 ($39/$89/$199)

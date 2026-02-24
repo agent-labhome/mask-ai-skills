@@ -1,31 +1,21 @@
-# Gumroad产品发布助手
+# Skill: Gumroad Product Launch
 
 ## 触发词
-- gumroad发布
-- 数字产品上线
-- Gumroad销售
-- 产品Launch
+- "Gumroad发布"
+- "数字产品变现"
+- "知识付费"
 
 ## 功能描述
-帮助你规划、创建和优化Gumroad产品发布流程。包括：
-- 产品定位与定价策略
-- Landing Page优化
-- 邮件序列设置
-- 初始流量获取
-- 销售文案撰写
+帮助创作者在Gumroad上发布和优化数字产品，包括定价策略、页面优化、流量获取
 
 ## 使用场景
-1. 首次在Gumroad发布数字产品
-2. 优化现有产品页面提高转化率
-3. 规划产品发布timeline
-4. 设置自动销售漏斗
+1. 数字产品销售
+2. 模板/工具变现
+3. 课程发售
+4. 订阅服务
 
-## 价格定位
-$29-$49（入门套餐）
-$99-$199（完整Launch包）
+## 价格
+$49/$99/$199
 
-## 关键要点
-- 突出产品独特价值
-- 早期购买者优惠策略
-- 建立邮件列表
-- 利用Gumroad的推荐系统
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/gumroad-product-launch/

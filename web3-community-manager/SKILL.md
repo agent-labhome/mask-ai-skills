@@ -1,4 +1,4 @@
-# Web3社区管理助手
+# Web3 Community Manager
 
 ## 触发词
 - Web3社区

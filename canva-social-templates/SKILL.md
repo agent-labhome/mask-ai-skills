@@ -1,4 +1,4 @@
-# Canva社交媒体模板助手
+# Canva Social Templates
 
 ## 触发词
 - Canva模板

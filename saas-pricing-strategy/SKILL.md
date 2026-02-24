@@ -1,4 +1,4 @@
-# SaaS定价策略助手
+# Saas Pricing Strategy
 
 ## 触发词
 - SaaS定价

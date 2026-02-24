@@ -1,4 +1,4 @@
-# Notion内容自动化助手
+# Notion Content Automation
 
 ## 触发词
 - Notion自动化

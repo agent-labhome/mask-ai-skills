@@ -1,4 +1,4 @@
-# Substack增长助手
+# Substack Growth
 
 ## 触发词
 - Substack增长

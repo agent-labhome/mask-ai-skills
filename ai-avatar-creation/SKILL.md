@@ -1,4 +1,4 @@
-# AI虚拟形象创建助手
+# Ai Avatar Creation
 
 ## 触发词
 - AI虚拟形象

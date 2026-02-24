@@ -1,19 +1,20 @@
-# Cloudflare Workers AI Assistant
+# Cloudflare Workers AI
 
-**触发词**: cloudflare-workers, cf-workers, 边缘AI部署
+## 定义
+- **名称**: Cloudflare Workers AI
+- **触发词**: cf workers ai, cloudflare ai, edge ai
+- **功能**: 使用Cloudflare Workers部署边缘AI应用
+- **使用场景**: 低延迟AI服务
+- **价格**: $49/$99/$199
 
-## 功能描述
-提供Cloudflare Workers + Workers AI的部署、优化和集成方案。帮助开发者构建低延迟AI应用。
+## 步骤
+1. 创建Workers项目
+2. 配置AI模型
+3. 编写边缘函数
+4. 集成API
+5. 部署到全球
+6. 监控性能
 
-## 使用场景
-- 部署AI推理到边缘
-- 构建RAG API
-- 配置Workers AI模型
-- 成本优化
-
-## 价格: $49/$99/$199
-
-## 核心指令示例
-- "部署LLM到Cloudflare Workers"
-- "创建RAG API"
-- "Workers AI成本优化"
+## 交付
+- Workers代码
+- 部署链接

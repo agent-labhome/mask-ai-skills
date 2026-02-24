@@ -1,31 +1,21 @@
-# WhatsApp商业营销助手
+# Skill: WhatsApp Business Marketing
 
 ## 触发词
-- WhatsApp营销
-- 即时通讯销售
-- 客户沟通
-- 营销自动化
+- "WhatsApp营销"
+- "商业账号"
+- "客户沟通"
 
 ## 功能描述
-帮助你用WhatsApp Business开展营销：
-- 账号设置优化
-- 自动回复设置
-- 营销信息策略
-- 群发管理
-- 客户标签系统
+帮助用户使用WhatsApp Business进行营销和客户管理，包括自动回复、群发、标签管理
 
 ## 使用场景
-1. 电商客户沟通
-2. 预约咨询
-3. 促销活动
-4. 客户维护
+1. 客户跟进
+2. 营销推广
+3. 订单管理
+4. 客服自动化
 
-## 价格定位
-$19-$39（设置）
-$79-$149（运营套餐）
+## 价格
+$49/$99/$199
 
-## 关键要点
-- 即时响应
-- 个性化沟通
-- 标签管理
-- 隐私合规
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/whatsapp-business-marketing/

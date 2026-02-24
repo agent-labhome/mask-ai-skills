@@ -1,4 +1,4 @@
-# 产品需求文档助手
+# Product Requirements Doc
 
 ## 触发词
 - PRD撰写

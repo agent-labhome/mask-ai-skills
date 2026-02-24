@@ -1,21 +1,21 @@
-# Print On Demand Design
-# Print-on-Demand设计指南
+# Skill: Print on Demand Design
 
 ## 触发词
 - "POD设计"
-- "印刷品创业"
-- "周边产品"
+- "定制产品"
+- "独立设计"
 
 ## 功能描述
-生成Print-on-Demand产品设计指南：热门品类分析、设计风格、关键词研究、利润率计算、上架平台、爆款策略
+帮助用户创建Print-on-Demand产品设计，包括T恤、杯子、手机壳等
 
 ## 使用场景
-- 跨境电商选品
-- 副业创业
-- 设计师变现
+1. 副业变现
+2. 品牌周边
+3. 限量款产品
+4. 节日主题
 
 ## 价格
-$29
+$49/$99/$199
 
 ## 目录
-/home/ubuntu/.openclaw/workspace/skills/print-on-demand-design
+/home/ubuntu/.openclaw/workspace/skills/print-on-demand-design/

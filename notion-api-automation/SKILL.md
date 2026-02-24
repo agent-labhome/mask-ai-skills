@@ -1,27 +1,26 @@
-# Notion API Automation - Notion API自动化
+# Notion API Automation
 
-## Skill Metadata
-- **名称**: Notion API Automation
-- **触发词**: notion api, notion自动化, notion集成
-- **功能**: 使用Notion API创建自动化工作流和集成
-- **使用场景**: 项目管理、数据同步、自动化工作流
-- **价格**: $49/$99/$199
+## 触发词
+- "Notion API"
+- "Notion自动化"
+- "Notion integration"
+- "Notion工作流"
 
-## 功能说明
+## 功能描述
+帮助利用Notion API实现自动化工作流，连接Notion与其他应用。
 
-### 核心能力
-1. **API集成** - 连接Notion API到其他服务
-2. **自动化流程** - 创建数据库自动同步、更新
-3. **模板创建** - 构建自动化模板和工作流
-4. **Webhook设置** - 配置Notion Webhook触发
+## 使用场景
+1. 数据库自动同步
+2. 项目管理自动化
+3. 内容发布工作流
+4. 数据聚合系统
 
-### 使用指南
-- 描述自动化需求
-- 说明需要连接的服务
-- 获取完整的集成代码
+## 价格
+$29/$69/$149
 
-### 示例
-```
-用户: 当Notion数据库更新时发送Slack通知
-输出: Python代码、Webhook配置、使用说明
-```
+## 包含内容
+- API集成代码
+- 模板和工作流
+- 错误处理
+- 性能优化
+- 使用示例

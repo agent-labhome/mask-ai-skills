@@ -1,4 +1,4 @@
-# Gumroad数据分析助手
+# Gumroad Analytics
 
 ## 触发词
 - Gumroad分析

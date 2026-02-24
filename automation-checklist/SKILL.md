@@ -1,4 +1,4 @@
-# 自动化检查清单助手
+# Automation Checklist
 
 ## 触发词
 - 自动化清单

@@ -1,27 +1,21 @@
-# Twitter Thread Viral - Twitter病毒式线程
+# Skill: Twitter Thread Viral Writing
 
-## Skill Metadata
-- **名称**: Twitter Thread Viral
-- **触发词**: twitter thread, 推特线程, 病毒推
-- **功能**: 创建高传播力的Twitter线程内容和策略
-- **使用场景**: 个人品牌建设、产品推广、Thought Leadership
-- **价格**: $49/$99/$199
+## 触发词
+- "Twitter线程"
+- "推特增长"
+- "社交媒体内容"
 
-## 功能说明
+## 功能描述
+帮助用户创作病毒式传播的Twitter线程，包括选题、结构、话术优化
 
-### 核心能力
-1. **线程创作** - 创作引人入胜的Twitter线程
-2. **病毒元素** - 添加钩子、悬念、互动元素
-3. **发布时机** - 优化发布时间获取最大曝光
-4. **互动策略** - 设计互动提升转发和关注
+## 使用场景
+1. 个人品牌
+2. 产品推广
+3. 知识分享
+4. 社区建设
 
-### 使用指南
-- 提供账号定位和目标
-- 描述话题或产品
-- 获取完整线程内容
+## 价格
+$49/$99/$199
 
-### 示例
-```
-用户: 创建关于AI未来的10条推特线程
-输出: 完整10条推文、发布时间建议、互动策略
-```
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/twitter-thread-viral/

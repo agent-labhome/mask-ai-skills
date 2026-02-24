@@ -1,28 +1,21 @@
-# Cold Email Outreach
+# Skill: Cold Email Outreach
 
 ## 触发词
 - "开发信"
-- "Cold Email"
-- "邮件 outreach"
+- "冷邮件"
+- "B2B营销"
 
 ## 功能描述
-生成高转化率的冷邮件和序列。包括：
-- 个性化开场白生成
-- A/B测试变体创建
-- 跟进邮件模板
-- 价值主张优化
-- 发送时间优化建议
+帮助用户编写高效的冷邮件，包括个性化、开场白、跟进策略
 
 ## 使用场景
-- B2B销售拓展
-- 嘉宾邀约
-- 合作洽谈
-- 媒体投稿请求
+1. B2B销售
+2. 合作伙伴
+3. 媒体联系
+4. 招聘 outreach
 
 ## 价格
-$49（基础版）/ $129（完整序列）
+$49/$99/$199
 
 ## 目录
-- prompts/: 各行业邮件模板
-- sequences/: 5-7封邮件序列
-- swipe/: 100+高转化开场白
+/home/ubuntu/.openclaw/workspace/skills/cold-email-outreach/

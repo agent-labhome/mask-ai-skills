@@ -1,4 +1,4 @@
-# LinkedIn轮播图创建助手
+# Linkedin Carousel Creator
 
 ## 触发词
 - LinkedIn轮播

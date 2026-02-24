@@ -1,4 +1,4 @@
-# YouTube Shorts自动化助手
+# Youtube Shorts Automation
 
 ## 触发词
 - YouTube Shorts自动化

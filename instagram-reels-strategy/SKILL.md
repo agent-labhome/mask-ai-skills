@@ -1,4 +1,4 @@
-# Instagram Reels策略助手
+# Instagram Reels Strategy
 
 ## 触发词
 - Instagram Reels

@@ -1,4 +1,4 @@
-# Twitter Spaces主持助手
+# Twitter Spaces Host
 
 ## 触发词
 - Twitter Spaces

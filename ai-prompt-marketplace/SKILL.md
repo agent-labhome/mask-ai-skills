@@ -1,24 +1,26 @@
-# Ai Prompt Marketplace
+# AI Prompt Marketplace
 
 ## 触发词
-- ai-prompt-marketplace
-- Prompt交易
-- AI提示词变现
+- "提示词市场"
+- "Prompt出售"
+- "Prompt marketplace"
+- "AI提示词模板"
 
 ## 功能描述
-AI Prompt设计+交易指南：
-- Prompt优化技巧
-- 热门品类分析
-- 变现平台选择
-- 定价策略
+帮助创建和销售AI提示词，构建提示词变现业务。
 
 ## 使用场景
-- Prompt创作变现
-- 建立Prompt商店
-- 规模化销售
+1. 提示词创作销售
+2. 垂直提示词包
+3. 行业提示词集
+4. 定制提示词服务
 
 ## 价格
-$49
+$19/$49/$99
 
-## 目录
-ai-prompt-marketplace/
+## 包含内容
+- 提示词框架
+- 热门类别分析
+- 定价策略
+- 销售渠道
+- 版权保护

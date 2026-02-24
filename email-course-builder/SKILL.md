@@ -1,4 +1,4 @@
-# 邮件课程构建助手
+# Email Course Builder
 
 ## 触发词
 - 邮件课程

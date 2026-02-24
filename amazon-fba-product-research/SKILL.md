@@ -1,28 +1,21 @@
-# Amazon Fba Product Research
-
-## 名称
-Amazon FBA产品研究助手
+# Skill: Amazon FBA Product Research
 
 ## 触发词
 - "亚马逊选品"
-- "Amazon FBA"
-- "亚马逊产品调研"
-- "FBA选品工具"
-- "亚马逊竞争分析"
+- "FBA分析"
+- "跨境电商选品"
 
 ## 功能描述
-帮助跨境电商卖家进行Amazon FBA选品研究，提供：
-- 市场需求分析（搜索量、趋势）
-- 竞争程度评估（卖家数量、review数量）
-- 利润率估算（参考价、成本、运费）
-- 季节性判断
-- 机会评分和建议
+帮助跨境电商卖家进行亚马逊FBA选品分析，包括市场调研、竞争分析、利润计算
 
 ## 使用场景
-- 寻找新的FBA产品
-- 验证产品创意
-- 分析竞争对手
-- 评估市场容量
+1. 新品开发
+2. 市场调研
+3. 竞争对手分析
+4. 利润优化
 
 ## 价格
-$29/$79/$199（基础版/专业版/企业版）
+$49/$99/$199
+
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/amazon-fba-product-research/

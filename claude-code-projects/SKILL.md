@@ -1,25 +1,26 @@
 # Claude Code Projects
 
 ## 触发词
-- "claude code"
-- "ai编程"
-- "cursor项目"
-- "v0开发"
+- "Claude Code项目"
+- "AI编程项目模板"
+- "Claude Code template"
+- "AI developer starter"
 
 ## 功能描述
-Claude Code / Cursor / v0 AI编程项目模板，快速构建Web应用、API服务、自动化脚本。
+提供基于Claude Code的项目模板和最佳实践，加速AI驱动的软件开发。
 
 ## 使用场景
-1. 快速原型
-2. MVP开发
-3. 代码重构
-4. 技术学习
+1. 快速启动AI应用项目
+2. 构建Claude集成功能
+3. AI辅助编程工作流
+4. 自动化代码审查
 
 ## 价格
-$49/$99/$199
+$39/$89/$199
 
-## 核心内容
-- 项目模板库
-- 最佳实践
-- 调试技巧
-- 部署方案
+## 包含内容
+- 项目结构模板
+- Claude API集成代码
+- 最佳实践文档
+- 性能优化指南
+- 示例项目代码

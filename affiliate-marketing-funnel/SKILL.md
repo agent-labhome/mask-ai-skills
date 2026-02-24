@@ -1,4 +1,4 @@
-# 联盟营销漏斗助手
+# Affiliate Marketing Funnel
 
 ## 触发词
 - 联盟营销漏斗
