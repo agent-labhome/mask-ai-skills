@@ -1,4 +1,4 @@
-# Digital Product Bundle Creator
+# Digital Product Bundle
 
 ## 名称
 数字产品捆绑销售助手

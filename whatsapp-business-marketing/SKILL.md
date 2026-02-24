@@ -1,4 +1,4 @@
-# WhatsApp Business Marketing
+# Whatsapp Business Marketing
 
 ## 名称
 WhatsApp Business营销助手

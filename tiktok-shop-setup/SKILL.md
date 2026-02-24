@@ -1,4 +1,4 @@
-# TikTok Shop Setup
+# Tiktok Shop Setup
 
 ## 名称
 TikTok Shop入驻与设置

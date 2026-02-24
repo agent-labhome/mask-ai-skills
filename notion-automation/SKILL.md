@@ -1,29 +1,44 @@
-# Skill: Notion自动化
+# Skill: Notion Automation
 
-## 名称
-Notion自动化工作流
+## Name
+Notion Automation ⚙️
 
-## 触发词
-- /notion-automation
-- Notion自动化
-- Notion工作流
-- Notion API
+## Trigger Words
+- "notion自动化"
+- "notion api"
+- "notion集成"
+- "notion工作流"
+- "notion sync"
 
-## 功能描述
-创建Notion自动化工作流，连接Zapier/Make，实现：自动整理、数据同步、任务提醒、报表生成。
+## Description
+Notion是最流行的知识管理工具，API和自动化集成让它更强大。本技能帮助你构建Notion自动化工作流。
 
-## 使用场景
-1. 项目管理自动化
-2. 内容日历排程
-3. 客户CRM管理
-4. 个人知识库
+## Features
+1. Notion API基础
+2. 数据库自动化
+3. 模板工作流
+4. 与Slack/邮件集成
+5. 定时任务设置
+6. 多平台联动
+7. 高级技巧与模板
 
-## 价格
-$39
+## Use Cases
+- 项目管理自动化
+- 内容日历同步
+- CRM系统搭建
+- 知识库自动整理
+- 团队协作流程
 
-## 包含内容
-- 10+预制模板
-- Zapier集成指南
-- Make场景教程
-- API调用示例
-- 自动化最佳实践
+## Pricing
+$49 / $99 / $199
+
+## Target Users
+- 产品经理
+- 团队负责人
+- 效率爱好者
+- 开发者
+
+## Related Skills
+- notion-automations
+- notion-template-creation
+- notepad

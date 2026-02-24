@@ -1,4 +1,4 @@
-# Subscription Model Designer
+# Subscription Model
 
 ## 名称
 订阅模型设计助手

@@ -1,4 +1,4 @@
-# YouTube Chapter Generator
+# Youtube Chapter Generator
 
 ## 名称
 YouTube视频章节生成

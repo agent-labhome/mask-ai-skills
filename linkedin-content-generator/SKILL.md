@@ -1,4 +1,4 @@
-# LinkedIn Content Generator
+# Linkedin Content Generator
 
 ## 触发词
 - "linkedin content"

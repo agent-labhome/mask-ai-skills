@@ -1,4 +1,4 @@
-# SEO Site Audit
+# Seo Site Audit
 
 ## 名称
 网站SEO审计助手

@@ -1,26 +1,44 @@
-# MCP Server Builder
+# Skill: MCP Server Builder
 
-## 触发词
-- "build mcp server"
-- "create mcp server"
-- "mcp server setup"
-- "mcp integration"
+## Name
+MCP Server Builder 🔌
 
-## 功能描述
-帮助开发者构建和部署MCP (Model Context Protocol) 服务器，提供完整的项目结构、代码模板和配置。
+## Trigger Words
+- "mcp"
+- "mcp server"
+- "model context protocol"
+- "mcp开发"
+- "ai工具集成"
 
-## 使用场景
-1. 将自定义API封装为MCP服务器
-2. 为LLM提供数据库访问能力
-3. 构建文件系统和工具调用服务器
-4. 企业内部MCP服务部署
+## Description
+MCP（Model Context Protocol）是Anthropic推出的AI工具集成标准，让AI模型可以调用外部工具和服务。本技能帮助你构建MCP服务器。
 
-## 价格
-$49/$99/$199
+## Features
+1. MCP协议解析
+2. 服务器架构设计
+3. 工具定义与注册
+4. 认证与安全
+5. 常见模板
+6. 调试技巧
+7. 生产环境部署
 
-## 核心内容
-- 项目结构模板
-- TypeScript/Python服务器代码
-- 认证和错误处理
-- Docker部署配置
-- 测试用例
+## Use Cases
+- 数据库集成
+- API封装
+- 文件系统操作
+- 自定义工具开发
+- 企业系统集成
+
+## Pricing
+$49 / $99 / $199
+
+## Target Users
+- 开发者
+- AI工程师
+- 系统集成商
+- 技术创业者
+
+## Related Skills
+- mcp-server-development
+- ai-workflow-automation
+- claude-code-project-builder

@@ -1,4 +1,4 @@
-# Gumroad Product Idea Generator
+# Gumroad Product Idea
 
 ## 触发词
 - "gumroad product idea"

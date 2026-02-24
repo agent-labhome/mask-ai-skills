@@ -1,4 +1,4 @@
-# YouTube Shorts Script
+# Youtube Shorts Script
 
 ## 触发词
 - "youtube shorts script"

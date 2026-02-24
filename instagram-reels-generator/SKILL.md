@@ -1,57 +1,44 @@
-# Instagram Reels Generator
+# Skill: Instagram Reels Generator
 
-## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
+## Name
+Instagram Reels Generator 📸
 
-## 核心能力
-
-### 1. 内容策划
-- 趋势热点捕捉
-- 选题库构建
-- 内容日历制定
-- 目标受众分析
-
-### 2. 脚本创作
-- 爆款脚本模板
-- 黄金3秒开场
-- 悬念设置技巧
-- 行动号召CTA
-
-### 3. 视觉制作
-- Reels封面设计
-- 文字贴纸运用
-- 转场特效
-- 背景音乐选择
-
-### 4. 发布优化
-- 最佳发布时间
-- 标签策略
-- 描述文案优化
-- 互动引导
-
-### 5. 数据分析
-- 播放量分析
-- 完播率优化
-- 转化追踪
-- 账号增长策略
-
-## 触发词
+## Trigger Words
 - "instagram reels"
-- "IG reels"
-- "ins短视频"
+- "ins视频"
 - "reels制作"
-- "instagram reels生成"
-- "短视频制作"
+- "ins涨粉"
+- "ig reels"
 
-## 使用场景
-- Instagram涨粉
-- 品牌曝光
-- 产品展示
-- 网红合作
+## Description
+Instagram Reels是增长最快的社媒内容形式之一。本技能帮助你创作高质量Reels内容，制定增长策略。
 
-## 价格定位
-- 基础版: $19 (脚本模板)
-- 专业版: $79 (内容方案)
-- 企业版: $299 (代运营)
+## Features
+1. Reels内容创意库
+2. 热门音乐使用
+3. 滤镜与特效
+4. 字幕设计
+5. 黄金3秒法则
+6. 涨粉互动技巧
+7. 变现路径
+
+## Use Cases
+- 个人品牌建设
+- 产品展示推广
+- 生活方式内容
+- 教育类内容
+- 电商引流
+
+## Pricing
+$49 / $99 / $199
+
+## Target Users
+- Instagram运营者
+- 网红博主
+- 电商店主
+- 品牌营销
+
+## Related Skills
+- instagram-bio-generator
+- social-media-growth
+- ai-instagram-reels

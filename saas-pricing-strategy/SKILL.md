@@ -1,4 +1,4 @@
-# SaaS Pricing Strategy
+# Saas Pricing Strategy
 
 ## 触发词
 - "saas pricing"

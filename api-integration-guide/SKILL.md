@@ -1,4 +1,4 @@
-# API Integration Guide
+# Api Integration Guide
 
 ## 触发词
 - "api integration"

@@ -1,4 +1,4 @@
-# n8n Workflow Builder
+# N8N Workflow Builder
 
 ## 名称
 n8n工作流构建助手

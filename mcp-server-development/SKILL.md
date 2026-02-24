@@ -1,28 +1,25 @@
 # Mcp Server Development
 
-## 名称
-MCP服务器开发助手
-
 ## 触发词
-- /mcp-development
-- MCP开发
-- Model Context Protocol
+- "mcp server"
+- "model context protocol"
+- "mcp开发"
+- "ai agent tools"
 
 ## 功能描述
-帮助开发者构建MCP（Model Context Protocol）服务器，实现AI模型与外部工具、数据的连接。
+MCP (Model Context Protocol) 服务器开发指南，帮助创建AI Agent可调用的工具服务。
 
 ## 使用场景
-1. 开发者想要构建AI工具
-2. 集成外部API到AI
-3. 自定义AI工作流
-4. 企业AI系统搭建
+1. 自定义AI工具
+2. Agent能力扩展
+3. 内部系统集成
+4. API产品化
 
 ## 价格
 $49/$99/$199
 
-## 核心功能
-- MCP协议解读
-- 服务器架构设计
-- 工具定义开发
-- 认证和安全性
-- 部署指南
+## 核心内容
+- 协议规范
+- 开发模板
+- 调试工具
+- 部署方案
