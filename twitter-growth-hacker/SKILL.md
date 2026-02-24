@@ -1,31 +1,24 @@
 # Twitter Growth Hacker
 
-## 名称
-Twitter增长黑客 (Twitter Growth Hacker)
-
 ## 触发词
-twitter增长, twitter涨粉, x增长, twitter营销, 推特运营
+- twitter-growth-hacker
+- Twitter增长
+- X账号运营
 
 ## 功能描述
-提供系统化的Twitter/X账号增长策略，包含内容规划、互动策略和增长工具。
+Twitter/X账号快速增长：
+- 病毒推文设计
+- 互动策略
+- 热门话题追踪
+- 粉丝变现
 
 ## 使用场景
 - 个人品牌建设
-- 产品/服务推广
-- 社区运营
-- 流量引导
+- 业务引流
+- Web3推广
 
 ## 价格
-$59/$129/$299
+$59
 
-## 核心能力
-1. 内容策略规划
-2. 增长互动技巧
-3. 病毒推文模板
-4. 定时发布策略
-5. 数据分析优化
-
-## 包含内容
-- 30天增长计划
-- 100+内容模板
-- 工具推荐清单
+## 目录
+twitter-growth-hacker/

@@ -1,4 +1,9 @@
-# Skill: DeepSeek API Integration
+# Deepseek Api Integration
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 DeepSeek API Integration 🔥
@@ -41,3 +46,11 @@ $49 / $99 / $199
 - anthropic-claude-prompting
 - openai-o1-optimization
 - ai-saas-pricing-strategy
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /deepseek-api-integration
+- Deepseek Api Integration

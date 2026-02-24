@@ -1,53 +1,31 @@
----
-name: youtube-shorts-automation
-description: YouTube Shorts自动化创作助手 - 脚本、剪辑、病毒式内容
-auto-activate: true
-version: 1.0.0
----
-
-# YouTube Shorts Automation SKILL
-
-## 功能
-- YouTube Shorts内容创作自动化
-- 病毒式脚本生成
-- 批量剪辑与发布
-
-## 核心能力
-
-### 1. 内容策划
-- 热门趋势分析
-- 病毒内容模板
--  niche定位建议
-
-### 2. 脚本创作
-- 爆款脚本结构
-- 黄金3秒开头
-- 互动引导话术
-
-### 3. 视频制作
-- AI配音与字幕
-- 画面剪辑与特效
-- 热门音乐匹配
-
-### 4. 运营优化
-- 发布时机优化
-- 标签与描述SEO
-- 涨粉策略
+# YouTube Shorts自动化助手
 
 ## 触发词
-- "youtube shorts"
-- "油管短视频"
-- "shorts创作"
-- "youtube automation"
-- "短视频带货"
+- YouTube Shorts自动化
+- 短视频批量制作
+- Shorts选题
+- YouTube增长
+
+## 功能描述
+帮助你规模化生产YouTube Shorts内容：
+- 热门选题分析
+- 脚本模板库
+- 批量剪辑工作流
+- SEO优化
+- 数据分析
 
 ## 使用场景
-- 想做YouTube Shorts变现
-- 内容创作效率低
-- 视频播放量不高
-- 需要批量生产内容
+1. 快速起号YouTube频道
+2. 批量生产短视频
+3. 优化Shorts算法推荐
+4. 变现路径规划
 
-## 定价参考
-- 基础版: $29
-- 专业版: $79
-- 企业版: $199
+## 价格定位
+$29-$59（工具包）
+$99-$199（增长套餐）
+
+## 关键要点
+- 保持更新频率
+- 完播率优化
+- CTA设计
+- 社区互动

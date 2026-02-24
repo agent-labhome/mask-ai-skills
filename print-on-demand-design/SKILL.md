@@ -1,27 +1,21 @@
 # Print On Demand Design
-
-## 名称
-Print on Demand设计
+# Print-on-Demand设计指南
 
 ## 触发词
-- "Print on Demand"
-- "POD"
-- "定制T恤"
-- "印刷品"
+- "POD设计"
+- "印刷品创业"
 - "周边产品"
 
 ## 功能描述
-Print on Demand产品设计指南：
-- 热门平台（Redbubble/Teespring/Merch by Amazon）
-- 设计趋势分析
-- 版权规避
-- 定价策略
-- 批量上传技巧
+生成Print-on-Demand产品设计指南：热门品类分析、设计风格、关键词研究、利润率计算、上架平台、爆款策略
 
 ## 使用场景
-- 被动收入
-- 创意变现
-- 电商副业
+- 跨境电商选品
+- 副业创业
+- 设计师变现
 
 ## 价格
-$19/$59/$149
+$29
+
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/print-on-demand-design

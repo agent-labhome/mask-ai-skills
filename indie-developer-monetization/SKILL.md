@@ -1,31 +1,24 @@
 # Indie Developer Monetization
 
-## 名称
-独立开发者变现顾问 (Indie Developer Monetization)
-
 ## 触发词
-独立开发者, indie hacker, saas变现, 开发者变现, side project变现
+- indie-developer-monetization
+- 独立开发者变现
+- SaaS变现策略
 
 ## 功能描述
-帮助独立开发者将项目转化为可持续收入，提供产品定位、定价和增长策略。
+独立开发者变现指导：
+- SaaS定价策略
+- 付费增长模型
+- 客户留存方案
+- 收入多元化
 
 ## 使用场景
-- MVP产品定位
-- 定价策略制定
-- 用户获取
-- 收入增长
+- 产品上线变现
+- 优化收入模型
+- 扩大盈利规模
 
 ## 价格
-$79/$159/$399
+$149
 
-## 核心能力
-1. 产品市场匹配分析
-2. 定价模型设计
-3. 增长渠道选择
-4. 客户反馈收集
-5. 订阅收入优化
-
-## 包含内容
-- 变现路线图
-- 定价模板
-- 增长案例库
+## 目录
+indie-developer-monetization/

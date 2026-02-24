@@ -1,4 +1,9 @@
-# Skill: Claude Code Project Builder
+# Claude Code Project Builder
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 Claude Code Project Builder ⚡️
@@ -41,3 +46,11 @@ $49 / $99 / $199
 - claude-code-projects
 - ai-workflow-automation
 - browser-use-automation
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /claude-code-project-builder
+- Claude Code Project Builder

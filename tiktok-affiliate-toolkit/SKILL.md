@@ -1,4 +1,9 @@
-# Skill: TikTok Affiliate Toolkit
+# Tiktok Affiliate Toolkit
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 TikTok Affiliate Toolkit 🎵
@@ -41,3 +46,11 @@ $49 / $99 / $199
 - tiktok-manager
 - tiktok-shop-fulfillment
 - short-video-sales
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /tiktok-affiliate-toolkit
+- Tiktok Affiliate Toolkit

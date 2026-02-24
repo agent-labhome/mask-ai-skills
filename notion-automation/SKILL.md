@@ -1,4 +1,9 @@
-# Skill: Notion Automation
+# Notion Automation
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 Notion Automation ⚙️
@@ -42,3 +47,11 @@ $49 / $99 / $199
 - notion-automations
 - notion-template-creation
 - notepad
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /notion-automation
+- Notion Automation

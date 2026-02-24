@@ -1,4 +1,9 @@
-# Skill: Slack Bot Development
+# Slack Bot Development
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 Slack Bot Development 🤖
@@ -42,3 +47,11 @@ $49 / $99 / $199
 - telegram-bot-business
 - automation-consultant
 - ai-meeting-notes
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /slack-bot-development
+- Slack Bot Development

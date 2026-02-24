@@ -1,48 +1,31 @@
-```markdown
----
-title: Substack Growth Strategy
-description: A comprehensive guide to growing your Substack newsletter from zero to sustainable readership
-tags: [newsletter, email-marketing, content-strategy, audience-growth, writing]
-category: Content Marketing
-author: Your Name
-date: 2023-11-15
-version: 1.0
-prerequisites: [Substack account, consistent writing habit]
-estimated_time: \"3-6 months for initial traction\"
-difficulty: intermediate
----
-
-# Substack Growth Strategy
-
-## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
-
-## Overview
-A systematic approach to building and scaling a paid newsletter on Substack, focusing on sustainable audience growth, engagement, and monetization.
-
-## Core Principles
-
-### 1. **Foundational Mindset**
-- **Consistency over virality**: Regular publishing beats occasional viral hits
-- **Depth over breadth**: Niche expertise attracts dedicated readers
-- **Conversation over broadcast**: Treat your newsletter as a dialogue
-- **Long-term relationship building**: Focus on lifetime value, not quick wins
-
-### 2. **Strategic Framework**
-```
-Discovery → Conversion → Retention → Monetization → Expansion
-```
-
-## Phase 1: Foundation (Weeks 1-4)
-
-### **"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":250,"total_tokens":267,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache"}
-
-
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+# Substack增长助手
 
 ## 触发词
-- /substack-growth
-- Substack Growth
+- Substack增长
+- Newsletter运营
+- 付费订阅
+- 邮件 newsletter
+
+## 功能描述
+帮助你增长Substack订阅者并实现变现：
+- 内容策略
+- 增长黑客技巧
+- 付费订阅设置
+- 社区建设
+- 多平台引流
+
+## 使用场景
+1. 建立Newsletter业务
+2. 付费内容变现
+3. 个人品牌建设
+4. 社群运营
+
+## 价格定位
+$29-$59（策略）
+$99-$199（完整方案）
+
+## 关键要点
+- 固定更新节奏
+- 高质量内容
+- 互动读者
+- 付费墙优化

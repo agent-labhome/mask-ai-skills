@@ -1,26 +1,24 @@
 # Discord Community Manager
 
-## 概述
-帮你搭建和运营Discord服务器。设计社区增长策略、自动化机器人和盈利模式。
+## 触发词
+- discord-community-manager
+- Discord运营
+- 付费社群
 
-## 功能
-- 服务器架构设计
-- 频道和权限设置
-- Bot自动化配置
-- 社区增长策略
-- 会员变现模式
+## 功能描述
+Discord社区运营指南：
+- 服务器搭建
+- 频道设计
+- 付费会员体系
+- 活动策划
 
 ## 使用场景
-1. "怎么搭建Discord社区"
-2. "帮我设置Discord机器人"
-3. "Discord怎么赚钱"
-
-## 触发词
-- Discord运营
-- 社区管理
-- Discord机器人
-- 服务器搭建
-- 会员社区
+- 建立付费社群
+- 产品社区
+- Web3社区
 
 ## 价格
-$49/$99/$199
+$69
+
+## 目录
+discord-community-manager/

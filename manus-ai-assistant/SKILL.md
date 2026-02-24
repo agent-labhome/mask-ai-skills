@@ -1,4 +1,9 @@
-# Skill: Manus AI Assistant
+# Manus Ai Assistant
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 Manus AI Assistant 🧠
@@ -41,3 +46,8 @@ $49 / $99 / $199
 - claude-code-project-builder
 - auto-gpt-workflow
 - ai-agent-blueprint
+
+
+## 触发词
+- /manus-ai-assistant
+- Manus Ai Assistant

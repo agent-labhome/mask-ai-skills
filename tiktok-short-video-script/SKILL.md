@@ -1,28 +1,21 @@
 # Tiktok Short Video Script
-
-## 名称
-TikTok短视频脚本
+# TikTok短视频脚本
 
 ## 触发词
-- /tiktok-script
-- TikTok脚本
-- 抖音脚本
+- "TikTok脚本"
+- "短视频带货文案"
+- "抖音脚本生成"
 
 ## 功能描述
-创作高效的TikTok/抖音短视频脚本，包括开头钩子、内容结构、字幕设计和行动号召。
+生成TikTok/抖音短视频脚本：黄金3秒hook、产品卖点脚本、剧情反转脚本、测评脚本、工厂溯源脚本、行动号召结尾
 
 ## 使用场景
-1. 品牌想要做短视频营销
-2. 个人IP打造
-3. 产品展示推广
-4. 知识内容输出
+- TikTok Shop带货
+- 品牌账号内容创作
+- 网红合作脚本
 
 ## 价格
-$49/$99/$199
+$19
 
-## 核心功能
-- 3秒开头钩子
-- 15-60秒脚本模板
-- 热门BGM建议
-- 字幕设计
-- CTA行动号召
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/tiktok-short-video-script

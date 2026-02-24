@@ -1,4 +1,9 @@
-# Skill: Podcast to YouTube Shorts
+# Podcast To Youtube Short
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 Podcast to YouTube Shorts 🎙️
@@ -41,3 +46,11 @@ $49 / $99 / $199
 - podcast-production
 - youtube-shorts-automation
 - short-video-script
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /podcast-to-youtube-short
+- Podcast To Youtube Short

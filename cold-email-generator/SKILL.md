@@ -1,26 +1,24 @@
-# Skill: cold-email-generator
-
-## 名称
-冷邮件生成器
+# Cold Email Generator
 
 ## 触发词
-"开发信"、"cold email"、"cold outreach"、"冰邮件"、"B2B开发"
+- cold-email-generator
+- 开发信
+- cold outreach
 
 ## 功能描述
-自动生成高回复率的B2B开发邮件序列，包含：
-- 个性化开场白模板
-- 价值主张提炼
-- 跟进邮件序列（3-5封）
-- 送达率优化建议
+Cold Email写作指南：
+- 高打开率主题
+- 个性化模板
+- 跟进策略
+- 送达率优化
 
 ## 使用场景
-- 外贸业务员开发客户
-- SaaS产品获取B2B用户
-- 自由职业者获取项目
-- 投资人寻找项目
+- B2B销售
+- 商务拓展
+- 招聘cold reach
 
 ## 价格
-$19
+$39
 
-## 触发示例
-"帮我写一封开发信，推销我们的AI客服产品"
+## 目录
+cold-email-generator/

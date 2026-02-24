@@ -1,4 +1,9 @@
-# Skill: Multi-Modal Content Creation
+# Multi Modal Content Creation
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 Multi-Modal Content Creation 🎨
@@ -42,3 +47,11 @@ $49 / $99 / $199
 - ai-image-prompts-market
 - ai-voiceover-production
 - youtube-shorts-automation
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /multi-modal-content-creation
+- Multi Modal Content Creation

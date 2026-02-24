@@ -1,31 +1,21 @@
 # Linkedin Personal Brand
-
-## 名称
-LinkedIn个人品牌打造 (LinkedIn Personal Brand)
+# LinkedIn个人品牌
 
 ## 触发词
-linkedin, 领英, 个人品牌, linkedin营销, 职业品牌
+- "LinkedIn打造"
+- "个人品牌"
+- "职业影响力"
 
 ## 功能描述
-帮助在LinkedIn上建立个人品牌，扩大职业影响力，获取高质量机会。
+生成LinkedIn个人品牌建设方案：个人资料优化、内容策略、帖子模板、行业影响力提升、连接增长策略、个人品牌故事
 
 ## 使用场景
 - 职业发展
-- B2B销售
-- 招聘/求职
-- 思想领导力
+- B2B销售获客
+- 个人IP打造
 
 ## 价格
-$59/$119/$249
+$39
 
-## 核心能力
-1. Profile优化
-2. 内容策略
-3. 网络建设
-4. 病毒帖子模板
-5. 冷 outreach
-
-## 包含内容
-- Profile模板
-- 100+内容创意
-- 连接话术
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/linkedin-personal-brand

@@ -1,4 +1,9 @@
-# Skill: Shopify Theme Customization
+# Shopify Theme Customization
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Name
 Shopify Theme Customization 🛒
@@ -41,3 +46,11 @@ $49 / $99 / $199
 - shopify-theme-development
 - landing-page-optimization
 - ecommerce-product-desc
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /shopify-theme-customization
+- Shopify Theme Customization
