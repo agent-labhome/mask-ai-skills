@@ -1,21 +1,27 @@
 # Amazon Product Launch
-# Amazon新品发布助手
+
+## 名称
+亚马逊新品 launch 助手
 
 ## 触发词
-- "亚马逊新品上架"
-- "Amazon产品发布"
-- " Listing优化"
+- "亚马逊上新"
+- "新品推广"
+- "Amazon launch"
 
 ## 功能描述
-生成完整的新品发布方案：关键词研究、竞品分析、定价策略、Listing文案（含标题/五点/描述）、PPC广告计划、QA准备、review获取策略
+规划并执行亚马逊新品上市：
+- Listing优化策略
+- 初期流量获取方案
+- Review获取计划
+- PPC广告启动策略
 
 ## 使用场景
-- 亚马逊卖家新品上架
-- 优化现有Listing
-- 制定推广计划
+- 亚马逊卖家新品上市
+- 品牌产品线扩展
+- 爆款打造
 
 ## 价格
-$79
+$20 / ¥119
 
-## 目录
-/home/ubuntu/.openclaw/workspace/skills/amazon-product-launch
+## 标签
+亚马逊, Amazon, 新品, Launch, Listing
