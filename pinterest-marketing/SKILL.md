@@ -1,4 +1,4 @@
-# Skill: pinterest-marketing
+# Pinterest Marketing
 
 ## 触发词
 - Pinterest营销

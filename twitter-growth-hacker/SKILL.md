@@ -1,4 +1,4 @@
-# Skill: twitter-growth-hacker
+# Twitter Growth Hacker
 
 ## 触发词
 - Twitter增长

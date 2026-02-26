@@ -1,4 +1,4 @@
-# Skill: paid-community-builder
+# Paid Community Builder
 
 ## 触发词
 - 付费社群

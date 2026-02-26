@@ -1,4 +1,4 @@
-# Skill: amazon-product-research
+# Amazon Product Research
 
 ## 触发词
 - 亚马逊选品

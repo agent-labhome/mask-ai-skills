@@ -1,4 +1,4 @@
-# Skill: instagram-business
+# Instagram Business
 
 ## 触发词
 - Instagram运营

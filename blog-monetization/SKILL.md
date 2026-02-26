@@ -1,4 +1,4 @@
-# Skill: blog-monetization
+# Blog Monetization
 
 ## 触发词
 - 博客变现

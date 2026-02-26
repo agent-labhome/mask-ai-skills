@@ -1,4 +1,4 @@
-# Skill: telegram-bot-monetization
+# Telegram Bot Monetization
 
 ## 触发词
 - telegram bot变现

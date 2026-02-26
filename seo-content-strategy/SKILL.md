@@ -1,4 +1,4 @@
-# Skill: seo-content-strategy
+# Seo Content Strategy
 
 ## 触发词
 - SEO内容策略

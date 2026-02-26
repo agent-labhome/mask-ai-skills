@@ -1,4 +1,4 @@
-# Skill: discord-community-manager
+# Discord Community Manager
 
 ## 触发词
 - Discord社区
