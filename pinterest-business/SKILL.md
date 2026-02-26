@@ -1,4 +1,4 @@
-# Pinterest Business SKILL
+# Pinterest Business
 
 ## 功能
 - Pinterest商业运营，增长流量和销售

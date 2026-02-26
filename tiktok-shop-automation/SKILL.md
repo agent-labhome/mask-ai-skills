@@ -1,4 +1,4 @@
-# TikTok Shop Automation
+# Tiktok Shop Automation
 
 ## Metadata
 name: tiktok-shop-automation
@@ -49,3 +49,8 @@ platforms:
 
 ## 更新日志
 - v1.0.0 (2026-02-26): 初始版本
+
+
+## 触发词
+- /tiktok-shop-automation
+- Tiktok Shop Automation

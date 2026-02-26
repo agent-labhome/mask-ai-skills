@@ -1,25 +1,31 @@
-# Twitter Thread Automation
+# Skill: Twitter线程自动发布工具
 
 ## 触发词
+- "Twitter线程"
 - "twitter thread"
+- "推特thread"
 - "twitter automation"
-- "tweet thread"
-- "twitter content"
 
 ## 功能描述
-提供Twitter/X线程内容创作和自动化发布方案，包含内容日历、线程模板、增长策略。
+帮助创建和自动化发布Twitter/X线程。包含脚本生成、定时发布、互动追踪、增长分析。适合个人品牌建设和内容营销。
 
 ## 使用场景
-1. 内容创作效率化
-2. 账号增长策略
-3. 品牌曝光提升
-4. 粉丝互动优化
+1. 个人品牌建设
+2. 产品发布 announcement
+3. 行业知识分享
+4. 客户成功案例
+5. 热点话题评论
 
 ## 价格
-$49/$99/$199
+$49 | $99 | $199
 
-## 核心内容
+## 输出示例
 - 线程模板库
-- 内容日历模板
-- 增长策略指南
-- 互动话术模板
+- 定时发布计划
+- 互动话术回复
+- 增长数据仪表盘
+- 最佳发布时间
+
+---
+## 使用方法
+运行: /home/ubuntu/.openclaw/workspace/skills/twitter-thread-automation/run.sh

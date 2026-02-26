@@ -1,4 +1,4 @@
-# Remote Work Income SKILL
+# Remote Work Income
 
 ## 功能
 - 远程工作收入多元化

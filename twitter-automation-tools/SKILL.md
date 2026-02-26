@@ -1,4 +1,4 @@
-# Twitter Automation
+# Twitter Automation Tools
 
 ## Metadata
 name: twitter-automation-tools
@@ -49,3 +49,8 @@ platforms:
 
 ## 更新日志
 - v1.0.0 (2026-02-26): 初始版本
+
+
+## 触发词
+- /twitter-automation-tools
+- Twitter Automation Tools

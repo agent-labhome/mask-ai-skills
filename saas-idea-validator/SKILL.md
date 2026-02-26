@@ -1,4 +1,4 @@
-# SaaS Idea Validator
+# Saas Idea Validator
 
 ## Metadata
 name: saas-idea-validator
@@ -49,3 +49,8 @@ platforms:
 
 ## 更新日志
 - v1.0.0 (2026-02-26): 初始版本
+
+
+## 触发词
+- /saas-idea-validator
+- Saas Idea Validator

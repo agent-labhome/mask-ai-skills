@@ -1,4 +1,4 @@
-# Gumroad Advanced SKILL
+# Gumroad Advanced
 
 ## 功能
 - 高级Gumroad技巧，最大化销售收入

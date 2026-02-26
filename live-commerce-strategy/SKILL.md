@@ -1,4 +1,4 @@
-# Live Commerce Strategy SKILL
+# Live Commerce Strategy
 
 ## 功能
 - 直播电商运营策略

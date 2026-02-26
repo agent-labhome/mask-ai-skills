@@ -227,3 +227,44 @@
 18. **gamma-presentation** - Gamma AI演示文稿 ($29/$79/$149)
 19. **tome-storytelling** - Tome AI故事叙述 ($29/$79/$149)
 20. **elevenlabs-voice** - ElevenLabs语音合成 ($39/$89/$199)
+
+---
+
+## 2026-02-26 批次V5（20个）- AI基础设施与语音
+
+### 聊天机器人
+1. **typebot-chatbot** - Typebot聊天机器人 ($29/$69/$149)
+2. **voiceflow-assistant** - Voiceflow语音助手 ($49/$99/$199)
+3. **botpress-chatbot** - Botpress企业聊天机器人 ($49/$99/$199)
+
+### 会员与支付
+4. **memberstack-membership** - Memberstack会员系统 ($39/$89/$199)
+
+### 视频与会议
+5. **daily-video-api** - Daily.co视频API ($49/$99/$199)
+6. **calcom-scheduling** - Cal.com会议调度 ($29/$69/$149)
+
+### AI编程
+7. **opus-coder** - Opus AI编程助手 ($49/$99/$199)
+8. **mcp-marketplace** - MCP市场与服务器 ($19/$49/$99)
+
+### RAG与知识库
+9. **langgraph-ai** - LangGraph多代理系统 ($49/$99/$199)
+10. **llamaindex-rag** - LlamaIndex RAG框架 ($49/$99/$199)
+11. **coze-bot** - Coze字节AI机器人 ($39/$89/$199)
+12. **fastgpt-setup** - FastGPT知识库问答 ($49/$99/$199)
+13. **anything-llm** - AnythingLLM本地AI ($39/$89/$199)
+
+### LLM基础设施
+14. **openrouter-ai** - OpenRouter统一API ($19/$49/$99)
+15. **together-ai** - Together AI推理服务 ($39/$89/$199)
+16. **fireworks-ai** - Fireworks企业推理 ($49/$99/$199)
+17. **anyscale-ai** - Anyscale分布式LLM ($49/$99/$199)
+
+### 语音合成
+18. **murf-ai** - Murf AI商业配音 ($29/$69/$149)
+19. **playht-tts** - PlayHT实时语音 ($39/$89/$199)
+
+### 状态
+- [x] 创建完成
+- [ ] Git push

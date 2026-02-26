@@ -1,4 +1,4 @@
-# Cross-Border Product Selection SKILL
+# Cross Border Product Selection
 
 ## 功能
 - 跨境电商选品分析

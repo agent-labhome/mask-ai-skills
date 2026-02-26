@@ -1,4 +1,4 @@
-# LemonSqueezy Store SKILL
+# Lemonsqueezy Store
 
 ## 功能
 - 数字产品变现平台助手

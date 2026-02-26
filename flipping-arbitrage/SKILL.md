@@ -51,3 +51,8 @@ platforms:
 
 ## 更新日志
 - v1.0.0 (2026-02-26): 初始版本
+
+
+## 触发词
+- /flipping-arbitrage
+- Flipping Arbitrage

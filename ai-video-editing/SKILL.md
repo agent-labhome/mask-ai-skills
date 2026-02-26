@@ -1,4 +1,4 @@
-# AI Video Editing SKILL
+# Ai Video Editing
 
 ## 功能
 - AI视频剪辑与制作

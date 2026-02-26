@@ -1,4 +1,4 @@
-# LinkedIn Content System
+# Linkedin Content System
 
 ## Metadata
 name: linkedin-content-system
@@ -49,3 +49,8 @@ platforms:
 
 ## 更新日志
 - v1.0.0 (2026-02-26): 初始版本
+
+
+## 触发词
+- /linkedin-content-system
+- Linkedin Content System

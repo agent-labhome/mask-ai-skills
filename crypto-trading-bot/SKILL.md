@@ -1,4 +1,4 @@
-# Crypto Trading Bot SKILL
+# Crypto Trading Bot
 
 ## 功能
 - 自动化加密货币交易

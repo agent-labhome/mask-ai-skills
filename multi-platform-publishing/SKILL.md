@@ -1,4 +1,4 @@
-# Multi-Platform Publishing SKILL
+# Multi Platform Publishing
 
 ## 功能
 - 一键多平台内容分发

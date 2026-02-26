@@ -1,4 +1,4 @@
-# AI Image to Video SKILL
+# Ai Image To Video
 
 ## 功能
 - AI图片转视频制作

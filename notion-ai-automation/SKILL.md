@@ -1,4 +1,4 @@
-# Notion AI Automation SKILL
+# Notion Ai Automation
 
 ## 功能
 - Notion AI自动化工作流

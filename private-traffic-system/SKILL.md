@@ -1,4 +1,4 @@
-# Private Traffic System SKILL
+# Private Traffic System
 
 ## 功能
 - 私域流量搭建系统

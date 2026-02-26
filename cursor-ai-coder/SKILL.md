@@ -1,4 +1,4 @@
-# Cursor AI Coder SKILL
+# Cursor Ai Coder
 
 ## 功能
 - AI编程助手，帮你写代码、调试、重构
