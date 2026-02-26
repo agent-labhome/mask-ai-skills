@@ -1,29 +1,32 @@
-# Pinterest Marketing
+# Pinterest营销助手
 
 ## 名称
-Pinterest营销增长助手
+Pinterest Marketing Assistant
 
 ## 触发词
-- /pinterest
-- Pinterest营销
-- Pinterest推广
-- Pinterest SEO
+pinterest营销、pinterest推广、pin图优化、pinterest seo
 
 ## 功能描述
-Pinterest流量获取策略，包含：Pin图设计、关键词优化、板快建设、流量分析。适用于电商和内容创作者。
+帮助用户进行Pinterest营销，提供Pin图设计、SEO优化、流量获取等完整策略。
 
 ## 使用场景
-1. 电商引流
-2. 博客流量
-3. 数字产品推广
-4. 品牌曝光
+- 想要获取Pinterest流量
+- 需要电商引流
+- 想要推广博客
+- 想要品牌曝光
 
 ## 价格
-$29
+$19
 
-## 包含内容
-- Pin图设计模板
-- SEO关键词策略
-- 板快运营技巧
-- 分析工具使用
-- 流量转化路径
+## 核心功能
+1. Pinterest账号设置
+2. Pin图设计原则
+3. SEO关键词优化
+4. 板块与分类策略
+5. 自动化工具
+6. 分析与优化
+7. 购物功能
+8. 广告投放
+
+## 适用用户
+电商卖家、博客作者、摄影师、创意人士、跨境卖家

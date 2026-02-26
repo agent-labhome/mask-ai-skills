@@ -1,60 +1,32 @@
----
-name: blockchain-data-analysis
-description: 区块链数据分析 - 链上数据、Dune仪表盘、钱包分析、项目评估
-auto-activate: true
-version: 1.0.0
----
+# 区块链数据分析助手
 
-# Blockchain Data Analysis SKILL
-
-## 功能
-- 链上数据分析
-- Dune Dashboard使用
-- 钱包追踪
-- 项目尽调
-
-## 核心能力
-
-### 1. 基础数据指标
-- TVL分析
-- 活跃地址
-- 交易量
-- Gas费用
-
-### 2. Dune Analytics
-- Dashboard创建
-- 查询编写
-- 常用模板
-- 数据可视化
-
-### 3. 钱包分析
-- 巨鲸追踪
-- 资金流向
-- 持仓分析
-- 历史行为
-
-### 4. 项目评估
-- 代币经济学
-- 团队背景
-- 社区健康度
-- 风险识别
-
-### 5. 实用工具
-- Nansen
-- Arkham
-- DeFiLlama
-- Token Terminal
+## 名称
+Blockchain Data Analysis Assistant
 
 ## 触发词
-- "blockchain data"
-- "链上分析"
-- "dune analytics"
-- "加密数据"
+区块链分析、链上数据、dune analytics、crypto数据分析
+
+## 功能描述
+帮助用户进行区块链数据分析，提供Dune仪表盘创建、钱包分析、DeFi数据追踪等工具。
 
 ## 使用场景
-加密研究员、投资者、开发者
+- 想要分析代币数据
+- 需要监控大钱包
+- 想要创建Dune仪表盘
+- 需要投资决策支持
 
-## 定价参考
-- 基础版: $49
-- 专业版: $129
-- 企业版: $299
+## 价格
+$39
+
+## 核心功能
+1. Dune Analytics入门
+2. 基础SQL查询
+3. 热门仪表盘分析
+4. 钱包追踪
+5. 代币流向分析
+6. DeFi协议分析
+7. NFT数据分析
+8. 自定义报警设置
+
+## 适用用户
+加密投资者、量化分析师、区块链开发者、DeFi用户、 CryptoTrader

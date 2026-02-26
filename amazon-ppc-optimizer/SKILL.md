@@ -1,31 +1,32 @@
-# Amazon Ppc Optimizer
+# Amazon PPC广告优化助手
 
 ## 名称
-Amazon PPC广告优化专家 (Amazon PPC Optimizer)
+Amazon PPC Advertising Optimizer
 
 ## 触发词
-amazon ppc, 亚马逊广告, amazon advertising, ppc优化, acos优化
+amazon ppc、亚马逊广告、amazon ads优化、ACOS优化
 
 ## 功能描述
-提供Amazon广告系统优化方案，降低ACOS同时提升销量和排名。
+帮助Amazon卖家优化PPC广告活动，降低ACOS（广告销售成本比），提升关键词排名和自然流量。提供从 campaign创建到优化的完整解决方案。
 
 ## 使用场景
-- 新品冷启动广告
-- 成熟产品优化
-- 旺季促销投放
-- 品牌广告策略
+- 新品上架需要快速获取流量
+- 广告ACOS太高需要优化
+- 想要拓展更多关键词
+- 旺季大促前准备工作
 
 ## 价格
-$89/$179/$399
+$39
 
-## 核心能力
-1. 关键词策略制定
-2. 竞品出价分析
-3. 广告结构优化
-4. ACOS降低技巧
-5. 报表解读和优化
+## 核心功能
+1. 广告活动结构设计（SP/SB/SC）
+2. 关键词策略（长尾词/广泛词/精确词）
+3. 出价优化（动态出价、阶梯出价）
+4. 否定关键词管理
+5. 竞品关键词分析
+6. 广告报告解读（ACOS/ROAS/CTR）
+7. 季节性调整策略
+8. 低预算高回报技巧
 
-## 包含内容
-- 优化Checklist
-- 关键词库
-- 报表模板
+## 适用用户
+Amazon卖家、亚马逊运营专员、电商品牌经理

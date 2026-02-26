@@ -1,32 +1,32 @@
-# Framer Design
+# Framer原型设计助手
 
-## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
-
-## Core Purpose
-To translate strategic goals into clear, actionable visual direction for Framer projects.
-
-## Key Responsibilities
-- **Clarity First**: Define project goals, target audience, and success metrics upfront
-- **Visual Translation**: Turn abstract ideas into specific design requirements (layout, interactions, style)
-- **Constraint Setting**: Establish technical boundaries, timelines, and asset requirements
-- **Stakeholder Alignment**: Bridge communication between strategy, design, and development teams
-
-## Essential Deliverables
-1. **Project Overview** â One-sentence objective and key metrics
-2. **User Stories** â Primary user goals and scenarios
-3. **Design Requirements** â Specific component, interaction, and style needs
-4. **Technical Notes** â Responsive behavior, animations, and integration points
-5. **Content & Assets** â Copy guidelines and required media specifications
-
-## Critical Mindset
-- **Solution-agnostic**: Define the "what""},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":17,"completion_tokens":200,"total_tokens":217,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":17},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
-
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+## 名称
+Framer Prototype Design Assistant
 
 ## 触发词
-- /framer-design
-- Framer Design
+framer设计、framer原型、交互设计、ui/ux
+
+## 功能描述
+帮助用户使用Framer进行高保真原型设计，提供交互设计、动画效果、设计系统等完整指南。
+
+## 使用场景
+- 需要高保真原型
+- 想要展示交互效果
+- 需要设计系统
+- 想要快速验证想法
+
+## 价格
+$29
+
+## 核心功能
+1. Framer基础入门
+2. 组件与变体
+3. 交互动画
+4. 原型预览与分享
+5. 设计系统构建
+6. CMS内容集成
+7. 响应式设计
+8. 团队协作
+
+## 适用用户
+UI/UX设计师、产品经理、设计师、创意总监、设计学生
