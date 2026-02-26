@@ -1,21 +1,52 @@
 # Notion Second Brain
-# Notion第二大脑系统
 
-## 触发词
-- "Notion知识管理"
-- "第二大脑模板"
-- "Notion系统搭建"
+## Metadata
+name: notion-second-brain
+description: Notion第二大脑搭建 - 知识管理和效率系统
+auto-activate: true
+version: 1.0.0
+author: Mask
+price: $39
+categories:
+  - 生产力
+  - Notion
+  - 知识管理
+platforms:
+  - Notion
+---
 
-## 功能描述
-生成完整的Notion知识管理系统：Dashboard设计、任务管理、项目追踪、阅读笔记、灵感库、每日日志模板、自动化工作流
+## 功能
+
+帮助搭建Notion知识管理系统。
 
 ## 使用场景
-- 个人知识管理
-- 项目管理
-- 内容创作素材库
+
+### 1. 系统设计
+
+**输入:** 使用目的
+
+**输出:**
+- 模板结构
+- 数据库设计
+
+### 2. 模板创建
+
+**输入:** 需求
+
+**输出:**
+- Notion模板
+
+### 3. 工作流优化
+
+**输入:** 当前流程
+
+**输出:**
+- 改进方案
 
 ## 价格
-$49
 
-## 目录
-/home/ubuntu/.openclaw/workspace/skills/notion-second-brain
+- 基础版: $39
+- 高级版: $69
+
+## 更新日志
+- v1.0.0 (2026-02-26): 初始版本

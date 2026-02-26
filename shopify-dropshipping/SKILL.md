@@ -1,52 +1,52 @@
-# Shopify Dropshipping SKILL
+# Shopify Dropshipping
+
+## Metadata
+name: shopify-dropshipping
+description: Shopifydropshipping助手 - 无库存电商创业
+auto-activate: true
+version: 1.0.0
+author: Mask
+price: $69
+categories:
+  - Shopify
+  - Dropshipping
+  - 电商
+platforms:
+  - Shopify
+  - AliExpress
+---
 
 ## 功能
-- Shopify代发货业务全指南
-- 从0到1搭建Dropshipping店铺
 
-## 核心能力
-
-### 1. 店铺搭建
-- Shopify开店
-- 主题选择
-- 基本设置
-
-### 2. 选品策略
-- 热门 niches
-- 竞争分析
-- 利润计算
-- 供应商选择
-
-### 3. 产品上架
-- 产品描述优化
-- 图片处理
-- 价格策略
-- SEO设置
-
-### 4. 流量获取
-- Facebook广告
-- TikTok营销
-- 影响者合作
-- 邮件营销
-
-### 5. 运营优化
-- 订单管理
-- 客户服务
-- 退款处理
-- 数据分析
-
-## 触发词
-- "shopify"
-- "dropshipping"
-- "代发货"
-- "无货源"
-- "独立站"
+帮助启动Shopifydropshipping业务。
 
 ## 使用场景
-- 跨境电商创业
-- 副业变现
-- 品牌独立站
 
-## 定价参考
-- 基础版: $39
-- 专业版: $99
+### 1. 选品分析
+
+**输入:** 市场
+
+**输出:**
+- 热门产品
+
+### 2. 店铺设置
+
+**输入:** 产品
+
+**输出:**
+- 店铺配置
+
+### 3. 广告策略
+
+**输入:** 预算
+
+**输出:**
+- 投放方案
+
+## 价格
+
+- 基础版: $69
+- 高级版: $119
+
+## 更新日志
+- v1.0.0 (2026-02-26): 初始版本

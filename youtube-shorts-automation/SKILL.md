@@ -1,53 +1,51 @@
-# YouTube Shorts Automation SKILL
+# YouTube Shorts Automation
+
+## Metadata
+name: youtube-shorts-automation
+description: YouTube Shorts自动化 - 批量创作和增长策略
+auto-activate: true
+version: 1.0.0
+author: Mask
+price: $59
+categories:
+  - YouTube
+  - 短视频
+  - 自动化
+platforms:
+  - YouTube
+---
 
 ## 功能
-- YouTube Shorts自动化创作与发布
-- 短视频流量红利
 
-## 核心能力
-
-### 1. 内容策略
-- 热门选题
-- 趋势分析
-- 观众喜好
-- 差异化内容
-
-### 2. AI创作
-- 脚本生成
-- 语音合成
-- 画面生成
-- 自动剪辑
-
-### 3. 发布优化
-- 标题优化
-- 描述SEO
-- 标签策略
-- 封面设计
-
-### 4. 增长技巧
-- 算法理解
-- 互动引导
-- 评论区运营
-- 订阅引导
-
-### 5. 变现路径
-- Shorts广告分成
-- 引流变现
-- 联盟营销
-- 产品销售
-
-## 触发词
-- "youtube shorts"
-- "短视频"
-- "油管短视频"
-- "shorts"
+帮助自动化YouTube Shorts内容创作。
 
 ## 使用场景
-- YouTube创业
-- 短视频变现
-- 品牌曝光
-- 流量获取
 
-## 定价参考
-- 基础版: $29
-- 专业版: $79
+### 1. 选题策划
+
+**输入:** 领域
+
+**输出:**
+- 热门选题列表
+
+### 2. 脚本生成
+
+**输入:** 选题
+
+**输出:**
+- 短视频脚本
+
+### 3. 增长策略
+
+**输入:** 频道数据
+
+**输出:**
+- 增长方案
+
+## 价格
+
+- 基础版: $59
+- 高级版: $99
+
+## 更新日志
+- v1.0.0 (2026-02-26): 初始版本
