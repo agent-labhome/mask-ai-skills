@@ -1,4 +1,4 @@
-# 加密货币钱包监控助手
+# Crypto Wallet Monitor
 
 ## 名称
 Crypto Wallet Monitor Assistant

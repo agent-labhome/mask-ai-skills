@@ -1,4 +1,4 @@
-# Pinterest营销助手
+# Pinterest Marketing
 
 ## 名称
 Pinterest Marketing Assistant

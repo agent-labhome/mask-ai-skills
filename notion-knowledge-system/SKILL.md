@@ -1,4 +1,4 @@
-# Notion知识管理系统
+# Notion Knowledge System
 
 ## 名称
 Notion Knowledge Management System

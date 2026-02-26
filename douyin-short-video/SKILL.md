@@ -1,4 +1,4 @@
-# 抖音短视频脚本助手
+# Douyin Short Video
 
 ## 名称
 Douyin Short Video Script Assistant

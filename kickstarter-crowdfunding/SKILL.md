@@ -1,4 +1,4 @@
-# Kickstarter众筹文案助手
+# Kickstarter Crowdfunding
 
 ## 名称
 Kickstarter Crowdfunding Copywriting Assistant

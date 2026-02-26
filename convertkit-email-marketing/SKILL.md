@@ -1,4 +1,4 @@
-# ConvertKit邮件营销助手
+# Convertkit Email Marketing
 
 ## 名称
 ConvertKit Email Marketing Assistant

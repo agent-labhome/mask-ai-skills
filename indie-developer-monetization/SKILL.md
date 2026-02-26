@@ -1,4 +1,4 @@
-# 独立开发者变现助手
+# Indie Developer Monetization
 
 ## 名称
 Indie Developer Monetization Guide

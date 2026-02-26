@@ -1,4 +1,4 @@
-# 小红书爆款内容助手
+# Xiaohongshu Viral Content
 
 ## 名称
 Xiaohongshu Viral Content Generator

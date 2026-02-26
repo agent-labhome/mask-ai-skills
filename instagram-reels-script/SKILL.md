@@ -1,4 +1,4 @@
-# Instagram Reels脚本助手
+# Instagram Reels Script
 
 ## 名称
 Instagram Reels Script Assistant

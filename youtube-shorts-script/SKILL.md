@@ -1,4 +1,4 @@
-# YouTube Shorts脚本助手
+# Youtube Shorts Script
 
 ## 名称
 YouTube Shorts Script Assistant

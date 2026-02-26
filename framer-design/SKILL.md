@@ -1,4 +1,4 @@
-# Framer原型设计助手
+# Framer Design
 
 ## 名称
 Framer Prototype Design Assistant
