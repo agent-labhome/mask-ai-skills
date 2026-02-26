@@ -1,57 +1,71 @@
-# Gumroad Product Launch
-
-## Metadata
-name: gumroad-product-launch
-description: Gumroad产品发布助手 - 快速上市和销量优化
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $49
-categories:
-  - 产品发布
-  - Gumroad
-  - 数字产品
-platforms:
-  - Gumroad
----
-
-## 功能
-
-帮助在Gumroad上发布和优化数字产品。
-
-## 使用场景
-
-### 1. 产品包装
-
-**输入:** 产品类型
-
-**输出:**
-- 产品描述
-- 定价策略
-
-### 2. Landing Page优化
-
-**输入:** 产品信息
-
-**输出:**
-- 销售页面文案
-
-### 3. Launch策略
-
-**输入:** 发布时间
-
-**输出:**
-- 推广计划
-
-## 价格
-
-- 基础版: $49
-- 高级版: $89
-
-## 更新日志
-- v1.0.0 (2026-02-26): 初始版本
-
+# Skill: gumroad-product-launch
 
 ## 触发词
-- /gumroad-product-launch
-- Gumroad Product Launch
+- Gumroad产品
+- Gumroad销售
+- 数字产品变现
+
+## 功能描述
+Gumroad数字产品发布和销售：
+- 产品定位
+- 定价策略
+-  Landing Page优化
+- 推广策略
+- 销售漏斗
+
+## 使用场景
+1. 模板/工具销售
+2. 教程/课程
+3. 设计素材
+4. 电子书
+
+## 价格
+$49/$99/$199
+
+## 产品类型
+
+### 高销量产品
+- 模板/清单
+- 提示词集合
+- 社交媒体包
+- 低价: $5-19
+
+### 高收入产品
+- 完整课程
+- 软件/工具
+- 会员订阅
+- 价格: $49-199
+
+## 定价策略
+
+### 定价公式
+- 成本 + 时间 + 价值 = 价格
+- 竞争对手 + 独特性 = 加价
+- 早期支持者 = 折扣
+
+### 价格测试
+- $19 vs $29 vs $39
+- 付费墙效果
+- 套餐组合
+
+## Landing Page
+
+### 核心要素
+- 清晰标题
+- 痛点/解决方案
+- 功能列表
+- 社会证明
+- CTA按钮
+- 保证/风险逆转
+
+### 工具
+- Gumroad内置
+- Carrd
+- Webflow
+
+## 推广渠道
+- Twitter/X
+- LinkedIn
+- Reddit
+- 邮件列表
+- 联盟营销

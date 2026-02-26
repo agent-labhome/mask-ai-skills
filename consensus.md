@@ -1,5 +1,44 @@
 # 自动创建 Skills 记录
 
+## 2026-02-26 批次V5（21个）
+
+### 社媒运营
+1. **twitter-growth-hacker** - Twitter增长黑客 ($49/$99/$199)
+2. **tiktok-account-setup** - TikTok账号搭建 ($49/$99/$199)
+3. **instagram-business** - Instagram商业运营 ($49/$99/$199)
+4. **pinterest-marketing** - Pinterest营销 ($49/$99/$199)
+5. **discord-community-manager** - Discord社区管理 ($49/$99/$199)
+6. **paid-community-builder** - 付费社群搭建 ($49/$99/$199)
+
+### 内容创作
+7. **short-video-viral-generator** - 短视频爆款生成器 ($49/$99/$199)
+8. **content-calendar-planner** - 内容日历规划 ($49/$99/$199)
+9. **blog-monetization** - 博客变现 ($49/$99/$199)
+10. **seo-content-strategy** - SEO内容策略 ($49/$99/$199)
+
+### 电商/变现
+11. **amazon-product-research** - 亚马逊选品研究 ($49/$99/$199)
+12. **shopify-store-setup** - Shopify店铺搭建 ($49/$99/$199)
+13. **affiliate-marketing-system** - 联盟营销系统 ($49/$99/$199)
+14. **gumroad-product-launch** - Gumroad产品发布 ($49/$99/$199)
+
+### 自动化/AI
+15. **mcp-server-developer** - MCP服务器开发 ($49/$99/$199)
+16. **ai-workflow-automation** - AI工作流自动化 ($49/$99/$199)
+17. **notion-ai-automation** - Notion AI自动化 ($49/$99/$199)
+18. **email-marketing-funnel** - 邮件营销漏斗 ($49/$99/$199)
+19. **telegram-bot-monetization** - Telegram机器人变现 ($49/$99/$199)
+20. **whatsapp-business-automation** - WhatsApp Business自动化 ($49/$99/$199)
+
+### 评测/工具
+21. **ai-tool-comparison** - AI工具对比评测 ($49/$99/$199)
+
+### 状态
+- [x] 创建完成
+- [ ] Git push
+
+---
+
 ## 2026-02-25 批次V4（20个）
 
 ### 开发工具类

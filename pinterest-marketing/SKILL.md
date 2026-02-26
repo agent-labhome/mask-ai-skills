@@ -1,32 +1,65 @@
-# Pinterest Marketing
-
-## 名称
-Pinterest Marketing Assistant
+# Skill: pinterest-marketing
 
 ## 触发词
-pinterest营销、pinterest推广、pin图优化、pinterest seo
+- Pinterest营销
+- Pinterest引流
+- Pinterest推广
 
 ## 功能描述
-帮助用户进行Pinterest营销，提供Pin图设计、SEO优化、流量获取等完整策略。
+Pinterest流量获取和营销：
+- 账号设置优化
+- Pin设计技巧
+- 关键词策略
+- 流量分析
+- 变现方式
 
 ## 使用场景
-- 想要获取Pinterest流量
-- 需要电商引流
-- 想要推广博客
-- 想要品牌曝光
+1. 电商引流
+2. 博客流量
+3. 品牌曝光
+4. Affiliate引流
 
 ## 价格
-$19
+$49/$99/$199
 
-## 核心功能
-1. Pinterest账号设置
-2. Pin图设计原则
-3. SEO关键词优化
-4. 板块与分类策略
-5. 自动化工具
-6. 分析与优化
-7. 购物功能
-8. 广告投放
+## 账号优化
 
-## 适用用户
-电商卖家、博客作者、摄影师、创意人士、跨境卖家
+### Profile设置
+- 清晰头像
+- 完整Bio
+- 网站链接
+- 关键词
+
+### Board策略
+- 垂直领域
+- 关键词命名
+- 封面优化
+- 定期更新
+
+## Pin设计
+
+### 图片规格
+- 2:3 比例 (1000x1500)
+- 垂直优先
+- 高清质量
+
+### 设计技巧
+- 文字叠加
+- 品牌元素
+- 清晰CTA
+- A/B测试
+
+## 关键词策略
+
+### 热门领域
+- 家居装饰
+- 时尚穿搭
+- 美食食谱
+- 婚礼策划
+- DIY手工
+- 健身运动
+
+### 工具
+- Pinterest Trends
+- Tailwind
+- PinAlerts
