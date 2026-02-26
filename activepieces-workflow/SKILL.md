@@ -1,4 +1,4 @@
-# Skill: ActivePieces Workflow Automation
+# Activepieces Workflow
 
 ## 触发词
 - "工作流自动化"

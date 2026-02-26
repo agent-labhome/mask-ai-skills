@@ -1,5 +1,10 @@
 # Tome Storytelling
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 定义
 - **名称**: Tome Storytelling
 - **触发词**: tome, ai故事, 演示故事

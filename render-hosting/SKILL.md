@@ -1,4 +1,4 @@
-# render-hosting
+# Render Hosting
 
 **触发词**: Render托管, Render部署, Render PaaS, Web服务托管
 

@@ -1,5 +1,10 @@
 # Cursor Workspace Setup
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 定义
 - **名称**: Cursor Workspace Setup
 - **触发词**: cursor setup, cursor workspace, cursor配置

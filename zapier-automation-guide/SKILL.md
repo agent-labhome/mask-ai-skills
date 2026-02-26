@@ -1,4 +1,4 @@
-# Skill: Zapier自动化工作流
+# Zapier Automation Guide
 
 ## 触发词
 - zapier教程

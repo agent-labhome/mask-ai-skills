@@ -1,4 +1,4 @@
-# Skill: 产品需求文档撰写
+# Product Requirements Document
 
 ## 触发词
 - PRD文档

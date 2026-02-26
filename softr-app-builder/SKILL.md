@@ -1,4 +1,4 @@
-# softr-app-builder
+# Softr App Builder
 
 **触发词**: Softr应用, Airtable前端, 无代码应用, 客户门户
 

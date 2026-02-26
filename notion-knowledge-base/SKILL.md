@@ -1,4 +1,4 @@
-# Skill: Notion搭建个人知识库
+# Notion Knowledge Base
 
 ## 触发词
 - notion知识库

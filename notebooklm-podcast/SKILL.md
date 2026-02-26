@@ -1,4 +1,9 @@
-# NotebookLM Podcast
+# Notebooklm Podcast
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 定义
 - **名称**: NotebookLM Podcast

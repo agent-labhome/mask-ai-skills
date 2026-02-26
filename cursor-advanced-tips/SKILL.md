@@ -1,4 +1,4 @@
-# cursor-advanced-tips
+# Cursor Advanced Tips
 
 **触发词**: Cursor高级技巧, Cursor AI编程, AI IDE优化, 编程效率
 

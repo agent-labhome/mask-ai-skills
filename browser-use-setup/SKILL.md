@@ -1,5 +1,10 @@
 # Browser Use Setup
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 定义
 - **名称**: Browser Use Setup
 - **触发词**: browser use, 浏览器自动化, ai浏览器

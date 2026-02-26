@@ -1,4 +1,4 @@
-# cal-com-automation
+# Cal Com Automation
 
 **触发词**: Cal.com自动化, 日程管理, 预约系统, 日历集成
 

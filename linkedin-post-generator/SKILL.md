@@ -1,27 +1,39 @@
-# Linkedin Post Generator
+# Skill: LinkedIn post generator
 
-## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
+## 定义
+- **名称**: LinkedIn内容生成器
+- **触发词**: linkedin post、领英内容、职场分享、linkedin viral
+- **功能**: 生成专业且有影响力的LinkedIn帖子
+- **使用场景**: 个人品牌建设、B2B营销、职场影响力
+- **价格**: $19
 
-## Purpose
-Generates professional, engaging LinkedIn posts based on your input (topic, key points, tone, and goal). Ideal for thought leadership, announcements, or content sharing.
+## 核心能力
 
-## How to Use
-1.  **Provide Context:** Share your topic, key messages, and target audience.
-2.  **Specify Tone:** Choose from options like *professional*, *conversational*, *inspirational*, or *analytical*.
-3.  **State the Goal:** Is it to *educate*, *announce news*, *promote work*, or *spark discussion*?
-4.  **Review & Customize:** I'll provide a draft with a hook, body, and call-to-action. Edit it to add your personal voice.
+### 1. 内容类型
+- 职业成就分享
+- 行业洞察/观点
+- 学习心得/复盘
+- 团队/公司故事
+- 职场建议
 
-## What I Do Best
-- Craft clear hooks to capture attention.
-- Structure posts for readability (short paragraphs, bullet points).
-- Incorporate relevant hashtags and a strategic call-to"},"logprobs":null,"finish_reason":"length"}],"usage":{"prompt_tokens":21,"completion_tokens":200,"total_tokens":221,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":21},"system_fingerprint":"fp_eaab8d114b_prod0820_fp8_kvcache
+### 2. 结构公式
+- 开头：Hook（数字/问题/争议）
+- 中间：故事+洞察
+- 结尾：互动CTA
 
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+### 3. 风格优化
+- 专业但有温度
+- 个人化叙事
+- 适度自黑/幽默
 
-## 触发词
-- /linkedin-post-generator
-- Linkedin Post Generator
+## 使用格式
+
+输入：
+- 内容主题
+- 想要分享的故事/观点
+- 目标受众
+
+输出：
+- 完整LinkedIn帖子
+- 3个标题选项
+- 热门话题标签建议

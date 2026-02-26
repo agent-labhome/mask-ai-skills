@@ -1,4 +1,4 @@
-# Skill: Discord社区运营指南
+# Discord Community Operation
 
 ## 触发词
 - discord运营

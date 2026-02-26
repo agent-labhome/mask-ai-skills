@@ -1,4 +1,4 @@
-# Skill: Claude Code Project Generator
+# Claude Code Project Generator
 
 ## 触发词
 - "claude项目"

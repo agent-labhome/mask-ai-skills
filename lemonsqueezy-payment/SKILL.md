@@ -1,4 +1,4 @@
-# lemonsqueezy-payment
+# Lemonsqueezy Payment
 
 **触发词**: Lemon Squeezy支付, 数字产品销售, 订阅管理, 支付网关
 

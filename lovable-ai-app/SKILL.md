@@ -1,4 +1,4 @@
-# lovable-ai-app
+# Lovable Ai App
 
 **触发词**: Lovable AI, AI开发平台, GPT Engineer, 应用生成
 

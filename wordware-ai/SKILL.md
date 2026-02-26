@@ -1,4 +1,4 @@
-# wordware-ai
+# Wordware Ai
 
 **触发词**: Wordware AI, AI写作助手, 内容创作平台, AI编辑器
 

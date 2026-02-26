@@ -1,5 +1,10 @@
 # Claude Desktop Setup
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## 定义
 - **名称**: Claude Desktop Setup
 - **触发词**: claude desktop, desktop setup, claude配置

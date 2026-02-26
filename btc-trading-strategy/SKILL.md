@@ -1,4 +1,4 @@
-# Skill: BTC Trading Strategy Builder
+# Btc Trading Strategy
 
 ## 触发词
 - "BTC策略"

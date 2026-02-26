@@ -1,4 +1,4 @@
-# AI App Clone Scripts
+# Ai App Clone Scripts
 
 ## 触发词
 - "AI应用克隆"

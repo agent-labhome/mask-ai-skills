@@ -1,4 +1,9 @@
-# API Integration Workflow Skill
+# Api Integration Workflow
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Description
 Build automated workflows that connect different APIs and services - from simple triggers to complex multi-step integrations.
@@ -137,3 +142,11 @@ async function withRetry(fn, maxAttempts = 3) {
 - Use Redis/Bull for background jobs
 - Prevent API rate limiting
 - Handle failures gracefully
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /api-integration-workflow
+- Api Integration Workflow

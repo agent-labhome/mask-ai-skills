@@ -1,4 +1,4 @@
-# Skill: E2B Code Interpreter Setup
+# E2B Code Interpreter Setup
 
 ## 触发词
 - "E2B设置"

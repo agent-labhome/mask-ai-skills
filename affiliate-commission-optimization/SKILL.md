@@ -1,4 +1,4 @@
-# Skill: 联盟营销佣金优化
+# Affiliate Commission Optimization
 
 ## 触发词
 - 佣金优化

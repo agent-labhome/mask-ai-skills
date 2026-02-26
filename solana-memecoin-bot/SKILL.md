@@ -1,6 +1,11 @@
-# Solana Memecoin Trading Bot
+# Solana Memecoin Bot
 
 构建和运行Solana链上Meme币交易机器人。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心功能
 
@@ -25,3 +30,8 @@
 ## 风险提示
 
 Meme币高风险，仅供研究使用。
+
+
+## 触发词
+- /solana-memecoin-bot
+- Solana Memecoin Bot

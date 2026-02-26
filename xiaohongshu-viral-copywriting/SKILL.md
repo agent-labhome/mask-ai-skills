@@ -1,4 +1,4 @@
-# Skill: 小红书爆款文案生成
+# Xiaohongshu Viral Copywriting
 
 ## 触发词
 - "小红书文案"

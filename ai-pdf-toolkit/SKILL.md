@@ -1,6 +1,11 @@
-# AI PDF Toolkit
+# Ai Pdf Toolkit
 
 _AI-powered PDF creation, editing, and manipulation assistant_
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## When to Use
 
@@ -59,3 +64,11 @@ Use this skill when you need to:
 - Use compression for email-friendly sizes
 - OCR quality depends on original document clarity
 - Form fields need proper naming for data extraction
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /ai-pdf-toolkit
+- Ai Pdf Toolkit

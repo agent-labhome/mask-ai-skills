@@ -1,4 +1,4 @@
-# Voice AI Assistant Development
+# Voice Ai Assistant
 
 ## 触发词
 - "语音AI助手"

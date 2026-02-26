@@ -1,4 +1,9 @@
-# Notion 内容管理系统
+# Notion Content Management
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 架构设计
 
@@ -32,3 +37,11 @@
 - Make (自动化)
 - Buffer (排程)
 - Gumroad (付费内容)
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /notion-content-management
+- Notion Content Management

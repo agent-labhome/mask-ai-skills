@@ -1,4 +1,4 @@
-# Skill: MCP服务器配置助手
+# Mcp Server Setup
 
 ## 触发词
 - mcp配置

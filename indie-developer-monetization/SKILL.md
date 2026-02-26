@@ -1,4 +1,4 @@
-# Skill: 独立开发者变现指南
+# Indie Developer Monetization
 
 ## 触发词
 - 独立开发变现

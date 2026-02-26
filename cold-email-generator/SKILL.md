@@ -1,24 +1,40 @@
-# Cold Email Generator
+# Skill: Cold email template generator
 
-## 触发词
-- cold-email-generator
-- 开发信
-- cold outreach
+## 定义
+- **名称**: 冷邮件模板生成器
+- **触发词**: cold email、开发信、cold outreach、开拓客户
+- **功能**: 生成高回复率的冷邮件模板，适配不同场景
+- **使用场景**: B2B销售、 freelancer获客、招聘cold outreach
+- **价格**: $19
 
-## 功能描述
-Cold Email写作指南：
-- 高打开率主题
-- 个性化模板
-- 跟进策略
-- 送达率优化
+## 核心能力
 
-## 使用场景
-- B2B销售
-- 商务拓展
-- 招聘cold reach
+### 1. 场景识别
+- 产品销售型
+- 服务咨询型
+- 合作邀请型
+- 招聘cold outreach
+- 媒体联系型
 
-## 价格
-$39
+### 2. 邮件结构
+- 个性化钩子（提及对方工作/内容）
+- 价值主张（3句话内）
+- 社会证明
+- 低摩擦CTA
 
-## 目录
-cold-email-generator/
+### 3. A/B测试版本
+- 标题A/B版本
+- 结尾CTA变体
+
+## 使用格式
+
+输入：
+- 目标受众
+- 邮件目的
+- 你的独特卖点
+- 行业背景
+
+输出：
+- 主邮件模板
+- 标题变体
+- 跟进邮件序列

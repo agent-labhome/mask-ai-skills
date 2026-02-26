@@ -1,4 +1,4 @@
-# Skill: AI Podcast Production
+# Ai Podcast Production
 
 ## 触发词
 - "AI播客"

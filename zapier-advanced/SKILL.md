@@ -1,6 +1,11 @@
-# Zapier Advanced Workflows
+# Zapier Advanced
 
 Zapier高级工作流 - 构建复杂自动化。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 高级功能
 
@@ -21,3 +26,11 @@ Zapier高级工作流 - 构建复杂自动化。
 2. 合理使用延迟操作
 3. 优化API调用减少配额
 4. 设置错误处理流程
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /zapier-advanced
+- Zapier Advanced

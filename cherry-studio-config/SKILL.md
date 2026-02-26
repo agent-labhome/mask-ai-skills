@@ -1,4 +1,4 @@
-# Skill: Cherry Studio Configuration
+# Cherry Studio Config
 
 ## 触发词
 - "Cherry Studio"

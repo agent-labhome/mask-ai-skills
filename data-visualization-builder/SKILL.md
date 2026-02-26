@@ -1,4 +1,9 @@
-# Data Visualization Builder Skill
+# Data Visualization Builder
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Description
 Create compelling data visualizations and dashboards - from basic charts to interactive dashboards that tell stories with your data.
@@ -172,3 +177,11 @@ Format:
 | Data Studio | Easy | Low | Free |
 | D3.js | Hard | Very High | Free |
 | Python | Medium | High | Free |
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /data-visualization-builder
+- Data Visualization Builder

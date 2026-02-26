@@ -1,4 +1,4 @@
-# Skill: AI图片生成提示词工程
+# Ai Image Prompt Engineering
 
 ## 触发词
 - ai绘图提示词

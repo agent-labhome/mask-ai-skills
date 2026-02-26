@@ -1,4 +1,4 @@
-# n8n-ai-workflow
+# N8N Ai Workflow
 
 **触发词**: n8n工作流, n8n自动化, n8n AI集成, n8n tutorial
 

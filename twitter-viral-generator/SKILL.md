@@ -1,4 +1,4 @@
-# Skill: Twitter/X病毒式推文生成器
+# Twitter Viral Generator
 
 ## 触发词
 - 推文生成

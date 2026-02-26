@@ -1,4 +1,4 @@
-# Skill: WhatsApp Business Marketing
+# Whatsapp Business Marketing
 
 ## 触发词
 - "WhatsApp营销"

@@ -1,4 +1,4 @@
-# dify-workflow
+# Dify Workflow
 
 **触发词**: Dify工作流, Dify AI, LLM应用开发, AI工作流
 

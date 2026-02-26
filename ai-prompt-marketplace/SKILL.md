@@ -1,4 +1,4 @@
-# AI Prompt Marketplace
+# Ai Prompt Marketplace
 
 ## 触发词
 - "提示词市场"

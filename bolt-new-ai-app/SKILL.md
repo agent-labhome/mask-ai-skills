@@ -1,4 +1,4 @@
-# bolt-new-ai-app
+# Bolt New Ai App
 
 **触发词**: Bolt.new, AI应用生成, 快速开发, AI编程
 

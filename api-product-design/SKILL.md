@@ -1,4 +1,4 @@
-# Skill: API产品设计指南
+# Api Product Design
 
 ## 触发词
 - api设计

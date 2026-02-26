@@ -1,4 +1,4 @@
-# Skill: Instagram Reels涨粉攻略
+# Instagram Reels Growth
 
 ## 触发词
 - instagram涨粉

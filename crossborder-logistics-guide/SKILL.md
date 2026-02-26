@@ -1,4 +1,4 @@
-# Skill: 跨境物流方案选择
+# Crossborder Logistics Guide
 
 ## 触发词
 - 跨境物流

@@ -1,4 +1,4 @@
-# Skill: CopilotKit Integration
+# Copilotkit Integration
 
 ## 触发词
 - "CopilotKit"

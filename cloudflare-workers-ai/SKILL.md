@@ -1,4 +1,9 @@
-# Cloudflare Workers AI
+# Cloudflare Workers Ai
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 定义
 - **名称**: Cloudflare Workers AI

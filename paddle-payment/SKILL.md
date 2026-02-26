@@ -1,4 +1,4 @@
-# paddle-payment
+# Paddle Payment
 
 **触发词**: Paddle支付, 全球支付, SaaS计费, 订阅支付
 

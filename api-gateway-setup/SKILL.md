@@ -1,4 +1,4 @@
-# API Gateway Setup
+# Api Gateway Setup
 
 ## 触发词
 - "API网关配置"

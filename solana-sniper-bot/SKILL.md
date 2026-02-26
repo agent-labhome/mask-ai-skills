@@ -2,6 +2,11 @@
 
 _Monitor and execute trades on Solana DEX with precision_
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## ⚠️ Warning
 
 Trading bots involve significant financial risk. This is for educational purposes only. Always use proper risk management and only trade what you can afford to lose.
@@ -111,3 +116,11 @@ Track these metrics:
 - **Solana FM** - Transaction tracking
 - **Photon** - Trading UI
 - **Bonkbot** - User-friendly trading
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /solana-sniper-bot
+- Solana Sniper Bot

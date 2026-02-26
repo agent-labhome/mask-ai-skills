@@ -1,4 +1,9 @@
-# E-commerce Price Monitoring Skill
+# Price Monitoring Ecommerce
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Description
 Track competitor prices, automatically adjust your pricing, and maximize profits with intelligent price monitoring and repricing strategies.
@@ -141,3 +146,11 @@ Savings/Revenue:
 - MAP violations caught: $200/mo
 
 Net Benefit: $950/mo - $150/mo = $800/mo profit
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /price-monitoring-ecommerce
+- Price Monitoring Ecommerce

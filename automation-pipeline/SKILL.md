@@ -1,6 +1,11 @@
-# Automation Pipeline Designer
+# Automation Pipeline
 
 设计自动化流水线，整合多个工具和服务形成完整工作流。
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 核心功能
 
@@ -22,3 +27,8 @@
 3. 设计数据流向
 4. 确定触发条件和分支逻辑
 5. 实现并测试
+
+
+## 触发词
+- /automation-pipeline
+- Automation Pipeline

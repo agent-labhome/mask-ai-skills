@@ -1,4 +1,4 @@
-# Skill: 副业收入路径规划
+# Side Hustle Planning
 
 ## 触发词
 - 副业规划

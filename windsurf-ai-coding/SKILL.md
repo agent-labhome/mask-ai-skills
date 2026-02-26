@@ -1,4 +1,4 @@
-# windsurf-ai-coding
+# Windsurf Ai Coding
 
 **触发词**: WindSurf, Codeium AI, AI编程助手, 智能IDE
 

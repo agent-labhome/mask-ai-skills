@@ -1,4 +1,4 @@
-# Skill: Gumroad产品调研助手
+# Gumroad Product Research
 
 ## 触发词
 - gumroad调研

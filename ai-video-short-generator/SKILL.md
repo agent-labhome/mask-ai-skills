@@ -1,6 +1,11 @@
-# AI Video Short Generator
+# Ai Video Short Generator
 
 _Create viral short-form videos (TikTok, Reels, YouTube Shorts) with AI_
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## When to Use
 
@@ -74,3 +79,11 @@ Use this skill when you need to:
 - Post consistently (daily)
 - Engage in first hour
 - Repurpose across platforms
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /ai-video-short-generator
+- Ai Video Short Generator

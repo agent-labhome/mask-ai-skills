@@ -1,4 +1,4 @@
-# n8n Automation Workflow
+# N8N Automation Workflow
 
 ## 触发词
 - "n8n自动化"

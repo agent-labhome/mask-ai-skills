@@ -1,4 +1,4 @@
-# Skill: 加密货币钱包安全管理
+# Crypto Wallet Security
 
 ## 触发词
 - 钱包安全

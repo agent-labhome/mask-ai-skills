@@ -1,4 +1,4 @@
-# Skill: TikTok广告投放优化
+# Tiktok Ads Optimization
 
 ## 触发词
 - tiktok广告

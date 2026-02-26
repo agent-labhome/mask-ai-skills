@@ -1,4 +1,4 @@
-# Skill: Cursor AI编程指南
+# Cursor Ai Programming
 
 ## 触发词
 - cursor教程

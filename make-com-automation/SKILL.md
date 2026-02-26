@@ -1,4 +1,4 @@
-# Make.com Automation
+# Make Com Automation
 
 ## 触发词
 - "Make.com自动化"

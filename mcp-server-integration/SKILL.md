@@ -1,4 +1,4 @@
-# Skill: MCP Server Integration
+# Mcp Server Integration
 
 ## 触发词
 - "MCP集成"

@@ -1,6 +1,11 @@
-# Twitter/X Growth Master
+# Twitter Growth Master
 
 _Strategic Twitter account growth and engagement automation_
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## When to Use
 
@@ -74,3 +79,11 @@ Use this skill when you need to:
 - Don't overuse automation (risk of suspension)
 - Authentic engagement beats bot activity
 - Quality over quantity
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /twitter-growth-master
+- Twitter Growth Master

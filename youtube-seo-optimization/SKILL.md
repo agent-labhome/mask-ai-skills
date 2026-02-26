@@ -1,4 +1,4 @@
-# Skill: YouTube SEO Optimization
+# Youtube Seo Optimization
 
 ## 触发词
 - "YouTube优化"

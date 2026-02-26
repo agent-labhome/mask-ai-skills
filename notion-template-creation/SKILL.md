@@ -1,4 +1,4 @@
-# Skill: Notion Template Creation
+# Notion Template Creation
 
 ## 触发词
 - "Notion模板"

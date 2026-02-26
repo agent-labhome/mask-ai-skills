@@ -1,4 +1,4 @@
-# Skill: Crypto Portfolio Rebalancing
+# Crypto Portfolio Rebalancing
 
 ## 触发词
 - "加密组合"

@@ -1,4 +1,4 @@
-# Skill: 跨境电商客服模板
+# Ecommerce Customer Service Templates
 
 ## 触发词
 - 客服模板

@@ -1,4 +1,4 @@
-# Skill: Shopify独立站选品工具
+# Shopify Product Selection
 
 ## 触发词
 - shopify选品
