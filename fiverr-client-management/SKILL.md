@@ -5,6 +5,11 @@
 **Version**: 1.0  
 **Last Updated**: 2026-02-28
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Skills Overview
 
 帮助Fiverr卖家管理客户、沟通、订单交付和售后服务的完整工作流。
@@ -44,3 +49,11 @@
 - Fiverr最新政策变化
 - 时区差异处理(客户可能在不同时区)
 - 英语沟通为主
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /fiverr-client-management
+- Fiverr Client Management

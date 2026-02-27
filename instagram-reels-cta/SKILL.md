@@ -1,22 +1,27 @@
 # Instagram Reels Cta
 
-## 概述
-优化Instagram Reels的行动号召，提升转化率。
+**名称**：Instagram Reels行动号召优化
 
-## 功能
-- CTA位置优化：最大化点击效果
-- 文案撰写：吸引人的行动号召
-- 链接策略：Linktree/网站引导
-- A/B测试建议：不同CTA版本测试
+**触发词**：
+- Instagram Reels
+- Instagram CTA
+- Reels行动号召
 
-## 使用场景
-- 网红营销
-- 电商引流
-- 粉丝增长
+**功能描述**：
+优化Instagram Reels的CTA效果：
+- 高点击率CTA模板
+- 评论区引导技巧
+- 链接优化策略
+- 粉丝转化路径
+- 热门CTA案例分析
 
-## 价格：$9/次
+**使用场景**：
+1. 涨粉目标
+2. 产品推广
+3. 链接点击优化
+4. 私域引流
 
+**价格**：$15
 
-## 触发词
-- /instagram-reels-cta
-- Instagram Reels Cta
+---
+*创建时间：2026-02-28*

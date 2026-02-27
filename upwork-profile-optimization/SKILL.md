@@ -5,6 +5,11 @@
 **Version**: 1.0  
 **Last Updated**: 2026-02-28
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Skills Overview
 
 帮助自由职业者优化Upwork个人资料，提高提案通过率和获得高质量项目。
@@ -47,3 +52,11 @@
 - 定期更新profile
 - 积累早期好评很重要
 - 专注于细分 niche
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /upwork-profile-optimization
+- Upwork Profile Optimization

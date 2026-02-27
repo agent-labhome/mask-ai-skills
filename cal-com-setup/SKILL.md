@@ -1,9 +1,14 @@
-# Cal.com Setup & Optimization
+# Cal Com Setup
 
 **Category**: Productivity > Scheduling > Cal.com  
 **Author**: Mask AI  
 **Version**: 1.0  
 **Last Updated**: 2026-02-28
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Skills Overview
 
@@ -52,3 +57,11 @@
 - 免费版功能足够个人使用
 - 团队版适合公司
 - 自托管选项可用
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /cal-com-setup
+- Cal Com Setup

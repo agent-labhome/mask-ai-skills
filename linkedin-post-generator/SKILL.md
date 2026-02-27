@@ -1,4 +1,4 @@
-# Skill: LinkedIn-Post-Generator
+# Linkedin Post Generator
 
 ## 定义
 生成专业且有影响力的LinkedIn帖子，提升个人品牌影响力。

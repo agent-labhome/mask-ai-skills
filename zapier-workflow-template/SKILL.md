@@ -1,4 +1,4 @@
-# Skill: Zapier-Workflow-Template
+# Zapier Workflow Template
 
 ## 定义
 提供预构建的Zapier工作流模板，快速实现应用自动化。

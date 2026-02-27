@@ -1,4 +1,4 @@
-# Skill: Substack-Newsletter-Optimizer
+# Substack Newsletter Optimizer
 
 ## 定义
 优化Substack Newsletter订阅转化和内容策略。

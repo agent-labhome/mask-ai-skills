@@ -1,57 +1,27 @@
 # Shopify Dropshipping
 
-## Metadata
-name: shopify-dropshipping
-description: Shopifydropshipping助手 - 无库存电商创业
-auto-activate: true
-version: 1.0.0
-author: Mask
-price: $69
-categories:
-  - Shopify
-  - Dropshipping
-  - 电商
-platforms:
-  - Shopify
-  - AliExpress
+**名称**：Shopify Dropshipping选品助手
+
+**触发词**：
+- Shopify开店
+- Shopify dropshipping
+- Shopify一件代发
+
+**功能描述**：
+帮助快速搭建Shopifydropshipping店铺：
+- 热门 niches 推荐
+- 供应商筛选指南
+- 产品上架最佳实践
+- 基础店铺设置
+- 支付和物流配置
+
+**使用场景**：
+1. 首次搭建跨境电商独立站
+2. 寻找低竞争 niche
+3. 快速测试产品市场
+4. 优化店铺转化率
+
+**价格**：$29
+
 ---
-
-## 功能
-
-帮助启动Shopifydropshipping业务。
-
-## 使用场景
-
-### 1. 选品分析
-
-**输入:** 市场
-
-**输出:**
-- 热门产品
-
-### 2. 店铺设置
-
-**输入:** 产品
-
-**输出:**
-- 店铺配置
-
-### 3. 广告策略
-
-**输入:** 预算
-
-**输出:**
-- 投放方案
-
-## 价格
-
-- 基础版: $69
-- 高级版: $119
-
-## 更新日志
-- v1.0.0 (2026-02-26): 初始版本
-
-
-## 触发词
-- /shopify-dropshipping
-- Shopify Dropshipping
+*创建时间：2026-02-28*

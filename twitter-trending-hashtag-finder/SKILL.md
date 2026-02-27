@@ -1,4 +1,4 @@
-# Skill: Twitter-Trending-Hashtag-Finder
+# Twitter Trending Hashtag Finder
 
 ## 定义
 实时监控Twitter/X趋势话题，发现热门标签，提供内容创意灵感。

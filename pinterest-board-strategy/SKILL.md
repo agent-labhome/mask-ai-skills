@@ -1,4 +1,4 @@
-# Skill: Pinterest-Board-Strategy
+# Pinterest Board Strategy
 
 ## 定义
 Pinterest账号运营策略助手，优化Pin设计和Board布局。

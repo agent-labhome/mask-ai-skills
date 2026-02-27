@@ -1,4 +1,4 @@
-# Skill: Discord-Bot-Command-Builder
+# Discord Bot Command Builder
 
 ## 定义
 无代码构建Discord机器人命令，快速实现自动化功能。

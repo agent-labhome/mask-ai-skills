@@ -1,4 +1,4 @@
-# Skill: Podia-Course-Outline-Generator
+# Podia Course Outline Generator
 
 ## 定义
 为在线课程自动生成完整的课程大纲和内容规划。

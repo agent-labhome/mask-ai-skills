@@ -1,4 +1,4 @@
-# Skill: Shopify-SEO-Product-Optimizer
+# Shopify Seo Product Optimizer
 
 ## 定义
 针对Shopify店铺的SEO优化助手，提升产品页面搜索排名和流量。

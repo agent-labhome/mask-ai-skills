@@ -1,4 +1,4 @@
-# Skill: Print-on-Demand-Design-Ideas
+# Print On Demand Design Ideas
 
 ## 定义
 为POD（按需印刷）产品生成创意设计方案。

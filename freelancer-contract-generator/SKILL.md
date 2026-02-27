@@ -1,4 +1,4 @@
-# Skill: Freelancer-Contract-Generator
+# Freelancer Contract Generator
 
 ## 定义
 为自由职业者生成专业合同模板，保护双方权益。

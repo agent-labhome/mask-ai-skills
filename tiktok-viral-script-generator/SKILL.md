@@ -1,4 +1,4 @@
-# Skill: TikTok-Viral-Script-Generator
+# Tiktok Viral Script Generator
 
 ## 定义
 根据话题和目标受众生成TikTok病毒式传播脚本。

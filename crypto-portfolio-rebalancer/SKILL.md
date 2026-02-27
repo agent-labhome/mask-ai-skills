@@ -1,4 +1,4 @@
-# Skill: Crypto-Portfolio-Rebalancer
+# Crypto Portfolio Rebalancer
 
 ## 定义
 加密货币投资组合再平衡工具，自动计算买卖建议。

@@ -5,6 +5,11 @@
 **Version**: 1.0  
 **Last Updated**: 2026-02-28
 
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
+
 ## Skills Overview
 
 帮助使用Beehiiv平台的Newsletter创作者实现订阅者增长、内容优化和变现。
@@ -51,3 +56,11 @@
 - Beehiiv对比Substack/Ghost的优势
 - 双因子认证设置
 - 邮件送达率优化
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /beehiiv-newsletter-growth
+- Beehiiv Newsletter Growth

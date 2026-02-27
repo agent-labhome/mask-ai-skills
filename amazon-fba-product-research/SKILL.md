@@ -1,4 +1,4 @@
-# Skill: Amazon-FBA-Product-Research
+# Amazon Fba Product Research
 
 ## 定义
 亚马逊FBA选品分析工具，识别高潜力产品机会。

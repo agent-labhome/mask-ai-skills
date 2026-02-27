@@ -1,4 +1,4 @@
-# Skill: YouTube-Thumbnail-Designer
+# Youtube Thumbnail Designer
 
 ## 定义
 AI驱动的YouTube缩略图设计助手，生成高点击率设计。

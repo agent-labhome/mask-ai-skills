@@ -1,4 +1,4 @@
-# Skill: Instagram-Story-Analytics
+# Instagram Story Analytics
 
 ## 定义
 分析Instagram Stories表现，提供优化建议提升互动和曝光。

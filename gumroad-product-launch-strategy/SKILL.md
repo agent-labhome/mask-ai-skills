@@ -1,4 +1,4 @@
-# Skill: Gumroad-Product-Launch-Strategy
+# Gumroad Product Launch Strategy
 
 ## 定义
 为数字产品提供完整的Gumroad上架策略，包含定价、描述、优化建议。

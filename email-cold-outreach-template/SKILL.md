@@ -1,4 +1,4 @@
-# Skill: Email-Cold-Outreach-Template
+# Email Cold Outreach Template
 
 ## 定义
 生成针对B2B销售、招聘、合作的冷邮件模板，提升回复率。

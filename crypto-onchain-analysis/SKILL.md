@@ -1,9 +1,14 @@
-# Crypto On-Chain Analysis
+# Crypto Onchain Analysis
 
 **Category**: Crypto > Trading > On-Chain  
 **Author**: Mask AI  
 **Version**: 1.0  
 **Last Updated**: 2026-02-28
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Skills Overview
 
@@ -50,3 +55,11 @@
 - 链上数据滞后性
 - 结合其他分析方法
 - 市场有风险，投资需谨慎
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /crypto-onchain-analysis
+- Crypto Onchain Analysis

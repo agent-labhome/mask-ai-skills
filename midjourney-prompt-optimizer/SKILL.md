@@ -1,4 +1,4 @@
-# Skill: Midjourney-Prompt-Optimizer
+# Midjourney Prompt Optimizer
 
 ## 定义
 优化Midjourney提示词，生成更高质量的AI图像。

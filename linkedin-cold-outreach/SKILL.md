@@ -1,31 +1,27 @@
-# Skill: LinkedIn冷开发信生成器
+# Linkedin Cold Outreach
 
-## 触发词
-- "LinkedIn开发信"
-- "领英cold outreach"
-- "linkedin message"
-- "B2B开发"
+**名称**：LinkedIn B2B开发信助手
 
-## 功能描述
-为B2B跨境卖家生成高效的LinkedIn冷开发信。包含多种开场白模板、价值主张话术、跟进策略、预约会议模板。
+**触发词**：
+- LinkedIn开发信
+- LinkedIn outreach
+- B2B获客
 
-## 使用场景
-1. 开发海外采购商
-2. 寻找分销商
-3. 招聘国际人才
-4. 行业 networking
-5. 合作邀约
-
-## 价格
-$49 | $99 | $199
-
-## 输出示例
-- 冷开发信模板
+**功能描述**：
+生成高效的LinkedIn开发信：
+- 个性化开场白模板
+- 价值主张写作
 - 跟进邮件序列
-- 价值主张话术
 - 拒绝回复处理
-- 预约会议模板
+- 转化率优化技巧
+
+**使用场景**：
+1. B2B销售线索获取
+2. 招商代理招募
+3. 商务合作拓展
+4. 人才招聘
+
+**价格**：$25
 
 ---
-## 使用方法
-运行: /home/ubuntu/.openclaw/workspace/skills/linkedin-cold-outreach/run.sh
+*创建时间：2026-02-28*

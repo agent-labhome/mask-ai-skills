@@ -1,4 +1,4 @@
-# Skill: Notion-Discord-Automation
+# Notion Discord Automation
 
 ## 定义
 自动化协调Notion数据库与Discord频道，实现任务状态同步、提醒推送和团队协作。

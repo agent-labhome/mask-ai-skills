@@ -1,9 +1,14 @@
-# Bolt.new Project Development
+# Bolt New Project
 
 **Category**: AI > No-Code > Bolt.new  
 **Author**: Mask AI  
 **Version**: 1.0  
 **Last Updated**: 2026-02-28
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## Skills Overview
 
@@ -50,3 +55,11 @@
 - 适合快速MVP开发
 - 全栈能力(前端+后端+数据库)
 - 协同编程体验好
+
+
+## 使用场景
+本技能适用于需要帮助的用户，可应用于多种工作场景。
+
+## 触发词
+- /bolt-new-project
+- Bolt New Project
