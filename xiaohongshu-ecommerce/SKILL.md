@@ -1,4 +1,4 @@
-# Skill: xiaohongshu-ecommerce
+# Xiaohongshu Ecommerce
 
 ## 触发词
 - 小红书电商

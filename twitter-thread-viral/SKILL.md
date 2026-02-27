@@ -1,4 +1,4 @@
-# Skill: twitter-thread-viral
+# Twitter Thread Viral
 
 ## 触发词
 - Twitter线程

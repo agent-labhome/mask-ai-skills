@@ -1,4 +1,4 @@
-# Skill: ai-agent-business
+# Ai Agent Business
 
 ## 触发词
 - AI Agent创业

@@ -1,4 +1,4 @@
-# Skill: side-hustle-ideas
+# Side Hustle Ideas
 
 ## 触发词
 - 副业点子

@@ -1,4 +1,4 @@
-# Skill: cold-outreach-templates
+# Cold Outreach Templates
 
 ## 触发词
 - 冷邮件模板

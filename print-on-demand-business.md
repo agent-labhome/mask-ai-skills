@@ -1,19 +1,20 @@
-# Skill: Print-on-Demand创业助手
-
-## 名称
-Print-on-Demand创业助手 (print-on-demand-business)
+# Skill: Print on Demand Business
 
 ## 触发词
-POD创业、打印按需、定制商品、T-shirt设计、Etsy卖货
+- pod创业
+- print-on-demand
+- 定制产品
+- t恤设计
+- 跨境pod
 
 ## 功能描述
-指导Print-on-Demand商业模式全流程：平台选择(Redbubble/Teespring/Merch by Amazon)、设计工具(Canva/Adobe)、产品选品、版权规避、物流配送、定价策略、店铺优化。提供热门 niche分析和利润计算。
+Print-on-Demand创业全流程指南，包括设计、选品、店铺运营、变现策略。涵盖Teespring、Redbubble、Merch by Amazon等平台。
 
 ## 使用场景
-- 想做POD副业但不懂流程
-- 不知道卖什么产品
-- 设计能力有限
-- 想要提高销量
+1. 设计师想要被动收入
+2. 创业者想要低库存模式
+3. 跨境电商想要新渠道
+4. 网红想要周边产品
 
 ## 价格
-¥149/次 | ¥399/月
+$49/$99/$199 (基础/专业/企业)

@@ -1,4 +1,4 @@
-# Skill: newsletter-monetization
+# Newsletter Monetization
 
 ## 触发词
 - Newsletter变现

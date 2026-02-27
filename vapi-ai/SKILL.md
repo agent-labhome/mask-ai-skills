@@ -1,4 +1,4 @@
-# Skill: Vapi AI语音助手
+# Vapi Ai
 
 ## 触发词
 - "vapi"

@@ -1,4 +1,4 @@
-# Skill: Breeze AI社交媒体营销
+# Breeze Ai
 
 ## 触发词
 - "breeze"

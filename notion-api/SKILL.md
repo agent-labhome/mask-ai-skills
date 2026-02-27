@@ -1,4 +1,4 @@
-# Skill: Notion API集成
+# Notion Api
 
 ## 触发词
 - "notion API"

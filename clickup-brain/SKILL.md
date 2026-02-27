@@ -1,4 +1,4 @@
-# Skill: ClickUp AI任务管理
+# Clickup Brain
 
 ## 触发词
 - "clickup"

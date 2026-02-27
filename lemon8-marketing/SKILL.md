@@ -1,4 +1,4 @@
-# Skill: Lemon8营销策略
+# Lemon8 Marketing
 
 ## 触发词
 - "lemon8"

@@ -1,4 +1,4 @@
-# Skill: linkedin-outreach
+# Linkedin Outreach
 
 ## 触发词
 - LinkedIn开发信

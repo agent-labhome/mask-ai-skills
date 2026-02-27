@@ -1,4 +1,4 @@
-# Skill: Cursor AI编程助手
+# Cursor Master
 
 ## 触发词
 - "cursor"

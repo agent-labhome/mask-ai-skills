@@ -1,4 +1,4 @@
-# Skill: etsy-store-setup
+# Etsy Store Setup
 
 ## 触发词
 - Etsy开店

@@ -1,4 +1,4 @@
-# Skill: Gumroad产品优化
+# Gumroad Optimization
 
 ## 触发词
 - "gumroad优化"

@@ -1,4 +1,4 @@
-# Skill: crypto-signal-analysis
+# Crypto Signal Analysis
 
 ## 触发词
 - 加密货币信号

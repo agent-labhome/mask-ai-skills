@@ -1,4 +1,4 @@
-# Skill: Replicate AI模型平台
+# Replicate Api
 
 ## 触发词
 - "replicate"

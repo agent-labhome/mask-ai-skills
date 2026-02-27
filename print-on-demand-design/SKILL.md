@@ -1,4 +1,4 @@
-# Skill: print-on-demand-design
+# Print On Demand Design
 
 ## 触发词
 - POD设计

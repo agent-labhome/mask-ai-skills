@@ -1,4 +1,4 @@
-# Skill: shopify-theme-customization
+# Shopify Theme Customization
 
 ## 触发词
 - Shopify主题

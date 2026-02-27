@@ -1,26 +1,56 @@
-# SKILL: Cursor AI编码助手
-
-## 名称
-Cursor AI编码助手
+# Skill: Cursor AI编程助手
 
 ## 触发词
-- "Cursor怎么用"
-- "AI编程助手"
-- "Cursor教程"
-- "vibe coding"
-- "AI写代码"
+- cursor ai
+- ai编程
+- vibe coding
+- 代码生成
+- 编程助手
 
 ## 功能描述
-提供Cursor AI IDE使用指导，从安装配置到项目实战。包含：基础操作、Prompt技巧、项目搭建、代码调试、版本控制。帮助开发者快速上手AI编程，提升开发效率10倍。
+提供Cursor AI编程深度指导：
+- Cursor安装和配置
+- 项目初始化和设置
+- AI代码生成技巧
+- 代码解释和重构
+- Debug和错误修复
+- 项目架构设计
+- 最佳实践分享
 
 ## 使用场景
-1. 编程新手想快速入门开发
-2. 开发者想提升编码效率
-3. 想学习AI辅助编程的工具
-4. 需要快速搭建项目原型
+- AI辅助编程学习
+- 快速原型开发
+- 代码重构优化
+- 全栈应用开发
 
 ## 价格
-¥99/次 或 $18/次
+$39/$79/$149
 
-## 标签
-Cursor, AI编程, IDE, 开发者工具, 效率, vibe coding
+---
+## 英文版
+# Skill: Cursor AI Coding Assistant
+
+## Triggers
+- cursor ai
+- ai coding
+- vibe coding
+- code generation
+
+## Description
+Provide in-depth Cursor AI programming guidance:
+- Cursor installation and setup
+- Project initialization
+- AI code generation tips
+- Code explanation and refactoring
+- Debug and error fixing
+- Project architecture design
+- Best practices sharing
+
+## Use Cases
+- AI-assisted programming learning
+- Rapid prototype development
+- Code refactoring optimization
+- Full-stack application development
+
+## Price
+$39/$79/$149

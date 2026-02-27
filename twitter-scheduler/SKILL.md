@@ -1,4 +1,4 @@
-# Skill: Twitter定时发布
+# Twitter Scheduler
 
 ## 触发词
 - "twitter定时"

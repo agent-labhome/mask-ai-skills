@@ -1,4 +1,4 @@
-# Skill: Instagram Reels创作
+# Instagram Reels
 
 ## 触发词
 - "instagram reels"

@@ -1,4 +1,4 @@
-# Skill: LinkedIn自动化
+# Linkedin Automation
 
 ## 触发词
 - "linkedin自动化"

@@ -1,4 +1,4 @@
-# Skill: notion-system-builder
+# Notion System Builder
 
 ## 触发词
 - Notion系统

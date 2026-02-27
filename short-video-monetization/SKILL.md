@@ -1,4 +1,4 @@
-# Skill: short-video-monetization
+# Short Video Monetization
 
 ## 触发词
 - 短视频变现

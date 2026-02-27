@@ -1,4 +1,4 @@
-# Skill: Amazon FBA工具
+# Amazon Fba Tool
 
 ## 触发词
 - "amazon fba"

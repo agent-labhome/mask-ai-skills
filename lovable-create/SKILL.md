@@ -1,4 +1,4 @@
-# Skill: Lovable AI应用构建
+# Lovable Create
 
 ## 触发词
 - "lovable"

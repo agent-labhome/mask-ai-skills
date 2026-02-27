@@ -1,4 +1,4 @@
-# Skill: Shopify履约管理
+# Shopify Fulfillment
 
 ## 触发词
 - "shopify履约"

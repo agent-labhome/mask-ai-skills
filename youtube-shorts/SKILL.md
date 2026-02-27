@@ -1,4 +1,4 @@
-# Skill: YouTube Shorts策略
+# Youtube Shorts
 
 ## 触发词
 - "youtube shorts"

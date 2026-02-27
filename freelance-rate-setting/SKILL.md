@@ -1,4 +1,4 @@
-# Skill: freelance-rate-setting
+# Freelance Rate Setting
 
 ## 触发词
 - 自由职业定价

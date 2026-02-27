@@ -1,4 +1,4 @@
-# Skill: Etsy排名优化
+# Etsy Rank Optimizer
 
 ## 触发词
 - "etsy排名"

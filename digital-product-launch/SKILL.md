@@ -1,4 +1,4 @@
-# Skill: digital-product-launch
+# Digital Product Launch
 
 ## 触发词
 - 数字产品发布

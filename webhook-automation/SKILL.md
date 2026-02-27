@@ -1,4 +1,4 @@
-# Skill: webhook-automation
+# Webhook Automation
 
 ## 触发词
 - Webhook设置

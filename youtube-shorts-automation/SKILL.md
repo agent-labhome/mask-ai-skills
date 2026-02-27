@@ -1,4 +1,4 @@
-# Skill: youtube-shorts-automation
+# Youtube Shorts Automation
 
 ## 触发词
 - YouTube Shorts

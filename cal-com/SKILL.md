@@ -1,4 +1,4 @@
-# Skill: Cal.com日程管理
+# Cal Com
 
 ## 触发词
 - "cal.com"

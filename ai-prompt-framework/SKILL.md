@@ -1,4 +1,4 @@
-# Skill: ai-prompt-framework
+# Ai Prompt Framework
 
 ## 触发词
 - AI提示词框架

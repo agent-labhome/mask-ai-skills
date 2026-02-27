@@ -1,4 +1,4 @@
-# Skill: Pipefy流程自动化
+# Pipefy Automation
 
 ## 触发词
 - "pipefy"

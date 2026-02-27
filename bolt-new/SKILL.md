@@ -1,4 +1,4 @@
-# Skill: Bolt.new AI开发平台
+# Bolt New
 
 ## 触发词
 - "bolt.new"
