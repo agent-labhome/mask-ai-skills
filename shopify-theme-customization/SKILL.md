@@ -1,21 +1,36 @@
-# Shopify Theme Customization
+# Skill: shopify-theme-customization
 
 ## 触发词
-- "Shopify主题"
-- "独立站装修"
-- "电商模板"
+- Shopify主题
+- Shopify装修
+- 电商网站设计
+- Shopify定制
 
 ## 功能描述
-帮助用户定制Shopify店铺主题，优化转化率，提高用户体验
+Shopify主题深度定制：Liquid模板修改、CSS样式、页面布局、性能优化、转化率优化、移动端适配。
 
 ## 使用场景
-1. 品牌独立站
-2. 跨境电商
-3. 节日促销
-4. 移动端优化
+1. Shopify店铺装修
+2. 想要独特品牌形象
+3. 转化率优化
+4. 速度优化
 
 ## 价格
-$49/$99/$199
+$49/$99/$199 方案
 
-## 目录
-/home/ubuntu/.openclaw/workspace/skills/shopify-theme-customization/
+## 详细指南
+
+### $49 基础版
+- 主题选择指南
+- 基础设置教程
+- 免费主题推荐
+
+### $99 专业版
+- CSS自定义
+- 页面布局优化
+- 性能提升技巧
+
+### $199 企业版
+- 高级Liquid修改
+- 定制开发指导
+- 完整品牌化方案

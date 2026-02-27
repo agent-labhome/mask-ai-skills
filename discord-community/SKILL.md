@@ -1,21 +1,25 @@
 # Discord Community
-# Discord社区运营
+# Discord社区运营助手
 
 ## 触发词
 - "Discord运营"
-- "社区建设"
-- "付费社群"
+- "discord community"
+- "社群运营"
 
 ## 功能描述
-生成Discord社区运营方案：频道结构设计、机器人配置、社区规则、活跃度提升、付费社群变现、会员权益设计、活动策划
+Discord社区建设与管理：
+- 服务器搭建
+- 频道设计
+- 机器人配置
+- 会员增长
+- 付费社群
+- 活动策划
 
 ## 使用场景
-- 产品社区建设
-- 付费社群运营
-- 用户社区激活
+- 粉丝社群
+- 付费会员
+- 产品社区
+- 学习圈子
 
 ## 价格
-$49
-
-## 目录
-/home/ubuntu/.openclaw/workspace/skills/discord-community
+$49/$99/$199

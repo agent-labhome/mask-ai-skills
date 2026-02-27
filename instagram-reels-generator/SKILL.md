@@ -1,32 +1,24 @@
-# Skill: Instagram Reels脚本生成器
+# Instagram Reels Generator
+# Instagram Reels AI生成助手
 
 ## 触发词
-- "Instagram Reels脚本"
-- "Reels文案"
-- "ins短视频脚本"
-- "ig reels content"
+- "Instagram Reels"
+- "短视频生成"
+- "IG reels"
 
 ## 功能描述
-为跨境电商和内容创作者生成病毒式传播的Instagram Reels短视频脚本。包含开场钩子、脚本结构、热门话题标签建议、发布时间优化。
+帮助创建Instagram Reels内容：
+- AI脚本生成
+- 热门音频推荐
+- 视频剪辑指导
+- Hashtag策略
+- 涨粉策略
 
 ## 使用场景
-1. 电商产品展示视频
-2. 品牌故事讲述
-3. 教程类内容
-4. Behind-the-scenes幕后揭秘
-5. 客户证言视频
-6. 趋势热点跟进
+- 个人品牌打造
+- 网红孵化
+- 电商引流
+- 内容创业
 
 ## 价格
-$49 | $99 | $199
-
-## 输出示例
-- 3种不同风格脚本模板
-- 开场5秒钩子技巧
-- 热门音乐推荐
-- 最佳发布时间表
-- Hashtag策略建议
-
----
-## 使用方法
-运行: /home/ubuntu/.openclaw/workspace/skills/instagram-reels-generator/run.sh
+$49/$99/$199

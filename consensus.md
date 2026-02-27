@@ -1,6 +1,88 @@
 # 自动创建 Skills 记录
 
-## 2026-02-26 批次V5（21个）
+## 2026-02-27 批次V7（20个）- 新兴趋势与变现
+
+### AI/Agent
+1. **manus-ai-agent** - Manus AI Agent ($49/$99/$199)
+2. **deepseek-integration** - DeepSeek AI集成 ($49/$99/$199)
+
+### 小程序/通讯
+3. **telegram-mini-app** - Telegram小程序开发 ($49/$99/$199)
+4. **whatsapp-business-marketing** - WhatsApp商业营销 ($49/$99/$199)
+
+### 本地生活
+5. **local-life-group-buy** - 本地生活团购 ($49/$99/$199)
+
+### 内容平台
+6. **xiaohongshu-matrix** - 小红书矩阵运营 ($49/$99/$199)
+7. **tiktok-full-loop** - TikTok全闭环 ($49/$99/$199)
+
+### 职业/生活
+8. **ai-resume-interview** - AI简历面试 ($49/$99/$199)
+9. **remote-work-setup** - 远程工作配置 ($49/$99/$199)
+10. **digital-nomad** - 数字游民生活 ($49/$99/$199)
+
+### 金融/支付
+11. **cross-border-payment** - 跨境支付解决方案 ($49/$99/$199)
+12. **web3-security-audit** - 区块链安全审计 ($49/$99/$199)
+13. **ai-financial-analysis** - AI财务分析 ($49/$99/$199)
+
+### 内容变现
+14. **podcast-monetization** - 播客变现 ($49/$99/$199)
+15. **youtube-shorts-automation** - YouTube Shorts自动化 ($49/$99/$199)
+
+### B2B/社群
+16. **linkedin-cold-outreach** - LinkedIn开发信 ($49/$99/$199)
+17. **community-subscription** - 付费社群 ($49/$99/$199)
+
+### 联盟营销
+18. **instagram-affiliate** - Ins联盟营销 ($49/$99/$199)
+19. **tiktok-affiliate** - TikTok联盟营销 ($49/$99/$199)
+20. **gumroad-optimization** - Gumroad优化 ($49/$99/$199)
+
+### 状态
+- [x] 创建完成
+- [ ] Git push
+
+---
+
+## 2026-02-27 批次V6（20个）- 热门需求与变现
+
+### 社媒运营
+1. **twitter-bot-builder** - Twitter机器人构建 ($49/$99/$199)
+2. **instagram-reels-generator** - Instagram Reels生成 ($49/$99/$199)
+3. **linkedin-outreach** - LinkedIn B2B开发信 ($49/$99/$199)
+4. **pinterest-business** - Pinterest商业运营 ($49/$99/$199)
+5. **youtube-seo** - YouTube SEO优化 ($49/$99/$199)
+
+### 电商/变现
+6. **amazon-product-research** - 亚马逊产品研究 ($49/$99/$199)
+7. **shopify-theme-customization** - Shopify主题定制 ($49/$99/$199)
+8. **gumroad-product-launch** - Gumroad产品发布 ($49/$99/$199)
+9. **etsy-shop-starter** - Etsy店铺起步 ($49/$99/$199)
+10. **tiktok-shop-setup** - TikTok Shop开设 ($49/$99/$199)
+
+### 自动化/工具
+11. **n8n-workflow-builder** - n8n工作流构建 ($49/$99/$199)
+12. **notion-api-automation** - Notion API自动化 ($49/$99/$199)
+13. **stripe-subscription** - Stripe订阅支付 ($49/$99/$199)
+14. **email-marketing-campaign** - 邮件营销活动 ($49/$99/$199)
+15. **cold-email-template** - 冷邮件模板 ($49/$99/$199)
+
+### 内容创作
+16. **midjourney-prompt-library** - Midjourney提示词库 ($49/$99/$199)
+17. **video-editing-capcut** - CapCut视频剪辑 ($49/$99/$199)
+18. **discord-community** - Discord社区运营 ($49/$99/$199)
+
+### 其他
+19. **seo-audit-tool** - SEO审计工具 ($49/$99/$199)
+20. **crypto-portfolio-tracker** - 加密货币组合追踪 ($49/$99/$199)
+
+### 状态
+- [x] 创建完成
+- [ ] Git push
+
+---
 
 ### 社媒运营
 1. **twitter-growth-hacker** - Twitter增长黑客 ($49/$99/$199)
