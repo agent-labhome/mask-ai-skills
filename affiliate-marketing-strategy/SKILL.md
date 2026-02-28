@@ -1,28 +1,25 @@
-# Affiliate Marketing Strategy
-
-## 名称
-联盟营销策略
+# Skill: Affiliate Marketing Strategy
 
 ## 触发词
-- /affiliate-marketing
-- 联盟营销
-- Affiliate策略
+- "联盟营销策略"
+- "Affiliate Marketing"
+- "推广链接优化"
 
 ## 功能描述
-制定完整的联盟营销策略，包括平台选择、产品筛选、内容创建和佣金优化。
+制定联盟营销增长策略：
+- 平台选择建议
+- 产品推广策略
+- 内容营销技巧
+- SEO优化指南
+- 佣金优化方案
 
 ## 使用场景
-1. 想做affiliate赚钱
-2. 优化现有收入
-3. 选择产品困惑
-4. 内容转化低
+- 副业收入增长
+- 跨境联盟营销
+- 内容变现
 
 ## 价格
-$49/$99/$199
+$49 | $99 | $199
 
-## 核心功能
-- 平台对比分析
-- 产品筛选标准
-- 内容策略模板
-- 流量获取渠道
-- 佣金优化技巧
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/affiliate-marketing-strategy/

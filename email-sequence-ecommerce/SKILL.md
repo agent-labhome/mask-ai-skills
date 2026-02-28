@@ -1,25 +1,25 @@
-# Email Sequence Ecommerce
+# Skill: Email Sequence for Ecommerce
 
 ## 触发词
 - "电商邮件序列"
-- "ecommerce email"
-- "邮件营销自动化"
-- "abandoned cart email"
+- "邮件自动化模板"
+- "Shopify邮件营销"
 
 ## 功能描述
-电商邮件营销序列模板，包括欢迎邮件、购物车挽回、复购激活、节日促销等场景。
+创建高效的电商邮件营销序列：
+- 欢迎邮件序列
+- 购物车挽回邮件
+- 购买后跟进邮件
+- 复购激励邮件
+- 退订挽回策略
 
 ## 使用场景
-1. 新客转化
-2. 购物车挽回
-3. 复购激活
-4. 节日大促
+- Shopify店铺运营
+- 独立站邮件营销
+- 客户生命周期管理
 
 ## 价格
-$49/$99/$199
+$49 | $99 | $199
 
-## 核心内容
-- 邮件模板库
-- 发送时间优化
-- A/B测试方案
-- 效果追踪表
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/email-sequence-ecommerce/

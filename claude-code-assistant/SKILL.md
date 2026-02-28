@@ -1,19 +1,17 @@
-# Claude Code Assistant
+# Skill: Claude Code Assistant
 
-**触发词**: claude-code, cursor替代, AI编程助手
+**触发词**: claude-code, ccoder, claude-dev
 
-## 功能描述
-提供Claude Code环境配置、项目初始化、自动化编程任务、代码审查等支持。帮助开发者从Cursor/VSCode迁移或并行使用。
+**功能描述**: 
+Claude Code编程助手，提供代码审查、调试、重构建议。支持多种编程语言和框架的智能编程辅助。
 
-## 使用场景
-- 新项目使用Claude Code启动
-- 配置.claude/settings.json
-- 编写MCP协议指令
-- 自动化代码重构
+**使用场景**:
+- 代码审查和优化建议
+- Bug调试和修复
+- 重构现有代码库
+- 学习新技术栈
 
-## 价格: $49/$99/$199
+**价格**: $49
 
-## 核心指令示例
-- "配置Claude Code项目"
-- "用Claude Code初始化React项目"
-- "编写MCP工具"
+---
+**自动创建于**: 2026-03-01

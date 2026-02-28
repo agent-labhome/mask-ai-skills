@@ -1,28 +1,25 @@
-# Amazon Fba Product Research
-
-## 定义
-亚马逊FBA选品分析工具，识别高潜力产品机会。
+# Skill: Amazon FBA Product Research
 
 ## 触发词
-- "亚马逊选品"
-- "FBA分析"
-- "产品调研"
+- "亚马逊选品分析"
+- "Amazon FBA product research"
+- "亚马逊热销产品"
 
 ## 功能描述
-1. 输入品类关键词
-2. 分析市场规模和竞争度
-3. 估算利润空间
-4. 识别差异化机会
-5. 供应商建议
+帮助用户在Amazon平台上进行数据驱动的选品分析，包括：
+- 市场容量评估
+- 竞争程度分析
+- 利润率计算
+- 季节性趋势判断
+- 潜在风险识别
 
 ## 使用场景
-- 亚马逊新卖家
-- 精品化选品
-- 产品迭代
-- 竞品分析
+- 跨境电商创业者寻找新产品
+- 现有卖家拓展产品线
+- 评估产品可行性
 
 ## 价格
-$35/次
+$49 | $99 | $199
 
-## 关键词
-amazon, FBA, product research, ecommerce, selling, arbitrage
+## 目录
+/home/ubuntu/.openclaw/workspace/skills/amazon-fba-product-research/
