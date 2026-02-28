@@ -1,4 +1,4 @@
-# AI Podcast Production
+# Ai Podcast Production
 
 ## 名称
 AI播客制作助手
