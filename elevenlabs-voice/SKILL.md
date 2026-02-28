@@ -1,27 +1,20 @@
 # Elevenlabs Voice
+- name: elevenlabs-voice
+- trigger: elevenlabs, 语音合成, AI配音, TTS, 语音生成
+- description: ElevenLabs语音合成 - 超逼真AI配音，支持28种语言，多种音色选择，适合视频、播客、有声书
+- scenarios: 
+  - 视频配音
+  - 播客制作
+  - 有声书
+  - 游戏配音
+  - 广告旁白
+- price: $99
+- category: Voice AI
 
-## 触发词
-- "语音克隆"
-- "AI配音"
-- "ElevenLabs"
-- "语音合成"
-
-## 功能描述
-ElevenLabs提供业界领先的AI语音合成和语音克隆服务，支持多语言、多音色。
 
 ## 使用场景
-1. AI语音克隆
-2. 有声书制作
-3. 视频配音
-4. 播客AI主持人
-5. 多语言配音
+本技能适用于需要帮助的用户，可应用于多种工作场景。
 
-## 价格
-$49 / $99 / $199
-
-## 核心指令
-- ElevenLabs账号设置
-- 语音克隆流程
-- API集成开发
-- 声音设计优化
-- 商业授权说明
+## 触发词
+- /elevenlabs-voice
+- Elevenlabs Voice

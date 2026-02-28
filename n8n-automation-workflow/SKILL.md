@@ -1,26 +1,20 @@
 # N8N Automation Workflow
+- name: n8n-automation-workflow
+- trigger: n8n, 自动化工作流, workflow automation, 流程自动化
+- description: n8n自动化工作流 - 开源工作流自动化工具，连接1000+应用，创建复杂自动化流程
+- scenarios: 
+  - 业务自动化
+  - 数据同步
+  - 通知提醒
+  - 定时任务
+  - 跨平台集成
+- price: $79
+- category: Automation
 
-## 触发词
-- "n8n自动化"
-- "创建n8n工作流"
-- "n8n workflow setup"
-- "n8n集成"
-
-## 功能描述
-提供专业的n8n工作流模板和定制服务，帮助企业实现业务流程自动化。
 
 ## 使用场景
-1. 自动化营销流程
-2. 数据同步和ETL
-3. 定时任务自动化
-4. 多应用集成
+本技能适用于需要帮助的用户，可应用于多种工作场景。
 
-## 价格
-$29/$69/$149
-
-## 包含内容
-- 预构建工作流模板
-- 节点配置指南
-- 错误处理方案
-- 性能优化建议
-- 部署教程
+## 触发词
+- /n8n-automation-workflow
+- N8N Automation Workflow

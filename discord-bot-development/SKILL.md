@@ -2,25 +2,26 @@
 
 ## 触发词
 - "Discord机器人"
-- "开发Discord bot"
-- "Discord bot development"
-- "Discord服务器管理"
+- "DC机器人"
+- "服务器bot"
 
 ## 功能描述
-提供Discord机器人开发服务，打造活跃的社区互动体验。
+构建Discord机器人：
+- Developer Portal设置
+- intents和权限
+- 事件处理
+- 命令系统
+- 嵌入消息
+- 语音频道
 
 ## 使用场景
-1. 社区管理自动化
-2. 游戏服务器机器人
-3. 内容审核系统
-4. 互动娱乐bot
+- 社区管理
+- 娱乐机器人
+- 工具集成
+- 付费社群
 
 ## 价格
-$39/$89/$149
+$49
 
-## 包含内容
-- Bot框架选择
-- 命令系统设计
-- API集成
-- 部署教程
-- 示例代码
+## 目录
+skills/social/discord-bot-development/

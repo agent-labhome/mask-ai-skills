@@ -1,28 +1,20 @@
 # Make Automation
+- name: make-automation
+- trigger: make, make.com, 自动化, 集成工具, integration
+- description: Make(原Integromat)自动化平台 - 可视化工作流自动化，连接任意应用，创建复杂自动化场景
+- scenarios: 
+  - 营销自动化
+  - 数据处理
+  - 客户管理
+  - 社交媒体管理
+  - 电商同步
+- price: $79
+- category: Automation
 
-## 触发词
-- "Make自动化"
-- "Integromat"
-- "工作流编排"
-
-## 功能描述
-Make(原Integromat)是强大可视化自动化平台，支持1000+应用集成，适合复杂业务逻辑和高级场景。
 
 ## 使用场景
-1. 电商自动化
-2. 营销自动化
-3. 数据处理
-4. 内容分发
-5. CRM同步
+本技能适用于需要帮助的用户，可应用于多种工作场景。
 
-## 价格
-免费版：每月1000操作
-专业版：$9/月起
-
-## 链接
-https://make.com
-
-## 变现方式
-- 自动化咨询（$500-5000/项目）
-- 场景开发（$200-2000/场景）
-- 企业方案（$5000-50000/项目）
+## 触发词
+- /make-automation
+- Make Automation
