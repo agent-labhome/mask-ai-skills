@@ -1,24 +1,69 @@
 # Claude Code Agent
-- name: claude-code-agent
-- trigger: claude code, anthropic code, AI编程, 代码agent
-- description: Claude Code编程助手 - Anthropic推出的AI编程agent，支持终端命令执行、代码编辑、项目管理
-- scenarios: 
-  - 代码开发
-  - 项目管理
-  - Bug修复
-  - 自动化脚本
-- price: $99
-- category: AI Developer Tools
 
+_AI驱动的自动化编程助手_
 
-## 功能
-- 自动执行任务
-- 提供专业建议
-- 生成优化方案
+## 概述
 
-## 使用场景
-本技能适用于需要帮助的用户，可应用于多种工作场景。
+Claude Code是Anthropic推出的AI编程代理，可以自主执行复杂编程任务。
 
-## 触发词
-- /claude-code-agent
-- Claude Code Agent
+## 核心能力
+
+- 代码生成和补全
+- 项目架构设计
+- Bug修复
+- 测试编写
+- 文档生成
+- Git操作自动化
+
+## 安装
+
+```bash
+npm install -g @anthropic-ai/claude-code
+claude configure
+```
+
+## 使用方式
+
+```bash
+# 交互式
+claude
+
+# 指定任务
+claude --task "修复登录bug"
+
+# 读取文件
+claude --file src/auth.py
+```
+
+## 配置
+
+创建 `~/.claude/settings.json`:
+
+```json
+{
+  "model": "claude-sonnet-4-20250514",
+  "maxTokens": 4000,
+  "tools": ["Read", "Write", "Bash", "grep", "glob"]
+}
+```
+
+## 工作流
+
+1. 分析任务需求
+2. 制定执行计划
+3. 执行代码操作
+4. 运行测试验证
+5. 提交更改
+
+## 最佳实践
+
+- 明确任务边界
+- 审查自动生成的代码
+- 保持版本控制
+- 分阶段执行复杂任务
+
+## 相关Skills
+
+- ai-agent-developer
+- github-actions
+- git-workflow

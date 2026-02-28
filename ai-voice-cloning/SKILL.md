@@ -1,53 +1,23 @@
-# Ai Voice Cloning
+# Skill Name
 
-## 功能
-- AI语音克隆与合成
-- 打造个人AI声音
+_One-line description of what this skill does_
 
-## 核心能力
+## When to Use
 
-### 1. 语音克隆
-- ElevenLabs
-- Respeecher
-- Voice.ai
-- Coqui
+- Use case 1
+- Use case 2
 
-### 2. 声音训练
-- 样本采集
-- 模型训练
-- 质量优化
-- 多语言
+## Instructions
 
-### 3. 应用场景
-- 播客配音
-- 视频旁白
-- 有声书
-- 语音助手
+[Instructions for using this skill]
 
-### 4. 商业变现
-- 配音服务
-- 有声内容
-- 课程配音
-- 广告配音
+## Examples
 
-### 5. 技术集成
-- API接入
-- SDK集成
-- 工作流
-- 自动化
+```
+[Example usage]
+```
 
-## 触发词
-- "ai语音"
-- "语音克隆"
-- "ai配音"
-- "声音合成"
+## Tips
 
-## 使用场景
-- 内容创作
-- 配音服务
-- 有声书
-- 多语言内容
-
-## 定价参考
-- 基础版: $29
-- 专业版: $79
+- Tip 1
+- Tip 2
