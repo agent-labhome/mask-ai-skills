@@ -1,4 +1,9 @@
-# E2B 企业级AI Agents安全环境
+# E2B Secure Coding
+
+## 功能
+- 自动执行任务
+- 提供专业建议
+- 生成优化方案
 
 ## 描述
 
@@ -69,3 +74,8 @@ sandbox.close()
 - Kubernetes
 - LangChain
 - AutoGPT
+
+
+## 触发词
+- /e2b-secure-coding
+- E2B Secure Coding
