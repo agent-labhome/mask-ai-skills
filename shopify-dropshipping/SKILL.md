@@ -1,27 +1,28 @@
 # Shopify Dropshipping
 
-**名称**：Shopify Dropshipping选品助手
+## 触发词
+- "Shopifydropshipping"
+- "无货源电商"
+- "一件代发"
 
-**触发词**：
-- Shopify开店
-- Shopify dropshipping
-- Shopify一件代发
+## 功能描述
+Shopify+dropshipping模式，无需库存即可开店。通过速卖通/1688采购，Shopify销售，赚取差价。
 
-**功能描述**：
-帮助快速搭建Shopifydropshipping店铺：
-- 热门 niches 推荐
-- 供应商筛选指南
-- 产品上架最佳实践
-- 基础店铺设置
-- 支付和物流配置
+## 使用场景
+1. 跨境电商创业
+2. 副业收入
+3. 测试产品
+4. 品牌独立站
+5. 社交电商
 
-**使用场景**：
-1. 首次搭建跨境电商独立站
-2. 寻找低竞争 niche
-3. 快速测试产品市场
-4. 优化店铺转化率
+## 价格
+Shopify：$29/月起
+Dropshipping工具：$19-99/月
 
-**价格**：$29
+## 链接
+https://www.shopify.com
 
----
-*创建时间：2026-02-28*
+## 变现方式
+- 电商代运营（$500-5000/月）
+- 产品调研（$100-500/产品）
+- 店铺搭建（$500-3000/店铺）
